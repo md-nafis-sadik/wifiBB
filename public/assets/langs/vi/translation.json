@@ -1,0 +1,2243 @@
+{
+  "buttonText": {
+    "buyNow": "Mua ngay",
+    "findOutMore": "Tìm hiểu thêm",
+    "search": "Tìm kiếm",
+    "seeDetails": "Xem chi tiết",
+    "aboutUs": "Về chúng tôi",
+    "howItWorks": "Cách thức hoạt động",
+    "downloadApp": "Tải ứng dụng",
+    "loadMore": "Tải thêm",
+    "submit": "Gửi",
+    "getInTouch": "Liên hệ với chúng tôi",
+    "exploreProducts": "Khám phá sản phẩm",
+    "contactUs": "Liên hệ chúng tôi",
+    "enquireNow": "Hỏi ngay",
+    "viewMore": "Xem thêm",
+    "viewSimESim": "Xem SIM/eSIM",
+    "viewSteps": "Xem các bước",
+    "rentADeviceNow": "Thuê thiết bị ngay",
+    "rental": "Thuê",
+    "topUp": "Nạp tiền",
+    "previous": "Trước",
+    "next": "Tiếp theo",
+    "addACountry": "Thêm quốc gia",
+    "viewLocations": "Xem vị trí",
+    "sim": "SIM",
+    "eSim": "eSIM",
+    "homeorAddress": "Nhà/Địa chỉ",
+    "hotel": "Khách sạn",
+    "saveAddress": "Lưu địa chỉ",
+    "buyPocketWifi": "Mua Pocket Wifi",
+    "dropOffLocations": "Địa điểm trả lại",
+    "login": "Đăng nhập",
+    "logout": "Đăng xuất",
+    "continue": "Tiếp tục",
+    "verify": "Xác minh"
+  },
+  "extraText": {
+    "from": "Từ",
+    "selectCountry": "Chọn quốc gia",
+    "corporate": "Doanh nghiệp",
+    "more": "Thêm",
+    "unlimitedData": "Dữ liệu không giới hạn",
+    "day": "ngày",
+    "endingIn": "Kết thúc trong",
+    "countryCoverage": "Phạm vi quốc gia",
+    "country": "Quốc gia",
+    "selectPackage": "*Chọn gói cước trước",
+    "information": "Thông tin",
+    "service": "Dịch vụ",
+    "dataSize": "Dung lượng dữ liệu",
+    "selectDevice": "Chọn thiết bị",
+    "selectDeviceToTopUp": "Chọn thiết bị để nạp tiền",
+    "wifiDevices": "Thiết bị Wifi",
+    "planSummary": "Tóm tắt gói cước",
+    "chosenPlan": "Gói cước đã chọn",
+    "dataAvailable": "Dữ liệu có sẵn",
+    "startDate": "Ngày bắt đầu",
+    "quantity": "Số lượng",
+    "totalAmount": "Tổng số tiền",
+    "simType": "Loại SIM",
+    "chooseNoOfDays": "Chọn số ngày",
+    "noOfSimESim": "Số lượng SIM/eSIM",
+    "selectShippingOption": "Chọn phương thức giao hàng",
+    "selectLocation": "Chọn địa điểm",
+    "deliveryAddress": "Địa chỉ giao hàng",
+    "addAddress": "Thêm địa chỉ",
+    "addNewAddress": "Thêm địa chỉ mới",
+    "addressDetails": "Chi tiết địa chỉ",
+    "noCountriesFoundInThisRegion": "Không tìm thấy quốc gia nào trong khu vực này",
+    "searchAnything": "Tìm kiếm bất cứ thứ gì...",
+    "filters": "Bộ lọc",
+    "noOfRentalDevices": "Số lượng thiết bị thuê"
+  },
+  "form": {
+    "startDate": "Ngày bắt đầu",
+    "endDate": "Ngày kết thúc",
+    "pickADate": "Chọn ngày",
+    "selectCountry": "Chọn quốc gia",
+    "country": "Quốc gia",
+    "fullName": "Họ và tên",
+    "enterNameHere": "Nhập tên tại đây",
+    "phoneNumber": "Số điện thoại",
+    "enterNumber": "Nhập số điện thoại",
+    "state": "Tỉnh",
+    "selectState": "Chọn quốc gia",
+    "address": "Địa chỉ",
+    "enterFullAddress": "Nhập địa chỉ đầy đủ",
+    "apartment": "Căn hộ/Tầng/Đơn vị/Suite v.v.",
+    "enterApartmentDetails": "Nhập chi tiết căn hộ/tầng/đơn vị/suite",
+    "province": "Tỉnh",
+    "enterProvince": "Nhập tỉnh",
+    "postalCode": "Mã bưu điện",
+    "enterPostalCode": "Nhập mã bưu điện",
+    "addCreditDebit": "Thêm thẻ tín dụng/thẻ ghi nợ",
+    "cardholderName": "Tên chủ thẻ*",
+    "cardholderNamePlaceholder": "Nhập họ và tên đầy đủ",
+    "cardNumber": "Số thẻ*",
+    "cardNumberPlaceholder": "Nhập số thẻ",
+    "cvcCvv": "CVC/CVV2*",
+    "cvcCvvPlaceholder": "Nhập mã CVC",
+    "expiryDate": "Ngày hết hạn",
+    "expiryDatePlaceholder": "MM/YY"
+  },
+  "notFound": {
+    "noPackage": "Không tìm thấy gói cước cho tìm kiếm của bạn"
+  },
+  "navbar": {
+    "forYoo": "Dành cho Yoo",
+    "commercial": [
+      {
+        "name": "Trang chủ"
+      },
+      {
+        "name": "Pocket WIFI"
+      },
+      {
+        "name": "Router"
+      },
+      {
+        "name": "SIM/eSIM"
+      },
+      {
+        "name": "Liên hệ chúng tôi"
+      },
+      {
+        "name": "Về chúng tôi"
+      }
+    ],
+    "corporate": [
+      {
+        "name": "Iot"
+      },
+      {
+        "name": "Khách sạn"
+      },
+      {
+        "name": "Đại lý du lịch"
+      },
+      {
+        "name": "Internet hàng hải"
+      },
+      {
+        "name": "Sự kiện văn phòng/roadshow"
+      },
+      {
+        "name": "Về chúng tôi"
+      },
+      {
+        "name": "Doanh nghiệp"
+      }
+    ],
+    "megamenu": {
+      "menuText": "Khác",
+      "menuItems": [
+        {
+          "title": "Dữ liệu du lịch",
+          "items": ["Chi tiết Pocket Wifi", "Chi tiết SIM/eSIM"]
+        },
+        {
+          "title": "Phạm vi quốc gia",
+          "items": ["Châu Á", "Châu Âu", "Châu Mỹ", "Châu Úc", "Châu Phi"]
+        },
+        {
+          "title": "Địa điểm nhận/trả lại",
+          "items": ["Địa điểm nhận", "Địa điểm trả lại"]
+        },
+        {
+          "title": "Cách thức hoạt động",
+          "items": [
+            "Thuê Pocket Wifi Yoowifi",
+            "Trả lại đơn giản trong chưa đầy một phút",
+            "Tạo chuyến đi mới hoặc nạp dữ liệu"
+          ]
+        },
+        {
+          "title": "Liên kết",
+          "items": [
+            "Tham gia Chương trình Liên kết Yoowifi Yoo Wander",
+            "Liên hệ ngay!"
+          ]
+        },
+        {
+          "title": "Hướng dẫn",
+          "items": ["Cài đặt eSIM", "Cách kết nối Pocketwifi?"]
+        }
+      ]
+    }
+  },
+  "heroHome": {
+    "heroConnected": {
+      "stayConnected": "Giữ Kết Nối",
+      "anyTimeAnyWhere": "Bất Cứ Khi Nào, Bất Cứ Nơi Đâu",
+      "seamlessConnectivity": "Kết Nối Mượt Mà"
+    },
+    "heroTravel": {
+      "travelCompanion": "NGƯỜI BẠN ĐỒNG HÀNH #1 CỦA BẠN"
+    },
+    "heroDiscover": {
+      "discover": "GIỚI THIỆU WIFI POCKET MỚI CỦA CHÚNG TÔI"
+    },
+    "slides": [
+      {
+        "title": "NHANH HƠN",
+        "subTitle": "Kết nối 5G",
+        "description": "Kết nối 5G đến hơn 90 quốc gia"
+      },
+      {
+        "title": "KÉO DÀI",
+        "subTitle": "TUỔI THỌ PIN",
+        "description": "Tuổi thọ pin kéo dài lên đến 20 giờ."
+      },
+      {
+        "title": "BAO GỒM",
+        "subTitle": "MÀN HÌNH HIỂN THỊ",
+        "description": "Bây giờ bạn có thể theo dõi mức sử dụng dữ liệu, kết nối dễ dàng và truy cập thêm thông tin mà không gặp rắc rối."
+      }
+    ]
+  },
+  "productsData": {
+    "title": "Sản Phẩm Của Chúng Tôi",
+    "cardData": [
+      {
+        "title": "Pocket WIFI",
+        "description": "Giữ kết nối mọi lúc mọi nơi với Pocket WIFI tốc độ cao của chúng tôi. Hoàn hảo cho du lịch và làm việc từ xa.",
+        "offer": "GIẢM GIÁ 50%"
+      },
+      {
+        "title": "Router",
+        "description": "Trải nghiệm kết nối internet mượt mà và đáng tin cậy tại nhà với router tiên tiến của chúng tôi.",
+        "offer": "GIẢM GIÁ 30%"
+      },
+      {
+        "title": "SIM/eSIM",
+        "description": "Nhận kết nối ngay lập tức với SIM và eSIM của chúng tôi, phù hợp với tất cả các thiết bị của bạn.",
+        "offer": "GIẢM GIÁ 20%"
+      }
+    ]
+  },
+  "getYourOwn": {
+    "title": "Nhận Yoowifi Pocket WiFi của riêng bạn",
+    "features": [
+      "Phủ sóng hàng năm ở hơn 90 quốc gia",
+      "Chia sẻ tối đa 8 thiết bị",
+      "Kết nối lên tới 5G",
+      "Có thể nạp thêm dữ liệu",
+      "Chọn từ các gói dữ liệu 50GB, 100GB hoặc 200GB"
+    ]
+  },
+  "internetPackages": {
+    "sectionHeading": "Gói Cước Internet",
+    "sectionSubHeading": "Khám Phá Các Gói Cước Internet Phù Hợp Với Nhu Cầu Của Bạn",
+    "searchPlaceholder": "Tìm kiếm quốc gia.."
+  },
+  "whyYooWifi": {
+    "sectionHeading": "Tại Sao Chọn Yoowifi?",
+    "servicesData": [
+      {
+        "title": "Giữ Kết Nối Mọi Nơi"
+      },
+      {
+        "title": "Tiết Kiệm LỚN Khi Roaming Quốc Tế"
+      },
+      {
+        "title": "Đảm Bảo Giá Cả Không Thể Cạnh Tranh"
+      }
+    ]
+  },
+  "stayConnectedRegions": {
+    "sectionHeading": "Giữ Kết Nối Mọi Nơi",
+    "sectionSubHeading": "Chọn Điểm Đến Mơ Ước và Gói Cước Phù Hợp Ngay Bây Giờ",
+    "regions": ["Châu Á", "Châu Mỹ", "Châu Phi", "Châu Úc", "Châu Âu"]
+  },
+  "customerTestimonial": {
+    "sectionHeading": "Khách Hàng Nói Gì Về Chúng Tôi",
+    "sectionSubHeading": "Khám Phá những gì khách hàng quý giá của chúng tôi nói về trải nghiệm của họ với dịch vụ của chúng tôi",
+    "testimonials": [
+      {
+        "description": "Việc sử dụng dịch vụ eSIM này trong sáu tháng qua đã hoàn toàn thay đổi cách chúng tôi quản lý kết nối cho các dự án của mình!",
+        "author": "Sarah Johnson",
+        "designation": "Giám Đốc Điều Hành, TechWave Solutions"
+      },
+      {
+        "description": "Nền tảng này đã thay đổi cuộc chơi cho các dự án quốc tế của chúng tôi, giúp việc kết nối trở nên dễ dàng hơn mà không gặp phải các vấn đề thường xuyên.",
+        "author": "Michael Lee",
+        "designation": "Quản Lý Dự Án, GlobalConnect"
+      },
+      {
+        "description": "Sự dễ sử dụng và linh hoạt mà dịch vụ này mang lại đã giúp chúng tôi tập trung vào những gì quan trọng nhất—công việc của chúng tôi!",
+        "author": "Emily Davis",
+        "designation": "Giám Đốc Điều Hành, Innovatech"
+      },
+      {
+        "description": "Chúng tôi đã tiết kiệm chi phí đáng kể kể từ khi chuyển sang giải pháp eSIM này. Đây là một lựa chọn thông minh cho bất kỳ doanh nghiệp nào làm việc toàn cầu.",
+        "author": "James Taylor",
+        "designation": "Giám Đốc Tài Chính, FinEdge"
+      },
+      {
+        "description": "Kết nối đáng tin cậy là rất quan trọng đối với chúng tôi, và dịch vụ này đã vượt xa mong đợi của chúng tôi. Rất đáng được khuyến nghị!",
+        "author": "Sophia Martinez",
+        "designation": "Trưởng Phòng Hoạt Động, TransLogix"
+      }
+    ]
+  },
+  "howItWorks": {
+    "sectionHeading": "Giữ Kết Nối Mọi Nơi, Mọi Lúc",
+    "sectionSubHeading": "Khám phá những gì khách hàng quý giá của chúng tôi nói về trải nghiệm với dịch vụ của chúng tôi",
+    "howItWorksData": [
+      {
+        "title": "Cách Thuê",
+        "description": "Giữ kết nối với Yoowifi chỉ trong 3 bước đơn giản! Tải ứng dụng, chọn điểm đến và chọn gói dịch vụ phù hợp với nhu cầu của bạn."
+      },
+      {
+        "title": "Cách Trả Lại",
+        "description": "Chọn hình thức trả lại dễ dàng với việc gửi tại Singpost hoặc đến các địa điểm trên đảo để sử dụng dịch vụ không rắc rối."
+      },
+      {
+        "title": "Địa Điểm Lấy & Trả",
+        "description": "Với hơn 20 địa điểm lấy và trả thiết bị, chúng tôi giúp bạn dễ dàng nhận thiết bị wifi di động và giữ kết nối mà không gặp bất kỳ rắc rối nào."
+      }
+    ]
+  },
+  "collaborateMarquee": {
+    "sectionHeading": "Các Nhà Vận Hành Chúng Tôi Hợp Tác"
+  },
+  "downloadYooWifi": {
+    "downloadText": "Tải về",
+    "ctaText": "Tính năng nâng cao cho trải nghiệm số dễ dàng mọi lúc, mọi nơi!"
+  },
+  "country": {
+    "packages": [
+      {
+        "name": "Australia-Portable Hotspot",
+        "title": "Gói Cơ Bản",
+        "details": [
+          {
+            "title": "Mô Tả",
+            "info": "BASIC Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ với SGD$2.90/ngày\n\n****************HOẶC****************\nSUPER Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ với SGD$2.90/ngày"
+          },
+          {
+            "title": "Thông Tin",
+            "info": "BASIC Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ với SGD$2.90/ngày\n\n****************HOẶC****************\nSUPER Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ với SGD$2.90/ngày"
+          },
+          {
+            "title": "Điều Khoản & Điều Kiện",
+            "info": "BASIC Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ với SGD$2.90/ngày\n\n****************HOẶC****************\nSUPER Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ với SGD$2.90/ngày"
+          }
+        ],
+        "features": [
+          "Giữ Thiết Bị Yoowifi",
+          "Chỉ Gói Nạp Lại",
+          "Hiệu Lực 365 Ngày",
+          "Bao Gồm 90 Quốc Gia"
+        ]
+      },
+      {
+        "name": "Albania-Portable Hotspot",
+        "title": "Gói Du Lịch",
+        "details": [
+          {
+            "title": "Mô Tả",
+            "info": "BASIC Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ với SGD$2.90/ngày\n\n****************HOẶC****************\nSUPER Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ với SGD$2.90/ngày"
+          },
+          {
+            "title": "Thông Tin",
+            "info": "BASIC Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ với SGD$2.90/ngày\n\n****************HOẶC****************\nSUPER Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ với SGD$2.90/ngày"
+          },
+          {
+            "title": "Điều Khoản & Điều Kiện",
+            "info": "BASIC Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ với SGD$2.90/ngày\n\n****************HOẶC****************\nSUPER Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ với SGD$2.90/ngày"
+          }
+        ],
+        "features": [
+          "Giữ Thiết Bị Yoowifi",
+          "Chỉ Gói Nạp Lại",
+          "Hiệu Lực 365 Ngày",
+          "Bao Gồm 90 Quốc Gia"
+        ]
+      },
+      {
+        "name": "Pháp - Wifi Cầm Tay",
+        "title": "Gói Mở Rộng",
+        "details": [
+          {
+            "title": "Mô Tả",
+            "info": "BASIC Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ với SGD$2.90/ngày\n\n****************HOẶC****************\nSUPER Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ với SGD$2.90/ngày"
+          },
+          {
+            "title": "Thông Tin",
+            "info": "BASIC Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ với SGD$2.90/ngày\n\n****************HOẶC****************\nSUPER Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ với SGD$2.90/ngày"
+          },
+          {
+            "title": "Điều Khoản & Điều Kiện",
+            "info": "BASIC Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ với SGD$2.90/ngày\n\n****************HOẶC****************\nSUPER Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ với SGD$2.90/ngày"
+          }
+        ],
+        "features": [
+          "Giữ Thiết Bị Yoowifi",
+          "Chỉ Gói Nạp Lại",
+          "Hiệu Lực 365 Ngày",
+          "Bao Gồm 90 Quốc Gia"
+        ]
+      },
+      {
+        "name": "Hy Lạp-Điểm phát Wi-Fi Di Động",
+        "plan": "basic-daypass",
+        "title": "Gói Không Giới Hạn",
+        "features": [
+          "Giữ Thiết Bị Yoowifi",
+          "Chỉ Gói Nạp Thêm",
+          "Thời Gian Hợp Lệ 365 Ngày",
+          "Phủ Sóng 90 Quốc Gia"
+        ],
+        "category": "hàng ngày",
+        "desc": "GB",
+        "coverage": [
+          "Algeria",
+          "Anguilla",
+          "Antigua và Barbuda",
+          "Argentina",
+          "Aruba",
+          "Azerbaijan",
+          "Bolivia",
+          "Brazil",
+          "Quần đảo Virgin của Anh",
+          "Chile",
+          "Colombia",
+          "Costa Rica"
+        ],
+        "details": [
+          {
+            "title": "Mô Tả",
+            "info": "BASIC Daypass\n- Thưởng thức Tự Do Dữ Liệu Không Giới Hạn\n- 1GB tốc độ cao mỗi ngày\n- Giá chỉ từ SGD$2.90/ngày\n\n****************HOẶC****************\nSUPER Daypass\n- Thưởng thức Tự Do Dữ Liệu Không Giới Hạn\n- 1GB tốc độ cao mỗi ngày\n- Giá chỉ từ SGD$2.90/ngày"
+          },
+          {
+            "title": "Thông Tin",
+            "info": "BASIC Daypass\n- Thưởng thức Tự Do Dữ Liệu Không Giới Hạn\n- 1GB tốc độ cao mỗi ngày\n- Giá chỉ từ SGD$2.90/ngày\n\n****************HOẶC****************\nSUPER Daypass\n- Thưởng thức Tự Do Dữ Liệu Không Giới Hạn\n- 1GB tốc độ cao mỗi ngày\n- Giá chỉ từ SGD$2.90/ngày"
+          },
+          {
+            "title": "Điều Khoản & Điều Kiện",
+            "info": "BASIC Daypass\n- Thưởng thức Tự Do Dữ Liệu Không Giới Hạn\n- 1GB tốc độ cao mỗi ngày\n- Giá chỉ từ SGD$2.90/ngày\n\n****************HOẶC****************\nSUPER Daypass\n- Thưởng thức Tự Do Dữ Liệu Không Giới Hạn\n- 1GB tốc độ cao mỗi ngày\n- Giá chỉ từ SGD$2.90/ngày"
+          }
+        ]
+      },
+      {
+        "name": "Ireland-Điểm phát Wi-Fi Di Động",
+        "plan": "5gb-7days",
+        "title": "Gói Lite",
+        "features": [
+          "Giữ Thiết Bị Yoowifi",
+          "Chỉ Gói Nạp Thêm",
+          "Thời Gian Hợp Lệ 180 Ngày",
+          "Phủ Sóng 60 Quốc Gia"
+        ],
+        "category": "hàng tháng",
+        "desc": "GB",
+        "coverage": [
+          "Algeria",
+          "Anguilla",
+          "Antigua và Barbuda",
+          "Argentina",
+          "Aruba",
+          "Azerbaijan",
+          "Bolivia",
+          "Brazil",
+          "Quần đảo Virgin của Anh",
+          "Chile",
+          "Colombia",
+          "Costa Rica"
+        ],
+        "details": [
+          {
+            "title": "Mô Tả",
+            "info": "BASIC Daypass\n- Thưởng thức Tự Do Dữ Liệu Không Giới Hạn\n- 1GB tốc độ cao mỗi ngày\n- Giá chỉ từ SGD$2.90/ngày\n\n****************HOẶC****************\nSUPER Daypass\n- Thưởng thức Tự Do Dữ Liệu Không Giới Hạn\n- 1GB tốc độ cao mỗi ngày\n- Giá chỉ từ SGD$2.90/ngày"
+          },
+          {
+            "title": "Thông Tin",
+            "info": "BASIC Daypass\n- Thưởng thức Tự Do Dữ Liệu Không Giới Hạn\n- 1GB tốc độ cao mỗi ngày\n- Giá chỉ từ SGD$2.90/ngày\n\n****************HOẶC****************\nSUPER Daypass\n- Thưởng thức Tự Do Dữ Liệu Không Giới Hạn\n- 1GB tốc độ cao mỗi ngày\n- Giá chỉ từ SGD$2.90/ngày"
+          },
+          {
+            "title": "Điều Khoản & Điều Kiện",
+            "info": "BASIC Daypass\n- Thưởng thức Tự Do Dữ Liệu Không Giới Hạn\n- 1GB tốc độ cao mỗi ngày\n- Giá chỉ từ SGD$2.90/ngày\n\n****************HOẶC****************\nSUPER Daypass\n- Thưởng thức Tự Do Dữ Liệu Không Giới Hạn\n- 1GB tốc độ cao mỗi ngày\n- Giá chỉ từ SGD$2.90/ngày"
+          }
+        ]
+      },
+      {
+        "name": "Đức - Pocket Wifi",
+        "plan": "20gb-20ngày",
+        "title": "Gói Dịch Vụ Doanh Nghiệp",
+        "features": [
+          "Giữ thiết bị Yoowifi",
+          "Chỉ có gói nạp tiền",
+          "Hiệu lực 365 ngày",
+          "Hỗ trợ ưu tiên",
+          "Phủ sóng 100 quốc gia"
+        ],
+        "category": "khối lượng",
+        "desc": "GB",
+        "coverage": [
+          "Algérie",
+          "Anguilla",
+          "Antigua và Barbuda",
+          "Argentina",
+          "Aruba",
+          "Azerbaijan",
+          "Bolivia",
+          "Brazil",
+          "Quần đảo Virgin thuộc Anh",
+          "Chile",
+          "Colombia",
+          "Costa Rica"
+        ],
+        "details": [
+          {
+            "title": "Mô Tả",
+            "info": "BASIC Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ từ SGD$2.90/ngày\n\n****************HOẶC****************\nSUPER Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ từ SGD$2.90/ngày"
+          },
+          {
+            "title": "Thông Tin",
+            "info": "BASIC Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ từ SGD$2.90/ngày\n\n****************HOẶC****************\nSUPER Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ từ SGD$2.90/ngày"
+          },
+          {
+            "title": "Điều Khoản & Điều Kiện",
+            "info": "BASIC Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ từ SGD$2.90/ngày\n\n****************HOẶC****************\nSUPER Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ từ SGD$2.90/ngày"
+          }
+        ]
+      },
+      {
+        "name": "Thụy Điển - Pocket Wifi",
+        "plan": "20gb-20ngày",
+        "title": "Gói Dịch Vụ Doanh Nghiệp",
+        "features": [
+          "Giữ thiết bị Yoowifi",
+          "Chỉ có gói nạp tiền",
+          "Hiệu lực 365 ngày",
+          "Hỗ trợ ưu tiên",
+          "Phủ sóng 100 quốc gia"
+        ],
+        "category": "khối lượng",
+        "desc": "GB",
+        "coverage": [
+          "Algérie",
+          "Anguilla",
+          "Antigua và Barbuda",
+          "Argentina",
+          "Aruba",
+          "Azerbaijan",
+          "Bolivia",
+          "Brazil",
+          "Quần đảo Virgin thuộc Anh",
+          "Chile",
+          "Colombia",
+          "Costa Rica"
+        ],
+        "details": [
+          {
+            "title": "Mô Tả",
+            "info": "BASIC Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ từ SGD$2.90/ngày\n\n****************HOẶC****************\nSUPER Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ từ SGD$2.90/ngày"
+          },
+          {
+            "title": "Thông Tin",
+            "info": "BASIC Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ từ SGD$2.90/ngày\n\n****************HOẶC****************\nSUPER Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ từ SGD$2.90/ngày"
+          },
+          {
+            "title": "Điều Khoản & Điều Kiện",
+            "info": "BASIC Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ từ SGD$2.90/ngày\n\n****************HOẶC****************\nSUPER Daypass\n- Tận hưởng tự do dữ liệu không giới hạn\n- 1GB tốc độ cao mỗi ngày\n- Chỉ từ SGD$2.90/ngày"
+          }
+        ]
+      }
+    ]
+  },
+  "pocketWifi": {
+    "product": {
+      "name": "Pocket Wifi",
+      "description": "Thiết bị Pocket Wifi Yoowifi cung cấp truy cập internet nhanh chóng và đáng tin cậy bất cứ nơi đâu bạn đến. Hoàn hảo cho những người du lịch và làm việc từ xa, nó cho phép bạn kết nối lên đến 8 thiết bị cùng lúc. Yoowifi cung cấp nhiều gói dữ liệu phù hợp với nhu cầu của bạn, dù bạn đi chơi cuối tuần hay du lịch dài ngày. Với phạm vi phủ sóng ở nhiều quốc gia, đây là người bạn đồng hành lý tưởng khi đi du lịch.",
+      "features": [
+        "Giữ Kết Nối Mọi Nơi",
+        "Tiết Kiệm LỚN Khi Roaming Quốc Tế",
+        "Cam Kết Giá Cả Không Thể Đánh Bại"
+      ],
+      "buttons": {
+        "text": "Xem Gói Cước",
+        "text2": "Nhận Pocket Wifi"
+      },
+      "tabs": [
+        {
+          "title": "Mô Tả",
+          "content": "Nó dễ sử dụng và có thiết kế gọn gàng, tối giản. Chỉ cần bật lên, kết nối thiết bị của bạn, và bạn đã sẵn sàng! Không cần lo lắng về các quy trình cài đặt phức tạp hay thiết bị cồng kềnh. Nhưng đó chưa phải là tất cả – các thiết bị Pocket WiFi của chúng tôi còn cung cấp kết nối mạnh mẽ và đáng tin cậy, đảm bảo bạn luôn giữ kết nối bất kể bạn ở đâu. Dù bạn đang đi công tác hay đi du lịch cùng gia đình, bạn có thể tận hưởng internet tốc độ cao mà không bị gián đoạn."
+        },
+        {
+          "title": "Thông Số Kỹ Thuật",
+          "content": "CPU: SC8310LTE-FDD: Các băng tần 1 / 2 / 3 / 4 / 5 / 7 / 8 / 12 / 13 / 17 / 18 / 20 / 25 / 26 / 28 / 66\nLTE-TDD: Các băng tần 34 / 38 / 39 / 40 / 41 (194M)\nWCDMA: Các băng tần 1 / 2 / 4 / 5 / 8\nTD-SCDMA: Không có CDMA: Không có\nEVDO: Không có\nGSM: 850 / 900 / 1800 / 1900\nTốc độ tối đa: Tải xuống 150Mbps / Tải lên 50Mbps\nWi-Fi: 2.4GHz 802.11 b / g / n 1T1R\nKết nối WiFi tối đa: 8\nPin: 3000mAh\nCổng: USB Type-C\nInput: 5V – 1A\nKích thước sản phẩm: 120mm x 64.6mm x 12mm\nTrọng lượng sản phẩm: 112g\nChất liệu vỏ: Nhựa"
+        },
+        {
+          "title": "Bao Gồm Những Gì",
+          "content": "50GB dữ liệu toàn cầu áp dụng cho 90 quốc gia.\nTốc độ dịch vụ phụ thuộc vào đối tác mạng di động.\nPhí hủy đơn hàng là 10% giá trị đơn hàng.\nĐiều khoản và điều kiện chung áp dụng.\nYoowifi có quyền thay đổi bất cứ lúc nào."
+        },
+        {
+          "title": "Điều Khoản & Điều Kiện",
+          "content": "Albania, Andorra, Armenia, Australia, Austria, Bahrain, Bangladesh, Belgium, Bosnia và Herzegovina, Brunei, Bulgaria, Cambodia, Canada, China, Croatia, Cyprus, Czech Republic, Denmark, Egypt, Estonia, Finland, France, Georgia, Germany, Gibraltar, Greece, Guernsey, Hong Kong, Hungary, Iceland, India, Indonesia, Ireland, Isle of Man, Israel, Italy, Japan, Jersey, Jordan, Kazakhstan, Kuwait, Laos, Latvia, Liechtenstein Lithuania, Luxembourg, Macau, Macedonia, Malaysia, Malta, Mexico, Monaco, Montenegro, Myanmar, Netherlands, New Zealand, Norway, Oman, Pakistan, Philippines, Poland, Portugal, Qatar, Reunion, Romania, Russia, San Marino, Saudi Arabia, Serbia, Slovakia, Slovenia, South Korea, Spain, Sri Lanka, Sweden, Switzerland, Taiwan, Thailand, Turkey, UAE, Ukraine, United Kingdom, USA, Uzbekistan, Vatican, Vietnam"
+        }
+      ]
+    },
+    "features": {
+      "heading": "Các Tính Năng Chính",
+      "subHeading": "Đừng để internet chậm làm bạn gián đoạn! Chuyển sang các giải pháp di động của chúng tôi để trải nghiệm kết nối không giới hạn.",
+      "featureList": [
+        "Tốc Độ Lên Đến 4G LTE",
+        "Tùy Chọn Dữ Liệu Linh Hoạt",
+        "Công Nghệ Cloud SIM",
+        "Chia Sẻ Tới 8 Thiết Bị",
+        "Thời Lượng Pin 12 Giờ"
+      ]
+    },
+    "aboutUs": [
+      {
+        "_id": 1,
+        "title": "Giải Pháp Doanh Nghiệp",
+        "content": "Kết nối internet đáng tin cậy và an toàn cho doanh nghiệp di động, với các giải pháp linh hoạt và hiệu quả giúp tích hợp mượt mà và vận hành suôn sẻ ở bất kỳ đâu."
+      },
+      {
+        "_id": 2,
+        "title": "Quan Hệ Đối Tác",
+        "content": "Các mối quan hệ đối tác của chúng tôi được xây dựng trên nền tảng tin cậy và hợp tác, làm việc cùng nhau để thúc đẩy đổi mới, mở rộng cơ hội và tạo ra thành công chung."
+      },
+      {
+        "_id": 3,
+        "title": "Giải Pháp Tùy Chỉnh",
+        "content": "Khám phá các giải pháp tùy chỉnh của chúng tôi được thiết kế để đáp ứng nhu cầu độc đáo của bạn. Chúng tôi làm việc chặt chẽ với bạn để thiết kế các dịch vụ sáng tạo, linh hoạt giúp đạt được thành công và nâng cao kết quả kinh doanh."
+      }
+    ],
+    "services": [
+      {
+        "_id": 1,
+        "title": "Phạm Vi Toàn Cầu",
+        "content": "Giữ kết nối ở 160 quốc gia, dù hành trình của bạn đưa bạn đến đâu với dịch vụ wifi du lịch Yoowifi."
+      },
+      {
+        "_id": 2,
+        "title": "Mạng Lưới Đa Kết Nối",
+        "content": "Đảm bảo kết nối liên tục với mạng lưới đa kết nối của chúng tôi, cung cấp nhiều kết nối để tăng cường độ tin cậy và hiệu suất."
+      },
+      {
+        "_id": 3,
+        "title": "Dịch Vụ Không Cần Chạm",
+        "content": "Cổng dịch vụ đám mây của chúng tôi cấu hình trước và triển khai dịch vụ cho kết nối không cần chạm, yêu cầu chuyên môn kỹ thuật tại chỗ."
+      },
+      {
+        "_id": 4,
+        "title": "Dịch Vụ Tiết Kiệm Chi Phí",
+        "content": "Tận hưởng dịch vụ chất lượng cao với giá cả cạnh tranh, được thiết kế để mang lại giá trị tối đa trong khi vẫn tiết kiệm chi phí."
+      },
+      {
+        "_id": 5,
+        "title": "Cổng Quản Lý",
+        "content": "Cổng quản lý của chúng tôi cung cấp nền tảng dễ sử dụng để kiểm soát và giám sát mượt mà, giúp bạn quản lý dịch vụ một cách hiệu quả."
+      },
+      {
+        "_id": 6,
+        "title": "Tùy Chỉnh Ứng Dụng",
+        "content": "Tùy chỉnh ứng dụng của bạn cho trải nghiệm cá nhân hóa, phù hợp với thương hiệu và mục tiêu của bạn."
+      }
+    ],
+    "whatWeDo": [
+      {
+        "_id": 1,
+        "title": "Kế Hoạch Liên Tục Kinh Doanh",
+        "content": "Yoowifi cung cấp giải pháp công nghệ cung cấp nền tảng mạnh mẽ và dư thừa để giữ cho doanh nghiệp của bạn kết nối và tiếp tục hoạt động mặc dù có những bất định."
+      },
+      {
+        "_id": 2,
+        "title": "Kết Nối Trên Xe",
+        "content": "Yoowifi cung cấp băng thông cần thiết để truyền tải và nhận dữ liệu, dù dữ liệu đang được truyền tải trong nước hay xuyên biên giới."
+      },
+      {
+        "_id": 3,
+        "title": "Làm Việc Từ Xa",
+        "content": "Giải pháp làm việc từ xa của chúng tôi đảm bảo kết nối liên tục, cho phép các nhóm cộng tác hiệu quả và duy trì năng suất, bất kể vị trí."
+      },
+      {
+        "_id": 4,
+        "title": "Kết Nối Cho Sự Kiện",
+        "content": "Đảm bảo trải nghiệm sự kiện hoàn hảo với các giải pháp kết nối đáng tin cậy của chúng tôi, cung cấp internet nhanh chóng, bảo mật giúp sự kiện của bạn diễn ra suôn sẻ."
+      }
+    ],
+    "stayConnectedYourWay": {
+      "heading": "Giữ Kết Nối Theo Cách Của Bạn",
+      "subHeading": "Mua hoặc thuê thiết bị với sự linh hoạt để phù hợp với nhu cầu kết nối của bạn. Chọn giữa việc sở hữu một giải pháp lâu dài hoặc thuê cho việc sử dụng ngắn hạn, đảm bảo bạn có kết nối đáng tin cậy bất cứ khi nào bạn cần.",
+      "ways": [
+        {
+          "title": "Mua Thiết Bị Của Bạn",
+          "description": "Mua một thiết bị để kết nối đáng tin cậy lâu dài mỗi khi bạn cần."
+        },
+        {
+          "title": "Thuê Thiết Bị",
+          "description": "Truy cập kết nối đáng tin cậy khi bạn cần với các lựa chọn thuê thiết bị linh hoạt, ngắn hạn—lý tưởng cho các chuyến đi, sự kiện hoặc sử dụng tạm thời."
+        }
+      ]
+    },
+    "whatsIncluded": {
+      "heading": "Những Gì Được Bao Gồm",
+      "subHeading": "Tất Cả Những Gì Bạn Cần Cho Kết Nối Mượt Mà",
+      "includedList": {
+        "chargingCable": "x1 Dây Sạc",
+        "devicePouch": "x1 Túi Đựng Thiết Bị",
+        "howToOperate": "Cách Sử Dụng",
+        "powerOn": "Bật Nguồn",
+        "powerOff": "Tắt Nguồn",
+        "pressNote": "Nhấn nút nguồn trong 3 giây"
+      }
+    },
+    "ledIndicators": {
+      "heading": "Đèn LED Chỉ Báo Pin",
+      "subHeading": "Dễ Dàng Theo Dõi Tình Trạng Pin Của Thiết Bị",
+      "content": {
+        "capacity": {
+          "title": "Dung Lượng Pin Được Hiển Thị Bằng Màu Sắc Khác Nhau",
+          "description": "Lorem Ipsum chỉ là văn bản giả của ngành in ấn và set chữ. Lorem Ipsum chỉ là"
+        },
+        "charging": {
+          "title": "Đang Sạc",
+          "description": "Lorem Ipsum chỉ là văn bản giả của ngành in ấn và set chữ. Lorem Ipsum chỉ là"
+        },
+        "support": "*Vui lòng liên hệ bộ phận hỗ trợ khách hàng của chúng tôi qua email hello@yoowifi.com hoặc WhatsApp chúng tôi tại (65) 6100 9998",
+        "systemUpdateNote": "**Tất cả các chỉ báo nhấp nháy có nghĩa là đang cập nhật phần mềm hệ thống**"
+      }
+    },
+    "howToConnect": {
+      "heading": "Cách Kết Nối Pocketwifi?",
+      "subHeading": "Kết Nối Dễ Dàng Với Pocket WiFi Chỉ Với Một Vài Bước Đơn Giản",
+      "steps": [
+        {
+          "title": "Bật Pocket WiFi",
+          "description": "Nhấn nút nguồn để bật và chờ nó kết nối với mạng."
+        },
+        {
+          "title": "Tìm Tên Mạng WiFi",
+          "description": "Kiểm tra màn hình của thiết bị để tìm tên mạng WiFi (SSID)."
+        },
+        {
+          "title": "Kết Nối Với WiFi",
+          "description": "Trên điện thoại, máy tính bảng hoặc laptop của bạn, mở cài đặt WiFi, chọn SSID, nhập mật khẩu hiển thị trên thiết bị, và bạn sẽ được kết nối với internet."
+        }
+      ]
+    },
+    "howToReturn": {
+      "heading": "Cách Trả Thiết Bị?",
+      "subHeading": "Làm theo các bước dễ dàng của chúng tôi để đảm bảo trải nghiệm trả thiết bị không gặp rắc rối.",
+      "cardData": [
+        {
+          "title": "Singpost Drop-Off",
+          "description": "Khi bạn thuê thiết bị, một nhãn trả trước sẽ được bao gồm trong gói. Bạn có thể sử dụng nhãn này để gửi thiết bị lại dễ dàng. Sau khi trả, bạn sẽ nhận được email xác nhận khi quá trình trả được xử lý."
+        },
+        {
+          "title": "Các Điểm Trả Thiết Bị",
+          "description": "Với Yoowifi, bạn có thể dễ dàng lấy thiết bị tại bất kỳ địa điểm chỉ định nào của chúng tôi và trả lại tại một trong hơn 30 điểm trả tiện lợi trên toàn đảo. Quá trình này giúp bạn trải nghiệm đơn giản, cho phép bạn kết nối ở bất cứ đâu trong hành trình của mình!"
+        }
+      ]
+    },
+    "planTopUp": {
+      "heading": "Cách Nạp Lại Gói Cước",
+      "subHeading": "Quản Lý Dữ Liệu Dễ Dàng Với Yoowifi Top-Up",
+      "steps": [
+        {
+          "title": "Chọn Thiết Bị Của Bạn",
+          "description": "Mở ứng dụng Yoowifi, vào mục Dữ Liệu Của Tôi và chọn thiết bị bạn muốn nạp lại."
+        },
+        {
+          "title": "Chọn Gói Cước",
+          "description": "Nhấp vào Thêm Dữ Liệu, chọn quốc gia và gói cước bạn muốn, sau đó thiết lập ngày bắt đầu và kết thúc."
+        },
+        {
+          "title": "Tiến Hành Thanh Toán",
+          "description": "Xác nhận lựa chọn của bạn và tiến hành thanh toán."
+        }
+      ]
+    },
+    "otherProducts": {
+      "title": "Sản Phẩm Khác Bạn Có Thể Thích"
+    }
+  },
+  "router": {
+    "product": {
+      "name": "Router",
+      "description": "Router Yoowifi cung cấp kết nối internet mượt mà và đáng tin cậy tại nhà hoặc văn phòng. Với các tính năng tiên tiến và kết nối tốc độ cao, nó đảm bảo bạn luôn kết nối mà không bị gián đoạn. Router dễ dàng cài đặt và sử dụng, là giải pháp hoàn hảo cho tất cả nhu cầu internet của bạn.",
+      "features": [
+        "Kết nối mọi lúc mọi nơi",
+        "Tiết kiệm lớn khi roaming quốc tế",
+        "Cam kết giá cả không thể đánh bại"
+      ],
+      "buttons": {
+        "text": "Xem Kế Hoạch",
+        "text2": "Nhận Router"
+      },
+      "tabs": [
+        {
+          "title": "Mô Tả",
+          "content": "Nó dễ sử dụng và có thiết kế tinh tế, tối giản. Chỉ cần bật nguồn, kết nối các thiết bị của bạn, và bạn đã sẵn sàng! Không còn lo lắng về các quy trình cài đặt phức tạp hay thiết bị cồng kềnh. Nhưng đó không phải là tất cả – các thiết bị Pocket WiFi của chúng tôi cũng cung cấp kết nối mạnh mẽ và đáng tin cậy, đảm bảo bạn luôn kết nối dù ở bất kỳ đâu. Dù bạn đang đi công tác hay đi nghỉ cùng gia đình, bạn có thể tận hưởng internet tốc độ cao mà không bị gián đoạn."
+        },
+        {
+          "title": "Thông Số Kỹ Thuật",
+          "content": "CPU: SC8310LTE-FDD：Các dải tần 1 / 2 / 3 / 4 / 5 / 7 / 8 / 12 / 13 / 17 / 18 / 20 / 25 / 26 /28 / 66\nLTE-TDD：Các dải tần 34 / 38 / 39 / 40 / 41 (194M)\nWCDMA：Các dải tần 1 / 2 / 4 / 5 / 8\nTD-SCDMA：KHÔNG CDMA：KHÔNG\nEVDO：KHÔNG\nGSM：850 / 900 / 1800 / 1900\nTốc độ tối đa：Tải xuống 150Mbps / Tải lên 50Mbps\nWi-Fi：2.4GHz  802.11 b / g / n 1T1R\nKết nối Wi-Fi tối đa：8\nPin：3000mAh\nCổng：Type-C USB\nĐầu vào：5V – 1A\nKích thước vật phẩm：120mm x 64.6mm x 12mm\nTrọng lượng vật phẩm：112g\nChất liệu vỏ：Nhựa"
+        },
+        {
+          "title": "Bao Gồm Những Gì",
+          "content": "50GB dữ liệu toàn cầu áp dụng cho 90 quốc gia.\nTốc độ dịch vụ phụ thuộc vào đối tác mạng di động.\nPhí hủy đơn hàng là 10% giá trị đơn hàng.\nĐiều kiện và điều khoản chung áp dụng.\nYoowifi có quyền thay đổi bất kỳ lúc nào."
+        },
+        {
+          "title": "Điều Khoản & Điều Kiện",
+          "content": "Albania, Andorra, Armenia, Australia, Austria, Bahrain, Bangladesh, Belgium, Bosnia and Herzegovina, Brunei, Bulgaria, Cambodia, Canada, China, Croatia, Cyprus, Czech Republic, Denmark, Egypt, Estonia, Finland, France, Georgia, Germany, Gibraltar, Greece, Guernsey, Hong Kong, Hungary, Iceland, India, Indonesia, Ireland, Isle of Man, Israel, Italy, Japan, Jersey, Jordan, Kazakhstan, Kuwait, Laos, Latvia, Liechtenstein, Lithuania, Luxembourg, Macau, Macedonia, Malaysia, Malta, Mexico, Monaco, Montenegro, Myanmar, Netherlands, New Zealand, Norway, Oman, Pakistan, Philippines, Poland, Portugal, Qatar, Reunion, Romania, Russia, San Marino, Saudi Arabia, Serbia, Slovakia, Slovenia, South Korea, Spain, Sri Lanka, Sweden, Switzerland, Taiwan, Thailand, Turkey, UAE, Ukraine, United Kingdom, USA, Uzbekistan, Vatican, Vietnam"
+        }
+      ]
+    },
+    "features": {
+      "heading": "Các Tính Năng Chính",
+      "subHeading": "Đừng để internet chậm làm bạn chậm lại! Hãy chuyển sang các giải pháp di động của chúng tôi để trải nghiệm kết nối không giới hạn.",
+      "featureList": [
+        "Tốc độ lên đến 4G LTE",
+        "Tùy chọn dữ liệu linh hoạt",
+        "Công nghệ Cloud SIM",
+        "Chia sẻ trên nhiều thiết bị",
+        "Phạm vi và ổn định lớn hơn"
+      ]
+    },
+    "whatsIncluded": {
+      "heading": "Bao Gồm Những Gì",
+      "subHeading": "Tất cả những gì bạn cần để kết nối mượt mà",
+      "includedList": ["x1 Router Wifi", "x1 Bộ nguồn"]
+    },
+    "howToConnectRouter": {
+      "heading": "Cách kết nối Router?",
+      "subHeading": "Hướng dẫn từng bước để dễ dàng thiết lập eSIM của bạn",
+      "steps": [
+        "Kết nối bộ nguồn với router WiFi và cắm vào ổ cắm điện. Sau đó, bật ổ cắm điện.",
+        "Để kết nối với mạng WiFi của bạn, tìm tên WiFi mặc định và mật khẩu ở phía dưới / mặt sau của Router WiFi.",
+        "Kết nối với tên WiFi mặc định và nhập mật khẩu khi được yêu cầu, và bạn đã sẵn sàng!"
+      ]
+    },
+    "otherProducts": {
+      "title": "Các sản phẩm khác bạn có thể thích"
+    }
+  },
+  "sim": {
+    "product": {
+      "name": "SIM/eSIM",
+      "description": "Lorem Ipsum chỉ là văn bản giả mạo của ngành in ấn và dàn trang. Lorem Ipsum chỉ là văn bản giả mạo của ngành in ấn và dàn trang. Lorem Ipsum chỉ là văn bản giả mạo của ngành in ấn và dàn trang.",
+      "features": [
+        "Giữ kết nối mọi lúc mọi nơi",
+        "Tiết kiệm LỚN khi sử dụng Roaming Quốc Tế",
+        "Cam kết giá cả không thể đánh bại"
+      ],
+      "buttons": {
+        "text": "Xem các gói cước",
+        "text2": "Lấy SIM/eSIM"
+      },
+      "tabs": [
+        {
+          "title": "Mô Tả",
+          "content": "SIM/eSIM của chúng tôi hoàn hảo cho những ai coi trọng sự tiện lợi và dễ sử dụng. Bạn có thể kích hoạt nó trong vài phút và bắt đầu tận hưởng tất cả các lợi ích đi kèm. Cho dù bạn là sinh viên, chuyên gia làm việc, hay bất kỳ ai cần một dịch vụ viễn thông đáng tin cậy, SIM/eSIM của chúng tôi là giải pháp hoàn hảo dành cho bạn. Chúng tôi cung cấp mức giá cạnh tranh, các gói linh hoạt và dịch vụ khách hàng tuyệt vời để đảm bảo bạn nhận được giá trị tốt nhất cho số tiền bạn bỏ ra!"
+        },
+        {
+          "title": "Điều Khoản & Điều Kiện",
+          "content": "Thẻ SIM vật lý dùng một lần có hạn sử dụng là 60 ngày sau khi mua.\n Không có hoàn tiền hoặc hủy bỏ đối với eSIM do vấn đề tương thích eSIM.\n Không xóa hoặc gỡ bỏ eSIM khỏi thiết bị của bạn sau khi cài đặt thành công.\n Áp dụng các điều khoản và điều kiện chung."
+        }
+      ]
+    },
+    "features": {
+      "heading": "Tính Năng Chính",
+      "subHeading": "Đừng để internet chậm làm bạn chậm lại! Chuyển sang các giải pháp di động của chúng tôi để trải nghiệm kết nối không giới hạn.",
+      "featureList": [
+        "Tốc Độ Lên Đến 4G \n LTE",
+        "Không Giới Hạn Tốc Độ",
+        "Giao Hàng Nhanh",
+        "Cắm và Sử Dụng Đơn Giản",
+        "Hỗ Trợ Kỹ Thuật 24/7",
+        "Thẻ SIM 3-in-1"
+      ]
+    },
+    "howToSetup": {
+      "heading": "Cách Cài Đặt SIM Của Bạn",
+      "subHeading": "Đừng để internet chậm làm bạn chậm lại! Chuyển sang các giải pháp di động của chúng tôi để trải nghiệm kết nối không giới hạn.",
+      "steps": [
+        {
+          "title": "Mua Thẻ SIM",
+          "description": "Dễ dàng đặt mua thẻ SIM qua ứng dụng Yoowifi, và tận hưởng sự tiện lợi khi thẻ được giao đến tận cửa nhà bạn."
+        },
+        {
+          "title": "Chèn Thẻ SIM",
+          "description": "Chèn thẻ SIM và bật thiết bị di động của bạn.*Thời gian hiệu lực của dữ liệu bắt đầu ngay khi chèn SIM lần đầu tiên tại điểm đến."
+        },
+        {
+          "title": "Kích Hoạt Roaming Dữ Liệu",
+          "description": "Kích hoạt Roaming Dữ Liệu trên thiết bị di động của bạn.*Nếu điện thoại của bạn không thể phát hiện việc kích hoạt Roaming Dữ Liệu, hãy khởi động lại sau bước 2 và đảm bảo Roaming Dữ Liệu được bật."
+        }
+      ]
+    },
+    "activateSteps": {
+      "heading": "Các Bước Dễ Dàng Để Kích Hoạt eSIM Của Bạn",
+      "steps": [
+        {
+          "title": "iOS",
+          "deviceSteps": [
+            {
+              "title": "Bước 1",
+              "description": "Kích hoạt eSIM trên ứng dụng Yoowifi",
+              "steps": [
+                "Sau khi mua eSIM, vào mục Đơn Hàng Của Tôi và nhấn nút Kích Hoạt eSIM để hoàn tất kích hoạt.",
+                "Khi kích hoạt thành công, eSIM sẽ xuất hiện trong mục Dữ Liệu Của Tôi."
+              ]
+            },
+            {
+              "title": "Bước 2",
+              "description": "Kích hoạt eSIM",
+              "steps": [
+                "Vào cài đặt của iPhone. Nhấn vào Di động hoặc Dữ liệu Di động.",
+                "Nhấn vào Thêm eSIM",
+                "Nhấn vào Sử Dụng Mã QR",
+                "Quét mã QR bạn nhận được sau khi mua eSIM trong ứng dụng Yoowifi hoặc nhập Thông Tin thủ công."
+              ]
+            },
+            {
+              "title": "Bước 3",
+              "description": "Kích hoạt Roaming Dữ Liệu",
+              "steps": [
+                "Nếu bạn thiết lập thủ công, bạn có thể cần phải nhập các thông tin kích hoạt được cung cấp trong ứng dụng Yoowifi dưới đơn hàng eSIM của bạn, có thể tìm thấy trong Dữ Liệu Của Tôi.",
+                "Tiếp tục kích hoạt eSIM.",
+                "Chọn eSIM đã được thêm vào khi bạn đến nơi du lịch, sau đó bật Roaming Dữ Liệu để kết nối."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Android",
+          "deviceSteps": [
+            {
+              "title": "Bước 1",
+              "description": "Kích hoạt eSIM trên ứng dụng Yoowifi",
+              "steps": [
+                "Sau khi mua eSIM, vào mục Đơn Hàng Của Tôi và nhấn nút Kích Hoạt eSIM để hoàn tất kích hoạt.",
+                "Khi kích hoạt thành công, eSIM sẽ xuất hiện trong mục Dữ Liệu Của Tôi."
+              ]
+            },
+            {
+              "title": "Bước 2",
+              "description": "Kích hoạt eSIM",
+              "steps": [
+                "Vào cài đặt của iPhone. Nhấn vào Di động hoặc Dữ liệu Di động.",
+                "Nhấn vào Thêm eSIM",
+                "Nhấn vào Sử Dụng Mã QR",
+                "Quét mã QR bạn nhận được sau khi mua eSIM trong ứng dụng Yoowifi hoặc nhập Thông Tin thủ công."
+              ]
+            },
+            {
+              "title": "Bước 3",
+              "description": "Kích hoạt Roaming Dữ Liệu",
+              "steps": [
+                "Nếu bạn thiết lập thủ công, bạn có thể cần phải nhập các thông tin kích hoạt được cung cấp trong ứng dụng Yoowifi dưới đơn hàng eSIM của bạn, có thể tìm thấy trong Dữ Liệu Của Tôi.",
+                "Tiếp tục kích hoạt eSIM.",
+                "Chọn eSIM đã được thêm vào khi bạn đến nơi du lịch, sau đó bật Roaming Dữ Liệu để kết nối."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "deviceCompatibilities": {
+      "heading": "Kiểm Tra Tính Tương Thích Thiết Bị",
+      "subHeading": "Nếu bạn đang sử dụng eSIM lần đầu, bạn có thể cần kiểm tra xem thiết bị của mình có hỗ trợ eSIM không. Và chúng tôi sẽ giúp bạn làm điều đó. Chọn thương hiệu thiết bị của bạn và xem liệu các mẫu của bạn có được liệt kê không. Bạn có thể xác nhận thêm bằng cách kiểm tra trang Cài đặt trên thiết bị của mình.",
+      "compatibilities": [
+        {
+          "title": "Apple",
+          "devices": [
+            {
+              "name": "iPhone",
+              "versions": [
+                "iPhone 16, 16 Plus, 16 Pro, 16 Pro Max",
+                "iPhone 15, 15 Plus, 15 Pro, 15 Pro Max",
+                "iPhone 14, 14 Plus, 14 Pro, 14 Pro Max",
+                "iPhone 13, 13 Mini, 13 Pro, 13 Pro, 13 Pro Max",
+                "iPhone 12, 12 Mini, 12 Pro, 12 Pro Max",
+                "iPhone 11, 11 Pro, 11 Pro Max",
+                "iPhone XS, XS Max",
+                "iPhone XR",
+                "iPhone SE (2020 và 2022)"
+              ]
+            },
+            {
+              "name": "iPad",
+              "versions": [
+                "iPad (từ thế hệ thứ 7)",
+                "iPad Air (từ thế hệ thứ 3)",
+                "iPad Pro, 11-inch (từ thế hệ thứ 1)",
+                "iPad Pro 12.9-inch (từ thế hệ thứ 3)",
+                "iPad Mini (từ thế hệ thứ 5)"
+              ]
+            }
+          ],
+          "note": "Chức năng eSIM có thể thay đổi theo mẫu và khu vực. Vui lòng liên hệ với nhà mạng địa phương của bạn để xác nhận."
+        },
+        {
+          "title": "Samsung",
+          "devices": [
+            {
+              "name": "Samsung Galaxy S Series",
+              "versions": [
+                "Galaxy S23",
+                "Galaxy S23+",
+                "Galaxy S23 Ultra",
+                "Galaxy S22",
+                "Galaxy S22+",
+                "Galaxy S22 Ultra",
+                "Galaxy S21",
+                "Galaxy S21+",
+                "Galaxy S21 Ultra",
+                "Galaxy S20",
+                "Galaxy S20+",
+                "Galaxy S20 Ultra"
+              ]
+            },
+            {
+              "name": "Samsung Galaxy Z Series (Điện Thoại Gập)",
+              "versions": [
+                "Galaxy Z Fold5 (2023)",
+                "Galaxy Z Fold4 (2022)",
+                "Galaxy Z Fold3 (2021)",
+                "Galaxy Z Flip5 (2023)",
+                "Galaxy Z Flip4 (2022)",
+                "Galaxy Z Flip3 (2021)"
+              ]
+            },
+            {
+              "name": "Samsung Galaxy Note Series",
+              "versions": [
+                "Galaxy Note 20 Series (2020)",
+                "Galaxy Note 20",
+                "Galaxy Note 20 Ultra"
+              ]
+            },
+            {
+              "name": "Samsung Galaxy A Series",
+              "versions": ["Galaxy A54 (2023)", "Galaxy A53 (2022)"]
+            }
+          ],
+          "note": "Chức năng eSIM có thể thay đổi theo mẫu và khu vực. Vui lòng liên hệ với nhà mạng địa phương của bạn để xác nhận."
+        },
+        {
+          "title": "Google",
+          "devices": [
+            {
+              "name": "Google Pixel 8 Series (2023)",
+              "versions": ["Pixel 8", "Pixel 8 Pro"]
+            },
+            {
+              "name": "Google Pixel 7 Series (2022)",
+              "versions": ["Pixel 7", "Pixel 7 Pro"]
+            },
+            {
+              "name": "Google Pixel 6 Series (2021)",
+              "versions": ["Pixel 6", "Pixel 6 Pro", "Pixel 6a"]
+            },
+            {
+              "name": "Google Pixel 5 Series (2020)",
+              "versions": ["Pixel 5", "Pixel 5a 5G"]
+            },
+            {
+              "name": "Google Pixel 4 Series (2019)",
+              "versions": ["Pixel 4", "Pixel 4 XL", "Pixel 4a"]
+            },
+            {
+              "name": "Google Pixel 3 Series (2018)",
+              "versions": ["Pixel 3", "Pixel 3 XL", "Pixel 3a", "Pixel 3a XL"]
+            }
+          ],
+          "note": "Chức năng eSIM có thể thay đổi theo mẫu và khu vực. Vui lòng liên hệ với nhà mạng địa phương của bạn để xác nhận."
+        },
+        {
+          "title": "Huawei",
+          "devices": [
+            {
+              "name": "Huawei P Series",
+              "versions": [
+                "Huawei P60 Pro (2023)",
+                "Huawei P50 Pro (2021)",
+                "Huawei P40 Series (2020)",
+                "Huawei P40",
+                "Huawei P40 Pro",
+                "Huawei P40 Pro+"
+              ]
+            },
+            {
+              "name": "Huawei Mate Series",
+              "versions": [
+                "Huawei Mate 50 Pro (2022)",
+                "Huawei Mate 40 Pro (2020)",
+                "Huawei Mate 30 Series (2019)",
+                "Huawei Mate 30",
+                "Huawei Mate 30 Pro"
+              ]
+            },
+            {
+              "name": "Huawei Watch (mẫu eSIM)",
+              "versions": [
+                "Huawei Watch 4 Pro",
+                "Huawei Watch 3",
+                "Huawei Watch 3 Pro"
+              ]
+            }
+          ],
+          "note": "Chức năng eSIM có thể thay đổi theo mẫu và khu vực. Vui lòng liên hệ với nhà mạng địa phương của bạn để xác nhận."
+        },
+        {
+          "title": "Oppo",
+          "devices": [
+            {
+              "name": "Oppo Find X Series",
+              "versions": [
+                "Oppo Find X6 Pro (2023)",
+                "Oppo Find X5 Series (2022)",
+                "Oppo Find X5",
+                "Oppo Find X5 Pro",
+                "Oppo Find X3 Series (2021)",
+                "Oppo Find X3",
+                "Oppo Find X3 Pro"
+              ]
+            },
+            {
+              "name": "Oppo Reno Series",
+              "versions": ["Oppo Reno8 Pro (2022)", "Oppo Reno7 Pro 5G"]
+            },
+            {
+              "name": "Oppo A Series",
+              "versions": ["Oppo A55s 5G (2022)"]
+            }
+          ],
+          "note": "Chức năng eSIM có thể khác nhau tùy theo mẫu máy và khu vực. Vui lòng liên hệ với nhà mạng địa phương để xác nhận."
+        },
+        {
+          "title": "Xiaomi",
+          "devices": [
+            {
+              "name": "Xiaomi 13 Series",
+              "versions": [
+                "Xiaomi 13 (2023)",
+                "Xiaomi 13 Pro (2023)",
+                "Xiaomi 13 Lite (2023)"
+              ]
+            },
+            {
+              "name": "Xiaomi 12 Series",
+              "versions": [
+                "Xiaomi 12 (2021)",
+                "Xiaomi 12 Pro (2021)",
+                "Xiaomi 12T (2022)",
+                "Xiaomi 12T Pro (2022)"
+              ]
+            },
+            {
+              "name": "Xiaomi Mi 11 Series",
+              "versions": [
+                "Xiaomi Mi 11 (2020)",
+                "Xiaomi Mi 11 Pro (2021)",
+                "Xiaomi Mi 11 Ultra (2021)"
+              ]
+            },
+            {
+              "name": "Redmi Note Series",
+              "versions": [
+                "Redmi Note 12 Pro (2022)",
+                "Redmi Note 12 Pro+ (2022)"
+              ]
+            }
+          ],
+          "note": "Chức năng eSIM có thể khác nhau tùy theo mẫu máy và khu vực. Vui lòng liên hệ với nhà mạng địa phương để xác nhận."
+        },
+        {
+          "title": "Honor",
+          "devices": [
+            {
+              "name": "Honor Magic Series",
+              "versions": [
+                "Honor Magic 5 Pro (2023)",
+                "Honor Magic 4 Pro (2022)",
+                "Honor Magic 3 Series (2021)",
+                "Honor Magic 3",
+                "Honor Magic 3 Pro",
+                "Honor Magic 3 Pro+"
+              ]
+            },
+            {
+              "name": "Honor 50 Series",
+              "versions": ["Honor 50 (2021)", "Honor 50 Pro (2021)"]
+            },
+            {
+              "name": "Honor V Series",
+              "versions": ["Honor V40 (2021)", "Honor V30 (2019)"]
+            },
+            {
+              "name": "Honor 20 Series",
+              "versions": ["Honor 20 Pro (2019)"]
+            }
+          ],
+          "note": "Chức năng eSIM có thể khác nhau tùy theo mẫu máy và khu vực. Vui lòng liên hệ với nhà mạng địa phương để xác nhận."
+        },
+        {
+          "title": "Sony",
+          "devices": [
+            {
+              "name": "Sony Xperia Series",
+              "versions": [
+                "Sony Xperia 1 V (2023)",
+                "Sony Xperia 1 IV (2022)",
+                "Sony Xperia 5 IV (2022)",
+                "Sony Xperia 10 IV (2022)"
+              ]
+            },
+            {
+              "name": "Sony Xperia 1 III Series (2021)",
+              "versions": ["Sony Xperia 1 III", "Sony Xperia 5 III"]
+            },
+            {
+              "name": "Sony Xperia 10 Series",
+              "versions": ["Sony Xperia 10 III (2021)"]
+            }
+          ],
+          "note": "Chức năng eSIM có thể khác nhau tùy theo mẫu máy và khu vực. Vui lòng liên hệ với nhà mạng địa phương để xác nhận."
+        },
+        {
+          "title": "Motorola",
+          "devices": [
+            {
+              "name": "Motorola Edge Series",
+              "versions": [
+                "Motorola Edge 40 (2023)",
+                "Motorola Edge 30 (2022)",
+                "Motorola Edge 20 (2021)",
+                "Motorola Edge 20 Pro (2021)"
+              ]
+            },
+            {
+              "name": "Motorola Razr (Gập lại)",
+              "versions": ["Motorola Razr 40 (2023)", "Motorola Razr 2020"]
+            },
+            {
+              "name": "Motorola Moto G Series",
+              "versions": ["Moto G72 (2022)"]
+            }
+          ],
+          "note": "Chức năng eSIM có thể khác nhau tùy theo mẫu máy và khu vực. Vui lòng liên hệ với nhà mạng địa phương để xác nhận."
+        }
+      ]
+    },
+    "howToTopUp": {
+      "heading": "Cách Nạp Tiền Cho SIM/eSIM",
+      "subHeading": "3 Bước Đơn Giản Để Nạp Tiền Cho SIM/eSIM",
+      "steps": [
+        {
+          "title": "Mở Ứng Dụng Yoowifi",
+          "description": "Trong ứng dụng Yoowifi, điều hướng đến Mạng Dữ Liệu của tôi và chọn SIM hoặc eSIM mà bạn muốn nạp tiền."
+        },
+        {
+          "title": "Thêm Dữ Liệu",
+          "description": "Chạm vào Thêm Dữ Liệu, sau đó chọn quốc gia đích, gói cước, dung lượng dữ liệu và chọn số ngày."
+        },
+        {
+          "title": "Tiến Hành Thanh Toán",
+          "description": "Xác nhận các lựa chọn của bạn và tiến hành thanh toán."
+        }
+      ]
+    },
+    "otherProducts": {
+      "title": "Các Sản Phẩm Khác Bạn Có Thể Thích"
+    }
+  },
+  "aboutUs": {
+    "header": {
+      "title": "Về Chúng Tôi",
+      "description": "Yoowifi là một công ty có trụ sở tại Singapore, cung cấp dịch vụ cho thuê wifi di động cho khách du lịch. Chúng tôi cung cấp một loạt các thiết bị wifi di động với các gói dữ liệu không giới hạn để giúp bạn luôn kết nối mọi lúc, mọi nơi."
+    },
+    "whoWeAre": {
+      "title": "Chúng Tôi Là Ai",
+      "description": "UR Communications Pte Ltd, hoạt động dưới thương hiệu nổi tiếng Yoowifi, giới thiệu giải pháp tiên tiến giúp kết nối toàn cầu một cách dễ dàng qua ứng dụng di động trực quan. Với cam kết làm phong phú hành trình du lịch và thúc đẩy giao tiếp toàn cầu, Ứng dụng Yoowifi mang đến sự tiện lợi, độ tin cậy và tính tiết kiệm chi phí vô song. \n\nKhát vọng của chúng tôi là xây dựng một thế giới nơi các chuyên gia viễn thông và khách du lịch có thể dễ dàng duy trì kết nối qua các quốc gia, không phải lo lắng về các khoản phí roaming dữ liệu quá cao. Sứ mệnh của chúng tôi là xây dựng một công ty cung cấp dịch vụ di động dễ tiếp cận, đáng tin cậy và không biên giới, giúp mọi người duy trì kết nối với những người thân yêu trong khi khám phá các góc cạnh khác nhau của thế giới.",
+      "image": "images.whoWeAre1"
+    },
+    "features": [
+      "WiFi đáng tin cậy, mọi nơi bạn đến",
+      "Phủ sóng hơn 160 quốc gia",
+      "Hỗ trợ khách hàng 24/7",
+      "Hiện diện tại hơn 10 quốc gia"
+    ],
+    "companyMission": {
+      "title": "Sứ Mệnh Của Công Ty",
+      "mission": {
+        "title": "Duy Trì Kết Nối Mọi Lúc, Mọi Nơi",
+        "year": "2001",
+        "description": "Sứ mệnh của chúng tôi là cung cấp dịch vụ dữ liệu dễ tiếp cận, đáng tin cậy và không biên giới. Chúng tôi nỗ lực giúp mọi người duy trì kết nối mượt mà với những người thân yêu trong khi khám phá các nền văn hóa mới, trải nghiệm những cuộc phiêu lưu và khám phá các góc cạnh khác nhau của thế giới, đảm bảo trải nghiệm kết nối liền mạch và phong phú.",
+        "image": "images.companyMission1"
+      }
+    },
+    "awardsAndAchievements": {
+      "header": "Giải Thưởng & Thành Tựu Của Chúng Tôi",
+      "details": [
+        {
+          "year": "2024",
+          "title": "Công Ty Giải Pháp Wi-Fi Du Lịch Sáng Tạo Nhất 2024",
+          "description": "Giải thưởng bởi Giải Thưởng Xuất Sắc AI Business"
+        },
+        {
+          "year": "2024",
+          "title": "Công Ty Tăng Trưởng Nhanh Nhất Tại Singapore 2024",
+          "description": "Giải thưởng bởi The Straits Times & Statista"
+        }
+      ]
+    },
+    "whatWeDo": {
+      "header": "Chúng Tôi Làm Gì",
+      "details": [
+        {
+          "title": "Cổng Quản Lý",
+          "description": "Cổng quản lý của chúng tôi cung cấp một nền tảng dễ sử dụng để kiểm soát và giám sát mượt mà, giúp bạn quản lý dịch vụ một cách hiệu quả."
+        },
+        {
+          "title": "Giải Pháp Di Động Tổng Quát",
+          "description": "Giải pháp di động của chúng tôi cung cấp dịch vụ đáng tin cậy, linh hoạt và tiên tiến giúp bạn duy trì kết nối mọi lúc, mọi nơi, phục vụ cả nhu cầu cá nhân và doanh nghiệp."
+        },
+        {
+          "title": "Giải Pháp Tùy Chỉnh",
+          "description": "Khám phá các giải pháp tùy chỉnh của chúng tôi được thiết kế riêng để đáp ứng nhu cầu đặc thù của bạn. Chúng tôi làm việc chặt chẽ với bạn để thiết kế các dịch vụ sáng tạo, linh hoạt thúc đẩy thành công và nâng cao kết quả kinh doanh của bạn."
+        },
+        {
+          "title": "Sự Kiện & Roadshows",
+          "description": "Tham gia cùng chúng tôi tại các sự kiện và roadshows thú vị, nơi chúng tôi trình bày các giải pháp sáng tạo, giao lưu với khách hàng và định hình tương lai của giao tiếp liền mạch."
+        }
+      ]
+    },
+    "personal": {
+      "heading": "Dành Cho Cá Nhân",
+      "subHeading": "Giải Pháp Đáng Tin Cậy Cho Kết Nối Cá Nhân Của Bạn",
+      "content": [
+        {
+          "title": "Phạm Vi Toàn Cầu",
+          "description": "Duy trì kết nối trên 160 quốc gia, bất kể hành trình của bạn đưa bạn đến đâu với dịch vụ wifi du lịch của Yoowifi."
+        },
+        {
+          "title": "Gói Dữ Liệu Linh Hoạt",
+          "description": "Chọn từ các tùy chọn gói dữ liệu linh hoạt, cho phép bạn lựa chọn gói phù hợp dựa trên nhu cầu sử dụng của mình."
+        },
+        {
+          "title": "Giao Hàng Không Phức Tạp",
+          "description": "Tận hưởng dịch vụ giao hàng nhanh chóng, đáng tin cậy và dễ dàng."
+        }
+      ]
+    },
+    "business": {
+      "heading": "Dành Cho Doanh Nghiệp",
+      "subHeading": "Tăng Cường Doanh Nghiệp Của Bạn Với Kết Nối Liền Mạch",
+      "content": [
+        {
+          "title": "Dịch Vụ Yêu Cầu Không Cần Chạm",
+          "description": "Tận hưởng dịch vụ yêu cầu không cần chạm, dễ dàng và liền mạch, được thiết kế riêng cho nhu cầu của bạn."
+        },
+        {
+          "title": "Gói Dữ Liệu Linh Hoạt",
+          "description": "Các gói dữ liệu linh hoạt dành cho doanh nghiệp, được thiết kế để phù hợp với nhu cầu và mức sử dụng của công ty bạn."
+        },
+        {
+          "title": "Mạng Đa Địa Chỉ",
+          "description": "Đảm bảo kết nối không gián đoạn với mạng đa địa chỉ của chúng tôi, cung cấp nhiều kết nối để tăng cường độ tin cậy và hiệu suất."
+        }
+      ]
+    }
+  },
+  "recommendedPackages": {
+    "heading": "Gói Đề Xuất",
+    "subHeading": "Khám Phá Các Gói Đề Xuất Phù Hợp Với Nhu Cầu Của Bạn",
+    "packageList": [
+      {
+        "title": "Gói Cơ Bản",
+        "features": [
+          "Giữ thiết bị Yoowifi",
+          "Chỉ nạp thẻ",
+          "Có giá trị trong 365 ngày",
+          "Phủ sóng 90 quốc gia"
+        ],
+        "information": "Gói này cung cấp kết nối internet cơ bản, lý tưởng cho khách du lịch hoặc người dùng internet ít."
+      },
+      {
+        "title": "Gói Du Lịch",
+        "features": [
+          "Giữ thiết bị Yoowifi",
+          "Chỉ nạp thẻ",
+          "Có giá trị trong 365 ngày",
+          "Phủ sóng 90 quốc gia"
+        ],
+        "information": "Lý tưởng cho những người thường xuyên đi du lịch, gói này hỗ trợ kết nối internet toàn cầu."
+      },
+      {
+        "title": "Gói Mở Rộng",
+        "features": [
+          "Giữ thiết bị Yoowifi",
+          "Chỉ nạp thẻ",
+          "Có giá trị trong 365 ngày",
+          "Phủ sóng 90 quốc gia"
+        ],
+        "information": "Mở rộng tính năng của gói cơ bản, cung cấp thời gian sử dụng dài hơn hoặc các tùy chọn dữ liệu bổ sung."
+      },
+      {
+        "title": "Gói Không Giới Hạn",
+        "features": [
+          "Giữ thiết bị Yoowifi",
+          "Chỉ nạp thẻ",
+          "Có giá trị trong 365 ngày",
+          "Phủ sóng 90 quốc gia"
+        ],
+        "information": "Cung cấp dữ liệu không giới hạn để bạn sử dụng internet mà không lo lắng."
+      },
+      {
+        "title": "Gói Nhẹ",
+        "features": [
+          "Giữ thiết bị Yoowifi",
+          "Chỉ nạp thẻ",
+          "Có giá trị trong 180 ngày",
+          "Phủ sóng 60 quốc gia"
+        ],
+        "information": "Một gói dành cho người dùng ít hoặc sử dụng ngắn hạn."
+      },
+      {
+        "title": "Gói Doanh Nghiệp",
+        "features": [
+          "Giữ thiết bị Yoowifi",
+          "Chỉ nạp thẻ",
+          "Có giá trị trong 365 ngày",
+          "Hỗ trợ ưu tiên",
+          "Phủ sóng 100 quốc gia"
+        ],
+        "information": "Dành cho người dùng doanh nghiệp di chuyển thường xuyên hoặc những người hay đi công tác."
+      },
+      {
+        "title": "Gói Cao Cấp",
+        "features": [
+          "Giữ thiết bị Yoowifi",
+          "Chỉ nạp thẻ",
+          "Có giá trị trong 365 ngày",
+          "Dữ liệu không giới hạn ở một số quốc gia",
+          "Phủ sóng 90 quốc gia"
+        ],
+        "information": "Cung cấp trải nghiệm kết nối cao cấp với dữ liệu không giới hạn ở một số quốc gia."
+      },
+      {
+        "title": "Gói Gia Đình",
+        "features": [
+          "Giữ thiết bị Yoowifi",
+          "Chỉ nạp thẻ",
+          "Có giá trị trong 365 ngày",
+          "Kết nối tối đa 10 thiết bị",
+          "Phủ sóng 90 quốc gia"
+        ],
+        "information": "Gói dành cho gia đình cho phép kết nối nhiều thiết bị cùng lúc."
+      },
+      {
+        "title": "Gói Du Lịch Plus",
+        "features": [
+          "Giữ thiết bị Yoowifi",
+          "Chỉ nạp thẻ",
+          "Có giá trị trong 180 ngày",
+          "Dữ liệu nâng cao cho người dùng nặng",
+          "Phủ sóng 80 quốc gia"
+        ],
+        "information": "Lựa chọn lý tưởng cho du khách cần nhiều dung lượng dữ liệu hơn."
+      },
+      {
+        "title": "Gói Không Giới Hạn Toàn Cầu",
+        "features": [
+          "Giữ thiết bị Yoowifi",
+          "Chỉ nạp thẻ",
+          "Có giá trị trong 365 ngày",
+          "Dữ liệu không giới hạn toàn cầu",
+          "Phủ sóng 100 quốc gia"
+        ],
+        "information": "Gói tối ưu cung cấp dữ liệu không giới hạn trên toàn cầu."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Liên hệ với chúng tôi",
+    "description": "Nếu bạn có câu hỏi hoặc thắc mắc, chỉ cần điền vào mẫu và chúng tôi sẽ phản hồi bạn sớm!",
+    "letsTalk": {
+      "heading": "Hãy nói chuyện",
+      "subHeading": "Nếu bạn có bất kỳ câu hỏi hoặc mối quan tâm nào, chỉ cần điền vào mẫu và chúng tôi sẽ phản hồi bạn ngay!",
+      "social": [
+        {
+          "_id": 1,
+          "name": "WhatsApp",
+          "text": "Whatsapp cho chúng tôi",
+          "value": "(+65) 6100 9998",
+          "image": "images.whatsapp",
+          "type": "call"
+        },
+        {
+          "_id": 2,
+          "name": "Email",
+          "text": "Địa chỉ Email",
+          "value": "business@yoowifi.com",
+          "image": "images.email",
+          "type": "email"
+        }
+      ],
+      "form": {
+        "fields": [
+          {
+            "label": "Tên",
+            "placeholder": "Nhập tên của bạn"
+          },
+          {
+            "label": "Số điện thoại",
+            "placeholder": "Nhập số điện thoại"
+          },
+          {
+            "label": "Địa chỉ Email",
+            "placeholder": "Nhập địa chỉ email"
+          },
+          {
+            "label": "Chủ đề",
+            "placeholder": "Viết một chủ đề"
+          },
+          {
+            "label": "Tin nhắn",
+            "placeholder": "Hãy cho chúng tôi biết thắc mắc của bạn.."
+          }
+        ]
+      }
+    }
+  },
+  "faqs": {
+    "heading": "Hỗ trợ & Câu hỏi thường gặp",
+    "subHeading": "Khám phá để tìm giải pháp đơn giản, mẹo hữu ích và tận dụng tối đa chuyến đi của bạn với Yoowifi.",
+    "content": [
+      {
+        "_id": 1,
+        "question": "Tôi có thể gọi điện với wifi cầm tay không?",
+        "answer": "Wifi cầm tay chỉ cung cấp kết nối internet, không hỗ trợ gọi điện thoại qua mạng di động của bạn. Tuy nhiên, nó cho phép gọi VoIP như Skype, Viber và Google Voice."
+      },
+      {
+        "_id": 2,
+        "question": "Sự khác biệt giữa megabyte (MB) và gigabyte (GB) là gì?",
+        "answer": "Một megabyte (MB) là 1.024 kilobyte (KB), trong khi một gigabyte (GB) là 1.024 megabyte. Thông thường, 1GB bằng 1.024MB."
+      },
+      {
+        "_id": 3,
+        "question": "Làm thế nào tôi có thể trả lại wifi cầm tay khi kết thúc thời gian thuê?",
+        "answer": "Bạn có thể trả lại wifi cầm tay bằng cách làm theo hướng dẫn đã được cung cấp trong quá trình thuê. Thông thường, bạn sẽ trả lại tại một địa điểm trả hoặc thông qua một phong bì trả lại đã cung cấp."
+      },
+      {
+        "_id": 4,
+        "question": "Tôi có thể sửa đổi thông tin đặt chỗ của mình sau khi đã đặt hàng không?",
+        "answer": "Có, bạn có thể sửa đổi thông tin đặt chỗ của mình sau khi đã đặt hàng bằng cách liên hệ với đội ngũ hỗ trợ của chúng tôi, những người sẽ hỗ trợ bạn thực hiện các thay đổi cần thiết."
+      },
+      {
+        "_id": 5,
+        "question": "Làm thế nào tôi có thể hủy bỏ đặt chỗ của mình?",
+        "answer": "Để hủy bỏ đặt chỗ, vui lòng liên hệ với đội ngũ dịch vụ khách hàng của chúng tôi. Việc hủy bỏ có thể bị ảnh hưởng bởi chính sách hủy của chúng tôi."
+      },
+      {
+        "_id": 6,
+        "question": "Tôi sẽ đi du lịch đến nhiều quốc gia trên thế giới, tôi cần bao nhiêu thiết bị?",
+        "answer": "Số lượng thiết bị bạn cần phụ thuộc vào lịch trình du lịch của bạn. Thông thường, một thiết bị cho mỗi khu vực hoặc quốc gia với phạm vi dữ liệu cụ thể sẽ được khuyến nghị."
+      }
+    ],
+    "footer": {
+      "heading": "Vẫn còn câu hỏi?",
+      "description": "Không tìm thấy câu trả lời bạn đang tìm? Hãy trò chuyện với đội ngũ thân thiện của chúng tôi!"
+    }
+  },
+  "footer": {
+    "subscribeNewsLetter": "Đăng ký nhận bản tin!",
+    "copyRightText": "Bản quyền thuộc về.",
+    "contact": [
+      {
+        "type": "Gọi"
+      },
+      {
+        "type": "Email"
+      }
+    ],
+    "legals": [
+      {
+        "title": "Điều khoản sử dụng"
+      },
+      {
+        "title": "Chính sách bảo mật"
+      }
+    ],
+    "menuData": [
+      {
+        "title": "YOOWIFI",
+        "links": [
+          {
+            "label": "Về chúng tôi"
+          },
+          {
+            "label": "Câu hỏi thường gặp"
+          },
+          {
+            "label": "Tải ứng dụng"
+          },
+          {
+            "label": "Liên hệ với chúng tôi"
+          },
+          {
+            "label": "Điều khoản dịch vụ"
+          },
+          {
+            "label": "Chính sách bảo mật"
+          }
+        ]
+      },
+      {
+        "title": "DÀNH CHO YOO",
+        "links": [
+          {
+            "label": "Dữ liệu du lịch"
+          },
+          {
+            "label": "Phạm vi quốc gia"
+          },
+          {
+            "label": "Dữ liệu địa phương"
+          },
+          {
+            "label": "Vị trí đón / trả"
+          },
+          {
+            "label": "Sản phẩm"
+          },
+          {
+            "label": "Cách thức hoạt động"
+          }
+        ]
+      },
+      {
+        "title": "DOANH NGHIỆP",
+        "links": [
+          {
+            "label": "Iot"
+          },
+          {
+            "label": "Khách sạn"
+          },
+          {
+            "label": "Công ty du lịch"
+          },
+          {
+            "label": "Internet hàng hải"
+          },
+          {
+            "label": "Văn phòng/ Roadshow & Sự kiện"
+          }
+        ]
+      }
+    ]
+  },
+  "corporateHero": {
+    "heading": "Doanh Nghiệp",
+    "subHeading": "UR Communications Pte Ltd, hoạt động dưới thương hiệu nổi tiếng Yoowifi, giới thiệu giải pháp tiên tiến giúp kết nối toàn cầu dễ dàng qua ứng dụng di động trực quan của mình. Với cam kết làm phong phú thêm hành trình du lịch và thúc đẩy giao tiếp toàn cầu, Yoowifi App mang đến sự tiện lợi, đáng tin cậy và tiết kiệm chi phí vô song."
+  },
+  "iot": {
+    "pageTitle": "IOT",
+    "description": "Giữ kết nối với ngôi nhà, gia đình và công việc của bạn mọi lúc qua một thiết bị duy nhất! Các giải pháp của chúng tôi cũng được thiết kế để đáp ứng nhu cầu đặc biệt của bạn, dù bạn là cá nhân hay doanh nghiệp.",
+    "featureList": [
+      "Kích thước Dữ liệu",
+      "Theo nhà cung cấp dịch vụ",
+      "Nền tảng Quản lý và Giám sát",
+      "Một hoặc Nhiều Quốc Gia"
+    ]
+  },
+  "hotel": {
+    "pageTitle": "KHÁCH SẠN",
+    "description": "Biến khách sạn của bạn thành ngôi nhà thứ hai với kết nối internet tốc độ cao của chúng tôi! Khách hàng của bạn có thể duy trì sự năng suất dù ở đâu, và doanh nghiệp của bạn có thể nổi bật giữa đám đông cạnh tranh.",
+    "featureList": [
+      "Kết nối khi hoạt động bị gián đoạn",
+      "Triển khai nhanh chóng",
+      "Giải pháp tùy chỉnh để giữ đội ngũ của bạn kết nối toàn cầu"
+    ]
+  },
+  "travelAgency": {
+    "pageTitle": "ĐẠI LÝ DU LỊCH",
+    "description": "Lập thông tin cho khách hàng của bạn với tốc độ ánh sáng qua giải pháp WiFi của chúng tôi. Giao tiếp hiệu quả với đối tác và tránh sự khó chịu từ kết nối yếu hoặc tín hiệu không ổn định.",
+    "featureList": [
+      "Kích thước Dữ liệu",
+      "Theo nhà cung cấp dịch vụ",
+      "Nền tảng Quản lý và Giám sát",
+      "Một hoặc Nhiều Quốc Gia"
+    ]
+  },
+  "maritimeInternet": {
+    "pageTitle": "INTERNET HẢI QUÂN",
+    "description": "Hãy để chúng tôi giúp bạn điều hướng nhu cầu internet trên biển. Chúng tôi có thể giữ cho đội ngũ của bạn luôn kết nối và doanh nghiệp của bạn phát triển với các giải pháp của chúng tôi. Vì vậy, dù tàu thuyền đi đâu, bạn cũng có thể tận hưởng băng thông không giới hạn.",
+    "featureList": [
+      "Một hoặc Nhiều Quốc Gia",
+      "Triển khai nhanh chóng",
+      "Giải pháp tùy chỉnh để giữ đội ngũ của bạn kết nối toàn cầu"
+    ]
+  },
+  "office": {
+    "pageTitle": "VĂN PHÒNG / SỰ KIỆN ROADSHOW",
+    "description": "Dù bạn ở đâu, hãy giữ kết nối với giải pháp WiFi của chúng tôi! Dù là ở văn phòng hay tổ chức roadshow, tận hưởng kết nối internet mượt mà và nhanh chóng. Đừng để điều gì làm gián đoạn ngày làm việc của bạn với chúng tôi tại Yoowifi!",
+    "featureList": [
+      "Kết nối nhanh chóng và đáng tin cậy",
+      "Hỗ trợ tận tâm",
+      "Chi phí hợp lý hoặc Tài trợ"
+    ]
+  },
+  "corporateSharedHero": {
+    "heading": "Kết Nối Trong Chuyến Đi",
+    "items": ["Hotspot Di Động", "eSim", "Thẻ SIM"]
+  },
+  "commercial": {
+    "pageTitle": "Thương Mại",
+    "description": "Nâng cao năng suất của bạn với kết nối liền mạch! Chúng tôi cung cấp cổng kết nối với thế giới kỹ thuật số giúp ngày làm việc của bạn trở nên suôn sẻ nhất có thể."
+  },
+  "benefits": {
+    "heading": "Lợi Ích",
+    "subHeading": "Đừng để internet chậm làm bạn bị ràng buộc! Hãy chuyển sang các giải pháp di động của chúng tôi để trải nghiệm kết nối không biên giới.",
+    "benefitsData": [
+      {
+        "title": "Ứng Dụng Dành Riêng",
+        "content": "Quản lý nhu cầu kết nối của bạn với cổng thông tin quản lý trực tuyến, giúp bạn kiểm soát một cách dễ dàng để có trải nghiệm mượt mà và hiệu quả."
+      },
+      {
+        "title": "Tiết Kiệm Chi Phí",
+        "content": "Trải nghiệm kết nối giá cả phải chăng và không phiền phức với công nghệ vSIM của Yoowifi, loại bỏ phí roaming tốn kém cho dịch vụ dữ liệu tiết kiệm chi phí."
+      },
+      {
+        "title": "Kế Hoạch Dữ Liệu Tùy Chỉnh",
+        "content": "Tùy chỉnh gói dữ liệu của bạn để đáp ứng nhu cầu cụ thể và mở rộng khi doanh nghiệp của bạn phát triển."
+      }
+    ]
+  },
+  "pocketWifiDetails": {
+    "pocketWifiDayPass": {
+      "headers": [
+        "Pocket Wifi - Thẻ Ngày Không Giới Hạn",
+        "1GB/ngày",
+        "5GB/ngày"
+      ],
+      "plans": [
+        "Hong Kong, Indonesia, Nhật Bản, Macau, Malaysia, Philippines, Hàn Quốc, Đài Loan, Thái Lan, Việt Nam 1 Ngày",
+        "Australia, Brunei, Canada, Campuchia, Trung Quốc (với VPN), Châu Âu, Lào, Mexico, New Zealand, Thổ Nhĩ Kỳ, Mỹ 1 Ngày",
+        "Bahrain, Bangladesh, Ai Cập, Ấn Độ, Israel, Jordan, Kazakhstan, Kuwait, Oman, Pakistan, Qatar, Ả Rập Saudi, Nam Phi, Sri Lanka, UAE, Uzbekistan 1 Ngày"
+      ]
+    },
+    "restOfTheWorldDayPass": {
+      "headers": [
+        "Phần Còn Lại của Thế Giới - Thẻ Ngày Không Giới Hạn",
+        "1GB/ngày",
+        "5GB/ngày"
+      ],
+      "plan": "Algeria, Anguilla, Antigua và Barbuda, Argentina, Aruba, Azerbaijan, Bolivia, Brazil, Quần đảo Virgin thuộc Anh, Chile, Colombia, Costa Rica, Cộng hòa Dominica, Ecuador, El Salvador, Fiji, Antilles Pháp (Martinique), Sint Maarten Pháp, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Jamaica, Kyrgyzstan, Maldives, Mông Cổ, Myanmar, Quần đảo Antilles Hà Lan (Curacao), Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Vincent và Grenadines, Suriname, Tahiti, Tajikistan, Quần đảo Cayman, Trinidad và Tobago, Quần đảo Turks và Caicos, Uruguay, Venezuela"
+    },
+    "sim": {
+      "heading": "SIM/eSIM",
+      "subHeading": "Lorem Ipsum chỉ là văn bản mẫu trong ngành in ấn và dàn trang.",
+      "description": {
+        "title": "Mô Tả",
+        "content": "SIM/eSIM của chúng tôi là sự lựa chọn hoàn hảo cho những ai coi trọng sự tiện lợi và dễ sử dụng. Bạn có thể kích hoạt chỉ trong vài phút và bắt đầu tận hưởng tất cả các lợi ích đi kèm. Dù bạn là sinh viên, một chuyên gia làm việc, hay bất kỳ ai cần một dịch vụ viễn thông đáng tin cậy, SIM/eSIM của chúng tôi là giải pháp lý tưởng cho bạn. Chúng tôi cung cấp mức giá cạnh tranh, các gói linh hoạt và hỗ trợ khách hàng tuyệt vời để đảm bảo bạn nhận được giá trị tốt nhất cho số tiền của mình!"
+      }
+    },
+    "simDataPlan": {
+      "headers": [
+        "SIM/eSIM - Gói Dữ Liệu Không Giới Hạn",
+        "500MB/ngày",
+        "1GB/ngày",
+        "2GB/ngày"
+      ],
+      "plans": [
+        "Malaysia/ Thái Lan 1 ngày",
+        "Trung Quốc 1 Ngày",
+        "Hàn Quốc 3 Ngày",
+        "Nhật Bản 3 Ngày",
+        "Châu Âu 5 Ngày",
+        "Australia 5 Ngày"
+      ]
+    },
+    "regionalCountries": "*Châu Âu: Albania, Armenia, Andorra, Áo, Bỉ, Bosnia và Herzegovina, Bulgaria, Croatia, Síp, Cộng hòa Séc, Đan Mạch, Estonia, Phần Lan, Pháp, Đức, Georgia, Gibraltar, Hy Lạp, Guernsey, Hungary, Iceland, Ireland, Isle of Man, Ý, Jersey, Latvia, Liechtenstein, Litva, Luxembourg, Macedonia, Malta, Monaco, Montenegro, Hà Lan, Na Uy, Ba Lan, Bồ Đào Nha, Romania, San Marino, Serbia, Slovakia, Slovenia, Tây Ban Nha, Thụy Điển, Thụy Sĩ, Ukraine, Vương quốc Anh, Vatican"
+  },
+
+  "pocketWifiRegion": {
+    "tabs": ["Pocket WIFI", "SIM/eSIM", "Router"],
+    "header": {
+      "text": "Chọn Sản Phẩm"
+    },
+    "form": {
+      "fields": [
+        {
+          "label": "Quốc gia",
+          "placeholder": "Chọn Quốc Gia"
+        },
+        {
+          "label": "Mã khuyến mãi",
+          "placeholder": "Mã khuyến mãi"
+        },
+        {
+          "label": "Mã thành viên",
+          "placeholder": "Nhập mã thành viên"
+        }
+      ]
+    }
+  },
+  "pocketWifiPlan": {
+    "heading": "Chọn Gói Cước",
+    "tabs": ["tất cả", "hàng ngày", "hàng tháng", "đa quốc gia"]
+  },
+
+  "discountDownloadApp": {
+    "title": "Trên Ứng Dụng Di Động",
+    "percentage": "Giảm 8%",
+    "description": "Tính năng nâng cao cho trải nghiệm kỹ thuật số dễ dàng mọi lúc, mọi nơi!"
+  },
+
+  "pickDropLocation": {
+    "heroTitle": "Các vị trí nhận và trả hàng"
+  },
+
+  "routerRegion": {
+    "tabs": ["Pocket WIFI", "SIM/eSIM", "Router"],
+    "header": {
+      "text": "Chọn Sản Phẩm"
+    },
+    "form": {
+      "fields": [
+        {
+          "label": "Quốc gia",
+          "placeholder": "Chọn Quốc Gia"
+        },
+        {
+          "label": "Mã khuyến mãi",
+          "placeholder": "Mã khuyến mãi"
+        },
+        {
+          "label": "Mã thành viên",
+          "placeholder": "Nhập mã thành viên"
+        }
+      ]
+    }
+  },
+  "routerPlan": {
+    "heading": "Chọn Gói Cước",
+    "tabs": ["tất cả", "hàng ngày", "hàng tháng", "đa quốc gia"]
+  },
+
+  "simRegion": {
+    "tabs": ["Pocket WIFI", "SIM/eSIM", "Router"],
+    "header": {
+      "text": "Chọn Sản Phẩm"
+    },
+    "form": {
+      "fields": [
+        {
+          "label": "Quốc gia",
+          "placeholder": "Chọn Quốc Gia"
+        },
+        {
+          "label": "Mã giảm giá",
+          "placeholder": "Mã giảm giá"
+        },
+        {
+          "label": "Mã thành viên",
+          "placeholder": "Nhập mã thành viên"
+        }
+      ]
+    }
+  },
+  "simPlan": {
+    "heading": "Chọn Gói Cước",
+    "tabs": ["tất cả", "hàng ngày", "hàng tháng", "đa quốc gia"]
+  },
+  "simInformation": {
+    "accordionData": {
+      "items": [
+        {
+          "title": "Thông Tin",
+          "content": "Tận hưởng truy cập Internet tốc độ cao. Kết nối ngay lập tức với B thiết bị. Tốc độ Internet 4G. Lên đến 12 giờ sử dụng pin thiết bị. Hỗ trợ khách hàng 24/7 của Ycxywifi. Bao gồm thiết bị Pocket Wifi, cáp sạc, túi đựng. Kéo dài ngày hoặc thêm gói cước bất cứ lúc nào."
+        },
+        {
+          "title": "Các quốc gia được hỗ trợ",
+          "content": "Algeria, Anguilla, Antigua và Barbuda, Argentina, Aruba, Azerbaijan, Bolivia, Brazil, Quần đảo Virgin của Anh, Chile, Colombia, Costa Rica."
+        },
+        {
+          "title": "Cách sử dụng",
+          "content": "Dữ liệu toàn cầu 50GB áp dụng cho 90 quốc gia. Tốc độ dịch vụ phụ thuộc vào đối tác mạng di động. Đối với việc hủy đơn hàng, sẽ có phí 10% giá trị đơn hàng. Điều khoản và điều kiện chung áp dụng. Yoowifi có quyền thay đổi bất cứ lúc nào."
+        },
+        {
+          "title": "Tính tương thích",
+          "content": [
+            "Dữ liệu toàn cầu 50GB áp dụng cho 90 quốc gia.",
+            "Tốc độ dịch vụ phụ thuộc vào đối tác mạng di động.",
+            "Đối với việc hủy đơn hàng, sẽ có phí 10% giá trị đơn hàng.",
+            "Yoowifi có quyền thay đổi bất cứ lúc nào."
+          ]
+        }
+      ]
+    }
+  },
+  "shippingOptions": [
+    {
+      "title": "Tự nhận hàng",
+      "subtitle": "Chọn địa điểm của bạn",
+      "description": "Thuê thiết bị: 5 ngày trước chuyến đi"
+    },
+    {
+      "title": "Trong nước",
+      "subtitle": "",
+      "description": "Trong vòng 5 ngày làm việc trước chuyến đi với túi đựng gửi trả. Đối với đơn hàng đặt trước, giao hàng trong vòng 3 ngày trước chuyến đi"
+    },
+    {
+      "title": "Giao hàng trong nước nhanh",
+      "subtitle": "",
+      "description": "Trong vòng 2 ngày làm việc cho đơn hàng trước 2 giờ chiều với túi đựng gửi trả"
+    },
+    {
+      "title": "Giao hàng trong nước siêu nhanh",
+      "subtitle": "",
+      "description": "Cùng ngày làm việc trước 2 giờ chiều với túi đựng gửi trả"
+    }
+  ],
+  "orderSummary": {
+    "orderSummary": "Tóm tắt đơn hàng",
+    "planName": "Tên gói cước",
+    "minimumCharges": "Phí tối thiểu",
+    "deposit": "Tiền đặt cọc",
+    "subtotal": "Tổng phụ",
+    "quantity": "Số lượng",
+    "selfPickupDeliveryFee": "Phí giao hàng tự nhận",
+    "returnDropOffFee": "Phí trả hàng",
+    "totalDeliveryCharges": "Tổng phí giao hàng",
+    "totalDataCharges": "Tổng phí dữ liệu",
+    "paymentInformation": "Thông tin thanh toán",
+    "noCardAdded": "Chưa thêm thẻ",
+    "addCard": "Thêm thẻ",
+    "addNewPaymentMethod": "Thêm phương thức thanh toán mới",
+    "termsAndConditions": "Điều khoản và điều kiện",
+    "privacyPolicy": "Chính sách bảo mật",
+    "readAndAgree": "Tôi đã đọc và đồng ý với",
+    "orderConfirmed": "Đơn hàng đã được xác nhận!",
+    "welcomeMessage": "Chúng tôi rất vui khi thấy bạn quay lại. Hãy bắt đầu với các khóa học của bạn.",
+    "continue": "Tiếp tục",
+    "simType": "Loại SIM"
+  },
+  "setupPocketWifi": {
+    "heading": "Cách kết nối Pocketwifi?",
+    "subHeading": "Kết nối dễ dàng với Pocket WiFi chỉ trong vài bước đơn giản",
+    "setupSteps": [
+      {
+        "step": 1,
+        "title": "Bật Pocket WiFi",
+        "description": "Nhấn nút nguồn để bật và chờ đợi kết nối với mạng."
+      },
+      {
+        "step": 2,
+        "title": "Tìm tên WiFi",
+        "description": "Kiểm tra màn hình thiết bị để tìm tên mạng WiFi (SSID)."
+      },
+      {
+        "step": 3,
+        "title": "Kết nối với WiFi",
+        "description": "Trên điện thoại, máy tính bảng hoặc máy tính xách tay của bạn, mở cài đặt WiFi, chọn SSID, nhập mật khẩu hiển thị trên thiết bị và bạn sẽ được kết nối với internet."
+      }
+    ]
+  },
+
+  "returnDevicePocketWifi": {
+    "heading": "Cách trả thiết bị?",
+    "subHeading": "Theo dõi các bước đơn giản của chúng tôi để đảm bảo trải nghiệm trả thiết bị không gặp rắc rối.",
+    "cardData": [
+      {
+        "title": "Điểm trả Singpost",
+        "description": "Khi bạn thuê thiết bị, một nhãn trả trước sẽ được bao gồm trong gói. Bạn có thể sử dụng nhãn này để dễ dàng gửi trả thiết bị. Sau khi trả thiết bị, bạn sẽ nhận được một email xác nhận khi việc trả thiết bị được xử lý."
+      },
+      {
+        "title": "Điểm trả và lấy thiết bị",
+        "description": "Với Yoowifi, bạn có thể dễ dàng lấy thiết bị tại bất kỳ điểm chỉ định nào và trả thiết bị tại hơn 30 điểm trả thuận tiện trên toàn đảo. Quá trình này giúp bạn trải nghiệm không gặp rắc rối, cho phép bạn luôn kết nối mọi lúc mọi nơi khi di chuyển!"
+      }
+    ]
+  },
+
+  "pocketWifiTopUp": {
+    "heading": "Cách nạp tiền gói cước",
+    "subHeading": "Dễ dàng quản lý nhu cầu dữ liệu của bạn với Yoowifi Top-Up",
+    "setupSteps": [
+      {
+        "step": 1,
+        "title": "Chọn thiết bị của bạn",
+        "description": "Mở ứng dụng Yoowifi, vào My Data, và chọn thiết bị bạn muốn nạp tiền."
+      },
+      {
+        "step": 2,
+        "title": "Chọn gói cước của bạn",
+        "description": "Nhấp vào Thêm Dữ liệu, chọn quốc gia và gói cước bạn muốn, sau đó thiết lập ngày bắt đầu và kết thúc."
+      },
+      {
+        "step": 3,
+        "title": "Tiến hành thanh toán",
+        "description": "Xác nhận các lựa chọn của bạn và tiến hành thanh toán."
+      }
+    ]
+  },
+
+  "affiliate": {
+    "affiliateServiceData": [
+      {
+        "title": "Chọn thiết bị của bạn",
+        "description": "Mở ứng dụng Yoowifi, vào My Data, và chọn thiết bị bạn muốn nạp tiền."
+      },
+      {
+        "title": "Chọn gói cước của bạn",
+        "description": "Nhấp vào Thêm Dữ liệu, chọn quốc gia và gói cước bạn muốn, sau đó thiết lập ngày bắt đầu và kết thúc."
+      },
+      {
+        "title": "Tiến hành thanh toán",
+        "description": "Xác nhận các lựa chọn của bạn và tiến hành thanh toán."
+      }
+    ],
+    "banner": {
+      "pageTitle": "CỘNG TÁC VIÊN",
+      "description": "Nếu bạn có câu hỏi hoặc thắc mắc, chỉ cần điền vào mẫu và chúng tôi sẽ phản hồi bạn sớm!"
+    },
+    "joinAffiliateSection": {
+      "sectionId": "join-affiliate",
+      "secCommon80Class": "sec_common_80 xl:!px-0",
+      "sectionHeader": {
+        "heading": "Tham gia chương trình YooWander",
+        "midHeading": "Khám phá thế giới và luôn kết nối!",
+        "subHeading": "Bạn là một influencer yêu thích du lịch và muốn luôn kết nối và chia sẻ những chuyến phiêu lưu với người theo dõi? Tham gia chương trình Cộng tác viên Yoo Wander của Yoowifi để có cơ hội hợp tác thú vị. Chúng tôi luôn sẵn sàng hỗ trợ nội dung du lịch chân thật của bạn và giữ bạn kết nối với dữ liệu miễn phí toàn cầu."
+      }
+    }
+  },
+
+  "howItWorksPage": {
+    "rentWifiSection": {
+      "sectionHeader": {
+        "heading": "Thuê Yoowifi Pocket WiFi trong 3 Bước Dễ Dàng!",
+        "subHeading": "Chọn gói dịch vụ, nhận thiết bị của bạn và kết nối mọi lúc mọi nơi mà không gặp rắc rối!"
+      },
+      "rentWifiData": [
+        {
+          "step": "Bước-1",
+          "title": "Tải Ứng Dụng Yoowifi",
+          "description": "Tải ứng dụng Yoowifi (chỉ áp dụng cho người dùng lần đầu)",
+          "buttonText": "Tải Yoowifi",
+          "icon": "DownloadFillIcon"
+        },
+        {
+          "step": "Bước-2",
+          "title": "Chọn Gói Dịch Vụ",
+          "description": "Trên ứng dụng, tìm kiếm quốc gia điểm đến, chọn dung lượng dữ liệu và thiết lập ngày bắt đầu và kết thúc."
+        },
+        {
+          "step": "Bước-3",
+          "title": "Hoàn Tất Đặt Hàng",
+          "description": "Chọn phương thức giao hàng yêu thích và tiến hành thanh toán."
+        }
+      ],
+      "links": [
+        {
+          "title": "Địa Điểm Trả Thiết Bị"
+        },
+        {
+          "title": "Liên Hệ Chúng Tôi",
+          "variant": "secondary"
+        }
+      ]
+    },
+    "deliveryChargesSection": {
+      "sectionHeader": {
+        "heading": "Phí Giao Hàng",
+        "subHeading": "Đừng để internet chậm cản trở bạn! Chuyển sang các giải pháp di động của chúng tôi để trải nghiệm kết nối không giới hạn."
+      },
+      "howItWorksData": [
+        {
+          "type": "Local",
+          "typeSuffix": "",
+          "duration": "3-4 ngày làm việc"
+        },
+        {
+          "type": "Express",
+          "typeSuffix": "(Đặt hàng trước 10 giờ sáng)",
+          "duration": "3-4 ngày làm việc"
+        },
+        {
+          "type": "Super Express",
+          "typeSuffix": "(Đặt hàng trước 10 giờ sáng)",
+          "duration": "3-4 ngày làm việc"
+        },
+        {
+          "type": "Standard International",
+          "typeSuffix": "",
+          "duration": "3-4 ngày làm việc"
+        }
+      ]
+    },
+    "rentServices": [
+      {
+        "title": "Túi Gửi Trả Thiết Bị Trong Nước",
+        "description": "Chỉ cần đóng gói thiết bị và phụ kiện vào túi gửi trả đã trả phí và gửi tại bất kỳ hòm thư SingPost nào."
+      },
+      {
+        "title": "Trả Lại Bằng Cách Tự Động",
+        "description": "Chỉ cần đóng gói thiết bị và phụ kiện và bạn có thể trả lại tại bất kỳ địa điểm nhận/trả nào."
+      },
+      {
+        "title": "Dịch Vụ Chuyển Phát Quốc Tế",
+        "description": "Liên hệ với DHL địa phương để lấy thiết bị nếu bạn có túi gửi trả hoặc tự sắp xếp dịch vụ chuyển phát của riêng bạn."
+      }
+    ],
+    "selfReturnSection": {
+      "sectionHeader": {
+        "heading": "Trả Thiết Bị Tự Động Chỉ Trong Vài Giây",
+        "subHeading": "Với Yoowifi, bạn dễ dàng lấy thiết bị tại bất kỳ địa điểm nào và trả lại tại hơn 20 điểm trả trên toàn đảo. Trải nghiệm không lo lắng và luôn kết nối mọi nơi bạn đi!"
+      },
+      "selfReturnData": [
+        {
+          "title": "Đăng Nhập Vào Ứng Dụng Yoowifi",
+          "description": "Bắt đầu bằng cách đến bất kỳ một trong hơn 20 địa điểm nhận và trả thiết bị. Trên ứng dụng, vào 'Dữ Liệu Của Tôi', chọn thiết bị bạn muốn trả lại và nhấn vào 'Trả Thiết Bị'."
+        },
+        {
+          "title": "Quét Mã QR Địa Điểm",
+          "description": "Tiếp theo, quét mã QR của địa điểm mà nhân viên cung cấp."
+        },
+        {
+          "title": "Quét Mã QR Của Thiết Bị",
+          "description": "Quét mã QR ở mặt sau thiết bị để hoàn tất việc trả lại."
+        }
+      ]
+    },
+    "topUpSection": {
+      "sectionHeader": {
+        "heading": "Nạp Dữ Liệu Của Bạn Chỉ Trong Vài Bước",
+        "subHeading": "Thêm dữ liệu dễ dàng chỉ với vài thao tác, đảm bảo bạn luôn kết nối"
+      },
+      "topUpData": [
+        {
+          "title": "Chọn Thiết Bị Của Bạn",
+          "description": "Mở ứng dụng Yoowifi, vào mục My Data, và chọn thiết bị bạn muốn nạp thêm."
+        },
+        {
+          "title": "Chọn Gói Dịch Vụ",
+          "description": "Nhấn vào Thêm Dữ Liệu, chọn quốc gia và gói dịch vụ bạn mong muốn, sau đó thiết lập ngày bắt đầu và kết thúc."
+        },
+        {
+          "title": "Tiến Hành Thanh Toán",
+          "description": "Xác nhận lựa chọn của bạn và tiến hành thanh toán."
+        }
+      ]
+    }
+  },
+
+  "countryCoverage": {
+    "sectionHeader": {
+      "heading": "Phạm Vi Quốc Gia",
+      "subHeading": "Đi khắp thế giới với sự tự tin! Luôn kết nối và sẵn sàng dữ liệu, mọi lúc mọi nơi!"
+    },
+    "regionList": [
+      {
+        "name": "Châu Á",
+        "value": "asia"
+      },
+      {
+        "name": "Châu Âu",
+        "value": "europe"
+      },
+      {
+        "name": "Châu Mỹ",
+        "value": "america"
+      },
+      {
+        "name": "Châu Úc",
+        "value": "australia"
+      },
+      {
+        "name": "Châu Phi",
+        "value": "africa"
+      }
+    ]
+  },
+
+  "stayConnectedCTA": {
+    "heading": "Giữ Kết Nối Mọi Nơi",
+    "subHeading": "Hơn 140 Quốc Gia",
+    "description": "Một thế giới WiFi không lo lắng trong lòng bàn tay của bạn. Kết nối internet chất lượng khi bạn du lịch—dù hành trình của bạn đưa bạn đến đâu."
+  },
+
+  "login": {
+    "title": "Cần Đăng Nhập!",
+    "text": "Vui lòng đăng nhập để tiếp tục."
+  },
+
+  "authModal": {
+    "authMessages": {
+      "welcomeBack": {
+        "title": "Chào mừng trở lại!",
+        "text": "Chúng tôi rất vui khi gặp lại bạn. Hãy cùng khám phá các khóa học của bạn."
+      },
+      "verification": {
+        "title": "Xác minh",
+        "text": "Một mã xác nhận đã được gửi đến email và số điện thoại của bạn."
+      },
+      "signUp": {
+        "title": "Đăng ký",
+        "text": "Việc đăng ký thật sự rất thú vị. Hãy bắt đầu nào!"
+      },
+      "signUpSuccessful": {
+        "title": "Đăng ký thành công!",
+        "text": "Cảm ơn bạn đã tham gia cùng chúng tôi! Tài khoản của bạn đã sẵn sàng."
+      },
+      "loginSuccessful": {
+        "title": "Đăng nhập thành công!",
+        "text": "Chào mừng trở lại! Sẵn sàng tiếp tục không?"
+      },
+      "accountReady": {
+        "title": "Tài khoản đã sẵn sàng!",
+        "text": "Cảm ơn bạn đã tham gia cùng chúng tôi! Tài khoản của bạn đã sẵn sàng."
+      }
+    },
+    "placeholders": {
+      "firstName": "Tên",
+      "lastName": "Họ",
+      "email": "Email"
+    },
+    "prompts": {
+      "noAccount": {
+        "text": "Chưa có tài khoản?",
+        "linkText": "Đăng ký ngay"
+      },
+      "hasAccount": {
+        "text": "Đã có tài khoản?",
+        "linkText": "Đăng nhập"
+      },
+      "resendOTP": {
+        "text": "Chưa nhận được mã OTP?",
+        "linkText": "Gửi lại mã"
+      }
+    }
+  }
+}

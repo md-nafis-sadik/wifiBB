@@ -1,0 +1,42 @@
+import { affiliateServiceData } from "@/services";
+import React from "react";
+import { useTranslation } from "react-i18next";
+
+const AffiliateService = () => {
+  const { t } = useTranslation();
+
+  return (
+    <section className="container3X sec_common_80 xl:!px-0">
+      <div className="bg-[#ECECEC] rounded-xl md:rounded-3xl">
+        <div className="sec_common_80">
+          <div className="containerX">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-4 lg:gap-6">
+              {affiliateServiceData.map((data, index) => (
+                <article
+                  key={index}
+                  className="px-4 py-8 md:py-6 bg-white rounded-2xl"
+                >
+                  <span className="shrink-0 flex justify-center">
+                    {data.icon()}
+                  </span>
+
+                  <h5 className="text-[18px] xl:text-2xl font-semibold xl:font-bold leading-[140%] text-center text-black-900 mt-4 md:mt-6 mb-4">
+                    {t(`affiliate.affiliateServiceData.${index}.title`) ||
+                      data.title}
+                  </h5>
+
+                  <p className="text-black-700 text-sm xl:text-[18px] text-center">
+                    {t(`affiliate.affiliateServiceData.${index}.description`) ||
+                      data.description}
+                  </p>
+                </article>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+};
+
+export default AffiliateService;

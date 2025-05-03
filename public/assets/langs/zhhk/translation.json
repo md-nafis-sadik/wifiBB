@@ -1,0 +1,2229 @@
+{
+  "buttonText": {
+    "buyNow": "立即購買",
+    "findOutMore": "了解更多",
+    "search": "搜尋",
+    "seeDetails": "查看詳情",
+    "aboutUs": "關於我們",
+    "howItWorks": "如何運作",
+    "downloadApp": "下載應用程式",
+    "loadMore": "加載更多",
+    "submit": "提交",
+    "getInTouch": "聯繫我們",
+    "exploreProducts": "探索產品",
+    "contactUs": "聯繫我們",
+    "enquireNow": "立即詢問",
+    "viewMore": "查看更多",
+    "viewSimESim": "查看SIM/eSIM",
+    "viewSteps": "查看步驟",
+    "rentADeviceNow": "立即租借設備",
+    "rental": "租賃",
+    "topUp": "充值",
+    "previous": "上一頁",
+    "next": "下一頁",
+    "addACountry": "新增國家",
+    "viewLocations": "查看地點",
+    "sim": "SIM",
+    "eSim": "eSIM",
+    "homeorAddress": "家庭/地址",
+    "hotel": "酒店",
+    "saveAddress": "保存地址",
+    "buyPocketWifi": "購買口袋WiFi",
+    "dropOffLocations": "歸還地點",
+    "login": "登錄",
+    "logout": "登出",
+    "continue": "繼續",
+    "verify": "驗證"
+  },
+  "extraText": {
+    "from": "來自",
+    "selectCountry": "選擇國家",
+    "corporate": "企業",
+    "more": "更多",
+    "unlimitedData": "無限數據",
+    "day": "天",
+    "endingIn": "結束於",
+    "countryCoverage": "國家覆蓋範圍",
+    "country": "國家",
+    "selectPackage": "*請先選擇一個套餐",
+    "information": "資訊",
+    "service": "服務",
+    "dataSize": "數據大小",
+    "selectDevice": "選擇設備",
+    "selectDeviceToTopUp": "選擇設備進行充值",
+    "wifiDevices": "WiFi 設備",
+    "planSummary": "計劃總結",
+    "chosenPlan": "選擇的計劃",
+    "dataAvailable": "可用數據",
+    "startDate": "開始日期",
+    "quantity": "數量",
+    "totalAmount": "總金額",
+    "simType": "SIM 類型",
+    "chooseNoOfDays": "選擇天數",
+    "noOfSimESim": "SIM/eSIM 數量",
+    "selectShippingOption": "選擇配送選項",
+    "selectLocation": "選擇地點",
+    "deliveryAddress": "配送地址",
+    "addAddress": "新增地址",
+    "addNewAddress": "新增新地址",
+    "addressDetails": "地址詳情",
+    "noCountriesFoundInThisRegion": "此地區未找到國家",
+    "searchAnything": "搜尋任何內容...",
+    "filters": "篩選",
+    "noOfRentalDevices": "租賃設備數量"
+  },
+  "form": {
+    "startDate": "開始日期",
+    "endDate": "結束日期",
+    "pickADate": "選擇日期",
+    "selectCountry": "選擇國家",
+    "country": "國家",
+    "fullName": "全名",
+    "enterNameHere": "輸入名字",
+    "phoneNumber": "電話號碼",
+    "enterNumber": "輸入號碼",
+    "state": "省/州",
+    "selectState": "選擇省/州",
+    "address": "地址",
+    "enterFullAddress": "輸入完整地址",
+    "apartment": "公寓/樓層/單位/套房等",
+    "enterApartmentDetails": "輸入您的公寓/樓層/單位/套房詳情",
+    "province": "省份",
+    "enterProvince": "輸入省份",
+    "postalCode": "郵政編碼",
+    "enterPostalCode": "輸入郵政編碼",
+    "addCreditDebit": "新增信用/借記卡",
+    "cardholderName": "持卡人姓名*",
+    "cardholderNamePlaceholder": "輸入全名",
+    "cardNumber": "卡號*",
+    "cardNumberPlaceholder": "輸入卡號",
+    "cvcCvv": "CVC/CVV2*",
+    "cvcCvvPlaceholder": "輸入CVC代碼",
+    "expiryDate": "到期日期",
+    "expiryDatePlaceholder": "MM/YY"
+  },
+  "notFound": {
+    "noPackage": "未找到您的搜索包裹"
+  },
+  "navbar": {
+    "forYoo": "為Yoo",
+    "commercial": [
+      {
+        "name": "首頁"
+      },
+      {
+        "name": "口袋WiFi"
+      },
+      {
+        "name": "路由器"
+      },
+      {
+        "name": "SIM/eSIM"
+      },
+      {
+        "name": "聯繫我們"
+      },
+      {
+        "name": "關於我們"
+      }
+    ],
+    "corporate": [
+      {
+        "name": "物聯網"
+      },
+      {
+        "name": "酒店"
+      },
+      {
+        "name": "旅行社"
+      },
+      {
+        "name": "海事互聯網"
+      },
+      {
+        "name": "辦公室/路演活動"
+      },
+      {
+        "name": "關於我們"
+      },
+      {
+        "name": "商業"
+      }
+    ],
+    "megamenu": {
+      "menuText": "其他",
+      "menuItems": [
+        {
+          "title": "旅行數據",
+          "items": ["口袋WiFi詳情", "SIM/eSIM詳情"]
+        },
+        {
+          "title": "國家覆蓋範圍",
+          "items": ["亞洲", "歐洲", "美洲", "澳洲", "非洲"]
+        },
+        {
+          "title": "取貨/歸還地點",
+          "items": ["取貨地點", "歸還地點"]
+        },
+        {
+          "title": "如何運作",
+          "items": [
+            "租借Yoowifi口袋WiFi",
+            "簡單自助退還，少於1分鐘",
+            "創建新行程或充值數據"
+          ]
+        },
+        {
+          "title": "聯盟",
+          "items": ["加入Yoowifi聯盟Yoo Wander計劃", "立即聯繫我們！"]
+        },
+        {
+          "title": "操作指南",
+          "items": ["設置eSIM", "如何連接口袋WiFi？"]
+        }
+      ]
+    }
+  },
+  "heroHome": {
+    "heroConnected": {
+      "stayConnected": "保持連接",
+      "anyTimeAnyWhere": "隨時隨地",
+      "seamlessConnectivity": "無縫連接"
+    },
+    "heroTravel": {
+      "travelCompanion": "YOOUR #1 旅行伴侶"
+    },
+    "heroDiscover": {
+      "discover": "介紹我們的新口袋WiFi"
+    },
+    "slides": [
+      {
+        "title": "更快",
+        "subTitle": "5G連接",
+        "description": "在90多個國家提供最高5G連接"
+      },
+      {
+        "title": "延長",
+        "subTitle": "電池壽命",
+        "description": "電池壽命延長至20小時。"
+      },
+      {
+        "title": "包含",
+        "subTitle": "螢幕顯示",
+        "description": "現在您可以追蹤數據使用情況，輕鬆連接，並無煩惱地訪問更多資訊。"
+      }
+    ]
+  },
+  "productsData": {
+    "title": "我們的產品",
+    "cardData": [
+      {
+        "title": "口袋WiFi",
+        "description": "隨時隨地保持連接，享受高速口袋WiFi，完美適合旅行和遠程工作。",
+        "offer": "五折優惠"
+      },
+      {
+        "title": "路由器",
+        "description": "在家體驗無縫穩定的互聯網連接，享受先進的路由器技術。",
+        "offer": "七折優惠"
+      },
+      {
+        "title": "SIM/eSIM",
+        "description": "獲得即時連接，提供適用於所有設備的SIM和eSIM選項。",
+        "offer": "八折優惠"
+      }
+    ]
+  },
+  "getYourOwn": {
+    "title": "獲取您自己的 Yoowifi Pocket WiFi",
+    "features": [
+      "在90多個國家/地區提供年度覆蓋",
+      "最多可共享8個設備",
+      "支持最高5G連接",
+      "可進行數據充值",
+      "可選擇50GB、100GB或200GB數據套餐"
+    ]
+  },
+  "internetPackages": {
+    "sectionHeading": "網絡套餐",
+    "sectionSubHeading": "為您的需求探索我們的網絡套餐",
+    "searchPlaceholder": "搜尋國家.."
+  },
+  "whyYooWifi": {
+    "sectionHeading": "為什麼選擇 Yoowifi？",
+    "servicesData": [
+      {
+        "title": "隨時隨地保持連線"
+      },
+      {
+        "title": "節省大量國際漫遊費用"
+      },
+      {
+        "title": "無與倫比的價格保證"
+      }
+    ]
+  },
+  "stayConnectedRegions": {
+    "sectionHeading": "隨時隨地保持連線",
+    "sectionSubHeading": "立即選擇您理想的目的地與完美套餐",
+    "regions": ["亞洲", "美洲", "非洲", "澳洲", "歐洲"]
+  },
+  "customerTestimonial": {
+    "sectionHeading": "我們的客戶怎麼說",
+    "sectionSubHeading": "了解我們尊貴的客戶對我們服務的體驗評價",
+    "testimonials": [
+      {
+        "description": "過去六個月使用這項eSIM服務，完全改變了我們管理項目連線的方式！",
+        "author": "Sarah Johnson",
+        "designation": "執行長，TechWave Solutions"
+      },
+      {
+        "description": "這個平台為我們的國際項目帶來了革命性改變，讓我們可以輕鬆保持連線，無需擔心過去的麻煩。",
+        "author": "Michael Lee",
+        "designation": "專案經理，GlobalConnect"
+      },
+      {
+        "description": "這項服務提供的便捷性和靈活性，使我們能夠專注於最重要的事情—我們的工作！",
+        "author": "Emily Davis",
+        "designation": "營運長，Innovatech"
+      },
+      {
+        "description": "自從轉用這項eSIM解決方案，我們節省了大量費用。對於任何跨國經營的企業來說，這都是明智的選擇。",
+        "author": "James Taylor",
+        "designation": "財務長，FinEdge"
+      },
+      {
+        "description": "穩定的連線對我們來說至關重要，而這項服務超出了我們的預期。強烈推薦！",
+        "author": "Sophia Martinez",
+        "designation": "營運總監，TransLogix"
+      }
+    ]
+  },
+  "howItWorks": {
+    "sectionHeading": "隨時隨地保持連線",
+    "sectionSubHeading": "了解我們尊貴的客戶對我們服務的體驗評價",
+    "howItWorksData": [
+      {
+        "title": "如何租借",
+        "description": "只需3個簡單步驟，即可使用Yoowifi保持連線！下載應用程式，選擇您的目的地，並選擇適合您需求的套餐。"
+      },
+      {
+        "title": "如何歸還",
+        "description": "選擇使用Singpost投遞或到全島的服務地點輕鬆退還，享受無憂的服務。"
+      },
+      {
+        "title": "取貨與還貨地點",
+        "description": "我們提供超過20個取貨與還貨地點，讓您輕鬆取到口袋WiFi，隨時保持連線，無憂無慮。"
+      }
+    ]
+  },
+  "collaborateMarquee": {
+    "sectionHeading": "我們合作的運營商"
+  },
+  "downloadYooWifi": {
+    "downloadText": "下載",
+    "ctaText": "隨時隨地輕鬆享受先進的數位體驗！"
+  },
+  "country": {
+    "packages": [
+      {
+        "name": "Australia-Portable Hotspot",
+        "title": "基本方案",
+        "details": [
+          {
+            "title": "描述",
+            "info": "BASIC 日通行證\n- 享受無限數據自由\n- 每天 1GB 高速流量\n- 僅需 SGD$2.90/天\n\n****************或****************\nSUPER 日通行證\n- 享受無限數據自由\n- 每天 1GB 高速流量\n- 僅需 SGD$2.90/天"
+          },
+          {
+            "title": "資訊",
+            "info": "BASIC 日通行證\n- 享受無限數據自由\n- 每天 1GB 高速流量\n- 僅需 SGD$2.90/天\n\n****************或****************\nSUPER 日通行證\n- 享受無限數據自由\n- 每天 1GB 高速流量\n- 僅需 SGD$2.90/天"
+          },
+          {
+            "title": "條款與條件",
+            "info": "BASIC 日通行證\n- 享受無限數據自由\n- 每天 1GB 高速流量\n- 僅需 SGD$2.90/天\n\n****************或****************\nSUPER 日通行證\n- 享受無限數據自由\n- 每天 1GB 高速流量\n- 僅需 SGD$2.90/天"
+          }
+        ],
+        "features": [
+          "保留 Yoowifi 設備",
+          "僅限加值方案",
+          "有效期 365 天",
+          "覆蓋 90 個國家"
+        ]
+      },
+      {
+        "name": "Albania-Portable Hotspot",
+        "title": "旅行者方案",
+        "details": [
+          {
+            "title": "描述",
+            "info": "BASIC 日通行證\n- 享受無限數據自由\n- 每天 1GB 高速流量\n- 僅需 SGD$2.90/天\n\n****************或****************\nSUPER 日通行證\n- 享受無限數據自由\n- 每天 1GB 高速流量\n- 僅需 SGD$2.90/天"
+          },
+          {
+            "title": "資訊",
+            "info": "BASIC 日通行證\n- 享受無限數據自由\n- 每天 1GB 高速流量\n- 僅需 SGD$2.90/天\n\n****************或****************\nSUPER 日通行證\n- 享受無限數據自由\n- 每天 1GB 高速流量\n- 僅需 SGD$2.90/天"
+          },
+          {
+            "title": "條款與條件",
+            "info": "BASIC 日通行證\n- 享受無限數據自由\n- 每天 1GB 高速流量\n- 僅需 SGD$2.90/天\n\n****************或****************\nSUPER 日通行證\n- 享受無限數據自由\n- 每天 1GB 高速流量\n- 僅需 SGD$2.90/天"
+          }
+        ],
+        "features": [
+          "保留 Yoowifi 設備",
+          "僅限加值方案",
+          "有效期 365 天",
+          "覆蓋 90 個國家"
+        ]
+      },
+      {
+        "name": "France - Pocket Wifi",
+        "title": "擴展方案",
+        "details": [
+          {
+            "title": "描述",
+            "info": "BASIC 日通行證\n- 享受無限數據自由\n- 每天 1GB 高速流量\n- 僅需 SGD$2.90/天\n\n****************或****************\nSUPER 日通行證\n- 享受無限數據自由\n- 每天 1GB 高速流量\n- 僅需 SGD$2.90/天"
+          },
+          {
+            "title": "資訊",
+            "info": "BASIC 日通行證\n- 享受無限數據自由\n- 每天 1GB 高速流量\n- 僅需 SGD$2.90/天\n\n****************或****************\nSUPER 日通行證\n- 享受無限數據自由\n- 每天 1GB 高速流量\n- 僅需 SGD$2.90/天"
+          },
+          {
+            "title": "條款與條件",
+            "info": "BASIC 日通行證\n- 享受無限數據自由\n- 每天 1GB 高速流量\n- 僅需 SGD$2.90/天\n\n****************或****************\nSUPER 日通行證\n- 享受無限數據自由\n- 每天 1GB 高速流量\n- 僅需 SGD$2.90/天"
+          }
+        ],
+        "features": [
+          "保留 Yoowifi 設備",
+          "僅限加值方案",
+          "有效期 365 天",
+          "覆蓋 90 個國家"
+        ]
+      },
+      {
+        "name": "希臘 - 便攜熱點",
+        "plan": "basic-daypass",
+        "title": "無限套餐",
+        "features": [
+          "保留Yoowifi設備",
+          "僅限充值套餐",
+          "有效期365天",
+          "覆蓋90個國家"
+        ],
+        "category": "每日",
+        "desc": "GB",
+        "coverage": [
+          "阿爾及利亞",
+          "安圭拉",
+          "安提瓜和巴布達",
+          "阿根廷",
+          "阿魯巴",
+          "阿塞拜疆",
+          "玻利維亞",
+          "巴西",
+          "英屬維京群島",
+          "智利",
+          "哥倫比亞",
+          "哥斯達黎加"
+        ],
+        "details": [
+          {
+            "title": "描述",
+            "info": "基本日通行證\n- 享受無限數據自由\n- 每日1GB高速數據\n- 每天低至SGD$2.90\n\n****************或****************\n超級日通行證\n- 享受無限數據自由\n- 每日1GB高速數據\n- 每天低至SGD$2.90"
+          },
+          {
+            "title": "資訊",
+            "info": "基本日通行證\n- 享受無限數據自由\n- 每日1GB高速數據\n- 每天低至SGD$2.90\n\n****************或****************\n超級日通行證\n- 享受無限數據自由\n- 每日1GB高速數據\n- 每天低至SGD$2.90"
+          },
+          {
+            "title": "條款與條件",
+            "info": "基本日通行證\n- 享受無限數據自由\n- 每日1GB高速數據\n- 每天低至SGD$2.90\n\n****************或****************\n超級日通行證\n- 享受無限數據自由\n- 每日1GB高速數據\n- 每天低至SGD$2.90"
+          }
+        ]
+      },
+      {
+        "name": "愛爾蘭 - 便攜熱點",
+        "plan": "5gb-7days",
+        "title": "精簡套餐",
+        "features": [
+          "保留Yoowifi設備",
+          "僅限充值套餐",
+          "有效期180天",
+          "覆蓋60個國家"
+        ],
+        "category": "每月",
+        "desc": "GB",
+        "coverage": [
+          "阿爾及利亞",
+          "安圭拉",
+          "安提瓜和巴布達",
+          "阿根廷",
+          "阿魯巴",
+          "阿塞拜疆",
+          "玻利維亞",
+          "巴西",
+          "英屬維京群島",
+          "智利",
+          "哥倫比亞",
+          "哥斯達黎加"
+        ],
+        "details": [
+          {
+            "title": "描述",
+            "info": "基本日通行證\n- 享受無限數據自由\n- 每日1GB高速數據\n- 每天低至SGD$2.90\n\n****************或****************\n超級日通行證\n- 享受無限數據自由\n- 每日1GB高速數據\n- 每天低至SGD$2.90"
+          },
+          {
+            "title": "資訊",
+            "info": "基本日通行證\n- 享受無限數據自由\n- 每日1GB高速數據\n- 每天低至SGD$2.90\n\n****************或****************\n超級日通行證\n- 享受無限數據自由\n- 每日1GB高速數據\n- 每天低至SGD$2.90"
+          },
+          {
+            "title": "條款與條件",
+            "info": "基本日通行證\n- 享受無限數據自由\n- 每日1GB高速數據\n- 每天低至SGD$2.90\n\n****************或****************\n超級日通行證\n- 享受無限數據自由\n- 每日1GB高速數據\n- 每天低至SGD$2.90"
+          }
+        ]
+      },
+      {
+        "name": "德國 - 口袋WiFi",
+        "plan": "20gb-20days",
+        "title": "商務套餐",
+        "features": [
+          "保留Yoowifi設備",
+          "僅限充值套餐",
+          "有效期365天",
+          "優先支持",
+          "覆蓋100個國家"
+        ],
+        "category": "流量",
+        "desc": "GB",
+        "coverage": [
+          "阿爾及利亞",
+          "安圭拉",
+          "安提瓜和巴布達",
+          "阿根廷",
+          "阿魯巴",
+          "阿塞拜疆",
+          "玻利維亞",
+          "巴西",
+          "英屬維京群島",
+          "智利",
+          "哥倫比亞",
+          "哥斯達黎加"
+        ],
+        "details": [
+          {
+            "title": "描述",
+            "info": "基本日通行證\n- 享受無限數據自由\n- 每日1GB高速數據\n- 每天低至SGD$2.90\n\n****************或****************\n超級日通行證\n- 享受無限數據自由\n- 每日1GB高速數據\n- 每天低至SGD$2.90"
+          },
+          {
+            "title": "資訊",
+            "info": "基本日通行證\n- 享受無限數據自由\n- 每日1GB高速數據\n- 每天低至SGD$2.90\n\n****************或****************\n超級日通行證\n- 享受無限數據自由\n- 每日1GB高速數據\n- 每天低至SGD$2.90"
+          },
+          {
+            "title": "條款與條件",
+            "info": "基本日通行證\n- 享受無限數據自由\n- 每日1GB高速數據\n- 每天低至SGD$2.90\n\n****************或****************\n超級日通行證\n- 享受無限數據自由\n- 每日1GB高速數據\n- 每天低至SGD$2.90"
+          }
+        ]
+      },
+      {
+        "name": "瑞典 - 口袋WiFi",
+        "plan": "20gb-20days",
+        "title": "商務套餐",
+        "features": [
+          "保留Yoowifi設備",
+          "僅限充值套餐",
+          "有效期365天",
+          "優先支持",
+          "覆蓋100個國家"
+        ],
+        "category": "流量",
+        "desc": "GB",
+        "coverage": [
+          "阿爾及利亞",
+          "安圭拉",
+          "安提瓜和巴布達",
+          "阿根廷",
+          "阿魯巴",
+          "阿塞拜疆",
+          "玻利維亞",
+          "巴西",
+          "英屬維京群島",
+          "智利",
+          "哥倫比亞",
+          "哥斯達黎加"
+        ],
+        "details": [
+          {
+            "title": "描述",
+            "info": "基本日通行證\n- 享受無限數據自由\n- 每日1GB高速數據\n- 每天低至SGD$2.90\n\n****************或****************\n超級日通行證\n- 享受無限數據自由\n- 每日1GB高速數據\n- 每天低至SGD$2.90"
+          },
+          {
+            "title": "資訊",
+            "info": "基本日通行證\n- 享受無限數據自由\n- 每日1GB高速數據\n- 每天低至SGD$2.90\n\n****************或****************\n超級日通行證\n- 享受無限數據自由\n- 每日1GB高速數據\n- 每天低至SGD$2.90"
+          },
+          {
+            "title": "條款與條件",
+            "info": "基本日通行證\n- 享受無限數據自由\n- 每日1GB高速數據\n- 每天低至SGD$2.90\n\n****************或****************\n超級日通行證\n- 享受無限數據自由\n- 每日1GB高速數據\n- 每天低至SGD$2.90"
+          }
+        ]
+      }
+    ]
+  },
+  "pocketWifi": {
+    "product": {
+      "name": "口袋Wi-Fi",
+      "description": "Yoowifi 口袋Wi-Fi裝置提供快速且可靠的網絡連接，無論你身處何地。非常適合旅行者和遠程工作者，最多可同時連接8個設備。Yoowifi提供多種數據計劃，無論你是短途旅行還是長期旅行，都能滿足你的需求。覆蓋多個國家，無疑是理想的旅行伴侶。",
+      "features": [
+        "隨時隨地保持連接",
+        "大幅節省國際漫遊費用",
+        "無可比擬的價格保證"
+      ],
+      "buttons": {
+        "text": "查看計劃",
+        "text2": "獲取口袋Wi-Fi"
+      },
+      "tabs": [
+        {
+          "title": "描述",
+          "content": "使用簡便，並擁有流線型的極簡設計。只需打開設備，連接你的設備，即可開始使用！不再需要擔心繁瑣的設置過程或笨重的設備。而且，口袋Wi-Fi裝置還提供穩定可靠的連接，確保你無論身處何地都能保持連接。無論是出差還是家庭度假，你都可以享受高速互聯網，無間斷。"
+        },
+        {
+          "title": "規格",
+          "content": "CPU: SC8310LTE-FDD：頻段 1 / 2 / 3 / 4 / 5 / 7 / 8 / 12 / 13 / 17 / 18 / 20 / 25 / 26 / 28 / 66\nLTE-TDD：頻段 34 / 38 / 39 / 40 / 41 (194M)\nWCDMA：頻段 1 / 2 / 4 / 5 / 8\nTD-SCDMA：無 CDMA：無\nEVDO：無\nGSM：850 / 900 / 1800 / 1900\n最大速度：下載150Mbps / 上傳50Mbps\nWi-Fi：2.4GHz 802.11 b / g / n 1T1R\n最大Wi-Fi連接數：8\n電池：3000mAh\n端口：Type-C USB\n輸入：5V – 1A\n尺寸：120mm x 64.6mm x 12mm\n重量：112g\n外殼材質：塑料"
+        },
+        {
+          "title": "包含內容",
+          "content": "50GB全球數據，適用於90個國家。\n服務速度取決於移動網絡合作夥伴。\n如需取消訂單，將收取訂單金額10%的費用。\n適用一般條款和條件。\nYoowifi保留隨時更改的權利。"
+        },
+        {
+          "title": "條款與條件",
+          "content": "阿爾巴尼亞、安道爾、亞美尼亞、澳大利亞、奧地利、巴林、孟加拉國、比利時、波士尼亞和赫塞哥維納、文萊、保加利亞、柬埔寨、加拿大、中國、克羅地亞、塞浦路斯、捷克共和國、丹麥、埃及、愛沙尼亞、芬蘭、法國、格魯吉亞、德國、直布羅陀、希臘、根西島、香港、匈牙利、冰島、印度、印尼、愛爾蘭、曼島、以色列、義大利、日本、澤西、約旦、哈薩克斯坦、科威特、寮國、拉脫維亞、列支敦士登、立陶宛、盧森堡、澳門、馬其頓、馬來西亞、馬爾他、墨西哥、摩納哥、黑山、緬甸、荷蘭、新西蘭、挪威、阿曼、巴基斯坦、菲律賓、波蘭、葡萄牙、卡塔爾、留尼旺、羅馬尼亞、俄羅斯、聖馬力諾、沙特阿拉伯、塞爾維亞、斯洛伐克、斯洛文尼亞、南韓、西班牙、斯里蘭卡、瑞典、瑞士、台灣、泰國、土耳其、阿聯酋、烏克蘭、英國、美国、烏茲別克、梵蒂岡、越南"
+        }
+      ]
+    },
+    "features": {
+      "heading": "主要特點",
+      "subHeading": "別讓慢速網絡拖住你的步伐！選擇我們的便攜解決方案，體驗無邊界的連接。",
+      "featureList": [
+        "高達4G LTE速度",
+        "靈活的數據選項",
+        "雲SIM技術",
+        "最多可共享8個設備",
+        "12小時電池壽命"
+      ]
+    },
+    "aboutUs": [
+      {
+        "_id": 1,
+        "title": "企業解決方案",
+        "content": "為企業提供可靠、安全的網絡連接，提供可擴展、高效的解決方案，確保在任何地方無縫整合並保持順利運營"
+      },
+      {
+        "_id": 2,
+        "title": "合作夥伴關係",
+        "content": "我們的合作夥伴關係建立在信任與合作之上，共同推動創新、擴展機會，並創造共同成功"
+      },
+      {
+        "_id": 3,
+        "title": "定制解決方案",
+        "content": "發現我們為您量身定制的解決方案。我們與您密切合作，設計創新的、靈活的服務，推動成功並提升您的業務成果"
+      }
+    ],
+    "services": [
+      {
+        "_id": 1,
+        "title": "全球覆蓋",
+        "content": "無論您的旅程將您帶到何處，Yoowifi的旅行Wi-Fi服務讓您在160個國家保持連接。"
+      },
+      {
+        "_id": 2,
+        "title": "多重主機網絡",
+        "content": "確保連接不中斷，我們的多重主機網絡提供多條連接，提高可靠性和性能"
+      },
+      {
+        "_id": 3,
+        "title": "零觸碰按需服務",
+        "content": "我們的雲端門戶提供預配置並部署服務，實現零觸碰按需連接，現場無需技術支持。"
+      },
+      {
+        "_id": 4,
+        "title": "成本效益服務",
+        "content": "享受高品質的服務，價格具競爭力，設計以提供最大價值並保持成本效益"
+      },
+      {
+        "_id": 5,
+        "title": "管理門戶",
+        "content": "我們的管理門戶提供用戶友好的平台，實現無縫控制與監控，使您能有效管理服務"
+      },
+      {
+        "_id": 6,
+        "title": "應用定制",
+        "content": "為您的品牌和目標定制應用，提供個性化體驗"
+      }
+    ],
+    "whatWeDo": [
+      {
+        "_id": 1,
+        "title": "業務連續性計劃",
+        "content": "Yoowifi提供一個技術解決方案，提供強大且高度冗餘的平台，確保在不確定性中保持您的業務連接並繼續運營。"
+      },
+      {
+        "_id": 2,
+        "title": "車載連接",
+        "content": "Yoowifi提供所需帶寬，支持安全傳輸和接收數據，無論是在本國還是跨國傳輸。"
+      },
+      {
+        "_id": 3,
+        "title": "遠程工作",
+        "content": "我們的遠程工作解決方案確保連接不中斷，允許團隊高效合作並保持生產力，無論身處何地。"
+      },
+      {
+        "_id": 4,
+        "title": "活動連接",
+        "content": "通過我們可靠的連接解決方案，保證無縫的活動體驗，提供快速、安全的互聯網，確保您的活動從頭到尾順利運行。"
+      },
+      {
+        "_id": 5,
+        "title": "旅行社解決方案",
+        "content": "我們與旅行社合作，提供最佳的網絡解決方案，提升其客戶的旅行體驗並增強品牌忠誠度。"
+      },
+      {
+        "_id": 6,
+        "title": "消費者解決方案",
+        "content": "無論您在何處，隨時隨地都能保持連接。Yoowifi提供消費者量身定制的連接服務，滿足各種需求。"
+      }
+    ],
+    "stayConnectedYourWay": {
+      "heading": "隨時保持連線",
+      "subHeading": "購買或租賃一個設備，根據您的連線需求靈活選擇。可以選擇擁有一個長期的解決方案或短期租賃，確保隨時擁有可靠的連線。",
+      "ways": [
+        {
+          "title": "購買自己的設備",
+          "description": "購買一個設備，隨時擁有長期、可靠的連線。"
+        },
+        {
+          "title": "租賃",
+          "description": "根據需要靈活租賃設備，提供短期的可靠連線選項，適合旅行、活動或臨時使用。"
+        }
+      ]
+    },
+    "whatsIncluded": {
+      "heading": "包含項目",
+      "subHeading": "為無縫連線所需的一切",
+      "includedList": {
+        "chargingCable": "x1 充電線",
+        "devicePouch": "x1 設備袋",
+        "howToOperate": "如何操作",
+        "powerOn": "開機",
+        "powerOff": "關機",
+        "pressNote": "按住電源鍵 3 秒"
+      }
+    },
+    "ledIndicators": {
+      "heading": "電池 LED 指示燈",
+      "subHeading": "輕鬆跟踪設備的電池狀態",
+      "content": {
+        "capacity": {
+          "title": "電池容量通過不同顏色顯示",
+          "description": "Lorem Ipsum 只是印刷和排版行業的虛擬文本。Lorem Ipsum 只是"
+        },
+        "charging": {
+          "title": "正在充電",
+          "description": "Lorem Ipsum 只是印刷和排版行業的虛擬文本。Lorem Ipsum 只是"
+        },
+        "support": "*請聯繫我們的客服 hello@yoowifi.com 或 WhatsApp 聯繫我們 (65) 6100 9998",
+        "systemUpdateNote": "**所有指示燈閃爍意味著正在進行系統軟件更新**"
+      }
+    },
+    "howToConnect": {
+      "heading": "如何連接 Pocketwifi？",
+      "subHeading": "只需幾個簡單步驟，即可輕鬆連接 Pocket WiFi",
+      "steps": [
+        {
+          "title": "打開 Pocket WiFi",
+          "description": "按下電源鍵開機，並等待設備連接到網絡。"
+        },
+        {
+          "title": "尋找 WiFi 名稱",
+          "description": "檢查設備螢幕上的 WiFi 網絡名稱（SSID）。"
+        },
+        {
+          "title": "連接 WiFi",
+          "description": "在智能手機、平板電腦或筆記型電腦上打開 WiFi 設定，選擇 SSID，輸入設備上顯示的密碼，即可連接網路。"
+        }
+      ]
+    },
+    "howToReturn": {
+      "heading": "如何歸還設備？",
+      "subHeading": "按照我們的簡單步驟，確保無憂的歸還體驗。",
+      "cardData": [
+        {
+          "title": "Singpost 投遞",
+          "description": "租借設備時，包裝中會附有預付郵資的回郵標籤。您可以使用此標籤輕鬆寄回設備。歸還後，處理完成後，您可能會收到電子郵件確認。",
+          "buttonText": "查看地點"
+        },
+        {
+          "title": "取貨及投遞地點",
+          "description": "使用 Yoowifi，您可以輕鬆在我們指定的地點取貨，並在全島 30 多個便捷投遞點歸還設備。這一流程保證了無憂的體驗，讓您隨時隨地保持連線！",
+          "buttonText": "查看地點"
+        }
+      ]
+    },
+    "planTopUp": {
+      "heading": "如何進行計劃充值",
+      "subHeading": "輕鬆管理您的數據需求，使用 Yoowifi 充值",
+      "steps": [
+        {
+          "title": "選擇您的設備",
+          "description": "打開 Yoowifi 應用程式，進入我的數據，選擇您要充值的設備。"
+        },
+        {
+          "title": "選擇您的計劃",
+          "description": "點擊添加數據，選擇您想要的國家和計劃，然後設置開始和結束日期。"
+        },
+        {
+          "title": "進入結帳",
+          "description": "確認您的選擇並進入結帳。"
+        }
+      ]
+    },
+    "otherProducts": {
+      "title": "您可能會喜歡的其他產品"
+    }
+  },
+  "router": {
+    "product": {
+      "name": "路由器",
+      "description": "Yoowifi 路由器提供無縫且可靠的家用或辦公室網絡連接。擁有先進的功能和高速連接，確保您無中斷地保持連接。這款路由器設置簡單易用，是滿足所有網絡需求的完美解決方案。",
+      "features": [
+        "隨時隨地保持連接",
+        "大幅節省國際漫遊費用",
+        "無與倫比的價格保證"
+      ],
+      "buttons": {
+        "text": "查看計劃",
+        "text2": "購買路由器"
+      },
+      "tabs": [
+        {
+          "title": "描述",
+          "content": "它使用簡單，並擁有簡潔、極簡的設計。只需打開它，連接您的設備，您就可以開始使用了！不再需要擔心複雜的設置過程或笨重的設備。但這還不是全部 — 我們的口袋 WiFi 設備還提供強大且可靠的連接，確保您無論身在何處都能保持連接。無論您是在出差還是家庭度假，您都可以享受高速互聯網，沒有任何中斷。"
+        },
+        {
+          "title": "規格",
+          "content": "CPU: SC8310LTE-FDD：頻段 1 / 2 / 3 / 4 / 5 / 7 / 8 / 12 / 13 / 17 / 18 / 20 / 25 / 26 /28 / 66\nLTE-TDD：頻段 34 / 38 / 39 / 40 / 41 (194M)\n WCDMA：頻段 1 / 2 / 4 / 5 / 8\nTD-SCDMA：無 CDMA：無\nEVDO：無\nGSM：850 / 900 / 1800 / 1900\n最大速度：下載 150Mbps / 上傳 50Mbps\nWi-Fi：2.4GHz 802.11 b / g / n 1T1R\n最大 Wi-Fi 連接數：8\n電池：3000mAh\n端口：Type-C USB\n輸入：5V – 1A\n產品尺寸：120mm x 64.6mm x 12mm\n產品重量：112g\n外殼材料：塑料"
+        },
+        {
+          "title": "包含內容",
+          "content": "50GB 全球數據適用於 90 個國家。\n服務速度取決於移動網絡合作夥伴。\n訂單取消需收取訂單金額 10%的費用。\n適用一般條款和條件。\nYoowifi 保留隨時更改的權利。"
+        },
+        {
+          "title": "條款與條件",
+          "content": "阿爾巴尼亞，安道爾，亞美尼亞，澳大利亞，奧地利，巴林，孟加拉，比利時，波斯尼亞和赫塞哥維納，文萊，保加利亞，柬埔寨，加拿大，中國，克羅地亞，塞浦路斯，捷克共和國，丹麥，埃及，愛沙尼亞，芬蘭，法國，喬治亞，德國，直布羅陀，希臘，根西島，香港，匈牙利，冰島，印度，印尼，愛爾蘭，馬恩島，以色列，義大利，日本，澤西，約旦，哈薩克斯坦，科威特，老撾，拉脫維亞，列支敦士登，立陶宛，盧森堡，澳門，馬其頓，馬來西亞，馬耳他，墨西哥，摩納哥，黑山，緬甸，荷蘭，新西蘭，挪威，阿曼，巴基斯坦，菲律賓，波蘭，葡萄牙，卡塔爾，留尼汪，羅馬尼亞，俄羅斯，聖馬力諾，沙烏地阿拉伯，塞爾維亞，斯洛伐克，斯洛文尼亞，南韓，西班牙，斯里蘭卡，瑞典，瑞士，台灣，泰國，土耳其，阿聯酋，烏克蘭，英國，美國，烏茲別克，梵蒂岡，越南"
+        }
+      ]
+    },
+    "features": {
+      "heading": "主要功能",
+      "subHeading": "別讓慢速網絡束縛你！切換到我們的便攜式解決方案，體驗無邊界的連接。",
+      "featureList": [
+        "最高 4G LTE 速度",
+        "靈活的數據選項",
+        "雲 SIM 技術",
+        "跨多設備共享",
+        "更大的覆蓋範圍與穩定性"
+      ]
+    },
+    "whatsIncluded": {
+      "heading": "包含內容",
+      "subHeading": "無縫連接所需的一切",
+      "includedList": ["x1 Wifi 路由器", "x1 電源適配器"]
+    },
+    "howToConnectRouter": {
+      "heading": "如何連接路由器？",
+      "subHeading": "一步步指引輕鬆設置您的 eSIM",
+      "steps": [
+        "將電源適配器連接到 WiFi 路由器並插入插座，然後開啟插座。",
+        "要連接您的 WiFi 網絡，請在 WiFi 路由器的底部 / 背面找到默認的 WiFi 名稱和密碼。",
+        "連接到默認的 WiFi 名稱，並在提示時輸入密碼，您就設置好了！"
+      ]
+    },
+    "otherProducts": {
+      "title": "您可能喜歡的其他產品"
+    }
+  },
+  "sim": {
+    "product": {
+      "name": "SIM/eSIM",
+      "description": "Lorem Ipsum 僅是印刷和排版行業的虛擬文字。Lorem Ipsum 僅是印刷和排版行業的虛擬文字。Lorem Ipsum 僅是印刷和排版行業的虛擬文字。",
+      "features": [
+        "隨時隨地保持連接",
+        "在國際漫遊中節省大量費用",
+        "無與倫比的價格保證"
+      ],
+      "buttons": {
+        "text": "查看計劃",
+        "text2": "獲取 SIM/eSIM"
+      },
+      "tabs": [
+        {
+          "title": "描述",
+          "content": "我們的 SIM/eSIM 非常適合那些重視便利性和易用性的人。您可以在幾分鐘內啟動它，並開始享受所有隨之而來的好處。無論您是學生、工作專業人士，還是需要可靠電信服務的人，我們的 SIM/eSIM 都是您的完美解決方案。我們提供有競爭力的價格、靈活的計劃和優秀的客戶支持，確保您以最優惠的價格獲得最佳價值！"
+        },
+        {
+          "title": "條款與條件",
+          "content": "一次性使用的實體 SIM 卡過期日期為購買後 60 天\n 由於 eSIM 兼容性問題，eSIM 不予退款或取消。\n 安裝成功後，請勿刪除或移除您的 eSIM。\n 適用一般條款與條件。"
+        }
+      ]
+    },
+    "features": {
+      "heading": "主要特徵",
+      "subHeading": "不要讓慢速的網路束縛您！切換到我們的便攜解決方案，體驗無邊界的連接。",
+      "featureList": [
+        "最高 4G LTE 速度",
+        "無限速限制",
+        "快速配送",
+        "簡單插入即用",
+        "全天候技術支持",
+        "3合1 SIM 卡"
+      ]
+    },
+    "howToSetup": {
+      "heading": "如何設置您的 SIM 卡",
+      "subHeading": "不要讓慢速的網路束縛您！切換到我們的便攜解決方案，體驗無邊界的連接。",
+      "steps": [
+        {
+          "title": "購買 SIM 卡",
+          "description": "輕鬆透過 Yoowifi 應用程式訂購 SIM 卡，並享受將其直接送到您家門口的便利。"
+        },
+        {
+          "title": "插入 SIM 卡",
+          "description": "插入 SIM 卡並開啟您的移動設備。*數據有效期從插入 SIM 卡的那一刻起立即生效。"
+        },
+        {
+          "title": "啟用數據漫遊",
+          "description": "在您的移動設備上啟用數據漫遊。*如果您的手機無法檢測到數據漫遊的啟用，請在步驟 2 完成後重新啟動並確保數據漫遊已開啟。"
+        }
+      ]
+    },
+    "activateSteps": {
+      "heading": "簡單步驟啟用您的 eSIM",
+      "steps": [
+        {
+          "title": "iOS",
+          "deviceSteps": [
+            {
+              "title": "步驟 1",
+              "description": "在 Yoowifi 應用程式中啟用您的 eSIM",
+              "steps": [
+                "購買 eSIM 後，前往我的訂單並點擊啟用 eSIM 按鈕以完成啟用。",
+                "啟用後，eSIM 將出現在我的數據中。"
+              ]
+            },
+            {
+              "title": "步驟 2",
+              "description": "啟用您的 eSIM",
+              "steps": [
+                "前往 iPhone 的設定。點選行動數據或行動數據。",
+                "點選新增 eSIM",
+                "點選使用 QR 碼",
+                "掃描您在 Yoowifi 應用程式中購買 eSIM 後收到的 QR 碼，或手動輸入詳細資訊。"
+              ]
+            },
+            {
+              "title": "步驟 3",
+              "description": "啟用數據漫遊",
+              "steps": [
+                "如果您正在手動設置，您可能需要在 Yoowifi 應用程式中輸入您在 eSIM 訂單下提供的啟用詳細資料，這些詳細資料可以在我的數據中找到。",
+                "繼續啟用 eSIM。",
+                "一旦到達您的旅行目的地，選擇已添加的 eSIM，然後啟用數據漫遊以進行連接。"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Android",
+          "deviceSteps": [
+            {
+              "title": "步驟 1",
+              "description": "在 Yoowifi 應用程式中啟用您的 eSIM",
+              "steps": [
+                "購買 eSIM 後，前往我的訂單並點擊啟用 eSIM 按鈕以完成啟用。",
+                "啟用後，eSIM 將出現在我的數據中。"
+              ]
+            },
+            {
+              "title": "步驟 2",
+              "description": "啟用您的 eSIM",
+              "steps": [
+                "前往您的 iPhone 設定。點選行動數據或行動數據。",
+                "點選新增 eSIM",
+                "點選使用 QR 碼",
+                "掃描您在 Yoowifi 應用程式中購買 eSIM 後收到的 QR 碼，或手動輸入詳細資訊。"
+              ]
+            },
+            {
+              "title": "步驟 3",
+              "description": "啟用數據漫遊",
+              "steps": [
+                "如果您正在手動設置，您可能需要在 Yoowifi 應用程式中輸入您在 eSIM 訂單下提供的啟用詳細資料，這些詳細資料可以在我的數據中找到。",
+                "繼續啟用 eSIM。",
+                "一旦到達您的旅行目的地，選擇已添加的 eSIM，然後啟用數據漫遊以進行連接。"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "deviceCompatibilities": {
+      "heading": "檢查設備相容性",
+      "subHeading": "如果您是第一次使用eSIM，您可能需要檢查您的設備是否支持eSIM。我們將幫助您完成這一檢查。選擇您的設備品牌，查看您的型號是否在列。您還可以通過查看設備的設定頁面進一步確認。",
+      "compatibilities": [
+        {
+          "title": "Apple",
+          "devices": [
+            {
+              "name": "iPhone",
+              "versions": [
+                "iPhone 16, 16 Plus, 16 Pro, 16 Pro Max",
+                "iPhone 15, 15 Plus, 15 Pro, 15 Pro Max",
+                "iPhone 14, 14 Plus, 14 Pro, 14 Pro Max",
+                "iPhone 13, 13 Mini, 13 Pro, 13 Pro, 13 Pro Max",
+                "iPhone 12, 12 Mini, 12 Pro, 12 Pro Max",
+                "iPhone 11, 11 Pro, 11 Pro Max",
+                "iPhone XS, XS Max",
+                "iPhone XR",
+                "iPhone SE (2020 和 2022)"
+              ]
+            },
+            {
+              "name": "iPad",
+              "versions": [
+                "iPad（從第七代開始）",
+                "iPad Air（從第三代開始）",
+                "iPad Pro，11 英寸（從第一代開始）",
+                "iPad Pro 12.9 英寸（從第三代開始）",
+                "iPad Mini（從第五代開始）"
+              ]
+            }
+          ],
+          "note": "eSIM 功能因型號和地區而異。請聯繫您的當地運營商進行確認。"
+        },
+        {
+          "title": "Samsung",
+          "devices": [
+            {
+              "name": "Samsung Galaxy S 系列",
+              "versions": [
+                "Galaxy S23",
+                "Galaxy S23+",
+                "Galaxy S23 Ultra",
+                "Galaxy S22",
+                "Galaxy S22+",
+                "Galaxy S22 Ultra",
+                "Galaxy S21",
+                "Galaxy S21+",
+                "Galaxy S21 Ultra",
+                "Galaxy S20",
+                "Galaxy S20+",
+                "Galaxy S20 Ultra"
+              ]
+            },
+            {
+              "name": "Samsung Galaxy Z 系列（摺疊式手機）",
+              "versions": [
+                "Galaxy Z Fold5（2023）",
+                "Galaxy Z Fold4（2022）",
+                "Galaxy Z Fold3（2021）",
+                "Galaxy Z Flip5（2023）",
+                "Galaxy Z Flip4（2022）",
+                "Galaxy Z Flip3（2021）"
+              ]
+            },
+            {
+              "name": "Samsung Galaxy Note 系列",
+              "versions": [
+                "Galaxy Note 20 系列（2020）",
+                "Galaxy Note 20",
+                "Galaxy Note 20 Ultra"
+              ]
+            },
+            {
+              "name": "Samsung Galaxy A 系列",
+              "versions": ["Galaxy A54（2023）", "Galaxy A53（2022）"]
+            }
+          ],
+          "note": "eSIM 功能因型號和地區而異。請聯繫您的當地運營商進行確認。"
+        },
+        {
+          "title": "Google",
+          "devices": [
+            {
+              "name": "Google Pixel 8 系列（2023）",
+              "versions": ["Pixel 8", "Pixel 8 Pro"]
+            },
+            {
+              "name": "Google Pixel 7 系列（2022）",
+              "versions": ["Pixel 7", "Pixel 7 Pro"]
+            },
+            {
+              "name": "Google Pixel 6 系列（2021）",
+              "versions": ["Pixel 6", "Pixel 6 Pro", "Pixel 6a"]
+            },
+            {
+              "name": "Google Pixel 5 系列（2020）",
+              "versions": ["Pixel 5", "Pixel 5a 5G"]
+            },
+            {
+              "name": "Google Pixel 4 系列（2019）",
+              "versions": ["Pixel 4", "Pixel 4 XL", "Pixel 4a"]
+            },
+            {
+              "name": "Google Pixel 3 系列（2018）",
+              "versions": ["Pixel 3", "Pixel 3 XL", "Pixel 3a", "Pixel 3a XL"]
+            }
+          ],
+          "note": "eSIM 功能因型號和地區而異。請聯繫您的當地運營商進行確認。"
+        },
+        {
+          "title": "Huawei",
+          "devices": [
+            {
+              "name": "Huawei P 系列",
+              "versions": [
+                "Huawei P60 Pro（2023）",
+                "Huawei P50 Pro（2021）",
+                "Huawei P40 系列（2020）",
+                "Huawei P40",
+                "Huawei P40 Pro",
+                "Huawei P40 Pro+"
+              ]
+            },
+            {
+              "name": "Huawei Mate 系列",
+              "versions": [
+                "Huawei Mate 50 Pro（2022）",
+                "Huawei Mate 40 Pro（2020）",
+                "Huawei Mate 30 系列（2019）",
+                "Huawei Mate 30",
+                "Huawei Mate 30 Pro"
+              ]
+            },
+            {
+              "name": "Huawei Watch（eSIM 型號）",
+              "versions": [
+                "Huawei Watch 4 Pro",
+                "Huawei Watch 3",
+                "Huawei Watch 3 Pro"
+              ]
+            }
+          ],
+          "note": "eSIM 功能因型號和地區而異。請聯繫您的當地運營商進行確認。"
+        },
+        {
+          "title": "Oppo",
+          "devices": [
+            {
+              "name": "Oppo Find X 系列",
+              "versions": [
+                "Oppo Find X6 Pro (2023)",
+                "Oppo Find X5 系列 (2022)",
+                "Oppo Find X5",
+                "Oppo Find X5 Pro",
+                "Oppo Find X3 系列 (2021)",
+                "Oppo Find X3",
+                "Oppo Find X3 Pro"
+              ]
+            },
+            {
+              "name": "Oppo Reno 系列",
+              "versions": ["Oppo Reno8 Pro (2022)", "Oppo Reno7 Pro 5G"]
+            },
+            {
+              "name": "Oppo A 系列",
+              "versions": ["Oppo A55s 5G (2022)"]
+            }
+          ],
+          "note": "eSIM 功能可能因型號和地區而異。請聯繫當地運營商確認。"
+        },
+        {
+          "title": "Xiaomi",
+          "devices": [
+            {
+              "name": "Xiaomi 13 系列",
+              "versions": [
+                "Xiaomi 13 (2023)",
+                "Xiaomi 13 Pro (2023)",
+                "Xiaomi 13 Lite (2023)"
+              ]
+            },
+            {
+              "name": "Xiaomi 12 系列",
+              "versions": [
+                "Xiaomi 12 (2021)",
+                "Xiaomi 12 Pro (2021)",
+                "Xiaomi 12T (2022)",
+                "Xiaomi 12T Pro (2022)"
+              ]
+            },
+            {
+              "name": "Xiaomi Mi 11 系列",
+              "versions": [
+                "Xiaomi Mi 11 (2020)",
+                "Xiaomi Mi 11 Pro (2021)",
+                "Xiaomi Mi 11 Ultra (2021)"
+              ]
+            },
+            {
+              "name": "Redmi Note 系列",
+              "versions": [
+                "Redmi Note 12 Pro (2022)",
+                "Redmi Note 12 Pro+ (2022)"
+              ]
+            }
+          ],
+          "note": "eSIM 功能可能因型號和地區而異。請聯繫當地運營商確認。"
+        },
+        {
+          "title": "Honor",
+          "devices": [
+            {
+              "name": "Honor Magic 系列",
+              "versions": [
+                "Honor Magic 5 Pro (2023)",
+                "Honor Magic 4 Pro (2022)",
+                "Honor Magic 3 系列 (2021)",
+                "Honor Magic 3",
+                "Honor Magic 3 Pro",
+                "Honor Magic 3 Pro+"
+              ]
+            },
+            {
+              "name": "Honor 50 系列",
+              "versions": ["Honor 50 (2021)", "Honor 50 Pro (2021)"]
+            },
+            {
+              "name": "Honor V 系列",
+              "versions": ["Honor V40 (2021)", "Honor V30 (2019)"]
+            },
+            {
+              "name": "Honor 20 系列",
+              "versions": ["Honor 20 Pro (2019)"]
+            }
+          ],
+          "note": "eSIM 功能可能因型號和地區而異。請聯繫當地運營商確認。"
+        },
+        {
+          "title": "Sony",
+          "devices": [
+            {
+              "name": "Sony Xperia 系列",
+              "versions": [
+                "Sony Xperia 1 V (2023)",
+                "Sony Xperia 1 IV (2022)",
+                "Sony Xperia 5 IV (2022)",
+                "Sony Xperia 10 IV (2022)"
+              ]
+            },
+            {
+              "name": "Sony Xperia 1 III 系列 (2021)",
+              "versions": ["Sony Xperia 1 III", "Sony Xperia 5 III"]
+            },
+            {
+              "name": "Sony Xperia 10 系列",
+              "versions": ["Sony Xperia 10 III (2021)"]
+            }
+          ],
+          "note": "eSIM 功能可能因型號和地區而異。請聯繫當地運營商確認。"
+        },
+        {
+          "title": "Motorola",
+          "devices": [
+            {
+              "name": "Motorola Edge 系列",
+              "versions": [
+                "Motorola Edge 40 (2023)",
+                "Motorola Edge 30 (2022)",
+                "Motorola Edge 20 (2021)",
+                "Motorola Edge 20 Pro (2021)"
+              ]
+            },
+            {
+              "name": "Motorola Razr (可摺疊)",
+              "versions": ["Motorola Razr 40 (2023)", "Motorola Razr 2020"]
+            },
+            {
+              "name": "Motorola Moto G 系列",
+              "versions": ["Moto G72 (2022)"]
+            }
+          ],
+          "note": "eSIM 功能可能因型號和地區而異。請聯繫當地運營商確認。"
+        }
+      ]
+    },
+    "howToTopUp": {
+      "heading": "如何為 SIM/eSIM 充值",
+      "subHeading": "3 個簡單步驟為您的 SIM/eSIM 充值",
+      "steps": [
+        {
+          "title": "打開 Yoowifi 應用程式",
+          "description": "在 Yoowifi 應用程式中，導航到「我的數據」，然後選擇您要充值的 SIM 或 eSIM。"
+        },
+        {
+          "title": "添加數據",
+          "description": "點擊「添加數據」，然後選擇您的目的地國家、計劃、數據大小，並選擇天數。"
+        },
+        {
+          "title": "繼續結帳",
+          "description": "確認您的選擇並繼續結帳。"
+        }
+      ]
+    },
+    "otherProducts": {
+      "title": "您可能喜歡的其他產品"
+    }
+  },
+  "aboutUs": {
+    "header": {
+      "title": "關於我們",
+      "description": "Yoowifi 是一家位於新加坡的公司，為旅客提供隨身 Wi-Fi 租賃服務。我們提供各種隨身 Wi-Fi 設備，並提供無限數據計劃，讓您無論身處何地都能保持連接。"
+    },
+    "whoWeAre": {
+      "title": "我們是誰",
+      "description": "UR Communications Pte Ltd，在著名品牌名稱 Yoowifi 之下，推出了一種先進的解決方案，通過直觀的手機應用程式實現輕鬆的全球連接。致力於豐富旅行體驗並促進全球溝通，Yoowifi 應用程式提供無與倫比的便捷性、可靠性和成本效益。\n\n我們的願景是建立一個讓電信專家和旅行者能夠輕鬆在不同國家之間保持聯繫的世界，無需擔心過高的數據漫遊費用。我們的使命是建立一家公司，提供可接觸、可信賴且無邊界的移動服務，讓人們能在探索世界各地時，與摯愛保持聯繫。",
+      "image": "images.whoWeAre1"
+    },
+    "features": [
+      "隨時隨地可靠的 Wi-Fi 連接",
+      "覆蓋超過 160 個國家",
+      "24/7 客戶支持",
+      "在 10 多個國家擁有當地存在"
+    ],
+    "companyMission": {
+      "title": "我們的公司使命",
+      "mission": {
+        "title": "隨時隨地保持連接",
+        "year": "2001",
+        "description": "我們的使命是提供可接觸、可靠且無邊界的數據服務。我們致力於使人們在探索新文化、體驗冒險並駕駛全球各角落時，能無縫地與摯愛保持聯繫，確保順暢且豐富的連接體驗。",
+        "image": "images.companyMission1"
+      }
+    },
+    "awardsAndAchievements": {
+      "header": "我們的獎項與成就",
+      "details": [
+        {
+          "year": "2024",
+          "title": "2024 年最具創新旅行 Wi-Fi 解決方案公司",
+          "description": "由 AI 商業卓越獎頒發"
+        },
+        {
+          "year": "2024",
+          "title": "2024 年新加坡成長最快的公司",
+          "description": "由《海峽時報》和 Statista 頒發"
+        }
+      ]
+    },
+    "whatWeDo": {
+      "header": "我們做什麼",
+      "details": [
+        {
+          "title": "管理門戶",
+          "description": "我們的管理門戶提供一個用戶友好的平台，讓您輕鬆控制和監控，幫助您高效管理服務。"
+        },
+        {
+          "title": "移動解決方案",
+          "description": "我們的移動解決方案提供可靠、靈活、前沿的服務，隨時隨地保持連接，並為個人和商業用途量身定制。"
+        },
+        {
+          "title": "定制解決方案",
+          "description": "探索我們的定制解決方案，滿足您獨特的需求。我們與您密切合作，設計創新、靈活的服務，推動成功並提升您的業務成果。"
+        },
+        {
+          "title": "活動與路演",
+          "description": "加入我們的精彩活動與路演，我們展示創新解決方案，與客戶互動，塑造無縫溝通的未來。"
+        }
+      ]
+    },
+    "personal": {
+      "heading": "個人服務",
+      "subHeading": "為您的個人連接提供可靠的解決方案",
+      "content": [
+        {
+          "title": "全球覆蓋",
+          "description": "無論您的旅程帶您到何處，使用 Yoowifi 的旅行 Wi-Fi 服務，您都能在 160 多個國家保持連接。"
+        },
+        {
+          "title": "靈活的數據計劃",
+          "description": "從多種靈活的數據選項中選擇，讓您根據使用需求選擇最合適的計劃。"
+        },
+        {
+          "title": "無憂配送",
+          "description": "享受無憂的配送服務，快速、可靠的服務讓您的訂單輕鬆便捷地送達。"
+        }
+      ]
+    },
+    "business": {
+      "heading": "商業服務",
+      "subHeading": "為您的業務提供無縫的連接",
+      "content": [
+        {
+          "title": "隨需應變無觸控服務",
+          "description": "享受無縫、輕鬆的隨需應變無觸控服務，根據您的需求量身定制。"
+        },
+        {
+          "title": "靈活的數據計劃",
+          "description": "為企業設計的靈活數據計劃，適合您公司的獨特需求和使用情況。"
+        },
+        {
+          "title": "多重連接網絡",
+          "description": "通過我們的多重連接網絡確保不中斷的連接，提供多個連接以提高可靠性和性能。"
+        }
+      ]
+    }
+  },
+  "recommendedPackages": {
+    "heading": "推薦方案",
+    "subHeading": "發現我們為您量身打造的推薦方案",
+    "packageList": [
+      {
+        "title": "基礎方案",
+        "features": [
+          "保留Yoowifi設備",
+          "僅限加值方案",
+          "有效期限365天",
+          "涵蓋90個國家"
+        ],
+        "information": "此方案提供基本的網路連接，適合旅客或輕度網路使用者。"
+      },
+      {
+        "title": "旅遊方案",
+        "features": [
+          "保留Yoowifi設備",
+          "僅限加值方案",
+          "有效期限365天",
+          "涵蓋90個國家"
+        ],
+        "information": "適合頻繁旅行的使用者，此方案支持全球網路連接。"
+      },
+      {
+        "title": "擴展方案",
+        "features": [
+          "保留Yoowifi設備",
+          "僅限加值方案",
+          "有效期限365天",
+          "涵蓋90個國家"
+        ],
+        "information": "延伸標準方案的功能，提供更長的使用期限或額外的數據選項。"
+      },
+      {
+        "title": "無限方案",
+        "features": [
+          "保留Yoowifi設備",
+          "僅限加值方案",
+          "有效期限365天",
+          "涵蓋90個國家"
+        ],
+        "information": "提供無限數據，讓您無憂使用網路。"
+      },
+      {
+        "title": "輕量方案",
+        "features": [
+          "保留Yoowifi設備",
+          "僅限加值方案",
+          "有效期限180天",
+          "涵蓋60個國家"
+        ],
+        "information": "專為輕度使用者或短期使用者設計的方案。"
+      },
+      {
+        "title": "商務方案",
+        "features": [
+          "保留Yoowifi設備",
+          "僅限加值方案",
+          "有效期限365天",
+          "優先支援",
+          "涵蓋100個國家"
+        ],
+        "information": "專為移動中的商務使用者或經常出差的工作者量身打造。"
+      },
+      {
+        "title": "高級方案",
+        "features": [
+          "保留Yoowifi設備",
+          "僅限加值方案",
+          "有效期限365天",
+          "在特定國家提供無限數據",
+          "涵蓋90個國家"
+        ],
+        "information": "提供高級連接體驗，在選定的國家提供無限數據。"
+      },
+      {
+        "title": "家庭方案",
+        "features": [
+          "保留Yoowifi設備",
+          "僅限加值方案",
+          "有效期限365天",
+          "最多可連接10個設備",
+          "涵蓋90個國家"
+        ],
+        "information": "專為家庭設計的方案，允許多個設備同時連接。"
+      },
+      {
+        "title": "旅遊加強方案",
+        "features": [
+          "保留Yoowifi設備",
+          "僅限加值方案",
+          "有效期限180天",
+          "提供重度使用者更多數據",
+          "涵蓋80個國家"
+        ],
+        "information": "適合需要更多數據容量的旅行者。"
+      },
+      {
+        "title": "全球無限方案",
+        "features": [
+          "保留Yoowifi設備",
+          "僅限加值方案",
+          "有效期限365天",
+          "全球無限數據",
+          "涵蓋100個國家"
+        ],
+        "information": "提供全球無限數據的終極方案。"
+      }
+    ]
+  },
+  "contact": {
+    "title": "聯絡我們",
+    "description": "如果您有任何問題或疑慮，只需填寫表格，我們將很快與您聯繫！",
+    "letsTalk": {
+      "heading": "讓我們聊聊",
+      "subHeading": "如果您有任何問題或擔憂，只需填寫表格，我們將很快與您聯繫！",
+      "social": [
+        {
+          "_id": 1,
+          "name": "WhatsApp",
+          "text": "透過Whatsapp聯絡我們",
+          "value": "(+65) 6100 9998",
+          "image": "images.whatsapp",
+          "type": "call"
+        },
+        {
+          "_id": 2,
+          "name": "Email",
+          "text": "電子郵件地址",
+          "value": "business@yoowifi.com",
+          "image": "images.email",
+          "type": "email"
+        }
+      ],
+      "form": {
+        "fields": [
+          {
+            "label": "姓名",
+            "placeholder": "輸入您的姓名"
+          },
+          {
+            "label": "電話號碼",
+            "placeholder": "輸入電話號碼"
+          },
+          {
+            "label": "電子郵件地址",
+            "placeholder": "輸入電子郵件地址"
+          },
+          {
+            "label": "主題",
+            "placeholder": "寫下主題"
+          },
+          {
+            "label": "訊息",
+            "placeholder": "告訴我們您的疑問.."
+          }
+        ]
+      }
+    }
+  },
+  "faqs": {
+    "heading": "支援與常見問題",
+    "subHeading": "深入了解，尋找簡單的解決方案、有用的提示，並充分利用您與Yoowifi的旅程。",
+    "content": [
+      {
+        "_id": 1,
+        "question": "我可以使用隨身WiFi撥打電話嗎？",
+        "answer": "隨身WiFi僅提供互聯網連接；它無法通過您的行動網絡進行普通語音通話。然而，它允許使用VoIP進行通話，例如Skype、Viber和Google Voice。"
+      },
+      {
+        "_id": 2,
+        "question": "MB與GB有什麼區別？",
+        "answer": "1MB等於1,024KB，而1GB等於1,024MB。一般來說，1GB等於1,024MB。"
+      },
+      {
+        "_id": 3,
+        "question": "如何在租期結束後退還隨身WiFi？",
+        "answer": "您可以按照租賃期間提供的指示退還隨身WiFi。通常，這包括將其歸還至指定的退還地點或透過提供的退還信封寄回。"
+      },
+      {
+        "_id": 4,
+        "question": "我可以在下訂單後修改我的預訂資訊嗎？",
+        "answer": "可以，您可以在下訂單後通過聯絡我們的客服團隊來修改預訂資訊，客服團隊將協助您進行必要的更改。"
+      },
+      {
+        "_id": 5,
+        "question": "如何取消我的預訂？",
+        "answer": "若要取消您的預訂，請聯絡我們的客服團隊。取消可能會受到我們的取消政策限制。"
+      },
+      {
+        "_id": 6,
+        "question": "我將前往世界各地的多個國家，需多少設備？",
+        "answer": "所需設備的數量取決於您的旅行行程。一般建議每個地區或國家使用一個設備，並確保該設備有特定的數據覆蓋範圍。"
+      }
+    ],
+    "footer": {
+      "heading": "仍有問題嗎？",
+      "description": "找不到您想要的答案？隨時與我們友善的團隊聯絡！"
+    }
+  },
+  "footer": {
+    "subscribeNewsLetter": "訂閱電子報！",
+    "copyRightText": "版權所有。",
+    "contact": [
+      {
+        "type": "致電"
+      },
+      {
+        "type": "郵件"
+      }
+    ],
+    "legals": [
+      {
+        "title": "使用條款"
+      },
+      {
+        "title": "隱私政策"
+      }
+    ],
+    "menuData": [
+      {
+        "title": "YOOWIFI",
+        "links": [
+          {
+            "label": "關於我們"
+          },
+          {
+            "label": "常見問題"
+          },
+          {
+            "label": "下載應用程式"
+          },
+          {
+            "label": "聯繫我們"
+          },
+          {
+            "label": "服務條款"
+          },
+          {
+            "label": "隱私政策"
+          }
+        ]
+      },
+      {
+        "title": "FOR YOO",
+        "links": [
+          {
+            "label": "旅遊數據"
+          },
+          {
+            "label": "國家覆蓋範圍"
+          },
+          {
+            "label": "當地數據"
+          },
+          {
+            "label": "取貨 / 送貨地點"
+          },
+          {
+            "label": "產品"
+          },
+          {
+            "label": "如何運作"
+          }
+        ]
+      },
+      {
+        "title": "企業",
+        "links": [
+          {
+            "label": "物聯網"
+          },
+          {
+            "label": "酒店"
+          },
+          {
+            "label": "旅行社"
+          },
+          {
+            "label": "海事互聯網"
+          },
+          {
+            "label": "辦公室/路演與活動"
+          }
+        ]
+      }
+    ]
+  },
+
+  "corporateHero": {
+    "heading": "企業",
+    "subHeading": "UR Communications Pte Ltd，通過其直觀的移動應用程序，以著名品牌Yoowifi運營，推出了一個先進的解決方案，實現輕鬆的全球連接。我們致力於豐富旅行體驗並促進全球通信，Yoowifi應用程序提供無與倫比的便利性、可靠性和成本效益。"
+  },
+  "iot": {
+    "pageTitle": "物聯網",
+    "description": "通過單一設備隨時保持與您的家、家人和業務的連接！它們也旨在滿足您的獨特需求，無論您是個人還是企業。",
+    "featureList": ["數據大小", "運營商特定", "管理平台與監控", "單一或多國"]
+  },
+  "hotel": {
+    "pageTitle": "酒店",
+    "description": "讓您的酒店成為遠離家的家，享受我們的高速互聯網連接！您的客人無論身在何處都能保持高效工作，並且您的業務能在競爭中脫穎而出。",
+    "featureList": [
+      "在運營中斷時保持連接",
+      "快速部署",
+      "定制解決方案讓您的團隊保持全球連接"
+    ]
+  },
+  "travelAgency": {
+    "pageTitle": "旅行社",
+    "description": "通過我們的WiFi解決方案，以閃電般的速度為您的客戶提供信息。與合作夥伴有效溝通，避免因信號不穩或連接不佳而帶來的挫折。",
+    "featureList": ["數據大小", "運營商特定", "管理平台與監控", "單一或多國"]
+  },
+  "maritimeInternet": {
+    "pageTitle": "海事互聯網",
+    "description": "讓我們為您在浩瀚的海洋中導航您的互聯網需求。我們可以通過我們的解決方案保持您的船員連接，並保持業務運營。因此，無論船舶在何處航行，您都可以享受無國界的寬帶服務。",
+    "featureList": [
+      "單一或多國",
+      "快速部署",
+      "定制解決方案讓您的團隊保持全球連接"
+    ]
+  },
+  "office": {
+    "pageTitle": "辦公室/路演活動",
+    "description": "無論您走到哪裡，隨時保持連接，享受我們的WiFi解決方案！無論是在辦公室還是舉辦路演，享受無縫且迅速的互聯網訪問。讓Yoowifi幫助您保持工作日不受干擾！",
+    "featureList": ["快速且可靠的連接", "專業支持", "合理的成本或贊助"]
+  },
+  "corporateSharedHero": {
+    "heading": "旅行連接",
+    "items": ["便攜熱點", "eSim", "SIM卡"]
+  },
+  "commercial": {
+    "pageTitle": "商業",
+    "description": "通過我們無縫的連接，將您的生產力提升到新的高度！我們提供一個通向數字世界的門戶，讓您的每一天變得順暢無比。"
+  },
+  "benefits": {
+    "heading": "福利",
+    "subHeading": "不要讓緩慢的互聯網拖累您！切換到我們的便攜解決方案，體驗無邊界的連接。",
+    "benefitsData": [
+      {
+        "title": "專屬應用程式",
+        "content": "通過我們的在線管理平台掌控您的連接需求，賦予您控制權，實現順暢輕鬆的體驗。"
+      },
+      {
+        "title": "成本效益",
+        "content": "通過Yoowifi的vSIM技術體驗實惠且無憂的連接，消除高昂的漫遊費用，提供經濟實惠的數據服務。"
+      },
+      {
+        "title": "可定制的數據計劃",
+        "content": "根據您的具體需求量身定制數據套餐，隨著您的業務成長進行擴展。"
+      }
+    ]
+  },
+  "pocketWifiDetails": {
+    "pocketWifiDayPass": {
+      "headers": ["口袋WiFi-無限日票", "1GB/日", "5GB/日"],
+      "plans": [
+        "香港、印尼、日本、澳門、馬來西亞、菲律賓、南韓、台灣、泰國、越南 1日",
+        "澳大利亞、汶萊、加拿大、柬埔寨、中國（含VPN）、歐洲、老撾、墨西哥、新西蘭、土耳其、美國 1日",
+        "巴林、孟加拉、埃及、印度、以色列、約旦、哈薩克斯坦、科威特、阿曼、巴基斯坦、卡塔爾、沙烏地阿拉伯、南非、斯里蘭卡、阿聯酋、烏茲別克斯坦 1日"
+      ]
+    },
+    "restOfTheWorldDayPass": {
+      "headers": ["其他國家-無限日票", "1GB/日", "5GB/日"],
+      "plan": "阿爾及利亞、安圭拉、安提瓜和巴布達、阿根廷、阿魯巴、阿塞拜疆、玻利維亞、巴西、英屬維京群島、智利、哥倫比亞、哥斯大黎加、多明尼加共和國、厄瓜多爾、薩爾瓦多、斐濟、法屬安的列斯（馬提尼克）、法屬聖馬丁、格林納達、瓜德羅普、危地馬拉、圭亞那、海地、牙買加、吉爾吉斯斯坦、馬爾地夫、蒙古、緬甸、荷屬安的列斯（庫拉索）、尼加拉瓜、巴拿馬、巴拉圭、秘魯、波多黎各、聖文森特和格林納丁斯、蘇里南、塔希提、塔吉克斯坦、開曼群島、特立尼達和多巴哥、土克和開科斯群島、烏拉圭、委內瑞拉"
+    },
+    "sim": {
+      "heading": "SIM/eSIM",
+      "subHeading": "Lorem Ipsum是印刷和排版行業的虛構文本。",
+      "description": {
+        "title": "描述",
+        "content": "我們的SIM/eSIM非常適合那些重視方便性和易用性的人。您可以在幾分鐘內啟動它，並開始享受所有隨之而來的好處。無論您是學生、工作專業人士，還是任何需要可靠通信服務的人，我們的SIM/eSIM都是您的理想解決方案。我們提供有競爭力的價格、靈活的計劃和優秀的客戶支持，確保您獲得物超所值！"
+      }
+    },
+    "simDataPlan": {
+      "headers": ["SIM/eSIM-無限數據計劃", "500MB/日", "1GB/日", "2GB/日"],
+      "plans": [
+        "馬來西亞/泰國 1日",
+        "中國 1日",
+        "南韓 3日",
+        "日本 3日",
+        "歐洲 5日",
+        "澳大利亞 5日"
+      ]
+    },
+    "regionalCountries": "*歐洲：阿爾巴尼亞、亞美尼亞、安道爾、奧地利、比利時、波士尼亞和赫塞哥維納、保加利亞、克羅埃西亞、塞浦路斯、捷克共和國、丹麥、愛沙尼亞、芬蘭、法國、德國、喬治亞、直布羅陀、希臘、根西島、匈牙利、冰島、愛爾蘭、曼島、意大利、澤西島、拉脫維亞、列支敦士登、立陶宛、盧森堡、馬其頓、馬爾他、摩納哥、黑山、荷蘭、挪威、波蘭、葡萄牙、羅馬尼亞、聖馬力諾、塞爾維亞、斯洛伐克、斯洛文尼亞、西班牙、瑞典、瑞士"
+  },
+
+  "pocketWifiRegion": {
+    "tabs": ["隨身 WIFI", "SIM/eSIM", "路由器"],
+    "header": {
+      "text": "選擇產品"
+    },
+    "form": {
+      "fields": [
+        {
+          "label": "國家",
+          "placeholder": "選擇國家"
+        },
+        {
+          "label": "優惠碼",
+          "placeholder": "優惠碼"
+        },
+        {
+          "label": "會員 ID",
+          "placeholder": "輸入會員 ID"
+        }
+      ]
+    }
+  },
+  "pocketWifiPlan": {
+    "heading": "選擇計劃",
+    "tabs": ["全部", "日計劃", "月計劃", "多國計劃"]
+  },
+
+  "discountDownloadApp": {
+    "title": "在行動應用程式上",
+    "percentage": "8% 優惠",
+    "description": "隨時隨地享受無縫的數位體驗！"
+  },
+
+  "pickDropLocation": {
+    "heroTitle": "取件及退還地點"
+  },
+
+  "routerRegion": {
+    "tabs": ["隨身 WIFI", "SIM/eSIM", "路由器"],
+    "header": {
+      "text": "選擇產品"
+    },
+    "form": {
+      "fields": [
+        {
+          "label": "國家",
+          "placeholder": "選擇國家"
+        },
+        {
+          "label": "優惠碼",
+          "placeholder": "優惠碼"
+        },
+        {
+          "label": "會員 ID",
+          "placeholder": "輸入會員 ID"
+        }
+      ]
+    }
+  },
+  "routerPlan": {
+    "heading": "選擇計劃",
+    "tabs": ["全部", "日計劃", "月計劃", "多國計劃"]
+  },
+
+  "simRegion": {
+    "tabs": ["隨身 WIFI", "SIM/eSIM", "路由器"],
+    "header": {
+      "text": "選擇產品"
+    },
+    "form": {
+      "fields": [
+        {
+          "label": "國家",
+          "placeholder": "選擇國家"
+        },
+        {
+          "label": "優惠碼",
+          "placeholder": "優惠碼"
+        },
+        {
+          "label": "會員 ID",
+          "placeholder": "輸入會員 ID"
+        }
+      ]
+    }
+  },
+  "simPlan": {
+    "heading": "選擇計劃",
+    "tabs": ["全部", "日計劃", "月計劃", "多國計劃"]
+  },
+  "simInformation": {
+    "accordionData": {
+      "items": [
+        {
+          "title": "資訊",
+          "content": "享受高速互聯網接入。立即連接最多 B 個設備。4G 網速。設備電池使用長達 12 小時。Ycxywifi 24/7 客戶支持。包括隨身 WIFI 設備、充電線、收納袋。隨時延長天數或新增計劃。"
+        },
+        {
+          "title": "涵蓋國家",
+          "content": "阿爾及利亞、安圭拉、安提瓜和巴布達、阿根廷、阿魯巴、亞塞拜然、玻利維亞、巴西、英屬維京群島、智利、哥倫比亞、哥斯大黎加。"
+        },
+        {
+          "title": "如何使用",
+          "content": "50GB 全球數據適用於 90 個國家。服務速度取決於移動網絡合作夥伴。取消訂單時將收取訂單總額 10% 的手續費。適用一般條款和條件。Yoowifi 保留隨時更改的權利。"
+        },
+        {
+          "title": "兼容性",
+          "content": [
+            "50GB 全球數據適用於 90 個國家。",
+            "服務速度取決於移動網絡合作夥伴。",
+            "取消訂單時將收取訂單總額 10% 的手續費。",
+            "Yoowifi 保留隨時更改的權利。"
+          ]
+        }
+      ]
+    }
+  },
+  "shippingOptions": [
+    {
+      "title": "自取",
+      "subtitle": "選擇您的地點",
+      "description": "設備取件：旅行前 5 天"
+    },
+    {
+      "title": "國內配送",
+      "subtitle": "",
+      "description": "在旅行前 5 個工作日內，並附回郵袋。預訂提前訂單的，將在旅行前 3 天內配送"
+    },
+    {
+      "title": "國內快遞",
+      "subtitle": "",
+      "description": "在 2pm 前訂單的 2 個工作日內，並附回郵袋"
+    },
+    {
+      "title": "國內超級快遞",
+      "subtitle": "",
+      "description": "在 2pm 前的同一個工作日內，並附回郵袋"
+    }
+  ],
+  "orderSummary": {
+    "orderSummary": "訂單摘要",
+    "planName": "計劃名稱",
+    "minimumCharges": "最低收費",
+    "deposit": "押金",
+    "subtotal": "小計",
+    "quantity": "數量",
+    "selfPickupDeliveryFee": "自取配送費",
+    "returnDropOffFee": "退還投遞費",
+    "totalDeliveryCharges": "總配送費用",
+    "totalDataCharges": "總數據費用",
+    "paymentInformation": "付款資訊",
+    "noCardAdded": "未添加卡片",
+    "addCard": "添加卡片",
+    "addNewPaymentMethod": "新增付款方式",
+    "termsAndConditions": "條款與條件",
+    "privacyPolicy": "隱私政策",
+    "readAndAgree": "我已閱讀並同意",
+    "orderConfirmed": "訂單已確認！",
+    "welcomeMessage": "我們很高興再次見到你。讓我們一起進入你的課程。",
+    "continue": "繼續",
+    "simType": "SIM 類型"
+  },
+
+  "setupPocketWifi": {
+    "heading": "如何連接 Pocketwifi？",
+    "subHeading": "輕鬆幾步即可連接您的口袋 WiFi",
+    "setupSteps": [
+      {
+        "step": 1,
+        "title": "開啟口袋 WiFi",
+        "description": "按下電源按鈕開啟並等待它連接至網絡。"
+      },
+      {
+        "step": 2,
+        "title": "找到 WiFi 名稱",
+        "description": "查看設備螢幕上的 WiFi 網絡名稱 (SSID)。"
+      },
+      {
+        "step": 3,
+        "title": "連接 WiFi",
+        "description": "在您的智能手機、平板電腦或筆記型電腦上，打開 WiFi 設置，選擇 SSID，輸入設備上顯示的密碼，然後您就能連接到互聯網。"
+      }
+    ]
+  },
+
+  "returnDevicePocketWifi": {
+    "heading": "如何退還設備？",
+    "subHeading": "按照我們的簡單步驟，確保無憂的退還體驗。",
+    "cardData": [
+      {
+        "title": "Singpost 投遞點",
+        "description": "當您租借設備時，包裡會包含一個預付退還標籤。您可以使用此標籤輕鬆將設備郵回。退還後，您可能會在處理退貨後收到一封電子郵件確認。 ",
+        "buttonText": "查看地點"
+      },
+      {
+        "title": "自取與投遞地點",
+        "description": "使用 Yoowifi，您可以輕鬆在我們指定的任何地點取貨，並在全島 30 多個便捷的投遞點退還。這一簡化流程保證無憂體驗，讓您無論走到哪裡都能保持連接！",
+        "buttonText": "查看地點"
+      }
+    ]
+  },
+
+  "pocketWifiTopUp": {
+    "heading": "如何進行計劃充值",
+    "subHeading": "輕鬆管理您的數據需求，使用 Yoowifi 充值",
+    "setupSteps": [
+      {
+        "step": 1,
+        "title": "選擇您的設備",
+        "description": "打開 Yoowifi 應用程序，進入我的數據，選擇您想充值的設備。"
+      },
+      {
+        "step": 2,
+        "title": "選擇您的計劃",
+        "description": "點擊添加數據，選擇您希望的國家和計劃，然後設置開始和結束日期。"
+      },
+      {
+        "step": 3,
+        "title": "繼續結帳",
+        "description": "確認您的選擇並繼續結帳。"
+      }
+    ]
+  },
+
+  "affiliate": {
+    "affiliateServiceData": [
+      {
+        "title": "選擇您的設備",
+        "description": "打開 Yoowifi 應用程序，進入我的數據，選擇您想充值的設備。"
+      },
+      {
+        "title": "選擇您的計劃",
+        "description": "點擊添加數據，選擇您希望的國家和計劃，然後設置開始和結束日期。"
+      },
+      {
+        "title": "繼續結帳",
+        "description": "確認您的選擇並繼續結帳。"
+      }
+    ],
+    "banner": {
+      "pageTitle": "聯盟",
+      "description": "如果您有任何問題或疑慮，只需填寫表格，我們將盡快與您聯繫！"
+    },
+    "joinAffiliateSection": {
+      "sectionId": "join-affiliate",
+      "secCommon80Class": "sec_common_80 xl:!px-0",
+      "sectionHeader": {
+        "heading": "加入 YooWander 計劃",
+        "midHeading": "探索世界並保持連接！",
+        "subHeading": "您是一位喜愛旅行的影響者，重視與粉絲分享冒險並保持連接嗎？加入 Yoowifi 的聯盟 Yoo Wander 計劃，開啟一段令人興奮的合作。我們將支持您真實的旅行內容，並為您提供免費的全球數據，讓您隨時隨地保持聯繫。"
+      }
+    }
+  },
+
+  "howItWorksPage": {
+    "rentWifiSection": {
+      "sectionHeader": {
+        "heading": "三個簡單步驟租用 Yoowifi 口袋 WiFi！",
+        "subHeading": "選擇您的計劃、領取設備，隨時隨地輕鬆保持連接！"
+      },
+      "rentWifiData": [
+        {
+          "step": "步驟 1",
+          "title": "下載 Yoowifi 應用程式",
+          "description": "下載 Yoowifi 應用程式（僅限首次使用者）",
+          "buttonText": "下載 Yoowifi",
+          "icon": "DownloadFillIcon"
+        },
+        {
+          "step": "步驟 2",
+          "title": "選擇您的計劃",
+          "description": "在應用程式中，搜尋您的目的地國家，選擇數據大小並設置起始和結束日期。"
+        },
+        {
+          "step": "步驟 3",
+          "title": "完成您的預訂",
+          "description": "選擇您喜好的配送方式並前往結帳。"
+        }
+      ],
+      "links": [
+        {
+          "title": "退還地點"
+        },
+        {
+          "title": "聯繫我們",
+          "variant": "secondary"
+        }
+      ]
+    },
+    "deliveryChargesSection": {
+      "sectionHeader": {
+        "heading": "配送費用",
+        "subHeading": "別讓慢速的網絡束縛你！切換到我們的便攜式解決方案，體驗無界限的連接。"
+      },
+      "howItWorksData": [
+        {
+          "type": "本地",
+          "typeSuffix": "",
+          "duration": "3-4 個工作日"
+        },
+        {
+          "type": "快遞",
+          "typeSuffix": "(上午 10 點前訂購)",
+          "duration": "3-4 個工作日"
+        },
+        {
+          "type": "超級快遞",
+          "typeSuffix": "(上午 10 點前訂購)",
+          "duration": "3-4 個工作日"
+        },
+        {
+          "type": "標準國際",
+          "typeSuffix": "",
+          "duration": "3-4 個工作日"
+        }
+      ]
+    },
+    "rentServices": [
+      {
+        "title": "本地退還郵寄袋",
+        "description": "只需將設備及其配件放入預付郵寄袋，並將其投遞至任何 SingPost 郵筒"
+      },
+      {
+        "title": "自我退還",
+        "description": "只需將設備及其配件打包，您可以在任何取件/退還地點退還。"
+      },
+      {
+        "title": "國際快遞",
+        "description": "如果您擁有退還郵寄袋，請聯繫當地 DHL 來取件，或自行安排快遞服務"
+      }
+    ],
+    "selfReturnSection": {
+      "sectionHeader": {
+        "heading": "不到一分鐘的簡單自我退還",
+        "subHeading": "使用 Yoowifi，輕鬆在任何指定地點取設備，並在全島超過 20 個退還地點退還。享受無憂的體驗，無論您的旅程帶您到哪裡，都能保持連接！"
+      },
+      "selfReturnData": [
+        {
+          "title": "登錄 Yoowifi 應用程式",
+          "description": "首先訪問我們的任何 20 多個取件和退還地點。在應用程式中，進入「我的數據」，選擇您要退還的設備，並點擊「退還設備」。"
+        },
+        {
+          "title": "掃描地點二維碼",
+          "description": "接著，掃描工作人員提供的地點二維碼。"
+        },
+        {
+          "title": "掃描設備二維碼",
+          "description": "掃描設備背面的二維碼以完成退還。"
+        }
+      ]
+    },
+    "topUpSection": {
+      "sectionHeader": {
+        "heading": "只需幾個步驟即可為您的數據充值",
+        "subHeading": "只需輕點幾下，即可輕鬆添加數據，確保您保持連接"
+      },
+      "topUpData": [
+        {
+          "title": "選擇您的設備",
+          "description": "打開 Yoowifi 應用程式，進入我的數據，選擇您想充值的設備。"
+        },
+        {
+          "title": "選擇您的計劃",
+          "description": "點擊添加數據，選擇您希望的國家和計劃，然後設置起始和結束日期。"
+        },
+        {
+          "title": "前往結帳",
+          "description": "確認您的選擇並前往結帳。"
+        }
+      ]
+    }
+  },
+
+  "countryCoverage": {
+    "sectionHeader": {
+      "heading": "國家覆蓋範圍",
+      "subHeading": "自信地漫遊世界！隨時隨地保持連接，隨時準備好數據！"
+    },
+    "regionList": [
+      {
+        "name": "亞洲",
+        "value": "asia"
+      },
+      {
+        "name": "歐洲",
+        "value": "europe"
+      },
+      {
+        "name": "美洲",
+        "value": "america"
+      },
+      {
+        "name": "澳洲",
+        "value": "australia"
+      },
+      {
+        "name": "非洲",
+        "value": "africa"
+      }
+    ]
+  },
+
+  "stayConnectedCTA": {
+    "heading": "隨時隨地保持連接",
+    "subHeading": "140+ 個國家",
+    "description": "將無憂的 WiFi 帶在手中。無論您的旅程帶您到哪裡，隨時連接到高質量的互聯網。"
+  },
+
+  "login": {
+    "title": "需要登錄！",
+    "text": "請先登錄以繼續。"
+  },
+
+  "authModal": {
+    "authMessages": {
+      "welcomeBack": {
+        "title": "歡迎回來！",
+        "text": "很高興再次見到您。讓我們開始您的課程吧。"
+      },
+      "verification": {
+        "title": "驗證",
+        "text": "確認碼已發送至您的電子郵件和手機號碼。"
+      },
+      "signUp": {
+        "title": "註冊",
+        "text": "註冊超級有趣。開始吧！"
+      },
+      "signUpSuccessful": {
+        "title": "註冊成功！",
+        "text": "感謝您加入我們！您的帳戶已準備好。"
+      },
+      "loginSuccessful": {
+        "title": "登錄成功！",
+        "text": "歡迎回來！準備好繼續了嗎？"
+      },
+      "accountReady": {
+        "title": "帳戶準備好！",
+        "text": "感謝您加入我們！您的帳戶已準備好。"
+      }
+    },
+    "placeholders": {
+      "firstName": "名字",
+      "lastName": "姓氏",
+      "email": "電子郵件"
+    },
+    "prompts": {
+      "noAccount": {
+        "text": "還沒有帳戶？",
+        "linkText": "立即註冊"
+      },
+      "hasAccount": {
+        "text": "已經有帳戶了？",
+        "linkText": "登錄"
+      },
+      "resendOTP": {
+        "text": "沒有收到OTP？",
+        "linkText": "重新發送代碼"
+      }
+    }
+  }
+}

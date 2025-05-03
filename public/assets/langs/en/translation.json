@@ -1,0 +1,2254 @@
+{
+  "buttonText": {
+    "buyNow": "Buy Now",
+    "findOutMore": "Find Out More",
+    "search": "Search",
+    "seeDetails": "See Details",
+    "aboutUs": "About Us",
+    "howItWorks": "How It Works",
+    "downloadApp": "Rent WifiBB Now",
+    "loadMore": "Load More",
+    "submit": "Submit",
+    "getInTouch": "Get In Touch",
+    "exploreProducts": "Explore Products",
+    "contactUs": "Contact Us",
+    "enquireNow": "Enquire Now",
+    "viewMore": "View More",
+    "viewSimESim": "View SIM/eSIM",
+    "viewSteps": "View Steps",
+    "rentADeviceNow": "Rent a Device Now",
+    "rental": "Rental",
+    "topUp": "Top Up",
+    "previous": "Previous",
+    "next": "Next",
+    "addACountry": "Add a country",
+    "viewLocations": "View Locations",
+    "sim": "SIM",
+    "eSim": "eSIM",
+    "homeorAddress": "Home/Address",
+    "hotel": "Hotel",
+    "saveAddress": "Save Address",
+    "buyPocketWifi": "Buy Pocket Wifi",
+    "dropOffLocations": "Drop Off Locations",
+    "login": "Log In",
+    "logout": "Logout",
+    "continue": "Continue",
+    "verify": "Verify"
+  },
+  "extraText": {
+    "from": "From",
+    "selectCountry": "Select Country",
+    "corporate": "Corporate",
+    "more": "more",
+    "unlimitedData": "Unlimited Data",
+    "day": "day",
+    "endingIn": "Ending in",
+    "countryCoverage": "Country Coverage",
+    "country": "Country",
+    "selectPackage": "*Select a package first",
+    "information": "Information",
+    "service": "Service",
+    "dataSize": "Data Size",
+    "selectDevice": "Select Device",
+    "selectDeviceToTopUp": "Select Device to Top Up",
+    "wifiDevices": "Wifi Devices",
+    "planSummary": "Plan Summary",
+    "chosenPlan": "Chosen Plan",
+    "dataAvailable": "Data Available",
+    "startDate": "Start Date",
+    "quantity": "Quantity",
+    "totalAmount": "Total Amount",
+    "simType": "SIM Type",
+    "chooseNoOfDays": "Choose Number of Days",
+    "noOfSimESim": "No of SIM/eSIM",
+    "selectShippingOption": "Select Shipping Option",
+    "selectLocation": "Select Location",
+    "deliveryAddress": "Delivery Address",
+    "addAddress": "Add Address",
+    "addNewAddress": "Add New Address",
+    "addressDetails": "Address Details",
+    "noCountriesFoundInThisRegion": "No countries found in this region",
+    "searchAnything": "Search anything...",
+    "filters": "Filters",
+    "noOfRentalDevices": "No of Rental device(s)"
+  },
+  "form": {
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "pickADate": "Pick a Date",
+    "selectCountry": "Select Country",
+    "country": "Country",
+    "fullName": "Full Name",
+    "enterNameHere": "Enter name here",
+    "phoneNumber": "Phone Number",
+    "enterNumber": "Enter Number",
+    "state": "State",
+    "selectState": "Select Country",
+    "address": "Address",
+    "enterFullAddress": "Enter full address",
+    "apartment": "Apartment/Floor/Unit/Suite etc",
+    "enterApartmentDetails": "Enter your apartment/floor/unit/suite",
+    "province": "Province",
+    "enterProvince": "Enter province",
+    "postalCode": "Postal/Zip",
+    "enterPostalCode": "Enter postal code",
+
+    "addCreditDebit": "Add Credit/Debit",
+    "cardholderName": "Cardholder Name*",
+    "cardholderNamePlaceholder": "Enter full name",
+    "cardNumber": "Card No.*",
+    "cardNumberPlaceholder": "Enter Number",
+    "cvcCvv": "CVC/CVV2*",
+    "cvcCvvPlaceholder": "Enter CVC code",
+    "expiryDate": "Expiry Date",
+    "expiryDatePlaceholder": "MM/YY"
+  },
+  "notFound": {
+    "noPackage": "No package found for your search"
+  },
+  "navbar": {
+    "forYoo": "For Yoo",
+    "commercial": [
+      {
+        "name": "Home"
+      },
+      {
+        "name": "Pocket WIFI"
+      },
+      {
+        "name": "Router"
+      },
+      {
+        "name": "SIM/eSIM"
+      },
+      {
+        "name": "Contact Us"
+      },
+      {
+        "name": "About Us"
+      }
+    ],
+    "corporate": [
+      {
+        "name": "Iot"
+      },
+      {
+        "name": "Hotel"
+      },
+      {
+        "name": "Travel Agency"
+      },
+      {
+        "name": "Maritime Internet"
+      },
+      {
+        "name": "Office/Roadshow Events"
+      },
+      {
+        "name": "About Us"
+      },
+      {
+        "name": "Commercial"
+      }
+    ],
+    "megamenu": {
+      "menuText": "Others",
+      "menuItems": [
+        {
+          "title": "Travel Data",
+          "items": ["Pocket Wifi Details", "Sim/eSim Details"]
+        },
+        {
+          "title": "Country Coverage",
+          "items": ["Asia", "Europe", "America", "Australia", "Africa"]
+        },
+        {
+          "title": "Pickup/Drop off Location",
+          "items": ["Pickup Location", "Drop off Location"]
+        },
+        {
+          "title": "How It Works",
+          "items": [
+            "Rent Yoowifi Pocket WiFi",
+            "Simple Self-Return In less then a minute",
+            "Create New Trip or Top-up data"
+          ]
+        },
+        {
+          "title": "Affiliate",
+          "items": [
+            "Join the Yoowifi Affiliate Yoo Wander Program",
+            "Contact Us Now!"
+          ]
+        },
+        {
+          "title": "How To",
+          "items": ["Set an eSIM", "How to connect Pocketwifi?"]
+        }
+      ]
+    }
+  },
+  "heroHome": {
+    "heroConnected": {
+      "stayConnected": "Stay Connected",
+      "anyTimeAnyWhere": "Anytime, Anywhere",
+      "seamlessConnectivity": "Seamless Connectivity"
+    },
+    "heroTravel": {
+      "travelCompanion": "YOOUR # 1 TRAVEL COMPANION"
+    },
+    "heroDiscover": {
+      "discover": "INTRODUCING OUR NEW POCKET WIFI"
+    },
+    "slides": [
+      {
+        "title": "FASTER",
+        "subTitle": "5G Connectivity",
+        "description": "Up to 5G Connectivity to more than 90 Countries"
+      },
+      {
+        "title": "EXTENDED",
+        "subTitle": "BATTERY LIFE",
+        "description": "Extended battery Life  up to 20 Hours battery."
+      },
+      {
+        "title": "INCLUDES",
+        "subTitle": "SCREEN DISPLAY",
+        "description": "Now you can track data usage, connect easily, and access more info hassle-free."
+      }
+    ]
+  },
+  "productsData": {
+    "title": "Our Products",
+    "cardData": [
+      {
+        "title": "Pocket WIFI",
+        "description": "Stay connected on the go with our high-speed Pocket WIFI. Perfect for travel and remote work.",
+        "offer": "50% OFF"
+      },
+      {
+        "title": "Router",
+        "description": "Experience seamless and reliable internet connectivity at home with our advanced routers.",
+        "offer": "30% OFF"
+      },
+      {
+        "title": "SIM/eSIM",
+        "description": "Get instant connectivity with our SIM and eSIM options, suitable for all your devices.",
+        "offer": "20% OFF"
+      }
+    ]
+  },
+  "getYourOwn": {
+    "title": "Get your own Yoowifi Pocket WiFi",
+    "features": [
+      "Annual coverage in over 90 countries",
+      "Share up to 8 Devices",
+      "Up to 5G Connectivity",
+      "Data Top up available",
+      "Choose from 50GB, 100GB, or 200GB data plans"
+    ]
+  },
+  "internetPackages": {
+    "sectionHeading": "Internet Packages",
+    "sectionSubHeading": "Discover Our Internet Packages for Your Needs",
+    "searchPlaceholder": "Search country.."
+  },
+  "whyYooWifi": {
+    "sectionHeading": "Why Yoowifi?",
+    "servicesData": [
+      {
+        "title": "Stay Connected Anywhere"
+      },
+      {
+        "title": "Save BIG on International Roaming"
+      },
+      {
+        "title": "Unbeatable Pricing Guarantee"
+      }
+    ]
+  },
+  "stayConnectedRegions": {
+    "sectionHeading": "Stay Connected Everywhere",
+    "sectionSubHeading": "Choose Your Dream Destination and Perfect Package Now",
+    "regions": ["Asia", "America", "Africa", "Australia", "Europe"]
+  },
+  "customerTestimonial": {
+    "sectionHeading": "What Our Customers Say",
+    "sectionSubHeading": "Discover what our valued customers have to say about their experiences with our services",
+    "testimonials": [
+      {
+        "description": "Using this eSIM service for the past six months has completely transformed our approach to managing connectivity for our projects!",
+        "author": "Sarah Johnson",
+        "designation": "CEO, TechWave Solutions"
+      },
+      {
+        "description": "This platform has been a game-changer for our international projects, making it easier to stay connected without the usual hassles.",
+        "author": "Michael Lee",
+        "designation": "Project Manager, GlobalConnect"
+      },
+      {
+        "description": "The ease of use and flexibility offered by this service has allowed us to focus on what matters most—our work!",
+        "author": "Emily Davis",
+        "designation": "COO, Innovatech"
+      },
+      {
+        "description": "We've seen significant cost savings since switching to this eSIM solution. It's a smart choice for any business working globally.",
+        "author": "James Taylor",
+        "designation": "CFO, FinEdge"
+      },
+      {
+        "description": "Reliable connectivity is crucial for us, and this service has delivered beyond our expectations. Highly recommended!",
+        "author": "Sophia Martinez",
+        "designation": "Head of Operations, TransLogix"
+      }
+    ]
+  },
+  "howItWorks": {
+    "sectionHeading": "Stay Connected Anywhere, Anytime",
+    "sectionSubHeading": "Discover what our valued customers have to say about their experiences with our services",
+    "howItWorksData": [
+      {
+        "title": "How To Rent",
+        "description": "Stay connected with Yoowifi in just 3 simple steps! Download the app, choose your destination, and select the package that fits your needs."
+      },
+      {
+        "title": "How To Return",
+        "description": "Choose easy returns with Singpost drop-off or visit locations islandwide for hassle-free service."
+      },
+      {
+        "title": "Pickup & Drop Off Locations",
+        "description": "With 20+ pick-up and drop-off locations, we make it easy for you to get your pocket wifi and stay connected hassle-free."
+      }
+    ]
+  },
+  "collaborateMarquee": {
+    "sectionHeading": "Operators We Collaborate With"
+  },
+  "downloadYooWifi": {
+    "downloadText": "Download the",
+    "ctaText": "Advanced features for an effortless digital experience anytime, anywhere!"
+  },
+  "country": {
+    "packages": [
+      {
+        "name": "Australia-Portable Hotspot",
+        "title": "Basic Package",
+        "details": [
+          {
+            "title": "Description",
+            "info": "BASIC Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day\n\n****************OR****************\nSUPER Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day"
+          },
+          {
+            "title": "Information",
+            "info": "BASIC Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day\n\n****************OR****************\nSUPER Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day"
+          },
+          {
+            "title": "Terms & Conditions",
+            "info": "BASIC Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day\n\n****************OR****************\nSUPER Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day"
+          }
+        ],
+        "features": [
+          "Keep Yoowifi Device",
+          "Top-up Plan only",
+          "365 Days Validity",
+          "Covers 90 Countries"
+        ]
+      },
+      {
+        "name": "Albania-Portable Hotspot",
+        "title": "Traveler Package",
+        "details": [
+          {
+            "title": "Description",
+            "info": "BASIC Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day\n\n****************OR****************\nSUPER Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day"
+          },
+          {
+            "title": "Information",
+            "info": "BASIC Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day\n\n****************OR****************\nSUPER Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day"
+          },
+          {
+            "title": "Terms & Conditions",
+            "info": "BASIC Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day\n\n****************OR****************\nSUPER Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day"
+          }
+        ],
+        "features": [
+          "Keep Yoowifi Device",
+          "Top-up Plan only",
+          "365 Days Validity",
+          "Covers 90 Countries"
+        ]
+      },
+      {
+        "name": "France - Pocket Wifi",
+        "title": "Extended Package",
+        "details": [
+          {
+            "title": "Description",
+            "info": "BASIC Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day\n\n****************OR****************\nSUPER Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day"
+          },
+          {
+            "title": "Information",
+            "info": "BASIC Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day\n\n****************OR****************\nSUPER Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day"
+          },
+          {
+            "title": "Terms & Conditions",
+            "info": "BASIC Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day\n\n****************OR****************\nSUPER Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day"
+          }
+        ],
+        "features": [
+          "Keep Yoowifi Device",
+          "Top-up Plan only",
+          "365 Days Validity",
+          "Covers 90 Countries"
+        ]
+      },
+      {
+        "name": "Greece-Portable Hotspot",
+        "plan": "basic-daypass",
+        "title": "Unlimited Package",
+        "features": [
+          "Keep Yoowifi Device",
+          "Top-up Plan only",
+          "365 Days Validity",
+          "Covers 90 Countries"
+        ],
+        "category": "daily",
+        "desc": "GB",
+        "coverage": [
+          "Algeria",
+          "Anguilla",
+          "Antigua and Barbuda",
+          "Argentina",
+          "Aruba",
+          "Azerbaijan",
+          "Bolivia",
+          "Brazil",
+          "British Virgin Islands",
+          "Chile",
+          "Colombia",
+          "Costa Rica"
+        ],
+        "details": [
+          {
+            "title": "Description",
+            "info": "BASIC Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day\n\n****************OR****************\nSUPER Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day"
+          },
+          {
+            "title": "Information",
+            "info": "BASIC Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day\n\n****************OR****************\nSUPER Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day"
+          },
+          {
+            "title": "Terms & Conditions",
+            "info": "BASIC Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day\n\n****************OR****************\nSUPER Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day"
+          }
+        ]
+      },
+      {
+        "name": "Ireland-Portable Hotspot",
+        "plan": "5gb-7days",
+        "title": "Lite Package",
+        "features": [
+          "Keep Yoowifi Device",
+          "Top-up Plan only",
+          "180 Days Validity",
+          "Covers 60 Countries"
+        ],
+        "category": "monthly",
+        "desc": "GB",
+        "coverage": [
+          "Algeria",
+          "Anguilla",
+          "Antigua and Barbuda",
+          "Argentina",
+          "Aruba",
+          "Azerbaijan",
+          "Bolivia",
+          "Brazil",
+          "British Virgin Islands",
+          "Chile",
+          "Colombia",
+          "Costa Rica"
+        ],
+        "details": [
+          {
+            "title": "Description",
+            "info": "BASIC Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day\n\n****************OR****************\nSUPER Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day"
+          },
+          {
+            "title": "Information",
+            "info": "BASIC Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day\n\n****************OR****************\nSUPER Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day"
+          },
+          {
+            "title": "Terms & Conditions",
+            "info": "BASIC Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day\n\n****************OR****************\nSUPER Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day"
+          }
+        ]
+      },
+      {
+        "name": "Germany - Pocket Wifi",
+        "plan": "20gb-20days",
+        "title": "Business Package",
+        "features": [
+          "Keep Yoowifi Device",
+          "Top-up Plan only",
+          "365 Days Validity",
+          "Priority support",
+          "Covers 100 Countries"
+        ],
+        "category": "volumn",
+        "desc": "GB",
+        "coverage": [
+          "Algeria",
+          "Anguilla",
+          "Antigua and Barbuda",
+          "Argentina",
+          "Aruba",
+          "Azerbaijan",
+          "Bolivia",
+          "Brazil",
+          "British Virgin Islands",
+          "Chile",
+          "Colombia",
+          "Costa Rica"
+        ],
+        "details": [
+          {
+            "title": "Description",
+            "info": "BASIC Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day\n\n****************OR****************\nSUPER Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day"
+          },
+          {
+            "title": "Information",
+            "info": "BASIC Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day\n\n****************OR****************\nSUPER Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day"
+          },
+          {
+            "title": "Terms & Conditions",
+            "info": "BASIC Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day\n\n****************OR****************\nSUPER Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day"
+          }
+        ]
+      },
+      {
+        "name": "Sweden - Pocket Wifi",
+        "plan": "20gb-20days",
+        "title": "Business Package",
+        "features": [
+          "Keep Yoowifi Device",
+          "Top-up Plan only",
+          "365 Days Validity",
+          "Priority support",
+          "Covers 100 Countries"
+        ],
+        "category": "volumn",
+        "desc": "GB",
+        "coverage": [
+          "Algeria",
+          "Anguilla",
+          "Antigua and Barbuda",
+          "Argentina",
+          "Aruba",
+          "Azerbaijan",
+          "Bolivia",
+          "Brazil",
+          "British Virgin Islands",
+          "Chile",
+          "Colombia",
+          "Costa Rica"
+        ],
+        "details": [
+          {
+            "title": "Description",
+            "info": "BASIC Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day\n\n****************OR****************\nSUPER Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day"
+          },
+          {
+            "title": "Information",
+            "info": "BASIC Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day\n\n****************OR****************\nSUPER Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day"
+          },
+          {
+            "title": "Terms & Conditions",
+            "info": "BASIC Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day\n\n****************OR****************\nSUPER Daypass\n- Enjoy Unlimited Data Freedom\n- 1GB on high-speed daily\n- For as low as SGD$2.90/day"
+          }
+        ]
+      }
+    ]
+  },
+  "pocketWifi": {
+    "product": {
+      "name": "Pocket Wifi",
+      "description": "The Yoowifi Pocket Wifi device offers fast and reliable internet access wherever you go. Perfect for travelers and remote workers, it allows you to connect up to 8 devices simultaneously. Yoowifi provides a variety of data plans tailored to your needs, whether you're heading out for a weekend or traveling for an extended period. With coverage in multiple countries, it's the ideal travel companion.",
+      "features": [
+        "Stay Connected Anywhere",
+        "Save BIG on International Roaming",
+        "Unbeatable Pricing Guarantee"
+      ],
+      "buttons": {
+        "text": "View Plans",
+        "text2": "Get Pocket Wifi"
+      },
+      "tabs": [
+        {
+          "title": "Description",
+          "content": "It is easy to use and boasts a sleek, minimalist design. Simply turn it on, connect your devices, and you’re good to go! No more worrying about complicated setup processes or bulky equipment. But that’s not all – our Pocket WiFi devices also offer strong and reliable connectivity, ensuring that you stay connected no matter where you are. Whether you’re on a business trip or a family vacation, you can enjoy high-speed internet without any interruptions."
+        },
+        {
+          "title": "Specifications",
+          "content": "CPU: SC8310LTE-FDD：Bands 1 / 2 / 3 / 4 / 5 / 7 / 8 / 12 / 13 / 17 / 18 / 20 / 25 / 26 /28 / 66\nLTE-TDD：Bands 34 / 38 / 39 / 40 / 41 (194M)\nWCDMA：Bands 1 / 2 / 4 / 5 / 8\nTD-SCDMA：NO CDMA：NO\nEVDO：NO\nGSM：850 / 900 / 1800 / 1900\nMax speed：Download 150Mbps / Upload 50Mbps\nWi-Fi：2.4GHz 802.11 b / g / n 1T1R\nMax WiFi Connection：8\nBattery：3000mAh\nPorts：Type-C USB\nInput：5V – 1A\nItem size：120mm x 64.6mm x 12mm\nItem weight：112g\nShell Material：Plastics"
+        },
+        {
+          "title": "What's Included",
+          "content": "50GB global data is applicable to 90 countries.\nSpeed of service is dependent on the mobile network partner.\nFor order cancellation, a charge of 10% of the order will apply.\nGeneral terms and conditions apply.\nYoowifi reserved the rights to make changes anytime."
+        },
+        {
+          "title": "Terms & Conditions",
+          "content": "Albania, Andorra, Armenia, Australia, Austria, Bahrain, Bangladesh, Belgium, Bosnia and Herzegovina, Brunei, Bulgaria, Cambodia, Canada, China, Croatia, Cyprus, Czech Republic, Denmark, Egypt, Estonia, Finland, France, Georgia, Germany, Gibraltar, Greece, Guernsey, Hong Kong, Hungary, Iceland, India, Indonesia, Ireland, Isle of Man, Israel, Italy, Japan, Jersey, Jordan, Kazakhstan, Kuwait, Laos, Latvia, Liechtenstein Lithuania, Luxembourg, Macau, Macedonia, Malaysia, Malta, Mexico, Monaco, Montenegro, Myanmar, Netherlands, New Zealand, Norway, Oman, Pakistan, Philippines, Poland, Portugal, Qatar, Reunion, Romania, Russia, San Marino, Saudi Arabia, Serbia, Slovakia, Slovenia, South Korea, Spain, Sri Lanka, Sweden, Switzerland, Taiwan, Thailand, Turkey, UAE, Ukraine, United Kingdom, USA, Uzbekistan, Vatican, Vietnam"
+        }
+      ]
+    },
+    "features": {
+      "heading": "Key Features",
+      "subHeading": "Don't let slow internet tie you down! Switch to our portable solutions to experience connectivity without boundaries.",
+      "featureList": [
+        "Up To 4G LTE Speed",
+        "Flexible Data Option",
+        "Cloud SIM Technology",
+        "Share Up To 8 Devices",
+        "12 Hour Battery Life"
+      ]
+    },
+    "aboutUs": [
+      {
+        "_id": 1,
+        "title": "Enterprise Solutions",
+        "content": "Reliable, secure internet connectivity for businesses on-the-go, with scalable, efficient solutions that ensure seamless integration and smooth operations anywhere"
+      },
+      {
+        "_id": 2,
+        "title": "Partnerships",
+        "content": "Our partnerships are built on trust and collaboration, working together to drive innovation, expand opportunities, and create mutual success"
+      },
+      {
+        "_id": 3,
+        "title": "Custom Solutions",
+        "content": "Discover our custom solutions tailored to meet your unique needs. We work closely with you to design innovative, flexible services that drive success and enhance your business outcomes"
+      }
+    ],
+    "services": [
+      {
+        "_id": 1,
+        "title": "Global Coverage",
+        "content": "Stay connected across 160 countries, no matter where your journey takes you with Yoowifi's travel wifi services."
+      },
+      {
+        "_id": 2,
+        "title": "Multihoming Network",
+        "content": "Ensure uninterrupted connectivity with our multi-homing network, offering multiple connections for enhanced reliability and performance"
+      },
+      {
+        "_id": 3,
+        "title": "Zero Touch on Demand",
+        "content": "Our cloud-based portal preconfigures and deploys services for zero-touch on-demand connectivity, technical expertise required on-site."
+      },
+      {
+        "_id": 4,
+        "title": "Cost Efficient Service",
+        "content": "Enjoy high-quality services at competitive prices, designed to deliver maximum value while staying cost-effective"
+      },
+      {
+        "_id": 5,
+        "title": "Management Portal",
+        "content": "Our management portal provides a user-friendly platform for seamless control and monitoring, empowering you to manage services efficiently"
+      },
+      {
+        "_id": 6,
+        "title": "App Customization",
+        "content": "Customize your app for a personalized experience, tailored to your brand and goals"
+      }
+    ],
+    "whatWeDo": [
+      {
+        "_id": 1,
+        "title": "Business Continuity Plan",
+        "content": "Yoowifi offer a technological solution that provides a robust and highly redundant platform to keep your business connected and continue operating despite uncertainties."
+      },
+      {
+        "_id": 2,
+        "title": "In-vehicle Connectivity",
+        "content": "Yoowifi supply the necessary bandwidth for secure transmission and receipt of data, whether it is being transmitted in-state or across different countries."
+      },
+      {
+        "_id": 3,
+        "title": "Remote Working",
+        "content": "Our remote working solutions ensure uninterrupted connectivity, allowing teams to collaborate efficiently and stay productive, regardless of location."
+      },
+      {
+        "_id": 4,
+        "title": "Connectivity for Events",
+        "content": "Ensure flawless event experiences with our reliable connectivity solutions, offering fast, secure internet that keeps your event running smoothly from start to finish"
+      },
+      {
+        "_id": 5,
+        "title": "Travel Agency Solutions",
+        "content": "We partner with travel agencies to provide the best internet solutions, ensuring seamless connectivity for travelers and enhancing the overall travel experience"
+      },
+      {
+        "_id": 6,
+        "title": "Hotels",
+        "content": "We offer customized internet solutions for hotels, ensuring fast, reliable connectivity that enhances guest satisfaction and supports efficient hotel operations"
+      }
+    ],
+    "stayConnectedYourWay": {
+      "heading": "Stay Connected Your Way",
+      "subHeading": "Purchase or rent a device with flexibility to match your connectivity needs. Choose between owning a long-term solution or renting for short-term use, ensuring you have reliable access whenever you need it.",
+      "ways": [
+        {
+          "title": "Buy Your Own Device",
+          "description": "Purchase a device for long-term, reliable connectivity whenever you need it."
+        },
+        {
+          "title": "Rental",
+          "description": "Access reliable connectivity when you need it with flexible, short-term device rental options—ideal for trips, events, or temporary use."
+        }
+      ]
+    },
+    "whatsIncluded": {
+      "heading": "What's Included",
+      "subHeading": "Everything You Need for Seamless Connectivity",
+      "includedList": {
+        "chargingCable": "x1 Charging Cable",
+        "devicePouch": "x1 Device Pouch",
+        "howToOperate": "How To Operate",
+        "powerOn": "Power On",
+        "powerOff": "Power Off",
+        "pressNote": "Press the power button for 3 seconds"
+      }
+    },
+    "ledIndicators": {
+      "heading": "Battery LED Indicators",
+      "subHeading": "Keep Track of Your Device's Power Status Easily",
+      "content": {
+        "capacity": {
+          "title": "The battery capacity is shown by different color",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typeset industry.Lorem Ipsum is simply"
+        },
+        "charging": {
+          "title": "Charging",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typeset industry.Lorem Ipsum is simply"
+        },
+        "support": "*Please contact our customer support at hello@yoowifi.com or WhatsApp us at (65) 6100 9998",
+        "systemUpdateNote": "**All indicators flashing means is under going system software update**"
+      }
+    },
+    "howToConnect": {
+      "heading": "How to connect Pocketwifi?",
+      "subHeading": "Effortlessly Connect to Your Pocket WiFi in Just a Few Simple Steps",
+      "steps": [
+        {
+          "title": "Turn On the Pocket WiFi",
+          "description": "Press the power button to turn it on and wait for it to connect to the network."
+        },
+        {
+          "title": "Find the WiFi Name",
+          "description": "Check the device's screen for the WiFi network name (SSID)."
+        },
+        {
+          "title": "Connect to WiFi",
+          "description": "On your smartphone, tablet, or laptop, open WiFi settings, select the SSID, enter the password displayed on the device, and you will be connected to the internet."
+        }
+      ]
+    },
+    "howToReturn": {
+      "heading": "How to Return Device?",
+      "subHeading": "Follow our easy steps to ensure a hassle-free return experience.",
+      "cardData": [
+        {
+          "title": "Singpost Drop-Off",
+          "description": "When you rent the device, a pre-paid return label will be included in the package. You can use this label to easily mail the device back. After returning it, you’ll likely receive an email confirmation once the return is processed.",
+          "buttonText": "View Locations"
+        },
+        {
+          "title": "Pickup Drop off Locations",
+          "description": "With Yoowifi, you can effortlessly pick up your device at any of our designated locations and return it at one of our 30+ convenient drop-off points across the island. This streamlined process guarantees a hassle-free experience, allowing you to stay connected wherever your travels take you!",
+          "buttonText": "View Locations"
+        }
+      ]
+    },
+    "planTopUp": {
+      "heading": "How to do a plan Top up",
+      "subHeading": "Easily Manage Your Data Needs with Yoowifi Top-Up",
+      "steps": [
+        {
+          "title": "Select Your Device",
+          "description": "Open the Yoowifi app, go to My Data, and select the device you want to top up."
+        },
+        {
+          "title": "Choose Your Plan",
+          "description": "Click on Add Data, select your desired country and plan, then set the start and end dates."
+        },
+        {
+          "title": "Proceed to Checkout",
+          "description": "Confirm your selections and proceed to checkout."
+        }
+      ]
+    },
+    "otherProducts": {
+      "title": "Other products you may like"
+    }
+  },
+  "router": {
+    "product": {
+      "name": "Router",
+      "description": "The Yoowifi Router offers seamless and reliable internet connectivity at home or in the office. With advanced features and high-speed connectivity, it ensures that you stay connected without any interruptions. The router is easy to set up and use, making it the perfect solution for all your internet needs.",
+      "features": [
+        "Stay Connected Anywhere",
+        "Save BIG on International Roaming",
+        "Unbeatable Pricing Guarantee"
+      ],
+      "buttons": {
+        "text": "View Plans",
+        "text2": "Get Router"
+      },
+      "tabs": [
+        {
+          "title": "Description",
+          "content": "It is easy to use and boasts a sleek, minimalist design. Simply turn it on, connect your devices, and you’re good to go! No more worrying about complicated setup processes or bulky equipment. But that’s not all – our Pocket WiFi devices also offer strong and reliable connectivity, ensuring that you stay connected no matter where you are. Whether you’re on a business trip or a family vacation, you can enjoy high-speed internet without any interruptions."
+        },
+        {
+          "title": "Specifications",
+          "content": "CPU: SC8310LTE-FDD：Bands 1 / 2 / 3 / 4 / 5 / 7 / 8 / 12 / 13 / 17 / 18 / 20 / 25 / 26 /28 / 66\nLTE-TDD：Bands 34 / 38 / 39 / 40 / 41 (194M)\n WCDMA：Bands 1 / 2 / 4 / 5 / 8 \nTD-SCDMA：NO CDMA：NO\nEVDO：NO\nGSM：850 / 900 / 1800 / 1900 \nMax speed：Download 150Mbps  /  Upload 50Mbps \nWi-Fi：2.4GHz  802.11 b / g / n 1T1R \nMax WiFi Connection：8\nBattery：3000mAh \nPorts：Type-C  USB\nInput： 5V – 1A \nItem size：120mm x 64.6mm x 12mm\nItem weight：112g\nShell Material：Plastics"
+        },
+        {
+          "title": "What's Included",
+          "content": "50GB global data is applicable to 90 countries.\nSpeed of service is dependent on the mobile network partner.\nFor order cancellation, a charge of 10% of the order will apply.\nGeneral terms and conditions apply.\nYoowifi reserved the rights to make changes anytime."
+        },
+        {
+          "title": "Terms & Conditions",
+          "content": "Albania, Andorra, Armenia, Australia, Austria, Bahrain, Bangladesh, Belgium, Bosnia and Herzegovina, Brunei, Bulgaria, Cambodia, Canada, China, Croatia, Cyprus, Czech Republic, Denmark, Egypt, Estonia, Finland, France, Georgia, Germany, Gibraltar, Greece, Guernsey, Hong Kong, Hungary, Iceland, India, Indonesia, Ireland, Isle of Man, Israel, Italy, Japan, Jersey, Jordan, Kazakhstan, Kuwait, Laos, Latvia, Liechtenstein Lithuania, Luxembourg, Macau, Macedonia, Malaysia, Malta, Mexico, Monaco, Montenegro, Myanmar, Netherlands, New Zealand, Norway, Oman, Pakistan, Philippines, Poland, Portugal, Qatar, Reunion, Romania, Russia, San Marino, Saudi Arabia, Serbia, Slovakia, Slovenia, South Korea, Spain, Sri Lanka, Sweden, Switzerland, Taiwan, Thailand, Turkey, UAE, Ukraine, United Kingdom, USA, Uzbekistan, Vatican, Vietnam"
+        }
+      ]
+    },
+    "features": {
+      "heading": "Key Features",
+      "subHeading": "Don't let slow internet tie you down! Switch to our portable solutions to experience connectivity without boundaries.",
+      "featureList": [
+        "Up To 4G LTE Speed",
+        "Flexible Data option",
+        "Cloud SIM Technology",
+        "Share across multiple devices",
+        "Greater Coverage and Stability"
+      ]
+    },
+    "whatsIncluded": {
+      "heading": "What's included",
+      "subHeading": "Everything You Need for Seamless Connectivity",
+      "includedList": ["x1 Wifi Router", "x1 Power Adapter"]
+    },
+    "howToConnectRouter": {
+      "heading": "How to connect Router?",
+      "subHeading": "Step-by-step guide to easily set up your eSIM",
+      "steps": [
+        "Connect the power adapter to the WiFi router and plug it into the power socket. Then, turn on the power socket.",
+        "To connect to your WiFi network, locate the default WiFi name and password on the underside / back of the WiFi Router.",
+        "Connect to the default WiFi name and enter the password when prompted, and you're all set!"
+      ]
+    },
+    "otherProducts": {
+      "title": "Other products you may like"
+    }
+  },
+  "sim": {
+    "product": {
+      "name": "SIM/eSIM",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typeset industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "features": [
+        "Stay Connected Anywhere",
+        "Save BIG on International Roaming",
+        "Unbeatable Pricing Guarantee"
+      ],
+      "buttons": {
+        "text": "View Plans",
+        "text2": "Get SIM/eSIM"
+      },
+      "tabs": [
+        {
+          "title": "Description",
+          "content": "Our Sim/E-Sim is perfect for those who value convenience and ease of use. You can activate it within minutes and start enjoying all the benefits that come with it. Whether you’re a student, a working professional, or anyone who needs a reliable telecommunications service, our Sim/E-Sim is the perfect solution for you. We offer competitive pricing, flexible plans, and excellent customer support to ensure that you get the best value for your money!"
+        },
+        {
+          "title": "Terms & Conditions",
+          "content": "One-time use physical SIM card expiry date would be 60 days after purchase\n No refunds or cancellations can be made for eSIM due to eSIM compatibility issues.\n Do not delete or remove your eSIM from your device after successful installation.\n General terms and conditions apply."
+        }
+      ]
+    },
+    "features": {
+      "heading": "Key Features",
+      "subHeading": "Don't let slow internet tie you down! Switch to our portable solutions to experience connectivity without boundaries.",
+      "featureList": [
+        "Up To 4G \n LTE Speed",
+        "No Throttle",
+        "Fast Delivery",
+        "Simple Plug and Use",
+        "24/7 Technical Support",
+        "3-in-1 SIM card"
+      ]
+    },
+    "howToSetup": {
+      "heading": "How to Set Up Your SIM",
+      "subHeading": "Don't let slow internet tie you down! Switch to our portable solutions to experience connectivity without boundaries.",
+      "steps": [
+        {
+          "title": "Purchase A SIM Card",
+          "description": "Easily order a SIM card via the Yoowifi app, and enjoy the convenience of having it delivered right to your doorstep."
+        },
+        {
+          "title": "Insert SIM Card",
+          "description": "Insert SIM card and power on your mobile device.*Data validity starts immediately upon the first insertion of SIM at destination."
+        },
+        {
+          "title": "Enable Data Roaming",
+          "description": "Enable Data Roaming on your mobile device.*If your phone is unable to detect the Data Roaming activation, reboot after step 2 and kindly ensure your Data Roaming is switch on."
+        }
+      ]
+    },
+    "activateSteps": {
+      "heading": "Easy Steps to Activate Your eSIM",
+      "steps": [
+        {
+          "title": "iOS",
+          "deviceSteps": [
+            {
+              "title": "Step 1",
+              "description": "Activating your eSIM on the Yoowifi app",
+              "steps": [
+                "After purchasing the eSIM, go to My Orders and click the Activate eSIM button to complete the activation.",
+                "Once activated, the eSIM will appear under My Data."
+              ]
+            },
+            {
+              "title": "Step 2",
+              "description": "Activating your eSIM",
+              "steps": [
+                "Go to your iPhone’s settings. Tap on Cellular or Mobile Data.",
+                "Tap on Add eSIM",
+                "Tap on Use QR Code",
+                "Scan the QR code you received after purchasing the eSIM in the Yoowifi app or enter Details manually."
+              ]
+            },
+            {
+              "title": "Step 3",
+              "description": "Enabling Data Roaming",
+              "steps": [
+                "If you're setting up manually, you may need to enter the activation details provided in the Yoowifi app under your eSIM order, which can be found in My Data.",
+                "Continue to activate eSIM.",
+                "Select the eSIM that has been added once you reach your travel destination, then enable Data Roaming to connect."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Android",
+          "deviceSteps": [
+            {
+              "title": "Step 1",
+              "description": "Activating your eSIM on the Yoowifi app",
+              "steps": [
+                "After purchasing the eSIM, go to My Orders and click the Activate eSIM button to complete the activation.",
+                "Once activated, the eSIM will appear under My Data."
+              ]
+            },
+            {
+              "title": "Step 2",
+              "description": "Activating your eSIM",
+              "steps": [
+                "Go to your iPhone’s settings. Tap on Cellular or Mobile Data.",
+                "Tap on Add eSIM",
+                "Tap on Use QR Code",
+                "Scan the QR code you received after purchasing the eSIM in the Yoowifi app or enter Details manually."
+              ]
+            },
+            {
+              "title": "Step 3",
+              "description": "Enabling Data Roaming",
+              "steps": [
+                "If you're setting up manually, you may need to enter the activation details provided in the Yoowifi app under your eSIM order, which can be found in My Data.",
+                "Continue to activate eSIM.",
+                "Select the eSIM that has been added once you reach your travel destination, then enable Data Roaming to connect."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "deviceCompatibilities": {
+      "heading": "Check Device Compatibility",
+      "subHeading": "If you are using eSIM for the first time, you may need to check if your device supports eSIM. And we would like to help you with just that. Select your device brand and see if your models are listed. You can confirm further by checking the Settings page of your device.",
+      "compatibilities": [
+        {
+          "title": "Apple",
+          "devices": [
+            {
+              "name": "iPhone",
+              "versions": [
+                "iPhone 16, 16 Plus, 16 Pro, 16 Pro Max",
+                "iPhone 15, 15 Plus, 15 Pro, 15 Pro Max",
+                "iPhone 14, 14 Plus, 14 Pro, 14 Pro Max",
+                "iPhone 13, 13 Mini, 13 Pro, 13 Pro, 13 Pro Max",
+                "iPhone 12, 12 Mini, 12 Pro, 12 Pro Max",
+                "iPhone 11, 11 Pro, 11 Pro Max",
+                "iPhone XS, XS Max",
+                "iPhone XR",
+                "iPhone SE (2020 and 2022)"
+              ]
+            },
+            {
+              "name": "iPad",
+              "versions": [
+                "iPad (from 7th generation)",
+                "iPad Air (from 3rd generation)",
+                "iPad Pro, 11-inch (from 1st generation)",
+                "iPad Pro 12.9-inch (from 3rd generation)",
+                "iPad Mini (from 5th generation)"
+              ]
+            }
+          ],
+          "note": "eSIM functionality can vary by model and region. Please contact your local carrier for confirmation."
+        },
+        {
+          "title": "Samsung",
+          "devices": [
+            {
+              "name": "Samsung Galaxy S Series",
+              "versions": [
+                "Galaxy S23",
+                "Galaxy S23+",
+                "Galaxy S23 Ultra",
+                "Galaxy S22",
+                "Galaxy S22+",
+                "Galaxy S22 Ultra",
+                "Galaxy S21",
+                "Galaxy S21+",
+                "Galaxy S21 Ultra",
+                "Galaxy S20",
+                "Galaxy S20+",
+                "Galaxy S20 Ultra"
+              ]
+            },
+            {
+              "name": "Samsung Galaxy Z Series (Foldable Phones)",
+              "versions": [
+                "Galaxy Z Fold5 (2023)",
+                "Galaxy Z Fold4 (2022)",
+                "Galaxy Z Fold3 (2021)",
+                "Galaxy Z Flip5 (2023)",
+                "Galaxy Z Flip4 (2022)",
+                "Galaxy Z Flip3 (2021)"
+              ]
+            },
+            {
+              "name": "Samsung Galaxy Note Series",
+              "versions": [
+                "Galaxy Note 20 Series (2020)",
+                "Galaxy Note 20",
+                "Galaxy Note 20 Ultra"
+              ]
+            },
+            {
+              "name": "Samsung Galaxy A Series",
+              "versions": ["Galaxy A54 (2023)", "Galaxy A53 (2022)"]
+            }
+          ],
+          "note": "eSIM functionality can vary by model and region. Please contact your local carrier for confirmation."
+        },
+        {
+          "title": "Google",
+          "devices": [
+            {
+              "name": "Google Pixel 8 Series (2023)",
+              "versions": ["Pixel 8", "Pixel 8 Pro"]
+            },
+            {
+              "name": "Google Pixel 7 Series (2022)",
+              "versions": ["Pixel 7", "Pixel 7 Pro"]
+            },
+            {
+              "name": "Google Pixel 6 Series (2021)",
+              "versions": ["Pixel 6", "Pixel 6 Pro", "Pixel 6a"]
+            },
+            {
+              "name": "Google Pixel 5 Series (2020)",
+              "versions": ["Pixel 5", "Pixel 5a 5G"]
+            },
+            {
+              "name": "Google Pixel 4 Series (2019)",
+              "versions": ["Pixel 4", "Pixel 4 XL", "Pixel 4a"]
+            },
+            {
+              "name": "Google Pixel 3 Series (2018)",
+              "versions": ["Pixel 3", "Pixel 3 XL", "Pixel 3a", "Pixel 3a XL"]
+            }
+          ],
+          "note": "eSIM functionality can vary by model and region. Please contact your local carrier for confirmation."
+        },
+        {
+          "title": "Huawei",
+          "devices": [
+            {
+              "name": "Huawei P Series",
+              "versions": [
+                "Huawei P60 Pro (2023)",
+                "Huawei P50 Pro (2021)",
+                "Huawei P40 Series (2020)",
+                "Huawei P40",
+                "Huawei P40 Pro",
+                "Huawei P40 Pro+"
+              ]
+            },
+            {
+              "name": "Huawei Mate Series",
+              "versions": [
+                "Huawei Mate 50 Pro (2022)",
+                "Huawei Mate 40 Pro (2020)",
+                "Huawei Mate 30 Series (2019)",
+                "Huawei Mate 30",
+                "Huawei Mate 30 Pro"
+              ]
+            },
+            {
+              "name": "Huawei Watch (eSIM models)",
+              "versions": [
+                "Huawei Watch 4 Pro",
+                "Huawei Watch 3",
+                "Huawei Watch 3 Pro"
+              ]
+            }
+          ],
+          "note": "eSIM functionality can vary by model and region. Please contact your local carrier for confirmation."
+        },
+        {
+          "title": "Oppo",
+          "devices": [
+            {
+              "name": "Oppo Find X Series",
+              "versions": [
+                "Oppo Find X6 Pro (2023)",
+                "Oppo Find X5 Series (2022)",
+                "Oppo Find X5",
+                "Oppo Find X5 Pro",
+                "Oppo Find X3 Series (2021)",
+                "Oppo Find X3",
+                "Oppo Find X3 Pro"
+              ]
+            },
+            {
+              "name": "Oppo Reno Series",
+              "versions": ["Oppo Reno8 Pro (2022)", "Oppo Reno7 Pro 5G"]
+            },
+            {
+              "name": "Oppo A Series",
+              "versions": ["Oppo A55s 5G (2022)"]
+            }
+          ],
+          "note": "eSIM functionality can vary by model and region. Please contact your local carrier for confirmation."
+        },
+        {
+          "title": "Xiaomi",
+          "devices": [
+            {
+              "name": "Xiaomi 13 Series",
+              "versions": [
+                "Xiaomi 13 (2023)",
+                "Xiaomi 13 Pro (2023)",
+                "Xiaomi 13 Lite (2023)"
+              ]
+            },
+            {
+              "name": "Xiaomi 12 Series",
+              "versions": [
+                "Xiaomi 12 (2021)",
+                "Xiaomi 12 Pro (2021)",
+                "Xiaomi 12T (2022)",
+                "Xiaomi 12T Pro (2022)"
+              ]
+            },
+            {
+              "name": "Xiaomi Mi 11 Series",
+              "versions": [
+                "Xiaomi Mi 11 (2020)",
+                "Xiaomi Mi 11 Pro (2021)",
+                "Xiaomi Mi 11 Ultra (2021)"
+              ]
+            },
+            {
+              "name": "Redmi Note Series",
+              "versions": [
+                "Redmi Note 12 Pro (2022)",
+                "Redmi Note 12 Pro+ (2022)"
+              ]
+            }
+          ],
+          "note": "eSIM functionality can vary by model and region. Please contact your local carrier for confirmation."
+        },
+        {
+          "title": "Honor",
+          "devices": [
+            {
+              "name": "Honor Magic Series",
+              "versions": [
+                "Honor Magic 5 Pro (2023)",
+                "Honor Magic 4 Pro (2022)",
+                "Honor Magic 3 Series (2021)",
+                "Honor Magic 3",
+                "Honor Magic 3 Pro",
+                "Honor Magic 3 Pro+"
+              ]
+            },
+            {
+              "name": "Honor 50 Series",
+              "versions": ["Honor 50 (2021)", "Honor 50 Pro (2021)"]
+            },
+            {
+              "name": "Honor V Series",
+              "versions": ["Honor V40 (2021)", "Honor V30 (2019)"]
+            },
+            {
+              "name": "Honor 20 Series",
+              "versions": ["Honor 20 Pro (2019)"]
+            }
+          ],
+          "note": "eSIM functionality can vary by model and region. Please contact your local carrier for confirmation."
+        },
+        {
+          "title": "Sony",
+          "devices": [
+            {
+              "name": "Sony Xperia Series",
+              "versions": [
+                "Sony Xperia 1 V (2023)",
+                "Sony Xperia 1 IV (2022)",
+                "Sony Xperia 5 IV (2022)",
+                "Sony Xperia 10 IV (2022)"
+              ]
+            },
+            {
+              "name": "Sony Xperia 1 III Series (2021)",
+              "versions": ["Sony Xperia 1 III", "Sony Xperia 5 III"]
+            },
+            {
+              "name": "Sony Xperia 10 Series",
+              "versions": ["Sony Xperia 10 III (2021)"]
+            }
+          ],
+          "note": "eSIM functionality can vary by model and region. Please contact your local carrier for confirmation."
+        },
+        {
+          "title": "Motorola",
+          "devices": [
+            {
+              "name": "Motorola Edge Series",
+              "versions": [
+                "Motorola Edge 40 (2023)",
+                "Motorola Edge 30 (2022)",
+                "Motorola Edge 20 (2021)",
+                "Motorola Edge 20 Pro (2021)"
+              ]
+            },
+            {
+              "name": "Motorola Razr (Foldable)",
+              "versions": ["Motorola Razr 40 (2023)", "Motorola Razr 2020"]
+            },
+            {
+              "name": "Motorola Moto G Series",
+              "versions": ["Moto G72 (2022)"]
+            }
+          ],
+          "note": "eSIM functionality can vary by model and region. Please contact your local carrier for confirmation."
+        }
+      ]
+    },
+    "howToTopUp": {
+      "heading": "How to Top up SIM/eSIM",
+      "subHeading": "3 Simple Steps to Top Up Your SIM/eSIM",
+      "steps": [
+        {
+          "title": "Open the Yoowifi App",
+          "description": "In the Yoowifi app, navigate to My Data and select the SIM or eSIM you want to top up."
+        },
+        {
+          "title": "Add Data",
+          "description": "Tap on Add Data, then choose your destination country, plan, data size, and select number of days."
+        },
+        {
+          "title": "Proceed to Checkout",
+          "description": "Confirm your selections and proceed to checkout."
+        }
+      ]
+    },
+    "otherProducts": {
+      "title": "Other products you may like"
+    }
+  },
+  "aboutUs": {
+    "header": {
+      "title": "About Us",
+      "description": "Yoowifi is a Singapore-based company that provides pocket wifi rental services for travelers. We offer a wide range of pocket wifi devices with unlimited data plans to keep you connected wherever you go."
+    },
+    "whoWeAre": {
+      "title": "Who We Are",
+      "description": "UR Communications Pte Ltd, operating under the renowned brand name Yoowifi, introduces an advanced solution for effortless global connectivity via its intuitive mobile application. With a commitment to enriching travel journeys and fostering global communication, Yoowifi App delivers unmatched convenience, dependability, and cost-effectiveness. \n\nOur aspiration is to establish a world where telecom experts and travelers can effortlessly stay linked across countries, free from concerns about excessive data roaming fees. Our mission revolves around building a company that offers accessible, trustworthy, and boundary-free mobile services, empowering individuals to stay connected with their dear ones while exploring diverse corners of the globe.",
+      "image": "images.whoWeAre1"
+    },
+    "features": [
+      "Reliable WiFi, anywhere you go",
+      "Covers more than 160 Countries",
+      "24/7 Customer Support",
+      "Local presence in over 10 countries"
+    ],
+    "companyMission": {
+      "title": "Our Company Mission",
+      "mission": {
+        "title": "Stay Connected Anytime, Anywhere",
+        "year": "2001",
+        "description": "Our mission is to deliver accessible, reliable, and boundary-free data services. We strive to empower individuals to stay seamlessly connected with their loved ones while exploring new cultures, experiencing adventures, and navigating diverse corners of the globe, ensuring a seamless and enriching connectivity experience.",
+        "image": "images.companyMission1"
+      }
+    },
+    "awardsAndAchievements": {
+      "header": "Our Awards & Achievements",
+      "details": [
+        {
+          "year": "2024",
+          "title": "Most Innovative Travel Wi-Fi Solutions Company 2024",
+          "description": "Awarded by AI Business Excellence Awards"
+        },
+        {
+          "year": "2024",
+          "title": "Singapore's Fastest Growing Companies 2024",
+          "description": "Awarded by The Straits Times & Statista"
+        }
+      ]
+    },
+    "whatWeDo": {
+      "header": "What We Do",
+      "details": [
+        {
+          "title": "Management Portal",
+          "description": "Our management portal provides a user-friendly platform for seamless control and monitoring, empowering you to manage services efficiently."
+        },
+        {
+          "title": "Mobile general solutions",
+          "description": "Our mobile solutions offer reliable, flexible, and cutting-edge services to keep you connected anytime, anywhere, tailored for both personal and business use."
+        },
+        {
+          "title": "Custom solutions",
+          "description": "Discover our custom solutions tailored to meet your unique needs. We work closely with you to design innovative, flexible services that drive success and enhance your business outcomes."
+        },
+        {
+          "title": "Events & Roadshows",
+          "description": "Join us at our exciting events and roadshows, where we present innovative solutions, engage with customers, and shape the future of seamless communication."
+        }
+      ]
+    },
+    "personal": {
+      "heading": "For Personal",
+      "subHeading": "Reliable Solutions for Your Personal Connectivity",
+      "content": [
+        {
+          "title": "Global Coverage",
+          "description": "Stay connected across 160 countries, no matter where your journey takes you with Yoowifi's travel wifi services."
+        },
+        {
+          "title": "Flexible Data Plans",
+          "description": "Choose from a variety of flexible data options, allowing you to select the perfect plan based on your usage needs."
+        },
+        {
+          "title": "Hassle-Free Delivery",
+          "description": "Enjoy hassle-free delivery with fast, reliable service that gets your order to you with ease and convenience."
+        }
+      ]
+    },
+    "business": {
+      "heading": "For Business",
+      "subHeading": "Empowering Your Business with Seamless Connectivity",
+      "content": [
+        {
+          "title": "Zero Touch On Demand",
+          "description": "Enjoy seamless, effortless zero-touch, on-demand service tailored to your needs."
+        },
+        {
+          "title": "Flexible Data Plans",
+          "description": "Flexible data plans for businesses, designed to fit your company's unique needs and usage."
+        },
+        {
+          "title": "Multi-homing network",
+          "description": "Ensure uninterrupted connectivity with our multi-homing network, offering multiple connections for enhanced reliability and performance."
+        }
+      ]
+    }
+  },
+  "recommendedPackages": {
+    "heading": "Recommended Packages",
+    "subHeading": "Discover Our Recommended Packages for Your Needs",
+    "packageList": [
+      {
+        "title": "Basic Package",
+        "features": [
+          "Keep Yoowifi device",
+          "Top-up plans only",
+          "Valid for 365 days",
+          "Covers 90 countries"
+        ],
+        "information": "This package provides basic internet connectivity, ideal for travelers or light internet users."
+      },
+      {
+        "title": "Traveler Package",
+        "features": [
+          "Keep Yoowifi device",
+          "Top-up plans only",
+          "Valid for 365 days",
+          "Covers 90 countries"
+        ],
+        "information": "Perfect for frequent travelers, this package supports global internet connectivity."
+      },
+      {
+        "title": "Extended Package",
+        "features": [
+          "Keep Yoowifi device",
+          "Top-up plans only",
+          "Valid for 365 days",
+          "Covers 90 countries"
+        ],
+        "information": "Extends the features of the standard package, offering longer usage periods or additional data options."
+      },
+      {
+        "title": "Unlimited Package",
+        "features": [
+          "Keep Yoowifi device",
+          "Top-up plans only",
+          "Valid for 365 days",
+          "Covers 90 countries"
+        ],
+        "information": "Offers unlimited data for worry-free internet usage."
+      },
+      {
+        "title": "Light Package",
+        "features": [
+          "Keep Yoowifi device",
+          "Top-up plans only",
+          "Valid for 180 days",
+          "Covers 60 countries"
+        ],
+        "information": "A package designed for light users or short-term usage."
+      },
+      {
+        "title": "Business Package",
+        "features": [
+          "Keep Yoowifi device",
+          "Top-up plans only",
+          "Valid for 365 days",
+          "Priority support",
+          "Covers 100 countries"
+        ],
+        "information": "Tailored for business users on the move or frequent travelers for work."
+      },
+      {
+        "title": "Premium Package",
+        "features": [
+          "Keep Yoowifi device",
+          "Top-up plans only",
+          "Valid for 365 days",
+          "Unlimited data in specific countries",
+          "Covers 90 countries"
+        ],
+        "information": "Provides a premium connectivity experience with unlimited data in selected countries."
+      },
+      {
+        "title": "Family Package",
+        "features": [
+          "Keep Yoowifi device",
+          "Top-up plans only",
+          "Valid for 365 days",
+          "Connect up to 10 devices",
+          "Covers 90 countries"
+        ],
+        "information": "A family-oriented package allowing multiple devices to connect simultaneously."
+      },
+      {
+        "title": "Traveler Plus Package",
+        "features": [
+          "Keep Yoowifi device",
+          "Top-up plans only",
+          "Valid for 180 days",
+          "Enhanced data for heavy users",
+          "Covers 80 countries"
+        ],
+        "information": "An ideal option for travelers requiring more data capacity."
+      },
+      {
+        "title": "Global Unlimited Package",
+        "features": [
+          "Keep Yoowifi device",
+          "Top-up plans only",
+          "Valid for 365 days",
+          "Unlimited data globally",
+          "Covers 100 countries"
+        ],
+        "information": "The ultimate package offering unlimited data across the globe."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact us",
+    "description": "If you have a question or doubt, simply fill in the form and we will get back to you soon!",
+    "letsTalk": {
+      "heading": "Let's Talk",
+      "subHeading": "If you have any questions or concerns, just fill out the form, and we'll get back to you shortly!",
+      "social": [
+        {
+          "_id": 1,
+          "name": "WhatsApp",
+          "text": "Whatsapp Us",
+          "value": "(+65) 6100 9998",
+          "image": "images.whatsapp",
+          "type": "call"
+        },
+        {
+          "_id": 2,
+          "name": "Email",
+          "text": "Email Address",
+          "value": "business@yoowifi.com",
+          "image": "images.email",
+          "type": "email"
+        }
+      ],
+      "form": {
+        "fields": [
+          {
+            "label": "Name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "label": "Phone Number",
+            "placeholder": "Enter phone number"
+          },
+          {
+            "label": "Email Address",
+            "placeholder": "Enter email address"
+          },
+          {
+            "label": "Subject",
+            "placeholder": "Write a subject"
+          },
+          {
+            "label": "Message",
+            "placeholder": "Tell us about your queries.."
+          }
+        ]
+      }
+    }
+  },
+  "faqs": {
+    "heading": "Support & FAQ",
+    "subHeading": "Dive in to find straightforward solutions, helpful tips, and make the most of your journey with Yoowifi.",
+    "content": [
+      {
+        "_id": 1,
+        "question": "Can I make calls with the pocket wifi?",
+        "answer": "The pocket wifi only gives you an internet connection; it does not enable regular voice calls via your cellular network. However, it does allow VoIP calls such as Skype, Viber, and Google Voice."
+      },
+      {
+        "_id": 2,
+        "question": "What's the difference between a megabyte (MB) and a gigabyte (GB)?",
+        "answer": "A megabyte (MB) is 1,024 kilobytes (KB), while a gigabyte (GB) is 1,024 megabytes. Generally, 1GB equals 1,024MB."
+      },
+      {
+        "_id": 3,
+        "question": "How can I return pocket wifi at the end of my rental period?",
+        "answer": "You can return your pocket wifi by following the instructions provided during rental. Typically, this includes returning it at a drop-off location or via a provided return envelope."
+      },
+      {
+        "_id": 4,
+        "question": "Can I amend my booking information after placing an order?",
+        "answer": "Yes, you can amend your booking information after placing an order by contacting our support team, who will assist you with the necessary changes."
+      },
+      {
+        "_id": 5,
+        "question": "How can I cancel my booking?",
+        "answer": "To cancel your booking, please reach out to our customer service team. Cancellations may be subject to our cancellation policy."
+      },
+      {
+        "_id": 6,
+        "question": "I will be traveling to many different countries all over the world, how many devices do I need?",
+        "answer": "The number of devices you need depends on your travel itinerary. Typically, one device per region or country with specific data coverage would be recommended."
+      }
+    ],
+    "footer": {
+      "heading": "Still have questions?",
+      "description": "Can't find the answer you're looking for? Feel free to chat with our friendly team!"
+    }
+  },
+  "footer": {
+    "subscribeNewsLetter": "Subscribe newsletter!",
+    "copyRightText": "All Rights Reserved.",
+    "contact": [
+      {
+        "type": "Call"
+      },
+      {
+        "type": "Mail"
+      }
+    ],
+    "legals": [
+      {
+        "title": "Terms of use"
+      },
+      {
+        "title": "Privacy policy"
+      }
+    ],
+    "menuData": [
+      {
+        "title": "YOOWIFI",
+        "links": [
+          {
+            "label": "About Us"
+          },
+          {
+            "label": "FAQ"
+          },
+          {
+            "label": "Download the app"
+          },
+          {
+            "label": "Contact Us"
+          },
+          {
+            "label": "Terms of service"
+          },
+          {
+            "label": "Privacy Policy"
+          }
+        ]
+      },
+      {
+        "title": "FOR YOO",
+        "links": [
+          {
+            "label": "Travel Data"
+          },
+          {
+            "label": "Country Coverage"
+          },
+          {
+            "label": "Local Data"
+          },
+          {
+            "label": "Pickup /drop off locations"
+          },
+          {
+            "label": "Products"
+          },
+          {
+            "label": "How it works"
+          }
+        ]
+      },
+      {
+        "title": "CORPORATE",
+        "links": [
+          {
+            "label": "Iot"
+          },
+          {
+            "label": "Hotel"
+          },
+          {
+            "label": "Travel Agency"
+          },
+          {
+            "label": "Maritime Internet"
+          },
+          {
+            "label": "Offices/Roadshow&Event"
+          }
+        ]
+      }
+    ]
+  },
+
+  "corporateHero": {
+    "heading": "Corporate",
+    "subHeading": "UR Communications Pte Ltd, operating under the renowned brand name Yoowifi, introduces an advanced solution for effortless global connectivity via its intuitive mobile application. With a commitment to enriching travel journeys and fostering global communication, Yoowifi App delivers unmatched convenience, dependability, and cost-effectiveness."
+  },
+  "iot": {
+    "pageTitle": "IOT",
+    "description": "Stay connected to your home, your family, and your business at all times through a single device! They are also designed to meet your unique needs, whether you are an individual or a business.",
+    "featureList": [
+      "Size of Data",
+      "Operator-specific",
+      "Managing platform and Monitoring",
+      "Single or Multiple Countries"
+    ]
+  },
+  "hotel": {
+    "pageTitle": "HOTEL",
+    "description": "Turn your hotel into a home away from home with our top-speed internet connectivity! Your guests can remain productive no matter where they are, and your business can stand out from the competition.",
+    "featureList": [
+      "Stay connected when operation is disrupted",
+      "Fast deployment",
+      "Customized solution to keep your team globally connected"
+    ]
+  },
+  "travelAgency": {
+    "pageTitle": "TRAVEL AGENCY",
+    "description": "Draw up information for your clients at the speed of lightning through our WiFi solutions. Communicate effectively with partners and avoid the frustration of a weak connection or an unreliable signal strength.",
+    "featureList": [
+      "Size of Data",
+      "Operator-specific",
+      "Managing platform and Monitoring",
+      "Single or Multiple Countries"
+    ]
+  },
+  "maritimeInternet": {
+    "pageTitle": "MARITIME INTERNET",
+    "description": "Let us navigate your internet needs on the high seas. We can keep your crew connected and business afloat with our solutions. Therefore, no matter where the vessel roams, you can enjoy broadband without borders.",
+    "featureList": [
+      "Single or Multiple Countries",
+      "Fast deployment",
+      "Customized solution to keep your team globally connected"
+    ]
+  },
+  "office": {
+    "pageTitle": "OFFICE/ ROADSHOW EVENTS",
+    "description": "Wherever you go, stay connected with our WiFi solutions! Be it in the office or hosting a roadshow, enjoy seamless and lightning-quick access to the internet. Don’t let anything disrupt your workday with us at Yoowifi!",
+    "featureList": [
+      "Fast and reliable connectivity",
+      "Dedicated support",
+      "Reasonable cost or Sponsorship"
+    ]
+  },
+  "corporateSharedHero": {
+    "heading": "Travel Connected",
+    "items": ["Portable Hotspot", "eSim", "SIM card"]
+  },
+  "commercial": {
+    "pageTitle": "Commercial",
+    "description": "Take your productivity to the next level with our seamless connectivity! We provide a gateway to the digital world that will make your day as smooth as possible."
+  },
+  "benefits": {
+    "heading": "Benefits",
+    "subHeading": "Don’t let slow internet tie you down! Switch to our portable solutions to experience connectivity without boundaries.",
+    "benefitsData": [
+      {
+        "title": "Dedicated Application",
+        "content": "Take charge of your connectivity needs with our online management portal, empowering you with control for a smooth and effortless experience."
+      },
+      {
+        "title": "Cost Efficient",
+        "content": "Experience affordable and hassle-free connectivity with Yoowifi's vSIM technology, eliminating costly roaming charges for budget-friendly data services."
+      },
+      {
+        "title": "Customisable Data Plans",
+        "content": "Tailor your data package to meet your specific needs and scale as your business grows."
+      }
+    ]
+  },
+
+  "pocketWifiDetails": {
+    "pocketWifiDayPass": {
+      "headers": ["Pocket Wifi-Unlimited Daypass", "1GB/day", "5GB/day"],
+      "plans": [
+        "Hong Kong, Indonesia, Japan, Macau, Malaysia, Philippines, South Korea, Taiwan, Thailand, Vietnam 1 Day",
+        "Australia, Brunei, Canada, Cambodia, China (with VPN), Europe, Laos, Mexico, New Zealand, Turkey, USA 1 Day",
+        "Bahrain, Bangladesh, Egypt, India, Israel, Jordan, Kazakhstan, Kuwait, Oman, Pakistan, Qatar, Saudi Arabia, South Africa, Sri Lanka, UAE, Uzbekistan 1 Day"
+      ]
+    },
+    "restOfTheWorldDayPass": {
+      "headers": ["Rest of the World-Unlimited Daypass", "1GB/day", "5GB/day"],
+      "plan": "Algeria, Anguilla, Antigua and Barbuda, Argentina, Aruba, Azerbaijan, Bolivia, Brazil, British Virgin Islands, Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, El Salvador, Fiji, French Antilles(Martinique), French Sint Maarten, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Jamaica, Kyrgyzstan, Maldives, Mongolia, Myanmar, Netherlands Antilles(Curacao), Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Vincent and the Grenadines, Suriname, Tahiti, Tajikistan, the CaymanIslands, Trinidad and Tobago Turks and Caicos Islands, Uruguay, Venezuela"
+    },
+    "sim": {
+      "heading": "SIM/eSIM",
+      "subHeading": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "description": {
+        "title": "Descriptions",
+        "content": "Our Sim/eSim is perfect for those who value convenience and ease of use. You can activate it within minutes and start enjoying all the benefits that come with it. Whether you're a student, a working professional, or anyone who needs a reliable telecommunications service, our Sim/E-Sim is the perfect solution for you. We offer competitive pricing, flexible plans, and excellent customer support to ensure that you get the best value for your money!"
+      }
+    },
+    "simDataPlan": {
+      "headers": [
+        "SIM/eSIM-Unlimited Data Plan",
+        "500MB/day",
+        "1GB/day",
+        "2GB/day"
+      ],
+      "plans": [
+        "Malaysia/ Thailand 1 day",
+        "China 1 Day",
+        "South Korea 3 Days",
+        "Japan 3 Days",
+        "Europe 5 Days",
+        "Australia 5 Days"
+      ]
+    },
+    "regionalCountries": "*Europe: Albania, Armenia, Andorra, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Georgia, Gibraltar, Greece, Guernsey, Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Latvia, Liechtenstein, Lithuania, Luxembourg, Macedonia, Malta, Monaco, Montenegro, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Ukraine, United Kingdom, Vatican"
+  },
+
+  "pocketWifiRegion": {
+    "tabs": ["Pocket WIFI", "SIM/eSIM", "Router"],
+    "header": {
+      "text": "Select Product"
+    },
+    "form": {
+      "fields": [
+        {
+          "label": "Country",
+          "placeholder": "Select Country"
+        },
+        {
+          "label": "Promo code",
+          "placeholder": "Promo code"
+        },
+        {
+          "label": "Member ID",
+          "placeholder": "Enter member id"
+        }
+      ]
+    }
+  },
+  "pocketWifiPlan": {
+    "heading": "Select a Plan",
+    "tabs": ["all", "daily", "monthly", "multi-country"]
+  },
+
+  "discountDownloadApp": {
+    "title": "On Mobile App",
+    "percentage": "8% Off",
+    "description": "Advanced features for an effortless digital experience anytime, anywhere!"
+  },
+
+  "pickDropLocation": {
+    "heroTitle": "Pickup & drop off locations"
+  },
+
+  "routerRegion": {
+    "tabs": ["Pocket WIFI", "SIM/eSIM", "Router"],
+    "header": {
+      "text": "Select Product"
+    },
+    "form": {
+      "fields": [
+        {
+          "label": "Country",
+          "placeholder": "Select Country"
+        },
+        {
+          "label": "Promo code",
+          "placeholder": "Promo code"
+        },
+        {
+          "label": "Member ID",
+          "placeholder": "Enter member id"
+        }
+      ]
+    }
+  },
+  "routerPlan": {
+    "heading": "Select a Plan",
+    "tabs": ["all", "daily", "monthly", "multi-country"]
+  },
+
+  "simRegion": {
+    "tabs": ["Pocket WIFI", "SIM/eSIM", "Router"],
+    "header": {
+      "text": "Select Product"
+    },
+    "form": {
+      "fields": [
+        {
+          "label": "Country",
+          "placeholder": "Select Country"
+        },
+        {
+          "label": "Promo code",
+          "placeholder": "Promo code"
+        },
+        {
+          "label": "Member ID",
+          "placeholder": "Enter member id"
+        }
+      ]
+    }
+  },
+  "simPlan": {
+    "heading": "Select a Plan",
+    "tabs": ["all", "daily", "monthly", "multi-country"]
+  },
+  "simInformation": {
+    "accordionData": {
+      "items": [
+        {
+          "title": "Information",
+          "content": "Enjoy High-Speed Internet Access. Immediate Connect up to B Devices. 4G Internet Speed. Up to 12 hours of device battery. Ycxywifi 24/7 Customer Support. Includes Pocket Wifi Device, Charging Cable, Pouch. Extend the days or add plans anytime."
+        },
+        {
+          "title": "Countries Covered",
+          "content": "Algeria, Anguilla, Antigua and Barbuda, Argentina, Aruba, Azerbaijan, Bolivia, Brazil, British Virgin Islands, Chile, Colombia, Costa Rica."
+        },
+        {
+          "title": "How To",
+          "content": "50GB global data is applicable to 90 countries. Speed of service is dependent on the mobile network partner. For order cancellation, a charge of 10% of the order will apply. General terms and conditions apply. Yoowifi reserves the right to make changes anytime."
+        },
+        {
+          "title": "Compatibility",
+          "content": [
+            "50GB global data is applicable to 90 countries.",
+            "Speed of service is dependent on the mobile network partner.",
+            "For order cancellation, a charge of 10% of the order will apply.",
+            "Yoowifi reserves the right to make changes anytime."
+          ]
+        }
+      ]
+    }
+  },
+  "shippingOptions": [
+    {
+      "title": "Self Pickup",
+      "subtitle": "Choose your location",
+      "description": "Device Collection: 5 days before travel"
+    },
+    {
+      "title": "Domestic",
+      "subtitle": "",
+      "description": "Within 5 business days before trip for Dec with return mailer bag. For advance orders, delivery will be within 3 days before trip"
+    },
+    {
+      "title": "Domestic Express",
+      "subtitle": "",
+      "description": "Within 2 business days for orders before 2pm with return mailer bag"
+    },
+    {
+      "title": "Domestic Super Express",
+      "subtitle": "",
+      "description": "Same business day before 2pm with return mailer bag"
+    }
+  ],
+
+  "orderSummary": {
+    "orderSummary": "Order Summary",
+    "planName": "Plan Name",
+    "minimumCharges": "Minimum Charges",
+    "deposit": "Deposit",
+    "subtotal": "Sub-total",
+    "quantity": "Quantity",
+    "selfPickupDeliveryFee": "Self pick-up delivery fee",
+    "returnDropOffFee": "Return drop-off fee",
+    "totalDeliveryCharges": "Total Delivery Charges",
+    "totalDataCharges": "Total Data Charges",
+    "paymentInformation": "Payment Information",
+    "noCardAdded": "No Card Added",
+    "addCard": "Add Card",
+    "addNewPaymentMethod": "Add New Payment Method",
+    "termsAndConditions": "Terms & Conditions",
+    "privacyPolicy": "Privacy Policy",
+    "readAndAgree": "I have read and agreed to the",
+    "orderConfirmed": "Order Confirmed!",
+    "welcomeMessage": "We're glad to see you again. Let's dive into your courses.",
+    "continue": "Continue",
+    "simType": "SIM Type"
+  },
+
+  "setupPocketWifi": {
+    "heading": "How to connect Pocketwifi?",
+    "subHeading": "Effortlessly Connect to Your Pocket WiFi in Just a Few Simple Steps",
+    "setupSteps": [
+      {
+        "step": 1,
+        "title": "Turn On the Pocket WiFi",
+        "description": "Press the power button to turn it on and wait for it to connect to the network."
+      },
+      {
+        "step": 2,
+        "title": "Find the WiFi Name",
+        "description": "Check the device's screen for the WiFi network name (SSID)."
+      },
+      {
+        "step": 3,
+        "title": "Connect to WiFi",
+        "description": "On your smartphone, tablet, or laptop, open WiFi settings, select the SSID, enter the password displayed on the device, and you will be connected to the internet."
+      }
+    ]
+  },
+
+  "returnDevicePocketWifi": {
+    "heading": "How to Return Device?",
+    "subHeading": "Follow our easy steps to ensure a hassle-free return experience.",
+    "cardData": [
+      {
+        "title": "Singpost Drop-Off",
+        "description": "When you rent the device, a pre-paid return label will be included in the package. You can use this label to easily mail the device back. After returning it, you’ll likely receive an email confirmation once the return is processed.",
+        "buttonText": "View Locations"
+      },
+      {
+        "title": "Pickup Drop off Locations",
+        "description": "With Yoowifi, you can effortlessly pick up your device at any of our designated locations and return it at one of our 30+ convenient drop-off points across the island. This streamlined process guarantees a hassle-free experience, allowing you to stay connected wherever your travels take you!",
+        "buttonText": "View Locations"
+      }
+    ]
+  },
+
+  "pocketWifiTopUp": {
+    "heading": "How to do a plan Top up",
+    "subHeading": "Easily Manage Your Data Needs with Yoowifi Top-Up",
+    "setupSteps": [
+      {
+        "step": 1,
+        "title": "Select Your Device",
+        "description": "Open the Yoowifi app, go to My Data, and select the device you want to top up."
+      },
+      {
+        "step": 2,
+        "title": "Choose Your Plan",
+        "description": "Click on Add Data, select your desired country and plan, then set the start and end dates."
+      },
+      {
+        "step": 3,
+        "title": "Proceed to Checkout",
+        "description": "Confirm your selections and proceed to checkout."
+      }
+    ]
+  },
+
+  "affiliate": {
+    "affiliateServiceData": [
+      {
+        "title": "Select Your Device",
+        "description": "Open the Yoowifi app, go to My Data, and select the device you want to top up."
+      },
+      {
+        "title": "Choose Your Plan",
+        "description": "Click on Add Data, select your desired country and plan, then set the start and end dates."
+      },
+      {
+        "title": "Proceed to Checkout",
+        "description": "Confirm your selections and proceed to checkout."
+      }
+    ],
+    "banner": {
+      "pageTitle": "AFFILIATE",
+      "description": "If you have a question or doubt, simply fill in the form and we will get back to you soon!"
+    },
+    "joinAffiliateSection": {
+      "sectionId": "join-affiliate",
+      "secCommon80Class": "sec_common_80 xl:!px-0",
+      "sectionHeader": {
+        "heading": "Join the YooWander Program",
+        "midHeading": "Explore the World and Stay Connected!",
+        "subHeading": "Are you a travel-loving influencer who values staying connected and sharing adventures with your followers? Join the Yoowifi Affiliate Yoo Wander program for an exciting partnership. We’re here to support your authentic travel content and keep you connected with FREE global data."
+      }
+    }
+  },
+
+  "howItWorksPage": {
+    "rentWifiSection": {
+      "sectionHeader": {
+        "heading": "Rent Yoowifi Pocket WiFi in 3 Easy Steps!",
+        "subHeading": "Choose your plan, collect your device, and stay connected effortlessly wherever you go!"
+      },
+      "rentWifiData": [
+        {
+          "step": "Step-1",
+          "title": "Get Yoowifi App",
+          "description": "Download Yoowifi App (first Timer only)",
+          "buttonText": "Download Yoowifi",
+          "icon": "DownloadFillIcon"
+        },
+        {
+          "step": "Step-2",
+          "title": "Select Your Plan",
+          "description": "On the app, search for your destination country, choose the data size, and set your start and end dates."
+        },
+        {
+          "step": "Step-3",
+          "title": "Complete Your Booking",
+          "description": "Select your preferred shipping method and proceed to checkout."
+        }
+      ],
+      "links": [
+        {
+          "title": "Drop Off Locations"
+        },
+        {
+          "title": "Contact Us",
+          "variant": "secondary"
+        }
+      ]
+    },
+    "deliveryChargesSection": {
+      "sectionHeader": {
+        "heading": "Delivery Charges",
+        "subHeading": "Don’t let slow internet tie you down! Switch to our portable solutions to experience connectivity without boundaries."
+      },
+      "howItWorksData": [
+        {
+          "type": "Local",
+          "typeSuffix": "",
+          "duration": "3-4 Business day"
+        },
+        {
+          "type": "Express",
+          "typeSuffix": "(Order by 10am)",
+          "duration": "3-4 Business day"
+        },
+        {
+          "type": "Super Express",
+          "typeSuffix": "(Order by 10am)",
+          "duration": "3-4 Business day"
+        },
+        {
+          "type": "Standard International",
+          "typeSuffix": "",
+          "duration": "3-4 Business day"
+        }
+      ]
+    },
+    "rentServices": [
+      {
+        "title": "Local return mailer bag",
+        "description": "Simply pack the device and its accessories into the prepaid and return mailer bag any SingPost mailbox"
+      },
+      {
+        "title": "Self-Return",
+        "description": "Simply pack the device and its accessories and you may return at any pickup/Return location."
+      },
+      {
+        "title": "International Courier",
+        "description": "Contact Local DHL to pickup device if you have a return mailer bag / arrange your own Courier"
+      }
+    ],
+    "selfReturnSection": {
+      "sectionHeader": {
+        "heading": "Simple Self-Return In less than a minute",
+        "subHeading": "With Yoowifi, easily pick up your device at any designated location and return it at one of 20+ drop-off points across the island. Enjoy a hassle-free experience and stay connected wherever your travels take you!"
+      },
+      "selfReturnData": [
+        {
+          "title": "Login to Yoowifi App",
+          "description": "Start by visiting any of our 20+ pickup and return locations. On the app, go to 'My Data', select the device you wish to return, and tap on 'Return Device'."
+        },
+        {
+          "title": "Scan Location QR Code",
+          "description": "Next, scan the location QR code provided by the staff."
+        },
+        {
+          "title": "Scan Device QR Code",
+          "description": "Scan the QR code located at the back of the device to complete the return."
+        }
+      ]
+    },
+    "topUpSection": {
+      "sectionHeader": {
+        "heading": "Top Up Your Data in Just a Few Steps",
+        "subHeading": "Add data effortlessly with just a few taps, ensuring you stay connected"
+      },
+      "topUpData": [
+        {
+          "title": "Select Your Device",
+          "description": "Open the Yoowifi app, go to My Data, and select the device you want to top up."
+        },
+        {
+          "title": "Choose Your Plan",
+          "description": "Click on Add Data, select your desired country and plan, then set the start and end dates."
+        },
+        {
+          "title": "Proceed to Checkout",
+          "description": "Confirm your selections and proceed to checkout."
+        }
+      ]
+    }
+  },
+
+  "countryCoverage": {
+    "sectionHeader": {
+      "heading": "Country Coverage",
+      "subHeading": "Roam the world with confidence! Stay connected and data-ready, anytime, anywhere!"
+    },
+    "regionList": [
+      {
+        "name": "Asia",
+        "value": "asia"
+      },
+      {
+        "name": "Europe",
+        "value": "europe"
+      },
+      {
+        "name": "America",
+        "value": "america"
+      },
+      {
+        "name": "Australia",
+        "value": "australia"
+      },
+      {
+        "name": "Africa",
+        "value": "africa"
+      }
+    ]
+  },
+
+  "stayConnectedCTA": {
+    "heading": "Stay Connected Everywhere",
+    "subHeading": "140+ Countries",
+    "description": "A world of worry-free WiFi in the palm of your hand. Connect to quality internet when you travel—no matter where your journey takes you."
+  },
+
+  "login": {
+    "title": "Log In Required!",
+    "text": "Please log in to proceed."
+  },
+
+  "authModal": {
+    "authMessages": {
+      "welcomeBack": {
+        "title": "Welcome Back!",
+        "text": "We're glad to see you again. Let's dive into your courses."
+      },
+      "verification": {
+        "title": "Verification",
+        "text": "A confirmation code has been sent to your email & phone number."
+      },
+      "signUp": {
+        "title": "Sign Up",
+        "text": "It's super fun to Register. Get started!"
+      },
+      "signUpSuccessful": {
+        "title": "Sign up Successful!",
+        "text": "Thank you for joining us! Your account is ready."
+      },
+      "loginSuccessful": {
+        "title": "Log In Successful!",
+        "text": "Welcome back! Ready to continue?"
+      },
+      "accountReady": {
+        "title": "Account Ready!",
+        "text": "Thank you for joining us! Your account is ready."
+      }
+    },
+    "placeholders": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email"
+    },
+    "prompts": {
+      "noAccount": {
+        "text": "Don't have an account?",
+        "linkText": "Register Now"
+      },
+      "hasAccount": {
+        "text": "Already have an account?",
+        "linkText": "Login"
+      },
+      "resendOTP": {
+        "text": "Didn't receive any OTP?",
+        "linkText": "Resend Code"
+      }
+    }
+  }
+}

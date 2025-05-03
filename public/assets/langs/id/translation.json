@@ -1,0 +1,2252 @@
+{
+  "buttonText": {
+    "buyNow": "Beli Sekarang",
+    "findOutMore": "Cari Tahu Lebih Lanjut",
+    "search": "Cari",
+    "seeDetails": "Lihat Detail",
+    "aboutUs": "Tentang Kami",
+    "howItWorks": "Cara Kerja",
+    "downloadApp": "Unduh Aplikasi",
+    "loadMore": "Muat Lebih Banyak",
+    "submit": "Kirim",
+    "getInTouch": "Hubungi Kami",
+    "exploreProducts": "Jelajahi Produk",
+    "contactUs": "Hubungi Kami",
+    "enquireNow": "Tanya Sekarang",
+    "viewMore": "Lihat Lebih Banyak",
+    "viewSimESim": "Lihat SIM/eSIM",
+    "viewSteps": "Lihat Langkah-langkah",
+    "rentADeviceNow": "Sewa Perangkat Sekarang",
+    "rental": "Penyewaan",
+    "topUp": "Isi Ulang",
+    "previous": "Sebelumnya",
+    "next": "Selanjutnya",
+    "addACountry": "Tambah Negara",
+    "viewLocations": "Lihat Lokasi",
+    "sim": "SIM",
+    "eSim": "eSIM",
+    "homeorAddress": "Rumah/Alamat",
+    "hotel": "Hotel",
+    "saveAddress": "Simpan Alamat",
+    "buyPocketWifi": "Beli Pocket Wifi",
+    "dropOffLocations": "Lokasi Penurunan",
+    "login": "Masuk",
+    "logout": "Keluar",
+    "continue": "Lanjutkan",
+    "verify": "Verifikasi"
+  },
+  "extraText": {
+    "from": "Dari",
+    "selectCountry": "Pilih Negara",
+    "corporate": "Korporat",
+    "more": "lebih",
+    "unlimitedData": "Data Tak Terbatas",
+    "day": "hari",
+    "endingIn": "Berakhir Dalam",
+    "countryCoverage": "Cakupan Negara",
+    "country": "Negara",
+    "selectPackage": "*Pilih paket terlebih dahulu",
+    "information": "Informasi",
+    "service": "Layanan",
+    "dataSize": "Ukuran Data",
+    "selectDevice": "Pilih Perangkat",
+    "selectDeviceToTopUp": "Pilih Perangkat untuk Isi Ulang",
+    "wifiDevices": "Perangkat Wifi",
+    "planSummary": "Ringkasan Paket",
+    "chosenPlan": "Paket Terpilih",
+    "dataAvailable": "Data Tersedia",
+    "startDate": "Tanggal Mulai",
+    "quantity": "Jumlah",
+    "totalAmount": "Jumlah Total",
+    "simType": "Tipe SIM",
+    "chooseNoOfDays": "Pilih Jumlah Hari",
+    "noOfSimESim": "Jumlah SIM/eSIM",
+    "selectShippingOption": "Pilih Opsi Pengiriman",
+    "selectLocation": "Pilih Lokasi",
+    "deliveryAddress": "Alamat Pengiriman",
+    "addAddress": "Tambah Alamat",
+    "addNewAddress": "Tambah Alamat Baru",
+    "addressDetails": "Rincian Alamat",
+    "noCountriesFoundInThisRegion": "Tidak ada negara ditemukan di wilayah ini",
+    "searchAnything": "Cari apa saja...",
+    "filters": "Filter",
+    "noOfRentalDevices": "Jumlah Perangkat Sewa"
+  },
+  "form": {
+    "startDate": "Tanggal Mulai",
+    "endDate": "Tanggal Akhir",
+    "pickADate": "Pilih Tanggal",
+    "selectCountry": "Pilih Negara",
+    "country": "Negara",
+    "fullName": "Nama Lengkap",
+    "enterNameHere": "Masukkan nama di sini",
+    "phoneNumber": "Nomor Telepon",
+    "enterNumber": "Masukkan Nomor",
+    "state": "Provinsi",
+    "selectState": "Pilih Provinsi",
+    "address": "Alamat",
+    "enterFullAddress": "Masukkan alamat lengkap",
+    "apartment": "Apartemen/Lantai/Unit/Suite dll",
+    "enterApartmentDetails": "Masukkan rincian apartemen/lantai/unit/suite Anda",
+    "province": "Provinsi",
+    "enterProvince": "Masukkan provinsi",
+    "postalCode": "Kode Pos",
+    "enterPostalCode": "Masukkan kode pos",
+
+    "addCreditDebit": "Tambah Kartu Kredit/Debit",
+    "cardholderName": "Nama Pemegang Kartu*",
+    "cardholderNamePlaceholder": "Masukkan nama lengkap",
+    "cardNumber": "Nomor Kartu*",
+    "cardNumberPlaceholder": "Masukkan Nomor",
+    "cvcCvv": "CVC/CVV2*",
+    "cvcCvvPlaceholder": "Masukkan kode CVC",
+    "expiryDate": "Tanggal Kedaluwarsa",
+    "expiryDatePlaceholder": "MM/YY"
+  },
+  "notFound": {
+    "noPackage": "Tidak ada paket yang ditemukan untuk pencarian Anda"
+  },
+  "navbar": {
+    "forYoo": "Untuk Yoo",
+    "commercial": [
+      {
+        "name": "Beranda"
+      },
+      {
+        "name": "Pocket WIFI"
+      },
+      {
+        "name": "Router"
+      },
+      {
+        "name": "SIM/eSIM"
+      },
+      {
+        "name": "Hubungi Kami"
+      },
+      {
+        "name": "Tentang Kami"
+      }
+    ],
+    "corporate": [
+      {
+        "name": "IoT"
+      },
+      {
+        "name": "Hotel"
+      },
+      {
+        "name": "Agen Perjalanan"
+      },
+      {
+        "name": "Internet Maritim"
+      },
+      {
+        "name": "Kantor/Event Roadshow"
+      },
+      {
+        "name": "Tentang Kami"
+      },
+      {
+        "name": "Komersial"
+      }
+    ],
+    "megamenu": {
+      "menuText": "Lainnya",
+      "menuItems": [
+        {
+          "title": "Data Perjalanan",
+          "items": ["Detail Pocket Wifi", "Detail Sim/eSim"]
+        },
+        {
+          "title": "Cakupan Negara",
+          "items": ["Asia", "Eropa", "Amerika", "Australia", "Afrika"]
+        },
+        {
+          "title": "Lokasi Penjemputan/Penurunan",
+          "items": ["Lokasi Penjemputan", "Lokasi Penurunan"]
+        },
+        {
+          "title": "Cara Kerja",
+          "items": [
+            "Sewa Pocket WiFi Yoowifi",
+            "Pengembalian Diri Sendiri dalam kurang dari satu menit",
+            "Buat Perjalanan Baru atau Isi Ulang Data"
+          ]
+        },
+        {
+          "title": "Afiliasi",
+          "items": [
+            "Bergabung dengan Program Afiliasi Yoowifi Yoo Wander",
+            "Hubungi Kami Sekarang!"
+          ]
+        },
+        {
+          "title": "Cara Memasang",
+          "items": ["Pasang eSIM", "Cara Menghubungkan Pocketwifi?"]
+        }
+      ]
+    }
+  },
+  "heroHome": {
+    "heroConnected": {
+      "stayConnected": "Tetap Terhubung",
+      "anyTimeAnyWhere": "Kapan saja, Di mana saja",
+      "seamlessConnectivity": "Konektivitas Tanpa Gangguan"
+    },
+    "heroTravel": {
+      "travelCompanion": "YOOUR # 1 TEMAN PERJALANAN"
+    },
+    "heroDiscover": {
+      "discover": "MEMPERKENALKAN WIFI POCKET BARU KAMI"
+    },
+    "slides": [
+      {
+        "title": "LEBIH CEPAT",
+        "subTitle": "Konektivitas 5G",
+        "description": "Hingga konektivitas 5G di lebih dari 90 negara"
+      },
+      {
+        "title": "DIPERPANJANG",
+        "subTitle": "DAYA TAHAN BATERAI",
+        "description": "Daya tahan baterai diperpanjang hingga 20 jam."
+      },
+      {
+        "title": "MENYERTAKAN",
+        "subTitle": "LAYAR TAMPILAN",
+        "description": "Sekarang Anda dapat melacak penggunaan data, terhubung dengan mudah, dan mengakses informasi lebih lanjut tanpa repot."
+      }
+    ]
+  },
+  "productsData": {
+    "title": "Produk Kami",
+    "cardData": [
+      {
+        "title": "Pocket WIFI",
+        "description": "Tetap terhubung di perjalanan dengan Pocket WIFI kecepatan tinggi kami. Sempurna untuk perjalanan dan bekerja jarak jauh.",
+        "offer": "50% OFF"
+      },
+      {
+        "title": "Router",
+        "description": "Rasakan konektivitas internet yang mulus dan andal di rumah dengan router canggih kami.",
+        "offer": "30% OFF"
+      },
+      {
+        "title": "SIM/eSIM",
+        "description": "Dapatkan konektivitas instan dengan pilihan SIM dan eSIM kami, cocok untuk semua perangkat Anda.",
+        "offer": "20% OFF"
+      }
+    ]
+  },
+  "getYourOwn": {
+    "title": "Dapatkan Yoowifi Pocket WiFi Anda Sendiri",
+    "features": [
+      "Cakupan tahunan di lebih dari 90 negara",
+      "Bagikan hingga 8 perangkat",
+      "Konektivitas hingga 5G",
+      "Isi ulang data tersedia",
+      "Pilih dari paket data 50GB, 100GB, atau 200GB"
+    ]
+  },
+  "internetPackages": {
+    "sectionHeading": "Paket Internet",
+    "sectionSubHeading": "Temukan Paket Internet Kami untuk Kebutuhan Anda",
+    "searchPlaceholder": "Cari negara.."
+  },
+  "whyYooWifi": {
+    "sectionHeading": "Mengapa Yoowifi?",
+    "servicesData": [
+      {
+        "title": "Tetap Terhubung Dimana Saja"
+      },
+      {
+        "title": "Hemat BESAR pada Roaming Internasional"
+      },
+      {
+        "title": "Jaminan Harga Tidak Terkalahkan"
+      }
+    ]
+  },
+  "stayConnectedRegions": {
+    "sectionHeading": "Tetap Terhubung Dimana Saja",
+    "sectionSubHeading": "Pilih Tujuan Impian Anda dan Paket Sempurna Sekarang",
+    "regions": ["Asia", "Amerika", "Afrika", "Australia", "Eropa"]
+  },
+  "customerTestimonial": {
+    "sectionHeading": "Apa Kata Pelanggan Kami",
+    "sectionSubHeading": "Temukan apa yang pelanggan kami yang berharga katakan tentang pengalaman mereka dengan layanan kami",
+    "testimonials": [
+      {
+        "description": "Menggunakan layanan eSIM ini selama enam bulan terakhir telah sepenuhnya mengubah pendekatan kami dalam mengelola konektivitas untuk proyek kami!",
+        "author": "Sarah Johnson",
+        "designation": "CEO, TechWave Solutions"
+      },
+      {
+        "description": "Platform ini telah mengubah permainan untuk proyek internasional kami, memudahkan kami untuk tetap terhubung tanpa kerumitan biasa.",
+        "author": "Michael Lee",
+        "designation": "Manajer Proyek, GlobalConnect"
+      },
+      {
+        "description": "Kemudahan penggunaan dan fleksibilitas yang ditawarkan oleh layanan ini memungkinkan kami untuk fokus pada apa yang paling penting—pekerjaan kami!",
+        "author": "Emily Davis",
+        "designation": "COO, Innovatech"
+      },
+      {
+        "description": "Kami telah melihat penghematan biaya yang signifikan sejak beralih ke solusi eSIM ini. Ini adalah pilihan cerdas untuk bisnis apa pun yang beroperasi secara global.",
+        "author": "James Taylor",
+        "designation": "CFO, FinEdge"
+      },
+      {
+        "description": "Konektivitas yang dapat diandalkan sangat penting bagi kami, dan layanan ini telah memenuhi harapan kami lebih dari yang kami bayangkan. Sangat direkomendasikan!",
+        "author": "Sophia Martinez",
+        "designation": "Kepala Operasi, TransLogix"
+      }
+    ]
+  },
+  "howItWorks": {
+    "sectionHeading": "Tetap Terhubung Dimana Saja, Kapan Saja",
+    "sectionSubHeading": "Temukan apa yang pelanggan kami yang berharga katakan tentang pengalaman mereka dengan layanan kami",
+    "howItWorksData": [
+      {
+        "title": "Cara Menyewa",
+        "description": "Tetap terhubung dengan Yoowifi hanya dalam 3 langkah mudah! Unduh aplikasi, pilih tujuan Anda, dan pilih paket yang sesuai dengan kebutuhan Anda."
+      },
+      {
+        "title": "Cara Mengembalikan",
+        "description": "Pilih pengembalian yang mudah dengan drop-off Singpost atau kunjungi lokasi di seluruh pulau untuk layanan tanpa repot."
+      },
+      {
+        "title": "Lokasi Pengambilan & Pengembalian",
+        "description": "Dengan lebih dari 20 lokasi pengambilan dan pengembalian, kami memudahkan Anda untuk mendapatkan pocket wifi Anda dan tetap terhubung tanpa repot."
+      }
+    ]
+  },
+  "collaborateMarquee": {
+    "sectionHeading": "Operator yang Kami Bekerja Sama"
+  },
+  "downloadYooWifi": {
+    "downloadText": "Unduh",
+    "ctaText": "Fitur canggih untuk pengalaman digital tanpa usaha kapan saja, di mana saja!"
+  },
+  "country": {
+    "packages": [
+      {
+        "name": "Australia-Portable Hotspot",
+        "title": "Paket Dasar",
+        "details": [
+          {
+            "title": "Deskripsi",
+            "info": "BASIC Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari\n\n****************ATAU****************\nSUPER Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari"
+          },
+          {
+            "title": "Informasi",
+            "info": "BASIC Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari\n\n****************ATAU****************\nSUPER Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari"
+          },
+          {
+            "title": "Syarat & Ketentuan",
+            "info": "BASIC Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari\n\n****************ATAU****************\nSUPER Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari"
+          }
+        ],
+        "features": [
+          "Simpan Perangkat Yoowifi",
+          "Hanya Paket Top-up",
+          "Masa Berlaku 365 Hari",
+          "Menjangkau 90 Negara"
+        ]
+      },
+      {
+        "name": "Albania-Portable Hotspot",
+        "title": "Paket Traveler",
+        "details": [
+          {
+            "title": "Deskripsi",
+            "info": "BASIC Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari\n\n****************ATAU****************\nSUPER Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari"
+          },
+          {
+            "title": "Informasi",
+            "info": "BASIC Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari\n\n****************ATAU****************\nSUPER Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari"
+          },
+          {
+            "title": "Syarat & Ketentuan",
+            "info": "BASIC Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari\n\n****************ATAU****************\nSUPER Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari"
+          }
+        ],
+        "features": [
+          "Simpan Perangkat Yoowifi",
+          "Hanya Paket Top-up",
+          "Masa Berlaku 365 Hari",
+          "Menjangkau 90 Negara"
+        ]
+      },
+      {
+        "name": "France - Pocket Wifi",
+        "title": "Paket Ekstended",
+        "details": [
+          {
+            "title": "Deskripsi",
+            "info": "BASIC Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari\n\n****************ATAU****************\nSUPER Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari"
+          },
+          {
+            "title": "Informasi",
+            "info": "BASIC Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari\n\n****************ATAU****************\nSUPER Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari"
+          },
+          {
+            "title": "Syarat & Ketentuan",
+            "info": "BASIC Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari\n\n****************ATAU****************\nSUPER Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari"
+          }
+        ],
+        "features": [
+          "Simpan Perangkat Yoowifi",
+          "Hanya Paket Top-up",
+          "Masa Berlaku 365 Hari",
+          "Menjangkau 90 Negara"
+        ]
+      },
+      {
+        "name": "Greece-Portable Hotspot",
+        "plan": "basic-daypass",
+        "title": "Paket Unlimited",
+        "features": [
+          "Pakai Perangkat Yoowifi",
+          "Hanya untuk Paket Top-up",
+          "Masa Berlaku 365 Hari",
+          "Cakupan 90 Negara"
+        ],
+        "category": "harian",
+        "desc": "GB",
+        "coverage": [
+          "Aljazair",
+          "Anguilla",
+          "Antigua dan Barbuda",
+          "Argentina",
+          "Aruba",
+          "Azerbaijan",
+          "Bolivia",
+          "Brasil",
+          "Kepulauan Virgin Britania Raya",
+          "Chile",
+          "Kolombia",
+          "Kosta Rika"
+        ],
+        "details": [
+          {
+            "title": "Deskripsi",
+            "info": "BASIC Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB dengan kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari\n\n****************ATAU****************\nSUPER Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB dengan kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari"
+          },
+          {
+            "title": "Informasi",
+            "info": "BASIC Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB dengan kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari\n\n****************ATAU****************\nSUPER Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB dengan kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari"
+          },
+          {
+            "title": "Syarat & Ketentuan",
+            "info": "BASIC Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB dengan kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari\n\n****************ATAU****************\nSUPER Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB dengan kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari"
+          }
+        ]
+      },
+      {
+        "name": "Ireland-Portable Hotspot",
+        "plan": "5gb-7days",
+        "title": "Paket Lite",
+        "features": [
+          "Pakai Perangkat Yoowifi",
+          "Hanya untuk Paket Top-up",
+          "Masa Berlaku 180 Hari",
+          "Cakupan 60 Negara"
+        ],
+        "category": "bulanan",
+        "desc": "GB",
+        "coverage": [
+          "Aljazair",
+          "Anguilla",
+          "Antigua dan Barbuda",
+          "Argentina",
+          "Aruba",
+          "Azerbaijan",
+          "Bolivia",
+          "Brasil",
+          "Kepulauan Virgin Britania Raya",
+          "Chile",
+          "Kolombia",
+          "Kosta Rika"
+        ],
+        "details": [
+          {
+            "title": "Deskripsi",
+            "info": "BASIC Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB dengan kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari\n\n****************ATAU****************\nSUPER Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB dengan kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari"
+          },
+          {
+            "title": "Informasi",
+            "info": "BASIC Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB dengan kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari\n\n****************ATAU****************\nSUPER Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB dengan kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari"
+          },
+          {
+            "title": "Syarat & Ketentuan",
+            "info": "BASIC Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB dengan kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari\n\n****************ATAU****************\nSUPER Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB dengan kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari"
+          }
+        ]
+      },
+      {
+        "name": "Germany - Pocket Wifi",
+        "plan": "20gb-20days",
+        "title": "Paket Bisnis",
+        "features": [
+          "Pakai Perangkat Yoowifi",
+          "Hanya untuk Paket Top-up",
+          "Masa Berlaku 365 Hari",
+          "Dukungan Prioritas",
+          "Cakupan 100 Negara"
+        ],
+        "category": "volumen",
+        "desc": "GB",
+        "coverage": [
+          "Aljazair",
+          "Anguilla",
+          "Antigua dan Barbuda",
+          "Argentina",
+          "Aruba",
+          "Azerbaijan",
+          "Bolivia",
+          "Brasil",
+          "Kepulauan Virgin Britania Raya",
+          "Chile",
+          "Kolombia",
+          "Kosta Rika"
+        ],
+        "details": [
+          {
+            "title": "Deskripsi",
+            "info": "BASIC Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB dengan kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari\n\n****************ATAU****************\nSUPER Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB dengan kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari"
+          },
+          {
+            "title": "Informasi",
+            "info": "BASIC Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB dengan kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari\n\n****************ATAU****************\nSUPER Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB dengan kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari"
+          },
+          {
+            "title": "Syarat & Ketentuan",
+            "info": "BASIC Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB dengan kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari\n\n****************ATAU****************\nSUPER Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB dengan kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari"
+          }
+        ]
+      },
+      {
+        "name": "Sweden - Pocket Wifi",
+        "plan": "20gb-20days",
+        "title": "Paket Bisnis",
+        "features": [
+          "Pakai Perangkat Yoowifi",
+          "Hanya untuk Paket Top-up",
+          "Masa Berlaku 365 Hari",
+          "Dukungan Prioritas",
+          "Cakupan 100 Negara"
+        ],
+        "category": "volumen",
+        "desc": "GB",
+        "coverage": [
+          "Aljazair",
+          "Anguilla",
+          "Antigua dan Barbuda",
+          "Argentina",
+          "Aruba",
+          "Azerbaijan",
+          "Bolivia",
+          "Brasil",
+          "Kepulauan Virgin Britania Raya",
+          "Chile",
+          "Kolombia",
+          "Kosta Rika"
+        ],
+        "details": [
+          {
+            "title": "Deskripsi",
+            "info": "BASIC Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB dengan kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari\n\n****************ATAU****************\nSUPER Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB dengan kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari"
+          },
+          {
+            "title": "Informasi",
+            "info": "BASIC Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB dengan kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari\n\n****************ATAU****************\nSUPER Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB dengan kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari"
+          },
+          {
+            "title": "Syarat & Ketentuan",
+            "info": "BASIC Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB dengan kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari\n\n****************ATAU****************\nSUPER Daypass\n- Nikmati Kebebasan Data Tanpa Batas\n- 1GB dengan kecepatan tinggi setiap hari\n- Mulai dari SGD$2.90/hari"
+          }
+        ]
+      }
+    ]
+  },
+  "pocketWifi": {
+    "product": {
+      "name": "Pocket Wifi",
+      "description": "Perangkat Pocket Wifi Yoowifi menawarkan akses internet cepat dan handal di mana pun Anda berada. Sempurna untuk para pelancong dan pekerja jarak jauh, perangkat ini memungkinkan Anda menghubungkan hingga 8 perangkat secara bersamaan. Yoowifi menyediakan berbagai paket data yang disesuaikan dengan kebutuhan Anda, baik untuk perjalanan singkat atau perjalanan panjang. Dengan jangkauan di berbagai negara, ini adalah teman perjalanan yang ideal.",
+      "features": [
+        "Tetap Terhubung di Mana Saja",
+        "Hemat BESAR pada Roaming Internasional",
+        "Jaminan Harga Tak Terkalahkan"
+      ],
+      "buttons": {
+        "text": "Lihat Paket",
+        "text2": "Dapatkan Pocket Wifi"
+      },
+      "tabs": [
+        {
+          "title": "Deskripsi",
+          "content": "Mudah digunakan dan memiliki desain minimalis yang ramping. Cukup nyalakan, sambungkan perangkat Anda, dan Anda siap berangkat! Tidak perlu khawatir tentang proses pengaturan yang rumit atau peralatan besar. Namun, itu belum semua – perangkat Pocket WiFi kami juga menawarkan konektivitas yang kuat dan handal, memastikan Anda tetap terhubung di mana pun Anda berada. Baik Anda sedang dalam perjalanan bisnis atau liburan keluarga, Anda dapat menikmati internet kecepatan tinggi tanpa gangguan."
+        },
+        {
+          "title": "Spesifikasi",
+          "content": "CPU: SC8310LTE-FDD: Band 1 / 2 / 3 / 4 / 5 / 7 / 8 / 12 / 13 / 17 / 18 / 20 / 25 / 26 / 28 / 66\nLTE-TDD: Band 34 / 38 / 39 / 40 / 41 (194M)\nWCDMA: Band 1 / 2 / 4 / 5 / 8\nTD-SCDMA: TIDAK CDMA: TIDAK\nEVDO: TIDAK\nGSM: 850 / 900 / 1800 / 1900\nKecepatan maksimum: Unduh 150Mbps / Unggah 50Mbps\nWi-Fi: 2.4GHz 802.11 b / g / n 1T1R\nKoneksi WiFi maksimum: 8\nBaterai: 3000mAh\nPort: USB Type-C\nInput: 5V – 1A\nUkuran item: 120mm x 64.6mm x 12mm\nBerat item: 112g\nMaterial Cangkang: Plastik"
+        },
+        {
+          "title": "Apa yang Termasuk",
+          "content": "Data global 50GB berlaku untuk 90 negara.\nKecepatan layanan tergantung pada mitra jaringan seluler.\nUntuk pembatalan pesanan, biaya 10% dari pesanan akan dikenakan.\nSyarat dan ketentuan umum berlaku.\nYoowifi berhak melakukan perubahan kapan saja."
+        },
+        {
+          "title": "Syarat & Ketentuan",
+          "content": "Albania, Andorra, Armenia, Australia, Austria, Bahrain, Bangladesh, Belgia, Bosnia dan Herzegovina, Brunei, Bulgaria, Kamboja, Kanada, Cina, Kroasia, Siprus, Republik Ceko, Denmark, Mesir, Estonia, Finlandia, Prancis, Georgia, Jerman, Gibraltar, Yunani, Guernsey, Hong Kong, Hungaria, Islandia, India, Indonesia, Irlandia, Isle of Man, Israel, Italia, Jepang, Jersey, Yordania, Kazakhstan, Kuwait, Laos, Latvia, Liechtenstein, Lituania, Luksemburg, Makau, Makedonia, Malaysia, Malta, Meksiko, Monaco, Montenegro, Myanmar, Belanda, Selandia Baru, Norwegia, Oman, Pakistan, Filipina, Polandia, Portugal, Qatar, Reunion, Rumania, Rusia, San Marino, Arab Saudi, Serbia, Slovakia, Slovenia, Korea Selatan, Spanyol, Sri Lanka, Swedia, Swiss, Taiwan, Thailand, Turki, UAE, Ukraina, Inggris, USA, Uzbekistan, Vatikan, Vietnam"
+        }
+      ]
+    },
+    "features": {
+      "heading": "Fitur Utama",
+      "subHeading": "Jangan biarkan internet lambat menghalangi Anda! Beralihlah ke solusi portabel kami untuk merasakan konektivitas tanpa batas.",
+      "featureList": [
+        "Kecepatan hingga 4G LTE",
+        "Opsi Data Fleksibel",
+        "Teknologi Cloud SIM",
+        "Bagikan Hingga 8 Perangkat",
+        "Baterai Tahan 12 Jam"
+      ]
+    },
+    "aboutUs": [
+      {
+        "_id": 1,
+        "title": "Solusi Perusahaan",
+        "content": "Konektivitas internet yang handal dan aman untuk bisnis yang selalu bergerak, dengan solusi yang dapat diskalakan dan efisien yang memastikan integrasi mulus dan operasi lancar di mana saja"
+      },
+      {
+        "_id": 2,
+        "title": "Kemitraan",
+        "content": "Kemitraan kami dibangun atas dasar kepercayaan dan kolaborasi, bekerja bersama untuk mendorong inovasi, memperluas peluang, dan menciptakan keberhasilan bersama"
+      },
+      {
+        "_id": 3,
+        "title": "Solusi Kustom",
+        "content": "Temukan solusi kustom kami yang disesuaikan dengan kebutuhan unik Anda. Kami bekerja sama dengan Anda untuk merancang layanan inovatif dan fleksibel yang mendorong kesuksesan dan meningkatkan hasil bisnis Anda"
+      }
+    ],
+    "services": [
+      {
+        "_id": 1,
+        "title": "Cakupan Global",
+        "content": "Tetap terhubung di 160 negara, tidak peduli ke mana perjalanan Anda dengan layanan wifi perjalanan Yoowifi."
+      },
+      {
+        "_id": 2,
+        "title": "Jaringan Multihoming",
+        "content": "Pastikan konektivitas tanpa gangguan dengan jaringan multihoming kami, menawarkan beberapa koneksi untuk meningkatkan keandalan dan kinerja"
+      },
+      {
+        "_id": 3,
+        "title": "Zero Touch on Demand",
+        "content": "Portal berbasis cloud kami mengonfigurasi dan menyediakan layanan untuk konektivitas on-demand tanpa sentuhan, keahlian teknis hanya diperlukan di lokasi."
+      },
+      {
+        "_id": 4,
+        "title": "Layanan Efisien Biaya",
+        "content": "Nikmati layanan berkualitas tinggi dengan harga yang kompetitif, dirancang untuk memberikan nilai maksimal sambil tetap efektif biaya"
+      },
+      {
+        "_id": 5,
+        "title": "Portal Manajemen",
+        "content": "Portal manajemen kami menyediakan platform ramah pengguna untuk kontrol dan pemantauan yang mulus, memberi Anda kekuatan untuk mengelola layanan dengan efisien"
+      },
+      {
+        "_id": 6,
+        "title": "Kustomisasi Aplikasi",
+        "content": "Sesuaikan aplikasi Anda untuk pengalaman yang dipersonalisasi, disesuaikan dengan merek dan tujuan Anda"
+      }
+    ],
+    "whatWeDo": [
+      {
+        "_id": 1,
+        "title": "Rencana Kelangsungan Bisnis",
+        "content": "Yoowifi menawarkan solusi teknologi yang menyediakan platform yang kuat dan sangat redundan untuk menjaga bisnis Anda tetap terhubung dan beroperasi meskipun ada ketidakpastian."
+      },
+      {
+        "_id": 2,
+        "title": "Konektivitas Kendaraan",
+        "content": "Yoowifi menyediakan bandwidth yang diperlukan untuk transmisi dan penerimaan data yang aman, baik itu dikirim dalam negeri atau antar negara."
+      },
+      {
+        "_id": 3,
+        "title": "Bekerja Jarak Jauh",
+        "content": "Solusi kerja jarak jauh kami memastikan konektivitas tanpa gangguan, memungkinkan tim untuk berkolaborasi secara efisien dan tetap produktif, terlepas dari lokasi."
+      },
+      {
+        "_id": 4,
+        "title": "Konektivitas untuk Acara",
+        "content": "Pastikan pengalaman acara yang sempurna dengan solusi konektivitas andal kami, menawarkan internet cepat dan aman yang menjaga acara Anda berjalan lancar dari awal hingga akhir"
+      },
+      {
+        "_id": 5,
+        "title": "Solusi Agen Perjalanan",
+        "content": "Kami bermitra dengan agen perjalanan untuk memberikan solusi internet terbaik, memastikan konektivitas mulus untuk para pelancong dan meningkatkan pengalaman perjalanan secara keseluruhan"
+      },
+      {
+        "_id": 6,
+        "title": "Hotel",
+        "content": "Kami menawarkan solusi internet yang disesuaikan untuk hotel, memastikan konektivitas cepat dan handal yang meningkatkan kepuasan tamu dan mendukung operasi hotel yang efisien"
+      }
+    ],
+    "stayConnectedYourWay": {
+      "heading": "Tetap Terhubung Dengan Cara Anda",
+      "subHeading": "Beli atau sewa perangkat dengan fleksibilitas untuk memenuhi kebutuhan konektivitas Anda. Pilih antara memiliki solusi jangka panjang atau menyewa untuk penggunaan jangka pendek, memastikan Anda memiliki akses yang dapat diandalkan kapan saja Anda membutuhkannya.",
+      "ways": [
+        {
+          "title": "Beli Perangkat Anda Sendiri",
+          "description": "Beli perangkat untuk konektivitas jangka panjang yang dapat diandalkan kapan pun Anda membutuhkannya."
+        },
+        {
+          "title": "Sewa",
+          "description": "Akses konektivitas yang dapat diandalkan kapan pun Anda membutuhkannya dengan opsi sewa perangkat jangka pendek yang fleksibel—ideal untuk perjalanan, acara, atau penggunaan sementara."
+        }
+      ]
+    },
+    "whatsIncluded": {
+      "heading": "Apa yang Termasuk",
+      "subHeading": "Segala yang Anda Butuhkan untuk Konektivitas Tanpa Gangguan",
+      "includedList": {
+        "chargingCable": "x1 Kabel Pengisian",
+        "devicePouch": "x1 Kantong Perangkat",
+        "howToOperate": "Cara Mengoperasikan",
+        "powerOn": "Nyalakan Perangkat",
+        "powerOff": "Matikan Perangkat",
+        "pressNote": "Tekan tombol daya selama 3 detik"
+      }
+    },
+    "ledIndicators": {
+      "heading": "Indikator LED Baterai",
+      "subHeading": "Pantau Status Daya Perangkat Anda dengan Mudah",
+      "content": {
+        "capacity": {
+          "title": "Kapasitas baterai ditunjukkan dengan warna yang berbeda",
+          "description": "Lorem Ipsum adalah teks dummy dalam industri percetakan dan tata letak. Lorem Ipsum adalah teks dummy."
+        },
+        "charging": {
+          "title": "Sedang Mengisi Daya",
+          "description": "Lorem Ipsum adalah teks dummy dalam industri percetakan dan tata letak. Lorem Ipsum adalah teks dummy."
+        },
+        "support": "*Silakan hubungi dukungan pelanggan kami di hello@yoowifi.com atau WhatsApp kami di (65) 6100 9998",
+        "systemUpdateNote": "**Semua indikator berkedip berarti sedang menjalani pembaruan perangkat lunak sistem**"
+      }
+    },
+    "howToConnect": {
+      "heading": "Bagaimana Cara Menghubungkan Pocketwifi?",
+      "subHeading": "Sambungkan Pocket WiFi Anda dengan Mudah dalam Beberapa Langkah Sederhana",
+      "steps": [
+        {
+          "title": "Nyalakan Pocket WiFi",
+          "description": "Tekan tombol daya untuk menyalakannya dan tunggu hingga terhubung ke jaringan."
+        },
+        {
+          "title": "Cari Nama WiFi",
+          "description": "Periksa layar perangkat untuk nama jaringan WiFi (SSID)."
+        },
+        {
+          "title": "Sambungkan ke WiFi",
+          "description": "Pada ponsel, tablet, atau laptop Anda, buka pengaturan WiFi, pilih SSID, masukkan kata sandi yang ditampilkan di perangkat, dan Anda akan terhubung ke internet."
+        }
+      ]
+    },
+    "howToReturn": {
+      "heading": "Bagaimana Cara Mengembalikan Perangkat?",
+      "subHeading": "Ikuti langkah mudah kami untuk memastikan pengalaman pengembalian yang tanpa masalah.",
+      "cardData": [
+        {
+          "title": "Drop-Off Singpost",
+          "description": "Ketika Anda menyewa perangkat, label pengembalian prabayar akan disertakan dalam paket. Anda dapat menggunakan label ini untuk dengan mudah mengirimkan perangkat kembali. Setelah mengembalikannya, Anda kemungkinan akan menerima konfirmasi email setelah pengembalian diproses.",
+          "buttonText": "Lihat Lokasi"
+        },
+        {
+          "title": "Lokasi Pengambilan dan Pengembalian",
+          "description": "Dengan Yoowifi, Anda dapat dengan mudah mengambil perangkat Anda di salah satu lokasi yang ditentukan dan mengembalikannya di lebih dari 30 titik drop-off yang nyaman di seluruh pulau. Proses yang disederhanakan ini menjamin pengalaman tanpa masalah, memungkinkan Anda tetap terhubung ke mana pun perjalanan Anda membawa Anda!",
+          "buttonText": "Lihat Lokasi"
+        }
+      ]
+    },
+    "planTopUp": {
+      "heading": "Cara Melakukan Top-up Paket",
+      "subHeading": "Kelola Kebutuhan Data Anda dengan Mudah melalui Top-Up Yoowifi",
+      "steps": [
+        {
+          "title": "Pilih Perangkat Anda",
+          "description": "Buka aplikasi Yoowifi, masuk ke My Data, dan pilih perangkat yang ingin Anda top-up."
+        },
+        {
+          "title": "Pilih Paket Anda",
+          "description": "Klik Tambah Data, pilih negara dan paket yang diinginkan, kemudian tentukan tanggal mulai dan akhir."
+        },
+        {
+          "title": "Lanjutkan ke Pembayaran",
+          "description": "Konfirmasi pilihan Anda dan lanjutkan ke pembayaran."
+        }
+      ]
+    },
+    "otherProducts": {
+      "title": "Produk Lain yang Mungkin Anda Suka"
+    }
+  },
+  "router": {
+    "product": {
+      "name": "Router",
+      "description": "Yoowifi Router menawarkan konektivitas internet yang lancar dan andal di rumah atau kantor. Dengan fitur canggih dan konektivitas berkecepatan tinggi, router ini memastikan Anda tetap terhubung tanpa gangguan. Router ini mudah disetel dan digunakan, menjadikannya solusi sempurna untuk semua kebutuhan internet Anda.",
+      "features": [
+        "Tetap Terhubung Dimana Saja",
+        "Hemat BESAR pada Roaming Internasional",
+        "Jaminan Harga Tak Tertandingi"
+      ],
+      "buttons": {
+        "text": "Lihat Paket",
+        "text2": "Dapatkan Router"
+      },
+      "tabs": [
+        {
+          "title": "Deskripsi",
+          "content": "Router ini mudah digunakan dan memiliki desain minimalis yang ramping. Cukup hidupkan, hubungkan perangkat Anda, dan Anda siap berfungsi! Tidak perlu lagi khawatir tentang proses pengaturan yang rumit atau perangkat besar. Namun itu bukan semuanya – perangkat Pocket WiFi kami juga menawarkan konektivitas yang kuat dan andal, memastikan Anda tetap terhubung di mana pun Anda berada. Baik saat Anda sedang perjalanan bisnis atau liburan keluarga, Anda dapat menikmati internet berkecepatan tinggi tanpa gangguan."
+        },
+        {
+          "title": "Spesifikasi",
+          "content": "CPU: SC8310LTE-FDD: Band 1 / 2 / 3 / 4 / 5 / 7 / 8 / 12 / 13 / 17 / 18 / 20 / 25 / 26 / 28 / 66\nLTE-TDD: Band 34 / 38 / 39 / 40 / 41 (194M)\nWCDMA: Band 1 / 2 / 4 / 5 / 8\nTD-SCDMA: TIDAK\nCDMA: TIDAK\nEVDO: TIDAK\nGSM: 850 / 900 / 1800 / 1900\nKecepatan Maks: Unduh 150Mbps / Unggah 50Mbps\nWi-Fi: 2.4GHz 802.11 b / g / n 1T1R\nKoneksi WiFi Maks: 8\nBaterai: 3000mAh\nPort: Type-C USB\nInput: 5V – 1A\nUkuran Item: 120mm x 64.6mm x 12mm\nBerat Item: 112g\nBahan Cangkang: Plastik"
+        },
+        {
+          "title": "Apa yang Termasuk",
+          "content": "Data global 50GB berlaku di 90 negara.\nKecepatan layanan tergantung pada mitra jaringan seluler.\nUntuk pembatalan pesanan, akan dikenakan biaya 10% dari pesanan.\nSyarat dan ketentuan umum berlaku.\nYoowifi berhak melakukan perubahan kapan saja."
+        },
+        {
+          "title": "Syarat & Ketentuan",
+          "content": "Albania, Andorra, Armenia, Australia, Austria, Bahrain, Bangladesh, Belgia, Bosnia dan Herzegovina, Brunei, Bulgaria, Kamboja, Kanada, China, Kroasia, Siprus, Republik Ceko, Denmark, Mesir, Estonia, Finlandia, Prancis, Georgia, Jerman, Gibraltar, Yunani, Guernsey, Hong Kong, Hungaria, Islandia, India, Indonesia, Irlandia, Isle of Man, Israel, Italia, Jepang, Jersey, Yordania, Kazakhstan, Kuwait, Laos, Latvia, Liechtenstein Lithuania, Luksemburg, Makau, Makedonia, Malaysia, Malta, Meksiko, Monako, Montenegro, Myanmar, Belanda, Selandia Baru, Norwegia, Oman, Pakistan, Filipina, Polandia, Portugal, Qatar, Reunion, Rumania, Rusia, San Marino, Arab Saudi, Serbia, Slovakia, Slovenia, Korea Selatan, Spanyol, Sri Lanka, Swedia, Swiss, Taiwan, Thailand, Turki, UEA, Ukraina, Inggris, AS, Uzbekistan, Vatikan, Vietnam"
+        }
+      ]
+    },
+    "features": {
+      "heading": "Fitur Utama",
+      "subHeading": "Jangan biarkan internet lambat menghalangi Anda! Beralihlah ke solusi portabel kami untuk merasakan konektivitas tanpa batas.",
+      "featureList": [
+        "Kecepatan Hingga 4G LTE",
+        "Opsi Data Fleksibel",
+        "Teknologi Cloud SIM",
+        "Berbagi ke berbagai perangkat",
+        "Cakupan dan Stabilitas Lebih Baik"
+      ]
+    },
+    "whatsIncluded": {
+      "heading": "Apa yang Termasuk",
+      "subHeading": "Semua yang Anda Butuhkan untuk Konektivitas Tanpa Gangguan",
+      "includedList": ["x1 Wifi Router", "x1 Adaptor Daya"]
+    },
+    "howToConnectRouter": {
+      "heading": "Bagaimana Cara Menghubungkan Router?",
+      "subHeading": "Panduan langkah demi langkah untuk mengatur eSIM Anda dengan mudah",
+      "steps": [
+        "Hubungkan adaptor daya ke router WiFi dan colokkan ke soket daya. Kemudian, hidupkan soket daya.",
+        "Untuk menghubungkan ke jaringan WiFi Anda, cari nama dan kata sandi WiFi default di bawah / belakang router WiFi.",
+        "Hubungkan ke nama WiFi default dan masukkan kata sandi saat diminta, dan Anda siap!"
+      ]
+    },
+    "otherProducts": {
+      "title": "Produk lain yang mungkin Anda sukai"
+    }
+  },
+  "sim": {
+    "product": {
+      "name": "SIM/eSIM",
+      "description": "Lorem Ipsum adalah teks sementara yang digunakan dalam industri percetakan dan penataan huruf. Lorem Ipsum adalah teks sementara yang digunakan dalam industri percetakan dan penataan huruf. Lorem Ipsum adalah teks sementara yang digunakan dalam industri percetakan dan penataan huruf.",
+      "features": [
+        "Tetap Terhubung Dimana Saja",
+        "Hemat BESAR pada Roaming Internasional",
+        "Jaminan Harga yang Tak Terkalahkan"
+      ],
+      "buttons": {
+        "text": "Lihat Paket",
+        "text2": "Dapatkan SIM/eSIM"
+      },
+      "tabs": [
+        {
+          "title": "Deskripsi",
+          "content": "SIM/eSIM kami sempurna bagi mereka yang menghargai kenyamanan dan kemudahan penggunaan. Anda dapat mengaktifkannya dalam beberapa menit dan mulai menikmati semua manfaat yang datang bersama dengan itu. Apakah Anda seorang pelajar, profesional yang bekerja, atau siapa saja yang membutuhkan layanan telekomunikasi yang andal, SIM/eSIM kami adalah solusi yang tepat untuk Anda. Kami menawarkan harga yang kompetitif, paket yang fleksibel, dan dukungan pelanggan yang luar biasa untuk memastikan Anda mendapatkan nilai terbaik untuk uang Anda!"
+        },
+        {
+          "title": "Syarat & Ketentuan",
+          "content": "Tanggal kedaluwarsa kartu SIM fisik untuk penggunaan sekali adalah 60 hari setelah pembelian\n Tidak ada pengembalian dana atau pembatalan untuk eSIM karena masalah kompatibilitas eSIM.\n Jangan hapus atau cabut eSIM Anda dari perangkat setelah instalasi berhasil.\n Syarat dan ketentuan umum berlaku."
+        }
+      ]
+    },
+    "features": {
+      "heading": "Fitur Utama",
+      "subHeading": "Jangan biarkan internet lambat mengikat Anda! Beralih ke solusi portabel kami untuk merasakan konektivitas tanpa batas.",
+      "featureList": [
+        "Kecepatan hingga 4G \n LTE",
+        "Tanpa Pembatasan Kecepatan",
+        "Pengiriman Cepat",
+        "Pemasangan dan Penggunaan yang Sederhana",
+        "Dukungan Teknis 24/7",
+        "Kartu SIM 3-in-1"
+      ]
+    },
+    "howToSetup": {
+      "heading": "Cara Mengatur SIM Anda",
+      "subHeading": "Jangan biarkan internet lambat mengikat Anda! Beralih ke solusi portabel kami untuk merasakan konektivitas tanpa batas.",
+      "steps": [
+        {
+          "title": "Beli Kartu SIM",
+          "description": "Pesan kartu SIM dengan mudah melalui aplikasi Yoowifi, dan nikmati kenyamanan pengiriman langsung ke pintu Anda."
+        },
+        {
+          "title": "Masukkan Kartu SIM",
+          "description": "Masukkan kartu SIM dan nyalakan perangkat seluler Anda.* Masa berlaku data dimulai segera setelah memasukkan SIM pertama kali di tujuan."
+        },
+        {
+          "title": "Aktifkan Roaming Data",
+          "description": "Aktifkan Roaming Data di perangkat seluler Anda.*Jika ponsel Anda tidak dapat mendeteksi aktivasi Roaming Data, reboot setelah langkah 2 dan pastikan Roaming Data diaktifkan."
+        }
+      ]
+    },
+    "activateSteps": {
+      "heading": "Langkah Mudah untuk Mengaktifkan eSIM Anda",
+      "steps": [
+        {
+          "title": "iOS",
+          "deviceSteps": [
+            {
+              "title": "Langkah 1",
+              "description": "Mengaktifkan eSIM Anda di aplikasi Yoowifi",
+              "steps": [
+                "Setelah membeli eSIM, pergi ke Pesanan Saya dan klik tombol Aktivasi eSIM untuk menyelesaikan aktivasi.",
+                "Setelah diaktifkan, eSIM akan muncul di bawah Data Saya."
+              ]
+            },
+            {
+              "title": "Langkah 2",
+              "description": "Mengaktifkan eSIM Anda",
+              "steps": [
+                "Masuk ke pengaturan iPhone Anda. Ketuk Seluler atau Data Seluler.",
+                "Ketuk Tambah eSIM",
+                "Ketuk Gunakan Kode QR",
+                "Pindai kode QR yang Anda terima setelah membeli eSIM di aplikasi Yoowifi atau masukkan detail secara manual."
+              ]
+            },
+            {
+              "title": "Langkah 3",
+              "description": "Mengaktifkan Roaming Data",
+              "steps": [
+                "Jika Anda mengatur secara manual, Anda mungkin perlu memasukkan detail aktivasi yang diberikan di aplikasi Yoowifi di bawah pesanan eSIM Anda, yang dapat ditemukan di Data Saya.",
+                "Lanjutkan untuk mengaktifkan eSIM.",
+                "Pilih eSIM yang telah ditambahkan setelah Anda sampai di tujuan perjalanan, lalu aktifkan Roaming Data untuk terhubung."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Android",
+          "deviceSteps": [
+            {
+              "title": "Langkah 1",
+              "description": "Mengaktifkan eSIM Anda di aplikasi Yoowifi",
+              "steps": [
+                "Setelah membeli eSIM, pergi ke Pesanan Saya dan klik tombol Aktivasi eSIM untuk menyelesaikan aktivasi.",
+                "Setelah diaktifkan, eSIM akan muncul di bawah Data Saya."
+              ]
+            },
+            {
+              "title": "Langkah 2",
+              "description": "Mengaktifkan eSIM Anda",
+              "steps": [
+                "Masuk ke pengaturan ponsel Anda. Ketuk Seluler atau Data Seluler.",
+                "Ketuk Tambah eSIM",
+                "Ketuk Gunakan Kode QR",
+                "Pindai kode QR yang Anda terima setelah membeli eSIM di aplikasi Yoowifi atau masukkan detail secara manual."
+              ]
+            },
+            {
+              "title": "Langkah 3",
+              "description": "Mengaktifkan Roaming Data",
+              "steps": [
+                "Jika Anda mengatur secara manual, Anda mungkin perlu memasukkan detail aktivasi yang diberikan di aplikasi Yoowifi di bawah pesanan eSIM Anda, yang dapat ditemukan di Data Saya.",
+                "Lanjutkan untuk mengaktifkan eSIM.",
+                "Pilih eSIM yang telah ditambahkan setelah Anda sampai di tujuan perjalanan, lalu aktifkan Roaming Data untuk terhubung."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "deviceCompatibilities": {
+      "heading": "Periksa Kompatibilitas Perangkat",
+      "subHeading": "Jika Anda menggunakan eSIM untuk pertama kalinya, Anda mungkin perlu memeriksa apakah perangkat Anda mendukung eSIM. Dan kami ingin membantu Anda dalam hal ini. Pilih merek perangkat Anda dan lihat apakah model-model Anda terdaftar. Anda dapat memastikannya lebih lanjut dengan memeriksa halaman Pengaturan perangkat Anda.",
+      "compatibilities": [
+        {
+          "title": "Apple",
+          "devices": [
+            {
+              "name": "iPhone",
+              "versions": [
+                "iPhone 16, 16 Plus, 16 Pro, 16 Pro Max",
+                "iPhone 15, 15 Plus, 15 Pro, 15 Pro Max",
+                "iPhone 14, 14 Plus, 14 Pro, 14 Pro Max",
+                "iPhone 13, 13 Mini, 13 Pro, 13 Pro, 13 Pro Max",
+                "iPhone 12, 12 Mini, 12 Pro, 12 Pro Max",
+                "iPhone 11, 11 Pro, 11 Pro Max",
+                "iPhone XS, XS Max",
+                "iPhone XR",
+                "iPhone SE (2020 dan 2022)"
+              ]
+            },
+            {
+              "name": "iPad",
+              "versions": [
+                "iPad (dari generasi ke-7)",
+                "iPad Air (dari generasi ke-3)",
+                "iPad Pro, 11-inci (dari generasi ke-1)",
+                "iPad Pro 12.9-inci (dari generasi ke-3)",
+                "iPad Mini (dari generasi ke-5)"
+              ]
+            }
+          ],
+          "note": "Fungsi eSIM dapat bervariasi berdasarkan model dan wilayah. Harap hubungi operator lokal Anda untuk konfirmasi."
+        },
+        {
+          "title": "Samsung",
+          "devices": [
+            {
+              "name": "Samsung Galaxy S Series",
+              "versions": [
+                "Galaxy S23",
+                "Galaxy S23+",
+                "Galaxy S23 Ultra",
+                "Galaxy S22",
+                "Galaxy S22+",
+                "Galaxy S22 Ultra",
+                "Galaxy S21",
+                "Galaxy S21+",
+                "Galaxy S21 Ultra",
+                "Galaxy S20",
+                "Galaxy S20+",
+                "Galaxy S20 Ultra"
+              ]
+            },
+            {
+              "name": "Samsung Galaxy Z Series (Ponsel Lipat)",
+              "versions": [
+                "Galaxy Z Fold5 (2023)",
+                "Galaxy Z Fold4 (2022)",
+                "Galaxy Z Fold3 (2021)",
+                "Galaxy Z Flip5 (2023)",
+                "Galaxy Z Flip4 (2022)",
+                "Galaxy Z Flip3 (2021)"
+              ]
+            },
+            {
+              "name": "Samsung Galaxy Note Series",
+              "versions": [
+                "Galaxy Note 20 Series (2020)",
+                "Galaxy Note 20",
+                "Galaxy Note 20 Ultra"
+              ]
+            },
+            {
+              "name": "Samsung Galaxy A Series",
+              "versions": ["Galaxy A54 (2023)", "Galaxy A53 (2022)"]
+            }
+          ],
+          "note": "Fungsi eSIM dapat bervariasi berdasarkan model dan wilayah. Harap hubungi operator lokal Anda untuk konfirmasi."
+        },
+        {
+          "title": "Google",
+          "devices": [
+            {
+              "name": "Google Pixel 8 Series (2023)",
+              "versions": ["Pixel 8", "Pixel 8 Pro"]
+            },
+            {
+              "name": "Google Pixel 7 Series (2022)",
+              "versions": ["Pixel 7", "Pixel 7 Pro"]
+            },
+            {
+              "name": "Google Pixel 6 Series (2021)",
+              "versions": ["Pixel 6", "Pixel 6 Pro", "Pixel 6a"]
+            },
+            {
+              "name": "Google Pixel 5 Series (2020)",
+              "versions": ["Pixel 5", "Pixel 5a 5G"]
+            },
+            {
+              "name": "Google Pixel 4 Series (2019)",
+              "versions": ["Pixel 4", "Pixel 4 XL", "Pixel 4a"]
+            },
+            {
+              "name": "Google Pixel 3 Series (2018)",
+              "versions": ["Pixel 3", "Pixel 3 XL", "Pixel 3a", "Pixel 3a XL"]
+            }
+          ],
+          "note": "Fungsi eSIM dapat bervariasi berdasarkan model dan wilayah. Harap hubungi operator lokal Anda untuk konfirmasi."
+        },
+        {
+          "title": "Huawei",
+          "devices": [
+            {
+              "name": "Huawei P Series",
+              "versions": [
+                "Huawei P60 Pro (2023)",
+                "Huawei P50 Pro (2021)",
+                "Huawei P40 Series (2020)",
+                "Huawei P40",
+                "Huawei P40 Pro",
+                "Huawei P40 Pro+"
+              ]
+            },
+            {
+              "name": "Huawei Mate Series",
+              "versions": [
+                "Huawei Mate 50 Pro (2022)",
+                "Huawei Mate 40 Pro (2020)",
+                "Huawei Mate 30 Series (2019)",
+                "Huawei Mate 30",
+                "Huawei Mate 30 Pro"
+              ]
+            },
+            {
+              "name": "Huawei Watch (model eSIM)",
+              "versions": [
+                "Huawei Watch 4 Pro",
+                "Huawei Watch 3",
+                "Huawei Watch 3 Pro"
+              ]
+            }
+          ],
+          "note": "Fungsi eSIM dapat bervariasi berdasarkan model dan wilayah. Harap hubungi operator lokal Anda untuk konfirmasi."
+        },
+        {
+          "title": "Oppo",
+          "devices": [
+            {
+              "name": "Oppo Find X Series",
+              "versions": [
+                "Oppo Find X6 Pro (2023)",
+                "Oppo Find X5 Series (2022)",
+                "Oppo Find X5",
+                "Oppo Find X5 Pro",
+                "Oppo Find X3 Series (2021)",
+                "Oppo Find X3",
+                "Oppo Find X3 Pro"
+              ]
+            },
+            {
+              "name": "Oppo Reno Series",
+              "versions": ["Oppo Reno8 Pro (2022)", "Oppo Reno7 Pro 5G"]
+            },
+            {
+              "name": "Oppo A Series",
+              "versions": ["Oppo A55s 5G (2022)"]
+            }
+          ],
+          "note": "Fungsi eSIM dapat bervariasi berdasarkan model dan wilayah. Harap hubungi penyedia layanan lokal Anda untuk konfirmasi."
+        },
+        {
+          "title": "Xiaomi",
+          "devices": [
+            {
+              "name": "Xiaomi 13 Series",
+              "versions": [
+                "Xiaomi 13 (2023)",
+                "Xiaomi 13 Pro (2023)",
+                "Xiaomi 13 Lite (2023)"
+              ]
+            },
+            {
+              "name": "Xiaomi 12 Series",
+              "versions": [
+                "Xiaomi 12 (2021)",
+                "Xiaomi 12 Pro (2021)",
+                "Xiaomi 12T (2022)",
+                "Xiaomi 12T Pro (2022)"
+              ]
+            },
+            {
+              "name": "Xiaomi Mi 11 Series",
+              "versions": [
+                "Xiaomi Mi 11 (2020)",
+                "Xiaomi Mi 11 Pro (2021)",
+                "Xiaomi Mi 11 Ultra (2021)"
+              ]
+            },
+            {
+              "name": "Redmi Note Series",
+              "versions": [
+                "Redmi Note 12 Pro (2022)",
+                "Redmi Note 12 Pro+ (2022)"
+              ]
+            }
+          ],
+          "note": "Fungsi eSIM dapat bervariasi berdasarkan model dan wilayah. Harap hubungi penyedia layanan lokal Anda untuk konfirmasi."
+        },
+        {
+          "title": "Honor",
+          "devices": [
+            {
+              "name": "Honor Magic Series",
+              "versions": [
+                "Honor Magic 5 Pro (2023)",
+                "Honor Magic 4 Pro (2022)",
+                "Honor Magic 3 Series (2021)",
+                "Honor Magic 3",
+                "Honor Magic 3 Pro",
+                "Honor Magic 3 Pro+"
+              ]
+            },
+            {
+              "name": "Honor 50 Series",
+              "versions": ["Honor 50 (2021)", "Honor 50 Pro (2021)"]
+            },
+            {
+              "name": "Honor V Series",
+              "versions": ["Honor V40 (2021)", "Honor V30 (2019)"]
+            },
+            {
+              "name": "Honor 20 Series",
+              "versions": ["Honor 20 Pro (2019)"]
+            }
+          ],
+          "note": "Fungsi eSIM dapat bervariasi berdasarkan model dan wilayah. Harap hubungi penyedia layanan lokal Anda untuk konfirmasi."
+        },
+        {
+          "title": "Sony",
+          "devices": [
+            {
+              "name": "Sony Xperia Series",
+              "versions": [
+                "Sony Xperia 1 V (2023)",
+                "Sony Xperia 1 IV (2022)",
+                "Sony Xperia 5 IV (2022)",
+                "Sony Xperia 10 IV (2022)"
+              ]
+            },
+            {
+              "name": "Sony Xperia 1 III Series (2021)",
+              "versions": ["Sony Xperia 1 III", "Sony Xperia 5 III"]
+            },
+            {
+              "name": "Sony Xperia 10 Series",
+              "versions": ["Sony Xperia 10 III (2021)"]
+            }
+          ],
+          "note": "Fungsi eSIM dapat bervariasi berdasarkan model dan wilayah. Harap hubungi penyedia layanan lokal Anda untuk konfirmasi."
+        },
+        {
+          "title": "Motorola",
+          "devices": [
+            {
+              "name": "Motorola Edge Series",
+              "versions": [
+                "Motorola Edge 40 (2023)",
+                "Motorola Edge 30 (2022)",
+                "Motorola Edge 20 (2021)",
+                "Motorola Edge 20 Pro (2021)"
+              ]
+            },
+            {
+              "name": "Motorola Razr (Lipatan)",
+              "versions": ["Motorola Razr 40 (2023)", "Motorola Razr 2020"]
+            },
+            {
+              "name": "Motorola Moto G Series",
+              "versions": ["Moto G72 (2022)"]
+            }
+          ],
+          "note": "Fungsi eSIM dapat bervariasi berdasarkan model dan wilayah. Harap hubungi penyedia layanan lokal Anda untuk konfirmasi."
+        }
+      ]
+    },
+    "howToTopUp": {
+      "heading": "Cara Mengisi Ulang SIM/eSIM",
+      "subHeading": "3 Langkah Mudah untuk Mengisi Ulang SIM/eSIM Anda",
+      "steps": [
+        {
+          "title": "Buka Aplikasi Yoowifi",
+          "description": "Di aplikasi Yoowifi, buka My Data dan pilih SIM atau eSIM yang ingin Anda isi ulang."
+        },
+        {
+          "title": "Tambah Data",
+          "description": "Ketuk Tambah Data, lalu pilih negara tujuan, paket, ukuran data, dan pilih jumlah hari."
+        },
+        {
+          "title": "Lanjutkan ke Checkout",
+          "description": "Konfirmasi pilihan Anda dan lanjutkan ke checkout."
+        }
+      ]
+    },
+    "otherProducts": {
+      "title": "Produk lain yang mungkin Anda sukai"
+    }
+  },
+  "aboutUs": {
+    "header": {
+      "title": "Tentang Kami",
+      "description": "Yoowifi adalah perusahaan yang berbasis di Singapura yang menyediakan layanan penyewaan wifi portable untuk para pelancong. Kami menawarkan berbagai perangkat wifi portable dengan paket data tanpa batas untuk menjaga Anda tetap terhubung di mana pun Anda berada."
+    },
+    "whoWeAre": {
+      "title": "Siapa Kami",
+      "description": "UR Communications Pte Ltd, yang beroperasi di bawah merek terkenal Yoowifi, memperkenalkan solusi canggih untuk konektivitas global yang mudah melalui aplikasi mobile yang intuitif. Dengan komitmen untuk memperkaya perjalanan dan memfasilitasi komunikasi global, Aplikasi Yoowifi memberikan kenyamanan, keandalan, dan biaya yang terjangkau. \n\nAmbisi kami adalah untuk membangun dunia di mana para ahli telekomunikasi dan pelancong dapat tetap terhubung di seluruh negara, bebas dari kekhawatiran biaya roaming data yang berlebihan. Misi kami berfokus pada membangun perusahaan yang menawarkan layanan mobile yang dapat diakses, terpercaya, dan tanpa batas, memberdayakan individu untuk tetap terhubung dengan orang terkasih mereka sambil menjelajahi berbagai sudut dunia.",
+      "image": "images.whoWeAre1"
+    },
+    "features": [
+      "WiFi yang dapat diandalkan, di mana pun Anda pergi",
+      "Mencakup lebih dari 160 negara",
+      "Dukungan Pelanggan 24/7",
+      "Keberadaan lokal di lebih dari 10 negara"
+    ],
+    "companyMission": {
+      "title": "Misi Perusahaan Kami",
+      "mission": {
+        "title": "Tetap Terhubung Kapan Saja, Di Mana Saja",
+        "year": "2001",
+        "description": "Misi kami adalah untuk menyediakan layanan data yang dapat diakses, dapat diandalkan, dan tanpa batas. Kami berusaha memberdayakan individu untuk tetap terhubung tanpa hambatan dengan orang yang mereka cintai sambil menjelajahi budaya baru, merasakan petualangan, dan menavigasi sudut-sudut dunia yang beragam, memastikan pengalaman konektivitas yang mulus dan memperkaya.",
+        "image": "images.companyMission1"
+      }
+    },
+    "awardsAndAchievements": {
+      "header": "Penghargaan & Prestasi Kami",
+      "details": [
+        {
+          "year": "2024",
+          "title": "Perusahaan Solusi Wi-Fi Perjalanan Paling Inovatif 2024",
+          "description": "Dianugerahi oleh AI Business Excellence Awards"
+        },
+        {
+          "year": "2024",
+          "title": "Perusahaan Tumbuh Paling Cepat di Singapura 2024",
+          "description": "Dianugerahi oleh The Straits Times & Statista"
+        }
+      ]
+    },
+    "whatWeDo": {
+      "header": "Apa yang Kami Lakukan",
+      "details": [
+        {
+          "title": "Portal Manajemen",
+          "description": "Portal manajemen kami menyediakan platform yang ramah pengguna untuk kontrol dan pemantauan yang mulus, memungkinkan Anda untuk mengelola layanan dengan efisien."
+        },
+        {
+          "title": "Solusi umum mobile",
+          "description": "Solusi mobile kami menawarkan layanan yang dapat diandalkan, fleksibel, dan mutakhir untuk menjaga Anda tetap terhubung kapan saja, di mana saja, disesuaikan untuk penggunaan pribadi dan bisnis."
+        },
+        {
+          "title": "Solusi Kustom",
+          "description": "Temukan solusi kustom kami yang disesuaikan untuk memenuhi kebutuhan unik Anda. Kami bekerja sama dengan Anda untuk merancang layanan inovatif, fleksibel yang mendorong kesuksesan dan meningkatkan hasil bisnis Anda."
+        },
+        {
+          "title": "Acara & Roadshow",
+          "description": "Bergabunglah dengan kami di acara dan roadshow menarik kami, di mana kami memperkenalkan solusi inovatif, berinteraksi dengan pelanggan, dan membentuk masa depan komunikasi yang mulus."
+        }
+      ]
+    },
+    "personal": {
+      "heading": "Untuk Pribadi",
+      "subHeading": "Solusi Terpercaya untuk Konektivitas Pribadi Anda",
+      "content": [
+        {
+          "title": "Cakupan Global",
+          "description": "Tetap terhubung di lebih dari 160 negara, di mana pun perjalanan Anda membawa Anda dengan layanan wifi perjalanan Yoowifi."
+        },
+        {
+          "title": "Paket Data Fleksibel",
+          "description": "Pilih dari berbagai opsi data fleksibel, memungkinkan Anda memilih paket yang sempurna berdasarkan kebutuhan penggunaan Anda."
+        },
+        {
+          "title": "Pengiriman Tanpa Ribet",
+          "description": "Nikmati pengiriman tanpa ribet dengan layanan cepat dan dapat diandalkan yang mengirimkan pesanan Anda dengan mudah dan nyaman."
+        }
+      ]
+    },
+    "business": {
+      "heading": "Untuk Bisnis",
+      "subHeading": "Memberdayakan Bisnis Anda dengan Konektivitas yang Mulus",
+      "content": [
+        {
+          "title": "Layanan Sesuai Permintaan Tanpa Sentuhan",
+          "description": "Nikmati layanan sesuai permintaan yang mulus dan tanpa sentuhan, disesuaikan dengan kebutuhan Anda."
+        },
+        {
+          "title": "Paket Data Fleksibel",
+          "description": "Paket data fleksibel untuk bisnis, dirancang untuk memenuhi kebutuhan dan penggunaan unik perusahaan Anda."
+        },
+        {
+          "title": "Jaringan Multi-homing",
+          "description": "Pastikan konektivitas yang tidak terputus dengan jaringan multi-homing kami, menawarkan beberapa koneksi untuk keandalan dan kinerja yang lebih baik."
+        }
+      ]
+    }
+  },
+  "recommendedPackages": {
+    "heading": "Paket yang Disarankan",
+    "subHeading": "Temukan Paket yang Disarankan untuk Kebutuhan Anda",
+    "packageList": [
+      {
+        "title": "Paket Dasar",
+        "features": [
+          "Jaga perangkat Yoowifi",
+          "Hanya paket top-up",
+          "Berlaku selama 365 hari",
+          "Menjangkau 90 negara"
+        ],
+        "information": "Paket ini menyediakan konektivitas internet dasar, ideal untuk pelancong atau pengguna internet ringan."
+      },
+      {
+        "title": "Paket Traveler",
+        "features": [
+          "Jaga perangkat Yoowifi",
+          "Hanya paket top-up",
+          "Berlaku selama 365 hari",
+          "Menjangkau 90 negara"
+        ],
+        "information": "Sempurna untuk pelancong yang sering bepergian, paket ini mendukung konektivitas internet global."
+      },
+      {
+        "title": "Paket Extended",
+        "features": [
+          "Jaga perangkat Yoowifi",
+          "Hanya paket top-up",
+          "Berlaku selama 365 hari",
+          "Menjangkau 90 negara"
+        ],
+        "information": "Memperpanjang fitur dari paket standar, menawarkan periode penggunaan lebih lama atau pilihan data tambahan."
+      },
+      {
+        "title": "Paket Unlimited",
+        "features": [
+          "Jaga perangkat Yoowifi",
+          "Hanya paket top-up",
+          "Berlaku selama 365 hari",
+          "Menjangkau 90 negara"
+        ],
+        "information": "Menawarkan data tak terbatas untuk penggunaan internet tanpa khawatir."
+      },
+      {
+        "title": "Paket Light",
+        "features": [
+          "Jaga perangkat Yoowifi",
+          "Hanya paket top-up",
+          "Berlaku selama 180 hari",
+          "Menjangkau 60 negara"
+        ],
+        "information": "Paket yang dirancang untuk pengguna ringan atau penggunaan jangka pendek."
+      },
+      {
+        "title": "Paket Bisnis",
+        "features": [
+          "Jaga perangkat Yoowifi",
+          "Hanya paket top-up",
+          "Berlaku selama 365 hari",
+          "Dukungan prioritas",
+          "Menjangkau 100 negara"
+        ],
+        "information": "Didesain untuk pengguna bisnis yang sering bepergian atau pelancong kerja."
+      },
+      {
+        "title": "Paket Premium",
+        "features": [
+          "Jaga perangkat Yoowifi",
+          "Hanya paket top-up",
+          "Berlaku selama 365 hari",
+          "Data tak terbatas di negara tertentu",
+          "Menjangkau 90 negara"
+        ],
+        "information": "Memberikan pengalaman konektivitas premium dengan data tak terbatas di negara-negara terpilih."
+      },
+      {
+        "title": "Paket Keluarga",
+        "features": [
+          "Jaga perangkat Yoowifi",
+          "Hanya paket top-up",
+          "Berlaku selama 365 hari",
+          "Hubungkan hingga 10 perangkat",
+          "Menjangkau 90 negara"
+        ],
+        "information": "Paket yang berorientasi keluarga memungkinkan beberapa perangkat terhubung secara bersamaan."
+      },
+      {
+        "title": "Paket Traveler Plus",
+        "features": [
+          "Jaga perangkat Yoowifi",
+          "Hanya paket top-up",
+          "Berlaku selama 180 hari",
+          "Data yang lebih besar untuk pengguna berat",
+          "Menjangkau 80 negara"
+        ],
+        "information": "Pilihan ideal untuk pelancong yang membutuhkan kapasitas data lebih besar."
+      },
+      {
+        "title": "Paket Global Unlimited",
+        "features": [
+          "Jaga perangkat Yoowifi",
+          "Hanya paket top-up",
+          "Berlaku selama 365 hari",
+          "Data tak terbatas di seluruh dunia",
+          "Menjangkau 100 negara"
+        ],
+        "information": "Paket utama yang menawarkan data tak terbatas di seluruh dunia."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Hubungi kami",
+    "description": "Jika Anda memiliki pertanyaan atau keraguan, cukup isi formulir dan kami akan segera menghubungi Anda!",
+    "letsTalk": {
+      "heading": "Mari Bicara",
+      "subHeading": "Jika Anda memiliki pertanyaan atau kekhawatiran, cukup isi formulir, dan kami akan segera menghubungi Anda!",
+      "social": [
+        {
+          "_id": 1,
+          "name": "WhatsApp",
+          "text": "Hubungi WhatsApp Kami",
+          "value": "(+65) 6100 9998",
+          "image": "images.whatsapp",
+          "type": "call"
+        },
+        {
+          "_id": 2,
+          "name": "Email",
+          "text": "Alamat Email",
+          "value": "business@yoowifi.com",
+          "image": "images.email",
+          "type": "email"
+        }
+      ],
+      "form": {
+        "fields": [
+          {
+            "label": "Nama",
+            "placeholder": "Masukkan nama Anda"
+          },
+          {
+            "label": "Nomor Telepon",
+            "placeholder": "Masukkan nomor telepon"
+          },
+          {
+            "label": "Alamat Email",
+            "placeholder": "Masukkan alamat email"
+          },
+          {
+            "label": "Subjek",
+            "placeholder": "Tuliskan subjek"
+          },
+          {
+            "label": "Pesan",
+            "placeholder": "Ceritakan kepada kami mengenai pertanyaan Anda.."
+          }
+        ]
+      }
+    }
+  },
+  "faqs": {
+    "heading": "Dukungan & FAQ",
+    "subHeading": "Jelajahi untuk menemukan solusi langsung, tips yang berguna, dan manfaatkan perjalanan Anda bersama Yoowifi.",
+    "content": [
+      {
+        "_id": 1,
+        "question": "Dapatkah saya melakukan panggilan dengan pocket wifi?",
+        "answer": "Pocket wifi hanya memberikan koneksi internet; tidak memungkinkan panggilan suara biasa melalui jaringan seluler Anda. Namun, ini memungkinkan panggilan VoIP seperti Skype, Viber, dan Google Voice."
+      },
+      {
+        "_id": 2,
+        "question": "Apa perbedaan antara megabyte (MB) dan gigabyte (GB)?",
+        "answer": "Satu megabyte (MB) adalah 1.024 kilobyte (KB), sementara satu gigabyte (GB) adalah 1.024 megabyte. Secara umum, 1GB sama dengan 1.024MB."
+      },
+      {
+        "_id": 3,
+        "question": "Bagaimana cara mengembalikan pocket wifi di akhir periode sewa saya?",
+        "answer": "Anda dapat mengembalikan pocket wifi dengan mengikuti petunjuk yang diberikan saat penyewaan. Biasanya, ini termasuk mengembalikannya di lokasi pengembalian atau melalui amplop pengembalian yang disediakan."
+      },
+      {
+        "_id": 4,
+        "question": "Dapatkah saya mengubah informasi pemesanan setelah melakukan pesanan?",
+        "answer": "Ya, Anda dapat mengubah informasi pemesanan setelah melakukan pesanan dengan menghubungi tim dukungan kami, yang akan membantu Anda melakukan perubahan yang diperlukan."
+      },
+      {
+        "_id": 5,
+        "question": "Bagaimana cara membatalkan pemesanan saya?",
+        "answer": "Untuk membatalkan pemesanan, harap hubungi tim layanan pelanggan kami. Pembatalan mungkin tunduk pada kebijakan pembatalan kami."
+      },
+      {
+        "_id": 6,
+        "question": "Saya akan bepergian ke banyak negara di seluruh dunia, berapa banyak perangkat yang saya butuhkan?",
+        "answer": "Jumlah perangkat yang Anda butuhkan tergantung pada rencana perjalanan Anda. Secara umum, satu perangkat per wilayah atau negara dengan cakupan data khusus akan direkomendasikan."
+      }
+    ],
+    "footer": {
+      "heading": "Masih ada pertanyaan?",
+      "description": "Tidak dapat menemukan jawaban yang Anda cari? Jangan ragu untuk berbicara dengan tim ramah kami!"
+    }
+  },
+  "footer": {
+    "subscribeNewsLetter": "Berlangganan buletin!",
+    "copyRightText": "Semua Hak Dilindungi.",
+    "contact": [
+      {
+        "type": "Telepon"
+      },
+      {
+        "type": "Email"
+      }
+    ],
+    "legals": [
+      {
+        "title": "Syarat Penggunaan"
+      },
+      {
+        "title": "Kebijakan Privasi"
+      }
+    ],
+    "menuData": [
+      {
+        "title": "YOOWIFI",
+        "links": [
+          {
+            "label": "Tentang Kami"
+          },
+          {
+            "label": "FAQ"
+          },
+          {
+            "label": "Unduh aplikasi"
+          },
+          {
+            "label": "Hubungi Kami"
+          },
+          {
+            "label": "Syarat layanan"
+          },
+          {
+            "label": "Kebijakan Privasi"
+          }
+        ]
+      },
+      {
+        "title": "UNTUK YOO",
+        "links": [
+          {
+            "label": "Data Perjalanan"
+          },
+          {
+            "label": "Cakupan Negara"
+          },
+          {
+            "label": "Data Lokal"
+          },
+          {
+            "label": "Lokasi Penjemputan / pengembalian"
+          },
+          {
+            "label": "Produk"
+          },
+          {
+            "label": "Cara Kerja"
+          }
+        ]
+      },
+      {
+        "title": "KORPORAT",
+        "links": [
+          {
+            "label": "IoT"
+          },
+          {
+            "label": "Hotel"
+          },
+          {
+            "label": "Agen Perjalanan"
+          },
+          {
+            "label": "Internet Maritim"
+          },
+          {
+            "label": "Kantor/Roadshow&Acara"
+          }
+        ]
+      }
+    ]
+  },
+
+  "corporateHero": {
+    "heading": "Korporat",
+    "subHeading": "UR Communications Pte Ltd, yang beroperasi dengan nama merek terkenal Yoowifi, memperkenalkan solusi canggih untuk konektivitas global yang mudah melalui aplikasi mobile yang intuitif. Dengan komitmen untuk memperkaya perjalanan dan memfasilitasi komunikasi global, Aplikasi Yoowifi memberikan kenyamanan, keandalan, dan biaya yang tidak tertandingi."
+  },
+  "iot": {
+    "pageTitle": "IOT",
+    "description": "Tetap terhubung dengan rumah, keluarga, dan bisnis Anda setiap saat melalui satu perangkat! Mereka juga dirancang untuk memenuhi kebutuhan unik Anda, apakah Anda seorang individu atau bisnis.",
+    "featureList": [
+      "Ukuran Data",
+      "Spesifik Operator",
+      "Platform Pengelolaan dan Pemantauan",
+      "Satu atau Beberapa Negara"
+    ]
+  },
+  "hotel": {
+    "pageTitle": "HOTEL",
+    "description": "Jadikan hotel Anda seperti rumah kedua dengan konektivitas internet kecepatan tinggi kami! Tamu Anda dapat tetap produktif di mana pun mereka berada, dan bisnis Anda dapat menonjol dari kompetisi.",
+    "featureList": [
+      "Tetap terhubung ketika operasi terganggu",
+      "Penerapan cepat",
+      "Solusi yang disesuaikan untuk menjaga tim Anda tetap terhubung secara global"
+    ]
+  },
+  "travelAgency": {
+    "pageTitle": "AGENSI PERJALANAN",
+    "description": "Siapkan informasi untuk klien Anda dengan kecepatan kilat melalui solusi WiFi kami. Komunikasikan secara efektif dengan mitra dan hindari frustrasi karena koneksi yang lemah atau kekuatan sinyal yang tidak stabil.",
+    "featureList": [
+      "Ukuran Data",
+      "Spesifik Operator",
+      "Platform Pengelolaan dan Pemantauan",
+      "Satu atau Beberapa Negara"
+    ]
+  },
+  "maritimeInternet": {
+    "pageTitle": "INTERNET MARITIM",
+    "description": "Biarkan kami menavigasi kebutuhan internet Anda di lautan lepas. Kami dapat menjaga kru Anda tetap terhubung dan bisnis Anda tetap berjalan dengan solusi kami. Oleh karena itu, di mana pun kapal berlayar, Anda dapat menikmati broadband tanpa batas.",
+    "featureList": [
+      "Satu atau Beberapa Negara",
+      "Penerapan cepat",
+      "Solusi yang disesuaikan untuk menjaga tim Anda tetap terhubung secara global"
+    ]
+  },
+  "office": {
+    "pageTitle": "KANTOR / ACARA ROADSHOW",
+    "description": "Di mana pun Anda pergi, tetap terhubung dengan solusi WiFi kami! Baik di kantor atau saat mengadakan roadshow, nikmati akses internet yang cepat dan tanpa gangguan. Jangan biarkan apa pun mengganggu hari kerja Anda bersama kami di Yoowifi!",
+    "featureList": [
+      "Koneksi cepat dan andal",
+      "Dukungan yang didedikasikan",
+      "Biaya yang wajar atau Sponsorship"
+    ]
+  },
+  "corporateSharedHero": {
+    "heading": "Terhubung dalam Perjalanan",
+    "items": ["Hotspot Portabel", "eSim", "Kartu SIM"]
+  },
+  "commercial": {
+    "pageTitle": "Komersial",
+    "description": "Bawa produktivitas Anda ke level berikutnya dengan konektivitas tanpa hambatan kami! Kami menyediakan gerbang menuju dunia digital yang akan membuat hari Anda semulus mungkin."
+  },
+  "benefits": {
+    "heading": "Manfaat",
+    "subHeading": "Jangan biarkan internet lambat menghambat Anda! Beralih ke solusi portabel kami untuk merasakan konektivitas tanpa batas.",
+    "benefitsData": [
+      {
+        "title": "Aplikasi Khusus",
+        "content": "Ambil kendali atas kebutuhan konektivitas Anda dengan portal manajemen online kami, memberi Anda kontrol untuk pengalaman yang lancar dan tanpa hambatan."
+      },
+      {
+        "title": "Efisien Biaya",
+        "content": "Rasakan konektivitas yang terjangkau dan tanpa masalah dengan teknologi vSIM Yoowifi, menghilangkan biaya roaming yang mahal untuk layanan data yang ramah anggaran."
+      },
+      {
+        "title": "Paket Data yang Dapat Disesuaikan",
+        "content": "Sesuaikan paket data Anda untuk memenuhi kebutuhan spesifik dan berkembang seiring pertumbuhan bisnis Anda."
+      }
+    ]
+  },
+  "pocketWifiDetails": {
+    "pocketWifiDayPass": {
+      "headers": ["Pocket Wifi-Unlimited Daypass", "1GB/hari", "5GB/hari"],
+      "plans": [
+        "Hong Kong, Indonesia, Jepang, Makau, Malaysia, Filipina, Korea Selatan, Taiwan, Thailand, Vietnam 1 Hari",
+        "Australia, Brunei, Kanada, Kamboja, China (dengan VPN), Eropa, Laos, Meksiko, Selandia Baru, Turki, USA 1 Hari",
+        "Bahrain, Bangladesh, Mesir, India, Israel, Yordania, Kazakhstan, Kuwait, Oman, Pakistan, Qatar, Arab Saudi, Afrika Selatan, Sri Lanka, UEA, Uzbekistan 1 Hari"
+      ]
+    },
+    "restOfTheWorldDayPass": {
+      "headers": ["Sisa Dunia-Unlimited Daypass", "1GB/hari", "5GB/hari"],
+      "plan": "Aljazair, Anguilla, Antigua dan Barbuda, Argentina, Aruba, Azerbaijan, Bolivia, Brasil, Kepulauan Virgin Inggris, Chile, Kolombia, Costa Rica, Republik Dominika, Ekuador, El Salvador, Fiji, Antilles Prancis (Martinique), Sint Maarten Prancis, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Jamaika, Kyrgyzstan, Maladewa, Mongolia, Myanmar, Antilles Belanda (Curacao), Nikaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Vincent dan Grenadines, Suriname, Tahiti, Tajikistan, Kepulauan Cayman, Trinidad dan Tobago, Kepulauan Turks dan Caicos, Uruguay, Venezuela"
+    },
+    "sim": {
+      "heading": "SIM/eSIM",
+      "subHeading": "Lorem Ipsum adalah teks dummy yang digunakan dalam industri percetakan dan penyusunan huruf.",
+      "description": {
+        "title": "Deskripsi",
+        "content": "Sim/eSim kami sempurna untuk mereka yang menghargai kenyamanan dan kemudahan penggunaan. Anda dapat mengaktifkannya dalam hitungan menit dan mulai menikmati semua manfaat yang ditawarkan. Apakah Anda seorang pelajar, profesional kerja, atau siapa saja yang membutuhkan layanan telekomunikasi yang andal, Sim/eSim kami adalah solusi yang sempurna untuk Anda. Kami menawarkan harga yang kompetitif, paket yang fleksibel, dan dukungan pelanggan yang luar biasa untuk memastikan Anda mendapatkan nilai terbaik untuk uang Anda!"
+      }
+    },
+    "simDataPlan": {
+      "headers": [
+        "SIM/eSIM-Unlimited Data Plan",
+        "500MB/hari",
+        "1GB/hari",
+        "2GB/hari"
+      ],
+      "plans": [
+        "Malaysia/Thailand 1 hari",
+        "China 1 Hari",
+        "Korea Selatan 3 Hari",
+        "Jepang 3 Hari",
+        "Eropa 5 Hari",
+        "Australia 5 Hari"
+      ]
+    },
+    "regionalCountries": "*Eropa: Albania, Armenia, Andorra, Austria, Belgia, Bosnia dan Herzegovina, Bulgaria, Kroasia, Siprus, Republik Ceko, Denmark, Estonia, Finlandia, Prancis, Jerman, Georgia, Gibraltar, Yunani, Guernsey, Hungaria, Islandia, Irlandia, Isle of Man, Italia, Jersey, Latvia, Liechtenstein, Lituania, Luksemburg, Makedonia, Malta, Monako, Montenegro, Belanda, Norwegia, Polandia, Portugal, Rumania, San Marino, Serbia, Slovakia, Slovenia, Spanyol, Swedia, Swiss, Ukraina, Inggris Raya, Vatikan"
+  },
+
+  "pocketWifiRegion": {
+    "tabs": ["Pocket WIFI", "SIM/eSIM", "Router"],
+    "header": {
+      "text": "Pilih Produk"
+    },
+    "form": {
+      "fields": [
+        {
+          "label": "Negara",
+          "placeholder": "Pilih Negara"
+        },
+        {
+          "label": "Kode Promo",
+          "placeholder": "Kode Promo"
+        },
+        {
+          "label": "ID Anggota",
+          "placeholder": "Masukkan ID anggota"
+        }
+      ]
+    }
+  },
+  "pocketWifiPlan": {
+    "heading": "Pilih Paket",
+    "tabs": ["semua", "harian", "bulanan", "multi-negara"]
+  },
+
+  "discountDownloadApp": {
+    "title": "Pada Aplikasi Mobile",
+    "percentage": "Diskon 8%",
+    "description": "Fitur canggih untuk pengalaman digital yang mudah kapan saja, di mana saja!"
+  },
+
+  "pickDropLocation": {
+    "heroTitle": "Lokasi Pengambilan & Pengembalian"
+  },
+
+  "routerRegion": {
+    "tabs": ["Pocket WIFI", "SIM/eSIM", "Router"],
+    "header": {
+      "text": "Pilih Produk"
+    },
+    "form": {
+      "fields": [
+        {
+          "label": "Negara",
+          "placeholder": "Pilih Negara"
+        },
+        {
+          "label": "Kode Promo",
+          "placeholder": "Kode Promo"
+        },
+        {
+          "label": "ID Anggota",
+          "placeholder": "Masukkan ID anggota"
+        }
+      ]
+    }
+  },
+  "routerPlan": {
+    "heading": "Pilih Paket",
+    "tabs": ["semua", "harian", "bulanan", "multi-negara"]
+  },
+
+  "simRegion": {
+    "tabs": ["Pocket WIFI", "SIM/eSIM", "Router"],
+    "header": {
+      "text": "Pilih Produk"
+    },
+    "form": {
+      "fields": [
+        {
+          "label": "Negara",
+          "placeholder": "Pilih Negara"
+        },
+        {
+          "label": "Kode Promo",
+          "placeholder": "Kode Promo"
+        },
+        {
+          "label": "ID Anggota",
+          "placeholder": "Masukkan ID anggota"
+        }
+      ]
+    }
+  },
+  "simPlan": {
+    "heading": "Pilih Paket",
+    "tabs": ["semua", "harian", "bulanan", "multi-negara"]
+  },
+  "simInformation": {
+    "accordionData": {
+      "items": [
+        {
+          "title": "Informasi",
+          "content": "Nikmati Akses Internet Kecepatan Tinggi. Koneksi Instan hingga B Perangkat. Kecepatan Internet 4G. Baterai perangkat hingga 12 jam. Dukungan Pelanggan 24/7 Ycxywifi. Termasuk Perangkat Pocket Wifi, Kabel Pengisi Daya, Kantong. Perpanjang hari atau tambahkan paket kapan saja."
+        },
+        {
+          "title": "Negara yang Dicover",
+          "content": "Algeria, Anguilla, Antigua dan Barbuda, Argentina, Aruba, Azerbaijan, Bolivia, Brasil, Kepulauan Virgin Britania Raya, Chili, Kolombia, Kosta Rika."
+        },
+        {
+          "title": "Cara",
+          "content": "Data global 50GB berlaku untuk 90 negara. Kecepatan layanan tergantung pada mitra jaringan seluler. Untuk pembatalan pesanan, biaya sebesar 10% dari pesanan akan dikenakan. Syarat dan ketentuan umum berlaku. Yoowifi berhak melakukan perubahan kapan saja."
+        },
+        {
+          "title": "Kompatibilitas",
+          "content": [
+            "Data global 50GB berlaku untuk 90 negara.",
+            "Kecepatan layanan tergantung pada mitra jaringan seluler.",
+            "Untuk pembatalan pesanan, biaya sebesar 10% dari pesanan akan dikenakan.",
+            "Yoowifi berhak melakukan perubahan kapan saja."
+          ]
+        }
+      ]
+    }
+  },
+  "shippingOptions": [
+    {
+      "title": "Ambil Sendiri",
+      "subtitle": "Pilih lokasi Anda",
+      "description": "Pengambilan Perangkat: 5 hari sebelum perjalanan"
+    },
+    {
+      "title": "Domestik",
+      "subtitle": "",
+      "description": "Dalam 5 hari kerja sebelum perjalanan untuk Desember dengan tas pengembalian. Untuk pesanan lebih awal, pengiriman akan dilakukan dalam 3 hari sebelum perjalanan"
+    },
+    {
+      "title": "Domestik Ekspres",
+      "subtitle": "",
+      "description": "Dalam 2 hari kerja untuk pesanan sebelum jam 2 siang dengan tas pengembalian"
+    },
+    {
+      "title": "Domestik Super Ekspres",
+      "subtitle": "",
+      "description": "Pada hari yang sama sebelum jam 2 siang dengan tas pengembalian"
+    }
+  ],
+
+  "orderSummary": {
+    "orderSummary": "Ringkasan Pesanan",
+    "planName": "Nama Paket",
+    "minimumCharges": "Biaya Minimum",
+    "deposit": "Deposit",
+    "subtotal": "Sub-total",
+    "quantity": "Jumlah",
+    "selfPickupDeliveryFee": "Biaya pengambilan sendiri",
+    "returnDropOffFee": "Biaya pengembalian",
+    "totalDeliveryCharges": "Total Biaya Pengiriman",
+    "totalDataCharges": "Total Biaya Data",
+    "paymentInformation": "Informasi Pembayaran",
+    "noCardAdded": "Tidak Ada Kartu Ditambahkan",
+    "addCard": "Tambahkan Kartu",
+    "addNewPaymentMethod": "Tambahkan Metode Pembayaran Baru",
+    "termsAndConditions": "Syarat & Ketentuan",
+    "privacyPolicy": "Kebijakan Privasi",
+    "readAndAgree": "Saya telah membaca dan setuju dengan",
+    "orderConfirmed": "Pesanan Dikonfirmasi!",
+    "welcomeMessage": "Kami senang melihat Anda lagi. Mari mulai menjelajahi kursus Anda.",
+    "continue": "Lanjutkan",
+    "simType": "Jenis SIM"
+  },
+
+  "setupPocketWifi": {
+    "heading": "Cara Menghubungkan Pocketwifi?",
+    "subHeading": "Hubungkan ke Pocket WiFi Anda dengan Mudah dalam Beberapa Langkah Sederhana",
+    "setupSteps": [
+      {
+        "step": 1,
+        "title": "Nyalakan Pocket WiFi",
+        "description": "Tekan tombol daya untuk menyalakan dan tunggu sampai terhubung ke jaringan."
+      },
+      {
+        "step": 2,
+        "title": "Cari Nama WiFi",
+        "description": "Periksa layar perangkat untuk menemukan nama jaringan WiFi (SSID)."
+      },
+      {
+        "step": 3,
+        "title": "Hubungkan ke WiFi",
+        "description": "Di ponsel, tablet, atau laptop Anda, buka pengaturan WiFi, pilih SSID, masukkan kata sandi yang ditampilkan pada perangkat, dan Anda akan terhubung ke internet."
+      }
+    ]
+  },
+
+  "returnDevicePocketWifi": {
+    "heading": "Cara Mengembalikan Perangkat?",
+    "subHeading": "Ikuti langkah-langkah mudah kami untuk memastikan pengalaman pengembalian yang bebas repot.",
+    "cardData": [
+      {
+        "title": "Singpost Drop-Off",
+        "description": "Ketika Anda menyewa perangkat, label pengembalian prabayar akan disertakan dalam paket. Anda dapat menggunakan label ini untuk mengirimkan perangkat kembali dengan mudah. Setelah mengembalikannya, Anda kemungkinan akan menerima konfirmasi email setelah pengembalian diproses.",
+        "buttonText": "Lihat Lokasi"
+      },
+      {
+        "title": "Lokasi Pengambilan dan Pengembalian",
+        "description": "Dengan Yoowifi, Anda dapat mengambil perangkat Anda di salah satu lokasi yang telah ditentukan dan mengembalikannya di lebih dari 30 titik drop-off kami yang tersebar di seluruh pulau. Proses yang efisien ini menjamin pengalaman tanpa repot, memungkinkan Anda tetap terhubung di mana pun perjalanan Anda membawa Anda!",
+        "buttonText": "Lihat Lokasi"
+      }
+    ]
+  },
+
+  "pocketWifiTopUp": {
+    "heading": "Cara Melakukan Top-up Paket",
+    "subHeading": "Kelola Kebutuhan Data Anda dengan Mudah dengan Yoowifi Top-Up",
+    "setupSteps": [
+      {
+        "step": 1,
+        "title": "Pilih Perangkat Anda",
+        "description": "Buka aplikasi Yoowifi, pergi ke My Data, dan pilih perangkat yang ingin Anda top-up."
+      },
+      {
+        "step": 2,
+        "title": "Pilih Paket Anda",
+        "description": "Klik Tambah Data, pilih negara dan paket yang diinginkan, lalu tentukan tanggal mulai dan selesai."
+      },
+      {
+        "step": 3,
+        "title": "Lanjutkan ke Checkout",
+        "description": "Konfirmasi pilihan Anda dan lanjutkan ke checkout."
+      }
+    ]
+  },
+
+  "affiliate": {
+    "affiliateServiceData": [
+      {
+        "title": "Pilih Perangkat Anda",
+        "description": "Buka aplikasi Yoowifi, pergi ke My Data, dan pilih perangkat yang ingin Anda top-up."
+      },
+      {
+        "title": "Pilih Paket Anda",
+        "description": "Klik Tambah Data, pilih negara dan paket yang diinginkan, lalu tentukan tanggal mulai dan selesai."
+      },
+      {
+        "title": "Lanjutkan ke Checkout",
+        "description": "Konfirmasi pilihan Anda dan lanjutkan ke checkout."
+      }
+    ],
+    "banner": {
+      "pageTitle": "AFFILIATE",
+      "description": "Jika Anda memiliki pertanyaan atau keraguan, cukup isi formulir dan kami akan segera menghubungi Anda!"
+    },
+    "joinAffiliateSection": {
+      "sectionId": "join-affiliate",
+      "secCommon80Class": "sec_common_80 xl:!px-0",
+      "sectionHeader": {
+        "heading": "Bergabung dengan Program YooWander",
+        "midHeading": "Jelajahi Dunia dan Tetap Terhubung!",
+        "subHeading": "Apakah Anda seorang influencer pecinta perjalanan yang menghargai tetap terhubung dan berbagi petualangan dengan pengikut Anda? Bergabunglah dengan program afiliasi Yoowifi Yoo Wander untuk kemitraan yang menarik. Kami di sini untuk mendukung konten perjalanan autentik Anda dan menjaga Anda tetap terhubung dengan data global GRATIS."
+      }
+    }
+  },
+
+  "howItWorksPage": {
+    "rentWifiSection": {
+      "sectionHeader": {
+        "heading": "Sewa Yoowifi Pocket WiFi dalam 3 Langkah Mudah!",
+        "subHeading": "Pilih paket Anda, ambil perangkat Anda, dan tetap terhubung tanpa usaha ke mana pun Anda pergi!"
+      },
+      "rentWifiData": [
+        {
+          "step": "Langkah-1",
+          "title": "Dapatkan Aplikasi Yoowifi",
+          "description": "Unduh Aplikasi Yoowifi (untuk pengguna baru)",
+          "buttonText": "Unduh Yoowifi",
+          "icon": "DownloadFillIcon"
+        },
+        {
+          "step": "Langkah-2",
+          "title": "Pilih Paket Anda",
+          "description": "Di aplikasi, cari negara tujuan Anda, pilih ukuran data, dan tentukan tanggal mulai dan akhir Anda."
+        },
+        {
+          "step": "Langkah-3",
+          "title": "Selesaikan Pemesanan Anda",
+          "description": "Pilih metode pengiriman yang Anda inginkan dan lanjutkan ke pembayaran."
+        }
+      ],
+      "links": [
+        {
+          "title": "Lokasi Pengembalian"
+        },
+        {
+          "title": "Hubungi Kami",
+          "variant": "secondary"
+        }
+      ]
+    },
+    "deliveryChargesSection": {
+      "sectionHeader": {
+        "heading": "Biaya Pengiriman",
+        "subHeading": "Jangan biarkan internet lambat menghambat Anda! Beralih ke solusi portabel kami untuk merasakan konektivitas tanpa batas."
+      },
+      "howItWorksData": [
+        {
+          "type": "Lokal",
+          "typeSuffix": "",
+          "duration": "3-4 Hari Kerja"
+        },
+        {
+          "type": "Ekspres",
+          "typeSuffix": "(Pesan sebelum jam 10 pagi)",
+          "duration": "3-4 Hari Kerja"
+        },
+        {
+          "type": "Super Ekspres",
+          "typeSuffix": "(Pesan sebelum jam 10 pagi)",
+          "duration": "3-4 Hari Kerja"
+        },
+        {
+          "type": "Internasional Standar",
+          "typeSuffix": "",
+          "duration": "3-4 Hari Kerja"
+        }
+      ]
+    },
+    "rentServices": [
+      {
+        "title": "Tas Pengembalian Lokal",
+        "description": "Cukup kemas perangkat dan aksesori ke dalam tas pengembalian yang telah dibayar dan masukkan ke dalam kotak pos SingPost"
+      },
+      {
+        "title": "Pengembalian Mandiri",
+        "description": "Cukup kemas perangkat dan aksesori dan Anda dapat mengembalikannya di lokasi pengambilan/pengembalian mana saja."
+      },
+      {
+        "title": "Kurir Internasional",
+        "description": "Hubungi DHL lokal untuk mengambil perangkat jika Anda memiliki tas pengembalian atau atur kurir Anda sendiri"
+      }
+    ],
+    "selfReturnSection": {
+      "sectionHeader": {
+        "heading": "Pengembalian Mandiri Sederhana dalam Waktu Kurang dari Semenit",
+        "subHeading": "Dengan Yoowifi, mudah mengambil perangkat Anda di lokasi yang ditunjuk dan mengembalikannya di salah satu dari lebih dari 20 titik pengembalian di seluruh pulau. Nikmati pengalaman tanpa repot dan tetap terhubung ke mana pun perjalanan Anda membawa Anda!"
+      },
+      "selfReturnData": [
+        {
+          "title": "Login ke Aplikasi Yoowifi",
+          "description": "Mulai dengan mengunjungi salah satu dari lebih dari 20 lokasi pengambilan dan pengembalian kami. Di aplikasi, buka 'Data Saya', pilih perangkat yang ingin Anda kembalikan, dan ketuk 'Kembalikan Perangkat'."
+        },
+        {
+          "title": "Pindai Kode QR Lokasi",
+          "description": "Selanjutnya, pindai kode QR lokasi yang diberikan oleh staf."
+        },
+        {
+          "title": "Pindai Kode QR Perangkat",
+          "description": "Pindai kode QR yang terletak di bagian belakang perangkat untuk menyelesaikan pengembalian."
+        }
+      ]
+    },
+    "topUpSection": {
+      "sectionHeader": {
+        "heading": "Isi Ulang Data Anda dalam Beberapa Langkah Saja",
+        "subHeading": "Tambah data dengan mudah hanya dalam beberapa ketukan, memastikan Anda tetap terhubung"
+      },
+      "topUpData": [
+        {
+          "title": "Pilih Perangkat Anda",
+          "description": "Buka aplikasi Yoowifi, pergi ke Data Saya, dan pilih perangkat yang ingin Anda isi ulang."
+        },
+        {
+          "title": "Pilih Paket Anda",
+          "description": "Klik Tambah Data, pilih negara dan paket yang diinginkan, lalu tentukan tanggal mulai dan akhir."
+        },
+        {
+          "title": "Lanjutkan ke Pembayaran",
+          "description": "Konfirmasi pilihan Anda dan lanjutkan ke pembayaran."
+        }
+      ]
+    }
+  },
+
+  "countryCoverage": {
+    "sectionHeader": {
+      "heading": "Cakupan Negara",
+      "subHeading": "Jelajahi dunia dengan percaya diri! Tetap terhubung dan siap data, kapan saja, di mana saja!"
+    },
+    "regionList": [
+      {
+        "name": "Asia",
+        "value": "asia"
+      },
+      {
+        "name": "Eropa",
+        "value": "europe"
+      },
+      {
+        "name": "Amerika",
+        "value": "america"
+      },
+      {
+        "name": "Australia",
+        "value": "australia"
+      },
+      {
+        "name": "Afrika",
+        "value": "africa"
+      }
+    ]
+  },
+
+  "stayConnectedCTA": {
+    "heading": "Tetap Terhubung Dimana Saja",
+    "subHeading": "140+ Negara",
+    "description": "Dunia WiFi tanpa khawatir di telapak tangan Anda. Terhubung ke internet berkualitas saat Anda bepergian—tidak peduli kemana perjalanan Anda membawa Anda."
+  },
+
+  "login": {
+    "title": "Login Diperlukan!",
+    "text": "Harap login untuk melanjutkan."
+  },
+  "authModal": {
+    "authMessages": {
+      "welcomeBack": {
+        "title": "Selamat Datang Kembali!",
+        "text": "Kami senang melihat Anda lagi. Ayo mulai pelajaran Anda."
+      },
+      "verification": {
+        "title": "Verifikasi",
+        "text": "Kode konfirmasi telah dikirim ke email & nomor telepon Anda."
+      },
+      "signUp": {
+        "title": "Daftar",
+        "text": "Mendaftar itu sangat menyenangkan. Mulai sekarang!"
+      },
+      "signUpSuccessful": {
+        "title": "Pendaftaran Berhasil!",
+        "text": "Terima kasih telah bergabung dengan kami! Akun Anda siap."
+      },
+      "loginSuccessful": {
+        "title": "Login Berhasil!",
+        "text": "Selamat datang kembali! Siap untuk melanjutkan?"
+      },
+      "accountReady": {
+        "title": "Akun Siap!",
+        "text": "Terima kasih telah bergabung dengan kami! Akun Anda siap."
+      }
+    },
+    "placeholders": {
+      "firstName": "Nama Depan",
+      "lastName": "Nama Belakang",
+      "email": "Email"
+    },
+    "prompts": {
+      "noAccount": {
+        "text": "Belum punya akun?",
+        "linkText": "Daftar Sekarang"
+      },
+      "hasAccount": {
+        "text": "Sudah punya akun?",
+        "linkText": "Masuk"
+      },
+      "resendOTP": {
+        "text": "Belum menerima OTP?",
+        "linkText": "Kirim Ulang Kode"
+      }
+    }
+  }
+}

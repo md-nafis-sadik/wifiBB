@@ -1,0 +1,2240 @@
+{
+  "buttonText": {
+    "buyNow": "Bumili Ngayon",
+    "findOutMore": "Alamin Pa",
+    "search": "Maghanap",
+    "seeDetails": "Tingnan ang Mga Detalye",
+    "aboutUs": "Tungkol sa Amin",
+    "howItWorks": "Paano Ito Gumagana",
+    "downloadApp": "I-download ang APP",
+    "loadMore": "Mag-load Pa",
+    "submit": "Ipasa",
+    "getInTouch": "Makipag-ugnayan",
+    "exploreProducts": "Galugarin ang Mga Produkto",
+    "contactUs": "Makipag-ugnayan sa Amin",
+    "enquireNow": "Magtanong Ngayon",
+    "viewMore": "Tingnan ang Higit Pa",
+    "viewSimESim": "Tingnan ang SIM/eSIM",
+    "viewSteps": "Tingnan ang Mga Hakbang",
+    "rentADeviceNow": "Magrenta ng Device Ngayon",
+    "rental": "Pagrenta",
+    "topUp": "Mag-load",
+    "previous": "Nakaraan",
+    "next": "Susunod",
+    "addACountry": "Magdagdag ng Bansa",
+    "viewLocations": "Tingnan ang Mga Lokasyon",
+    "sim": "SIM",
+    "eSim": "eSIM",
+    "homeorAddress": "Tahanan/Address",
+    "hotel": "Hotel",
+    "saveAddress": "I-save ang Address",
+    "buyPocketWifi": "Bumili ng Pocket Wifi",
+    "dropOffLocations": "Mga Lokasyon ng Drop Off",
+    "login": "Mag-log In",
+    "logout": "Mag-log Out",
+    "continue": "Magpatuloy",
+    "verify": "I-verify"
+  },
+  "extraText": {
+    "from": "Mula",
+    "selectCountry": "Piliin ang Bansa",
+    "corporate": "Korporasyon",
+    "more": "higit pa",
+    "unlimitedData": "Walang Limitasyong Data",
+    "day": "araw",
+    "endingIn": "Nagtatapos sa",
+    "countryCoverage": "Saklaw ng Bansa",
+    "country": "Bansa",
+    "selectPackage": "*Pumili muna ng package",
+    "information": "Impormasyon",
+    "service": "Serbisyo",
+    "dataSize": "Laki ng Data",
+    "selectDevice": "Piliin ang Device",
+    "selectDeviceToTopUp": "Piliin ang Device para Mag-load",
+    "wifiDevices": "Mga Wifi Device",
+    "planSummary": "Buod ng Plano",
+    "chosenPlan": "Napiling Plano",
+    "dataAvailable": "Magagamit na Data",
+    "startDate": "Petsa ng Simula",
+    "quantity": "Dami",
+    "totalAmount": "Kabuuang Halaga",
+    "simType": "Uri ng SIM",
+    "chooseNoOfDays": "Piliin ang Bilang ng Araw",
+    "noOfSimESim": "Bilang ng SIM/eSIM",
+    "selectShippingOption": "Piliin ang Opsyon sa Pagpapadala",
+    "selectLocation": "Piliin ang Lokasyon",
+    "deliveryAddress": "Address ng Paghahatid",
+    "addAddress": "Magdagdag ng Address",
+    "addNewAddress": "Magdagdag ng Bagong Address",
+    "addressDetails": "Mga Detalye ng Address",
+    "noCountriesFoundInThisRegion": "Walang mga bansang natagpuan sa rehiyong ito",
+    "searchAnything": "Maghanap ng anuman...",
+    "filters": "Mga Filter",
+    "noOfRentalDevices": "Bilang ng mga Device na Inirenta"
+  },
+  "form": {
+    "startDate": "Petsa ng Simula",
+    "endDate": "Petsa ng Pagtatapos",
+    "pickADate": "Pumili ng Petsa",
+    "selectCountry": "Piliin ang Bansa",
+    "country": "Bansa",
+    "fullName": "Buong Pangalan",
+    "enterNameHere": "Ilagay ang pangalan dito",
+    "phoneNumber": "Numero ng Telepono",
+    "enterNumber": "Ilagay ang Numero",
+    "state": "Estado",
+    "selectState": "Piliin ang Bansa",
+    "address": "Address",
+    "enterFullAddress": "Ilagay ang buong address",
+    "apartment": "Apartment/Palapag/Yunit/Suite atbp.",
+    "enterApartmentDetails": "Ilagay ang detalye ng iyong apartment/palapag/yunit/suite",
+    "province": "Probinsya",
+    "enterProvince": "Ilagay ang probinsya",
+    "postalCode": "Postal/Zip",
+    "enterPostalCode": "Ilagay ang postal code",
+    "addCreditDebit": "Magdagdag ng Credit/Debit",
+    "cardholderName": "Pangalan ng May-ari ng Card*",
+    "cardholderNamePlaceholder": "Ilagay ang buong pangalan",
+    "cardNumber": "Numero ng Card*",
+    "cardNumberPlaceholder": "Ilagay ang Numero",
+    "cvcCvv": "CVC/CVV2*",
+    "cvcCvvPlaceholder": "Ilagay ang CVC code",
+    "expiryDate": "Petsa ng Pag-expire",
+    "expiryDatePlaceholder": "MM/YY"
+  },
+  "notFound": {
+    "noPackage": "Walang package na natagpuan para sa iyong paghahanap"
+  },
+  "navbar": {
+    "forYoo": "Para sa Yoo",
+    "commercial": [
+      {
+        "name": "Tahanan"
+      },
+      {
+        "name": "Pocket WIFI"
+      },
+      {
+        "name": "Router"
+      },
+      {
+        "name": "SIM/eSIM"
+      },
+      {
+        "name": "Makipag-ugnayan sa Amin"
+      },
+      {
+        "name": "Tungkol sa Amin"
+      }
+    ],
+    "corporate": [
+      {
+        "name": "Iot"
+      },
+      {
+        "name": "Hotel"
+      },
+      {
+        "name": "Travel Agency"
+      },
+      {
+        "name": "Maritime Internet"
+      },
+      {
+        "name": "Opisina/Kaganapan sa Roadshow"
+      },
+      {
+        "name": "Tungkol sa Amin"
+      },
+      {
+        "name": "Komersyal"
+      }
+    ],
+    "megamenu": {
+      "menuText": "Iba Pa",
+      "menuItems": [
+        {
+          "title": "Travel Data",
+          "items": ["Mga Detalye ng Pocket Wifi", "Mga Detalye ng SIM/eSIM"]
+        },
+        {
+          "title": "Saklaw ng Bansa",
+          "items": ["Asya", "Europa", "Amerika", "Australia", "Aprika"]
+        },
+        {
+          "title": "Pickup/Drop off Lokasyon",
+          "items": ["Lokasyon ng Pickup", "Lokasyon ng Drop off"]
+        },
+        {
+          "title": "Paano Ito Gumagana",
+          "items": [
+            "Rentahan ang Yoowifi Pocket WiFi",
+            "Simple Self-Return sa loob ng isang minuto",
+            "Gumawa ng Bagong Biyahe o Mag-top-up ng data"
+          ]
+        },
+        {
+          "title": "Affiliate",
+          "items": [
+            "Sumali sa Yoowifi Affiliate Yoo Wander Program",
+            "Makipag-ugnayan sa Amin Ngayon!"
+          ]
+        },
+        {
+          "title": "Paano",
+          "items": ["I-set ang eSIM", "Paano ikonekta ang Pocketwifi?"]
+        }
+      ]
+    }
+  },
+  "heroHome": {
+    "heroConnected": {
+      "stayConnected": "Manatiling Nakakonekta",
+      "anyTimeAnyWhere": "Kahit Kailan, Kahit Saan",
+      "seamlessConnectivity": "Walang Patid na Koneksyon"
+    },
+    "heroTravel": {
+      "travelCompanion": "ANG IYONG #1 KASAMA SA PAGLALAKBAY"
+    },
+    "heroDiscover": {
+      "discover": "IPINAPAKILALA ANG AMING BAGONG POCKET WIFI"
+    },
+    "slides": [
+      {
+        "title": "MAS MABILIS",
+        "subTitle": "5G Konektividad",
+        "description": "Hanggang sa 5G konektividad sa higit sa 90 mga bansa"
+      },
+      {
+        "title": "PINALAWIG",
+        "subTitle": "BATAREYA NG BUHAY",
+        "description": "Pinahabang buhay ng baterya hanggang 20 oras."
+      },
+      {
+        "title": "KASAMA",
+        "subTitle": "DISPLAY NG SCREEN",
+        "description": "Ngayon maaari mong subaybayan ang paggamit ng data, kumonekta nang madali, at mag-access ng higit pang impormasyon nang walang abala."
+      }
+    ]
+  },
+  "productsData": {
+    "title": "Ang Aming Mga Produkto",
+    "cardData": [
+      {
+        "title": "Pocket WIFI",
+        "description": "Manatiling konektado habang naglalakbay gamit ang aming high-speed Pocket WIFI. Perpekto para sa mga paglalakbay at remote work.",
+        "offer": "50% OFF"
+      },
+      {
+        "title": "Router",
+        "description": "Mararanasan ang walang patid at maaasahang koneksyon sa internet sa bahay gamit ang aming mga advanced na router.",
+        "offer": "30% OFF"
+      },
+      {
+        "title": "SIM/eSIM",
+        "description": "Magkaroon ng instant na koneksyon gamit ang aming mga SIM at eSIM na mga opsyon, angkop para sa lahat ng iyong mga device.",
+        "offer": "20% OFF"
+      }
+    ]
+  },
+  "getYourOwn": {
+    "title": "Kunin ang Iyong Sariling Yoowifi Pocket WiFi",
+    "features": [
+      "Taunang coverage sa higit sa 90 bansa",
+      "Mag-share ng hanggang 8 na devices",
+      "Hanggang 5G Connectivity",
+      "Available ang Data Top-up",
+      "Pumili mula sa 50GB, 100GB, o 200GB na mga data plan"
+    ]
+  },
+  "internetPackages": {
+    "sectionHeading": "Mga Internet Package",
+    "sectionSubHeading": "Tuklasin ang Aming Mga Internet Package para sa Iyong mga Pangangailangan",
+    "searchPlaceholder": "Maghanap ng bansa.."
+  },
+  "whyYooWifi": {
+    "sectionHeading": "Bakit Yoowifi?",
+    "servicesData": [
+      {
+        "title": "Manatiling Konektado Kahit Saan"
+      },
+      {
+        "title": "Mag-save ng MALAKI sa International Roaming"
+      },
+      {
+        "title": "Garantisadong Hindi Matatalo na Presyo"
+      }
+    ]
+  },
+  "stayConnectedRegions": {
+    "sectionHeading": "Manatiling Konektado sa Lahat ng Dako",
+    "sectionSubHeading": "Pumili ng Iyong Pangarap na Destinasyon at Perpektong Package Ngayon",
+    "regions": ["Asia", "America", "Africa", "Australia", "Europe"]
+  },
+  "customerTestimonial": {
+    "sectionHeading": "Ano ang Sinasabi ng Aming mga Customer",
+    "sectionSubHeading": "Tuklasin kung ano ang masasabi ng aming mga pinahahalagahang customer tungkol sa kanilang mga karanasan sa aming mga serbisyo",
+    "testimonials": [
+      {
+        "description": "Ang paggamit ng serbisyong eSIM sa nakalipas na anim na buwan ay ganap na nagbago ng aming pamamaraan sa pamamahala ng konektibidad para sa aming mga proyekto!",
+        "author": "Sarah Johnson",
+        "designation": "CEO, TechWave Solutions"
+      },
+      {
+        "description": "Ang platform na ito ay isang game-changer para sa aming mga internasyonal na proyekto, na ginagawang mas madali ang manatiling konektado nang walang karaniwang abala.",
+        "author": "Michael Lee",
+        "designation": "Project Manager, GlobalConnect"
+      },
+      {
+        "description": "Ang kadalian ng paggamit at flexibility na inaalok ng serbisyong ito ay nagbigay daan upang mag-focus kami sa pinakamahalaga—ang aming trabaho!",
+        "author": "Emily Davis",
+        "designation": "COO, Innovatech"
+      },
+      {
+        "description": "Nakakita kami ng malaking pagtitipid sa gastos mula nang lumipat kami sa eSIM na solusyon. Isang matalinong desisyon para sa anumang negosyo na gumagawa ng negosyo sa buong mundo.",
+        "author": "James Taylor",
+        "designation": "CFO, FinEdge"
+      },
+      {
+        "description": "Mahalaga sa amin ang maaasahang konektibidad, at ang serbisyong ito ay lumampas sa aming mga inaasahan. Lubos na inirerekomenda!",
+        "author": "Sophia Martinez",
+        "designation": "Head of Operations, TransLogix"
+      }
+    ]
+  },
+  "howItWorks": {
+    "sectionHeading": "Manatiling Konektado Kahit Saan, Kahit Kailan",
+    "sectionSubHeading": "Tuklasin kung ano ang sinasabi ng aming mga pinahahalagahang customer tungkol sa kanilang mga karanasan sa aming mga serbisyo",
+    "howItWorksData": [
+      {
+        "title": "Paano Magrenta",
+        "description": "Manatiling konektado gamit ang Yoowifi sa tatlong simpleng hakbang! I-download ang app, piliin ang iyong destinasyon, at piliin ang package na akma sa iyong mga pangangailangan."
+      },
+      {
+        "title": "Paano Ibalik",
+        "description": "Pumili ng madaling mga returns gamit ang Singpost drop-off o bisitahin ang mga lokasyon sa buong isla para sa hassle-free na serbisyo."
+      },
+      {
+        "title": "Mga Pickup & Drop Off Locations",
+        "description": "Sa higit sa 20+ na mga pick-up at drop-off na lokasyon, pinapadali namin ang pagkuha ng iyong pocket wifi at manatiling konektado nang walang abala."
+      }
+    ]
+  },
+  "collaborateMarquee": {
+    "sectionHeading": "Mga Operator na Kinumpronta Namin"
+  },
+  "downloadYooWifi": {
+    "downloadText": "I-download ang",
+    "ctaText": "Mga advanced na tampok para sa isang walang abalang digital na karanasan kahit kailan, kahit saan!"
+  },
+  "country": {
+    "packages": [
+      {
+        "name": "Australia-Portable Hotspot",
+        "title": "Pangunahing Package",
+        "details": [
+          {
+            "title": "Paglalarawan",
+            "info": "BASIC Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB na mataas na bilis araw-araw\n- Para sa halagang SGD$2.90/araw\n\n****************O****************\nSUPER Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB na mataas na bilis araw-araw\n- Para sa halagang SGD$2.90/araw"
+          },
+          {
+            "title": "Impormasyon",
+            "info": "BASIC Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB na mataas na bilis araw-araw\n- Para sa halagang SGD$2.90/araw\n\n****************O****************\nSUPER Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB na mataas na bilis araw-araw\n- Para sa halagang SGD$2.90/araw"
+          },
+          {
+            "title": "Mga Tuntunin at Kundisyon",
+            "info": "BASIC Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB na mataas na bilis araw-araw\n- Para sa halagang SGD$2.90/araw\n\n****************O****************\nSUPER Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB na mataas na bilis araw-araw\n- Para sa halagang SGD$2.90/araw"
+          }
+        ],
+        "features": [
+          "Panatilihin ang Yoowifi Device",
+          "Planong Top-up lamang",
+          "365 Araw ng Bisa",
+          "Saklaw ang 90 Mga Bansa"
+        ]
+      },
+      {
+        "name": "Albania-Portable Hotspot",
+        "title": "Pakete ng Manlalakbay",
+        "details": [
+          {
+            "title": "Paglalarawan",
+            "info": "BASIC Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB na mataas na bilis araw-araw\n- Para sa halagang SGD$2.90/araw\n\n****************O****************\nSUPER Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB na mataas na bilis araw-araw\n- Para sa halagang SGD$2.90/araw"
+          },
+          {
+            "title": "Impormasyon",
+            "info": "BASIC Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB na mataas na bilis araw-araw\n- Para sa halagang SGD$2.90/araw\n\n****************O****************\nSUPER Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB na mataas na bilis araw-araw\n- Para sa halagang SGD$2.90/araw"
+          },
+          {
+            "title": "Mga Tuntunin at Kundisyon",
+            "info": "BASIC Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB na mataas na bilis araw-araw\n- Para sa halagang SGD$2.90/araw\n\n****************O****************\nSUPER Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB na mataas na bilis araw-araw\n- Para sa halagang SGD$2.90/araw"
+          }
+        ],
+        "features": [
+          "Panatilihin ang Yoowifi Device",
+          "Planong Top-up lamang",
+          "365 Araw ng Bisa",
+          "Saklaw ang 90 Mga Bansa"
+        ]
+      },
+      {
+        "name": "France - Pocket Wifi",
+        "title": "Paketang Pinahaba",
+        "details": [
+          {
+            "title": "Paglalarawan",
+            "info": "BASIC Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB na mataas na bilis araw-araw\n- Para sa halagang SGD$2.90/araw\n\n****************O****************\nSUPER Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB na mataas na bilis araw-araw\n- Para sa halagang SGD$2.90/araw"
+          },
+          {
+            "title": "Impormasyon",
+            "info": "BASIC Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB na mataas na bilis araw-araw\n- Para sa halagang SGD$2.90/araw\n\n****************O****************\nSUPER Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB na mataas na bilis araw-araw\n- Para sa halagang SGD$2.90/araw"
+          },
+          {
+            "title": "Mga Tuntunin at Kundisyon",
+            "info": "BASIC Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB na mataas na bilis araw-araw\n- Para sa halagang SGD$2.90/araw\n\n****************O****************\nSUPER Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB na mataas na bilis araw-araw\n- Para sa halagang SGD$2.90/araw"
+          }
+        ],
+        "features": [
+          "Panatilihin ang Yoowifi Device",
+          "Planong Top-up lamang",
+          "365 Araw ng Bisa",
+          "Saklaw ang 90 Mga Bansa"
+        ]
+      },
+      {
+        "name": "Greece-Portable Hotspot",
+        "plan": "basic-daypass",
+        "title": "Walang Limitasyong Package",
+        "features": [
+          "Panatilihin ang Yoowifi Device",
+          "Planong Top-up lamang",
+          "365 Araw ng Bisa",
+          "Saklaw ang 90 Mga Bansa"
+        ],
+        "category": "araw-araw",
+        "desc": "GB",
+        "coverage": [
+          "Algeria",
+          "Anguilla",
+          "Antigua at Barbuda",
+          "Argentina",
+          "Aruba",
+          "Azerbaijan",
+          "Bolivia",
+          "Brazil",
+          "British Virgin Islands",
+          "Chile",
+          "Colombia",
+          "Costa Rica"
+        ],
+        "details": [
+          {
+            "title": "Paglalarawan",
+            "info": "BASIC Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB na mataas na bilis araw-araw\n- Para sa halagang SGD$2.90/araw\n\n****************O****************\nSUPER Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB na mataas na bilis araw-araw\n- Para sa halagang SGD$2.90/araw"
+          },
+          {
+            "title": "Impormasyon",
+            "info": "BASIC Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB na mataas na bilis araw-araw\n- Para sa halagang SGD$2.90/araw\n\n****************O****************\nSUPER Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB na mataas na bilis araw-araw\n- Para sa halagang SGD$2.90/araw"
+          },
+          {
+            "title": "Mga Tuntunin at Kundisyon",
+            "info": "BASIC Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB na mataas na bilis araw-araw\n- Para sa halagang SGD$2.90/araw\n\n****************O****************\nSUPER Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB na mataas na bilis araw-araw\n- Para sa halagang SGD$2.90/araw"
+          }
+        ]
+      },
+      {
+        "name": "Ireland-Portable Hotspot",
+        "plan": "5gb-7days",
+        "title": "Lite Package",
+        "features": [
+          "Panatilihin ang Yoowifi Device",
+          "Planong Top-up lang",
+          "180 Araw na Bisa",
+          "Saklaw ang 60 Bansa"
+        ],
+        "category": "buwanang",
+        "desc": "GB",
+        "coverage": [
+          "Algeria",
+          "Anguilla",
+          "Antigua at Barbuda",
+          "Argentina",
+          "Aruba",
+          "Azerbaijan",
+          "Bolivia",
+          "Brazil",
+          "British Virgin Islands",
+          "Chile",
+          "Colombia",
+          "Costa Rica"
+        ],
+        "details": [
+          {
+            "title": "Paglalarawan",
+            "info": "BASIC Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB sa high-speed araw-araw\n- Simula sa SGD$2.90/araw\n\n****************O****************\nSUPER Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB sa high-speed araw-araw\n- Simula sa SGD$2.90/araw"
+          },
+          {
+            "title": "Impormasyon",
+            "info": "BASIC Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB sa high-speed araw-araw\n- Simula sa SGD$2.90/araw\n\n****************O****************\nSUPER Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB sa high-speed araw-araw\n- Simula sa SGD$2.90/araw"
+          },
+          {
+            "title": "Mga Tuntunin at Kundisyon",
+            "info": "BASIC Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB sa high-speed araw-araw\n- Simula sa SGD$2.90/araw\n\n****************O****************\nSUPER Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB sa high-speed araw-araw\n- Simula sa SGD$2.90/araw"
+          }
+        ]
+      },
+      {
+        "name": "Germany - Pocket Wifi",
+        "plan": "20gb-20days",
+        "title": "Pang-negosyong Package",
+        "features": [
+          "Panatilihin ang Yoowifi Device",
+          "Planong Top-up lang",
+          "365 Araw na Bisa",
+          "Prayoridad na suporta",
+          "Saklaw ang 100 Bansa"
+        ],
+        "category": "dami",
+        "desc": "GB",
+        "coverage": [
+          "Algeria",
+          "Anguilla",
+          "Antigua at Barbuda",
+          "Argentina",
+          "Aruba",
+          "Azerbaijan",
+          "Bolivia",
+          "Brazil",
+          "British Virgin Islands",
+          "Chile",
+          "Colombia",
+          "Costa Rica"
+        ],
+        "details": [
+          {
+            "title": "Paglalarawan",
+            "info": "BASIC Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB sa high-speed araw-araw\n- Simula sa SGD$2.90/araw\n\n****************O****************\nSUPER Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB sa high-speed araw-araw\n- Simula sa SGD$2.90/araw"
+          },
+          {
+            "title": "Impormasyon",
+            "info": "BASIC Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB sa high-speed araw-araw\n- Simula sa SGD$2.90/araw\n\n****************O****************\nSUPER Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB sa high-speed araw-araw\n- Simula sa SGD$2.90/araw"
+          },
+          {
+            "title": "Mga Tuntunin at Kundisyon",
+            "info": "BASIC Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB sa high-speed araw-araw\n- Simula sa SGD$2.90/araw\n\n****************O****************\nSUPER Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB sa high-speed araw-araw\n- Simula sa SGD$2.90/araw"
+          }
+        ]
+      },
+      {
+        "name": "Sweden - Pocket Wifi",
+        "plan": "20gb-20days",
+        "title": "Pang-negosyong Package",
+        "features": [
+          "Panatilihin ang Yoowifi Device",
+          "Planong Top-up lang",
+          "365 Araw na Bisa",
+          "Prayoridad na suporta",
+          "Saklaw ang 100 Bansa"
+        ],
+        "category": "dami",
+        "desc": "GB",
+        "coverage": [
+          "Algeria",
+          "Anguilla",
+          "Antigua at Barbuda",
+          "Argentina",
+          "Aruba",
+          "Azerbaijan",
+          "Bolivia",
+          "Brazil",
+          "British Virgin Islands",
+          "Chile",
+          "Colombia",
+          "Costa Rica"
+        ],
+        "details": [
+          {
+            "title": "Paglalarawan",
+            "info": "BASIC Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB sa high-speed araw-araw\n- Simula sa SGD$2.90/araw\n\n****************O****************\nSUPER Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB sa high-speed araw-araw\n- Simula sa SGD$2.90/araw"
+          },
+          {
+            "title": "Impormasyon",
+            "info": "BASIC Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB sa high-speed araw-araw\n- Simula sa SGD$2.90/araw\n\n****************O****************\nSUPER Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB sa high-speed araw-araw\n- Simula sa SGD$2.90/araw"
+          },
+          {
+            "title": "Mga Tuntunin at Kundisyon",
+            "info": "BASIC Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB sa high-speed araw-araw\n- Simula sa SGD$2.90/araw\n\n****************O****************\nSUPER Daypass\n- Mag-enjoy ng Walang Limitasyong Data Freedom\n- 1GB sa high-speed araw-araw\n- Simula sa SGD$2.90/araw"
+          }
+        ]
+      }
+    ]
+  },
+  "pocketWifi": {
+    "product": {
+      "name": "Pocket Wifi",
+      "description": "Ang Yoowifi Pocket Wifi device ay nag-aalok ng mabilis at maaasahang internet access saan ka man magpunta. Perpekto para sa mga naglalakbay at remote workers, ito ay kayang mag-connect ng hanggang 8 devices ng sabay-sabay. Nagbibigay ang Yoowifi ng iba't ibang data plans na akma sa iyong pangangailangan, kung ikaw man ay maglalakbay ng weekend o pangmatagalang biyahe. Sa saklaw nito sa iba't ibang bansa, ito ang perpektong kasama sa paglalakbay.",
+      "features": [
+        "Manatiling Konektado Kahit Saan",
+        "Malaking Tipid sa International Roaming",
+        "Walang Kapantay na Garantiya ng Presyo"
+      ],
+      "buttons": {
+        "text": "Tingnan ang mga Plano",
+        "text2": "Kumuha ng Pocket Wifi"
+      },
+      "tabs": [
+        {
+          "title": "Paglalarawan",
+          "content": "Madali itong gamitin at may sleek, minimalist na disenyo. I-on lang, ikonekta ang iyong mga device, at magagamit mo na! Walang komplikadong setup o mabibigat na kagamitan. Ngunit hindi lang iyon – nag-aalok din ang aming Pocket WiFi devices ng matibay at maaasahang koneksyon, kaya't mananatili kang konektado saan ka man. Kung ikaw ay nasa business trip o bakasyon ng pamilya, ma-enjoy mo ang high-speed internet nang walang abala."
+        },
+        {
+          "title": "Mga Espesipikasyon",
+          "content": "CPU: SC8310LTE-FDD: Bands 1 / 2 / 3 / 4 / 5 / 7 / 8 / 12 / 13 / 17 / 18 / 20 / 25 / 26 / 28 / 66\nLTE-TDD: Bands 34 / 38 / 39 / 40 / 41 (194M)\nWCDMA: Bands 1 / 2 / 4 / 5 / 8\nTD-SCDMA: Walang\nCDMA: Walang\nEVDO: Walang\nGSM: 850 / 900 / 1800 / 1900\nMax speed: Download 150Mbps / Upload 50Mbps\nWi-Fi: 2.4GHz 802.11 b / g / n 1T1R\nMax WiFi Connection: 8\nBattery: 3000mAh\nPorts: Type-C USB\nInput: 5V – 1A\nItem size: 120mm x 64.6mm x 12mm\nItem weight: 112g\nShell Material: Plastik"
+        },
+        {
+          "title": "Kasama sa Package",
+          "content": "50GB global data na maaaring gamitin sa 90 bansa.\nAng bilis ng serbisyo ay nakadepende sa mobile network partner.\nPara sa pagkansela ng order, may karagdagang singil na 10% ng order.\nNagmumula ang mga pangkalahatang tuntunin at kundisyon.\nAng Yoowifi ay may karapatang baguhin ang mga ito anumang oras."
+        },
+        {
+          "title": "Mga Tuntunin at Kundisyon",
+          "content": "Albania, Andorra, Armenia, Australia, Austria, Bahrain, Bangladesh, Belgium, Bosnia at Herzegovina, Brunei, Bulgaria, Cambodia, Canada, China, Croatia, Cyprus, Czech Republic, Denmark, Egypt, Estonia, Finland, France, Georgia, Germany, Gibraltar, Greece, Guernsey, Hong Kong, Hungary, Iceland, India, Indonesia, Ireland, Isle of Man, Israel, Italy, Japan, Jersey, Jordan, Kazakhstan, Kuwait, Laos, Latvia, Liechtenstein, Lithuania, Luxembourg, Macau, Macedonia, Malaysia, Malta, Mexico, Monaco, Montenegro, Myanmar, Netherlands, New Zealand, Norway, Oman, Pakistan, Philippines, Poland, Portugal, Qatar, Reunion, Romania, Russia, San Marino, Saudi Arabia, Serbia, Slovakia, Slovenia, South Korea, Spain, Sri Lanka, Sweden, Switzerland, Taiwan, Thailand, Turkey, UAE, Ukraine, United Kingdom, USA, Uzbekistan, Vatican, Vietnam"
+        }
+      ]
+    },
+    "features": {
+      "heading": "Mga Pangunahing Tampok",
+      "subHeading": "Huwag hayaang magpigil ka ng mabagal na internet! Lumipat sa aming portable solutions para maranasan ang connectivity nang walang hangganan.",
+      "featureList": [
+        "Hanggang 4G LTE Speed",
+        "Flexible na Opsyon sa Data",
+        "Cloud SIM Technology",
+        "Mag-share ng Hanggang 8 Devices",
+        "12 Oras na Buhay ng Baterya"
+      ]
+    },
+    "aboutUs": [
+      {
+        "_id": 1,
+        "title": "Solusyon para sa Negosyo",
+        "content": "Maaasahan, secure na internet connectivity para sa mga negosyo kahit saan, na may scalable, efficient solutions para matiyak ang seamless integration at maayos na operasyon."
+      },
+      {
+        "_id": 2,
+        "title": "Partnerships",
+        "content": "Ang aming mga partnership ay itinayo sa tiwala at kolaborasyon, nagtutulungan upang magtulungan sa pagpapalago ng mga oportunidad at lumikha ng tagumpay."
+      },
+      {
+        "_id": 3,
+        "title": "Custom na Solusyon",
+        "content": "Tuklasin ang aming mga custom na solusyon na idinisenyo upang matugunan ang iyong mga natatanging pangangailangan. Makipagtulungan kami sa iyo upang magdisenyo ng mga makabagong at flexible na serbisyo."
+      }
+    ],
+    "services": [
+      {
+        "_id": 1,
+        "title": "Pandaigdigang Saklaw",
+        "content": "Manatiling konektado sa 160 bansa, saan man magtungo ang iyong paglalakbay, gamit ang Yoowifi’s travel wifi services."
+      },
+      {
+        "_id": 2,
+        "title": "Multihoming Network",
+        "content": "Tiyakin ang tuloy-tuloy na koneksyon gamit ang aming multi-homing network, na nag-aalok ng maraming koneksyon para sa mas mataas na pagiging maaasahan at performance."
+      },
+      {
+        "_id": 3,
+        "title": "Zero Touch on Demand",
+        "content": "Ang aming cloud-based portal ay nag-pipreconfigure at nag-de-deploy ng mga serbisyo para sa zero-touch on-demand connectivity, na nangangailangan ng teknikal na kaalaman sa site."
+      },
+      {
+        "_id": 4,
+        "title": "Matipid na Serbisyo",
+        "content": "Tamasahin ang mataas na kalidad ng serbisyo sa kompetitibong presyo, idinisenyo upang maghatid ng pinakamataas na halaga habang nananatiling cost-effective."
+      },
+      {
+        "_id": 5,
+        "title": "Management Portal",
+        "content": "Ang aming management portal ay nagbibigay ng isang user-friendly platform para sa walang abalang kontrol at pagmamanman, na nagbibigay kapangyarihan sa iyo upang pamahalaan ang mga serbisyo nang mahusay."
+      },
+      {
+        "_id": 6,
+        "title": "Pag-customize ng App",
+        "content": "I-customize ang iyong app para sa isang personalized na karanasan, na naaayon sa iyong brand at layunin."
+      }
+    ],
+    "whatWeDo": [
+      {
+        "_id": 1,
+        "title": "Business Continuity Plan",
+        "content": "Nag-aalok ang Yoowifi ng isang teknolohikal na solusyon na nagbibigay ng matibay at lubos na redundant na platform upang mapanatiling konektado ang iyong negosyo at magpatuloy ang operasyon sa kabila ng mga hindi inaasahang pangyayari."
+      },
+      {
+        "_id": 2,
+        "title": "In-vehicle Connectivity",
+        "content": "Nagbibigay ang Yoowifi ng kinakailangang bandwidth para sa secure na pagpapadala at pagtanggap ng data, maging ito man ay ipinapadala sa loob ng bansa o sa iba’t ibang mga bansa."
+      },
+      {
+        "_id": 3,
+        "title": "Remote Working",
+        "content": "Tinitiyak ng aming remote working solutions ang tuloy-tuloy na koneksyon, na nagpapahintulot sa mga team na makipagtulungan ng maayos at manatiling produktibo, anuman ang lokasyon."
+      },
+      {
+        "_id": 4,
+        "title": "Connectivity para sa Mga Kaganapan",
+        "content": "Tiyakin ang flawless na karanasan ng mga kaganapan gamit ang aming maaasahang connectivity solutions, na nag-aalok ng mabilis, secure na internet na magpapanatili ng maayos na daloy mula simula hanggang matapos ang event."
+      },
+      {
+        "_id": 5,
+        "title": "Solusyon para sa mga Travel Agency",
+        "content": "Nakikipagtulungan kami sa mga travel agency upang magbigay ng pinakamahusay na internet solutions, na nagsisiguro ng tuloy-tuloy na koneksyon para sa mga naglalakbay at pinapaganda ang buong karanasan sa paglalakbay."
+      },
+      {
+        "_id": 6,
+        "title": "Mga Hotel",
+        "content": "Nag-aalok kami ng mga customized na internet solutions para sa mga hotel, na nagsisiguro ng mabilis at maaasahang koneksyon na nagpapataas ng kasiyahan ng mga bisita at sumusuporta sa epektibong operasyon ng hotel."
+      }
+    ],
+    "stayConnectedYourWay": {
+      "heading": "Manatiling Konektado Ayon sa Iyong Paraan",
+      "subHeading": "Bumili o magrenta ng device na may kakayahang umangkop sa iyong konektividad na pangangailangan. Pumili sa pagitan ng pag-aari ng pangmatagalang solusyon o pagrenta para sa panandaliang gamit, na nagsisiguro ng maaasahang akses tuwing kinakailangan mo ito.",
+      "ways": [
+        {
+          "title": "Bumili ng Iyong Sariling Device",
+          "description": "Bumili ng isang device para sa pangmatagalang, maaasahang konektividad tuwing kailangan mo ito."
+        },
+        {
+          "title": "Pagrenta",
+          "description": "Magkaroon ng maaasahang konektividad kapag kailangan mo ito gamit ang flexible, panandaliang options ng pagrenta ng device—mainam para sa mga biyahe, kaganapan, o pansamantalang gamit."
+        }
+      ]
+    },
+    "whatsIncluded": {
+      "heading": "Kasama sa Package",
+      "subHeading": "Lahat ng Kailangan Mo para sa Walang Abalang Konektividad",
+      "includedList": {
+        "chargingCable": "x1 Charging Cable",
+        "devicePouch": "x1 Device Pouch",
+        "howToOperate": "Paano Patakbuhin",
+        "powerOn": "Paganahin",
+        "powerOff": "Patayin",
+        "pressNote": "Pindutin ang power button ng 3 segundo"
+      }
+    },
+    "ledIndicators": {
+      "heading": "Mga Battery LED Indicators",
+      "subHeading": "Madaling Subaybayan ang Status ng Iyong Device’s Power",
+      "content": {
+        "capacity": {
+          "title": "Ipinapakita ng battery capacity ang iba't ibang kulay",
+          "description": "Lorem Ipsum ay isang simpleng dummy text mula sa industriya ng printing at typesetting. Lorem Ipsum ay isang simpleng"
+        },
+        "charging": {
+          "title": "Nagre-recharge",
+          "description": "Lorem Ipsum ay isang simpleng dummy text mula sa industriya ng printing at typesetting. Lorem Ipsum ay isang simpleng"
+        },
+        "support": "*Mangyaring makipag-ugnayan sa aming customer support sa hello@yoowifi.com o mag-WhatsApp sa (65) 6100 9998",
+        "systemUpdateNote": "**Ang lahat ng mga indicator na kumikislap ay nangangahulugang kasalukuyang nag-a-update ng system software**"
+      }
+    },
+    "howToConnect": {
+      "heading": "Paano kumonekta sa Pocketwifi?",
+      "subHeading": "Mabilis na Kumonekta sa Iyong Pocket WiFi sa Ilang Simpleng Hakbang",
+      "steps": [
+        {
+          "title": "Buksan ang Pocket WiFi",
+          "description": "Pindutin ang power button upang buksan ito at maghintay na kumonekta sa network."
+        },
+        {
+          "title": "Hanapin ang WiFi Name",
+          "description": "Tingnan ang screen ng device para sa WiFi network name (SSID)."
+        },
+        {
+          "title": "Kumonekta sa WiFi",
+          "description": "Sa iyong smartphone, tablet, o laptop, buksan ang WiFi settings, piliin ang SSID, ilagay ang password na makikita sa device, at makakonekta ka na sa internet."
+        }
+      ]
+    },
+    "howToReturn": {
+      "heading": "Paano Ibalik ang Device?",
+      "subHeading": "Sundin ang aming mga madaling hakbang para sa walang hassle na karanasan sa pagbabalik.",
+      "cardData": [
+        {
+          "title": "Singpost Drop-Off",
+          "description": "Kapag nagrenta ka ng device, may kasamang pre-paid return label sa package. Maaari mong gamitin ang label na ito upang madaling ipadala pabalik ang device. Matapos itong ibalik, malamang ay makakatanggap ka ng email confirmation kapag natapos na ang pagbabalik.",
+          "buttonText": "Tingnan ang Mga Lokasyon"
+        },
+        {
+          "title": "Pickup Drop off Locations",
+          "description": "Sa Yoowifi, maaari mong madaling kunin ang iyong device sa alinman sa aming mga itinalagang lokasyon at ibalik ito sa isa sa aming 30+ mga drop-off point sa buong isla. Ang streamlined na prosesong ito ay nagsisiguro ng isang hassle-free na karanasan, na nagpapahintulot sa iyo na manatiling konektado saan man magtungo ang iyong paglalakbay!",
+          "buttonText": "Tingnan ang Mga Lokasyon"
+        }
+      ]
+    },
+    "planTopUp": {
+      "heading": "Paano Mag-Top up ng Plan",
+      "subHeading": "Madaling Pamahalaan ang Iyong Pangangailangan sa Data gamit ang Yoowifi Top-Up",
+      "steps": [
+        {
+          "title": "Piliin ang Iyong Device",
+          "description": "Buksan ang Yoowifi app, pumunta sa My Data, at piliin ang device na nais mong i-top up."
+        },
+        {
+          "title": "Piliin ang Iyong Plan",
+          "description": "I-click ang Add Data, piliin ang iyong nais na bansa at plan, at itakda ang mga start at end dates."
+        },
+        {
+          "title": "Magpatuloy sa Pag-checkout",
+          "description": "Kumpirmahin ang iyong mga pinili at magpatuloy sa checkout."
+        }
+      ]
+    },
+    "otherProducts": {
+      "title": "Iba pang mga produkto na maaaring magustuhan mo"
+    }
+  },
+  "router": {
+    "product": {
+      "name": "Router",
+      "description": "Ang Yoowifi Router ay nag-aalok ng tuloy-tuloy at maaasahang koneksyon sa internet sa bahay o opisina. Sa mga advanced na feature at mataas na bilis ng koneksyon, tiniyak nito na mananatili kang konektado nang walang anumang abala. Madali itong i-setup at gamitin, kaya’t ito ang perpektong solusyon para sa lahat ng iyong pangangailangan sa internet.",
+      "features": [
+        "Manatiling Konektado Kahit Saan",
+        "Magtipid ng Malaki sa International Roaming",
+        "Walang Kapantay na Pag-garantiya ng Presyo"
+      ],
+      "buttons": {
+        "text": "Tingnan ang Mga Plan",
+        "text2": "Kumuha ng Router"
+      },
+      "tabs": [
+        {
+          "title": "Paglalarawan",
+          "content": "Madali itong gamitin at mayroong makinis at minimalistang disenyo. Buksan lamang ito, ikonekta ang iyong mga device, at maaari mo nang gamitin! Walang na dapat pang alalahanin na kumplikadong proseso ng setup o mabibigat na kagamitan. Ngunit hindi lang iyon – ang aming Pocket WiFi devices ay nagbibigay din ng matatag at maaasahang koneksyon, kaya’t mananatili kang konektado saan ka man naroroon. Mapa-business trip o family vacation, maaari mong tangkilikin ang mataas na bilis ng internet nang walang abala."
+        },
+        {
+          "title": "Mga Tinatayang Teknikal",
+          "content": "CPU: SC8310LTE-FDD：Bands 1 / 2 / 3 / 4 / 5 / 7 / 8 / 12 / 13 / 17 / 18 / 20 / 25 / 26 /28 / 66\nLTE-TDD：Bands 34 / 38 / 39 / 40 / 41 (194M)\nWCDMA：Bands 1 / 2 / 4 / 5 / 8 \nTD-SCDMA：WALA CDMA：WALA\nEVDO：WALA\nGSM：850 / 900 / 1800 / 1900 \nMax speed：Download 150Mbps  /  Upload 50Mbps \nWi-Fi：2.4GHz  802.11 b / g / n 1T1R \nMax WiFi Connection：8\nBattery：3000mAh \nPorts：Type-C  USB\nInput： 5V – 1A \nItem size：120mm x 64.6mm x 12mm\nItem weight：112g\nShell Material：Plastics"
+        },
+        {
+          "title": "Ano ang Kasama",
+          "content": "50GB global data ay naaangkop sa 90 bansa.\nAng bilis ng serbisyo ay depende sa mobile network partner.\nPara sa pagkansela ng order, magkakaroon ng 10% na bayad sa order.\nAng mga pangkalahatang kondisyon ay naaangkop.\nAng Yoowifi ay may karapatang gumawa ng mga pagbabago anumang oras."
+        },
+        {
+          "title": "Mga Tuntunin at Kondisyon",
+          "content": "Albania, Andorra, Armenia, Australia, Austria, Bahrain, Bangladesh, Belgium, Bosnia and Herzegovina, Brunei, Bulgaria, Cambodia, Canada, China, Croatia, Cyprus, Czech Republic, Denmark, Egypt, Estonia, Finland, France, Georgia, Germany, Gibraltar, Greece, Guernsey, Hong Kong, Hungary, Iceland, India, Indonesia, Ireland, Isle of Man, Israel, Italy, Japan, Jersey, Jordan, Kazakhstan, Kuwait, Laos, Latvia, Liechtenstein Lithuania, Luxembourg, Macau, Macedonia, Malaysia, Malta, Mexico, Monaco, Montenegro, Myanmar, Netherlands, New Zealand, Norway, Oman, Pakistan, Philippines, Poland, Portugal, Qatar, Reunion, Romania, Russia, San Marino, Saudi Arabia, Serbia, Slovakia, Slovenia, South Korea, Spain, Sri Lanka, Sweden, Switzerland, Taiwan, Thailand, Turkey, UAE, Ukraine, United Kingdom, USA, Uzbekistan, Vatican, Vietnam"
+        }
+      ]
+    },
+    "features": {
+      "heading": "Mga Pangunahing Tampok",
+      "subHeading": "Huwag hayaang pigilan ka ng mabagal na internet! Lumipat sa aming portable solutions upang maranasan ang koneksyon nang walang hangganan.",
+      "featureList": [
+        "Hanggang 4G LTE Bilis",
+        "Flexible na Opsyon ng Data",
+        "Cloud SIM Teknolohiya",
+        "Maaaring I-share sa Maraming Device",
+        "Mas Malawak na Saklaw at Katatagan"
+      ]
+    },
+    "whatsIncluded": {
+      "heading": "Ano ang Kasama",
+      "subHeading": "Lahat ng Kailangan Mo para sa Walang Putol na Koneksyon",
+      "includedList": ["x1 Wifi Router", "x1 Power Adapter"]
+    },
+    "howToConnectRouter": {
+      "heading": "Paano Ikonekta ang Router?",
+      "subHeading": "Hakbang-hakbang na Gabay para Madaling I-setup ang Iyong eSIM",
+      "steps": [
+        "Ikonekta ang power adapter sa WiFi router at i-plug ito sa power socket. Pagkatapos, i-on ang power socket.",
+        "Upang kumonekta sa iyong WiFi network, hanapin ang default WiFi name at password sa ilalim / likod ng WiFi Router.",
+        "Ikonekta sa default WiFi name at ilagay ang password kapag hiniling, at tapos na!"
+      ]
+    },
+    "otherProducts": {
+      "title": "Iba Pang Mga Produkto na Maaaring Magustuhan Mo"
+    }
+  },
+  "sim": {
+    "product": {
+      "name": "SIM/eSIM",
+      "description": "Ang Lorem Ipsum ay simpleng peke na teksto na ginagamit sa industriya ng pag-print at pag-type. Ang Lorem Ipsum ay simpleng peke na teksto na ginagamit sa industriya ng pag-print at pag-type. Ang Lorem Ipsum ay simpleng peke na teksto na ginagamit sa industriya ng pag-print at pag-type.",
+      "features": [
+        "Manatiling Konektado Kahit Saan",
+        "Mag-save ng MALAKING halaga sa International Roaming",
+        "Hindi Matitinag na Pagpepresyo Garantiya"
+      ],
+      "buttons": {
+        "text": "Tingnan ang mga Plano",
+        "text2": "Kumuha ng SIM/eSIM"
+      },
+      "tabs": [
+        {
+          "title": "Paglalarawan",
+          "content": "Ang aming Sim/E-Sim ay perpekto para sa mga taong pinahahalagahan ang kaginhawahan at madaling gamitin. Maaari mo itong i-activate sa loob ng ilang minuto at magsimulang tamasahin ang lahat ng mga benepisyo na kasama nito. Kung ikaw ay isang estudyante, isang nagtatrabaho na propesyonal, o sinuman na nangangailangan ng maaasahang serbisyo sa telekomunikasyon, ang aming Sim/E-Sim ay ang perpektong solusyon para sa iyo. Nag-aalok kami ng kompetitibong presyo, flexible na mga plano, at mahusay na suporta sa customer upang matiyak na makakakuha ka ng pinakamahusay na halaga para sa iyong pera!"
+        },
+        {
+          "title": "Mga Tuntunin at Kundisyon",
+          "content": "Ang pisikal na SIM card na ginagamit lamang isang beses ay may petsa ng pag-expire na 60 araw pagkatapos ng pagbili.\nWalang mga refund o pagkansela na maaaring gawin para sa eSIM dahil sa mga isyu sa compatibility ng eSIM.\nHuwag burahin o alisin ang iyong eSIM mula sa iyong device pagkatapos ng matagumpay na pag-install.\nAng mga pangkalahatang tuntunin at kundisyon ay nalalapat."
+        }
+      ]
+    },
+    "features": {
+      "heading": "Mga Pangunahing Tampok",
+      "subHeading": "Huwag hayaang pabagalin ka ng mabagal na internet! Lumipat sa aming mga portable na solusyon upang maranasan ang koneksyon nang walang hangganan.",
+      "featureList": [
+        "Hanggang 4G \n LTE Bilis",
+        "Walang Throttle",
+        "Mabilis na Paghatid",
+        "Simpleng Plug at Gamitin",
+        "24/7 Suporta Teknikal",
+        "3-sa-1 SIM card"
+      ]
+    },
+    "howToSetup": {
+      "heading": "Paano I-Set Up ang Iyong SIM",
+      "subHeading": "Huwag hayaan ang mabagal na internet na magpigil sa'yo! Mag-switch sa aming mga portable na solusyon upang maranasan ang konektividad nang walang hangganan.",
+      "steps": [
+        {
+          "title": "Bumili ng SIM Card",
+          "description": "Madaling mag-order ng SIM card gamit ang Yoowifi app, at tamasahin ang kaginhawaan ng paghahatid nito diretso sa iyong pintuan."
+        },
+        {
+          "title": "Ipasok ang SIM Card",
+          "description": "Ipasok ang SIM card at i-on ang iyong mobile device.*Ang bisa ng data ay magsisimula agad pagkalagay ng SIM sa destinasyon."
+        },
+        {
+          "title": "I-enable ang Data Roaming",
+          "description": "I-enable ang Data Roaming sa iyong mobile device.*Kung hindi ma-detect ng iyong phone ang activation ng Data Roaming, mag-reboot pagkatapos ng step 2 at siguraduhing naka-on ang iyong Data Roaming."
+        }
+      ]
+    },
+    "activateSteps": {
+      "heading": "Madaling Hakbang para I-Activate ang Iyong eSIM",
+      "steps": [
+        {
+          "title": "iOS",
+          "deviceSteps": [
+            {
+              "title": "Hakbang 1",
+              "description": "Pag-activate ng iyong eSIM sa Yoowifi app",
+              "steps": [
+                "Pagkatapos bumili ng eSIM, pumunta sa My Orders at i-click ang Activate eSIM button upang kumpletuhin ang activation.",
+                "Kapag na-activate, ang eSIM ay lalabas sa ilalim ng My Data."
+              ]
+            },
+            {
+              "title": "Hakbang 2",
+              "description": "Pag-activate ng iyong eSIM",
+              "steps": [
+                "Pumunta sa settings ng iyong iPhone. I-tap ang Cellular o Mobile Data.",
+                "I-tap ang Add eSIM",
+                "I-tap ang Use QR Code",
+                "I-scan ang QR code na natanggap mo pagkatapos bumili ng eSIM sa Yoowifi app o i-enter ang mga detalye nang manu-mano."
+              ]
+            },
+            {
+              "title": "Hakbang 3",
+              "description": "Pag-enable ng Data Roaming",
+              "steps": [
+                "Kung ikaw ay nagsesetup nang manu-mano, maaaring kailanganin mong ilagay ang activation details na ibinigay sa Yoowifi app sa ilalim ng iyong eSIM order, na makikita sa My Data.",
+                "Magpatuloy sa pag-activate ng eSIM.",
+                "Pumili ng eSIM na nadagdag pagkatapos mong makarating sa iyong destinasyon, pagkatapos ay i-enable ang Data Roaming upang kumonekta."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Android",
+          "deviceSteps": [
+            {
+              "title": "Hakbang 1",
+              "description": "Pag-activate ng iyong eSIM sa Yoowifi app",
+              "steps": [
+                "Pagkatapos bumili ng eSIM, pumunta sa My Orders at i-click ang Activate eSIM button upang kumpletuhin ang activation.",
+                "Kapag na-activate, ang eSIM ay lalabas sa ilalim ng My Data."
+              ]
+            },
+            {
+              "title": "Hakbang 2",
+              "description": "Pag-activate ng iyong eSIM",
+              "steps": [
+                "Pumunta sa settings ng iyong iPhone. I-tap ang Cellular o Mobile Data.",
+                "I-tap ang Add eSIM",
+                "I-tap ang Use QR Code",
+                "I-scan ang QR code na natanggap mo pagkatapos bumili ng eSIM sa Yoowifi app o i-enter ang mga detalye nang manu-mano."
+              ]
+            },
+            {
+              "title": "Hakbang 3",
+              "description": "Pag-enable ng Data Roaming",
+              "steps": [
+                "Kung ikaw ay nagsesetup nang manu-mano, maaaring kailanganin mong ilagay ang activation details na ibinigay sa Yoowifi app sa ilalim ng iyong eSIM order, na makikita sa My Data.",
+                "Magpatuloy sa pag-activate ng eSIM.",
+                "Pumili ng eSIM na nadagdag pagkatapos mong makarating sa iyong destinasyon, pagkatapos ay i-enable ang Data Roaming upang kumonekta."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "deviceCompatibilities": {
+      "heading": "Suriin ang Compatibility ng Device",
+      "subHeading": "Kung ikaw ay gumagamit ng eSIM sa unang pagkakataon, maaaring kailanganin mong suriin kung ang iyong device ay sumusuporta sa eSIM. Nais naming matulungan ka sa bagay na ito. Piliin ang iyong brand ng device at tingnan kung nakalista ang iyong mga modelo. Maaari mo ring tiyakin ito sa pamamagitan ng pag-check sa Settings ng iyong device.",
+      "compatibilities": [
+        {
+          "title": "Apple",
+          "devices": [
+            {
+              "name": "iPhone",
+              "versions": [
+                "iPhone 16, 16 Plus, 16 Pro, 16 Pro Max",
+                "iPhone 15, 15 Plus, 15 Pro, 15 Pro Max",
+                "iPhone 14, 14 Plus, 14 Pro, 14 Pro Max",
+                "iPhone 13, 13 Mini, 13 Pro, 13 Pro, 13 Pro Max",
+                "iPhone 12, 12 Mini, 12 Pro, 12 Pro Max",
+                "iPhone 11, 11 Pro, 11 Pro Max",
+                "iPhone XS, XS Max",
+                "iPhone XR",
+                "iPhone SE (2020 at 2022)"
+              ]
+            },
+            {
+              "name": "iPad",
+              "versions": [
+                "iPad (mula sa 7th generation)",
+                "iPad Air (mula sa 3rd generation)",
+                "iPad Pro, 11-inch (mula sa 1st generation)",
+                "iPad Pro 12.9-inch (mula sa 3rd generation)",
+                "iPad Mini (mula sa 5th generation)"
+              ]
+            }
+          ],
+          "note": "Ang kakayahan ng eSIM ay maaaring mag-iba depende sa modelo at rehiyon. Mangyaring makipag-ugnayan sa iyong lokal na carrier para sa kumpirmasyon."
+        },
+        {
+          "title": "Samsung",
+          "devices": [
+            {
+              "name": "Samsung Galaxy S Series",
+              "versions": [
+                "Galaxy S23",
+                "Galaxy S23+",
+                "Galaxy S23 Ultra",
+                "Galaxy S22",
+                "Galaxy S22+",
+                "Galaxy S22 Ultra",
+                "Galaxy S21",
+                "Galaxy S21+",
+                "Galaxy S21 Ultra",
+                "Galaxy S20",
+                "Galaxy S20+",
+                "Galaxy S20 Ultra"
+              ]
+            },
+            {
+              "name": "Samsung Galaxy Z Series (Foldable Phones)",
+              "versions": [
+                "Galaxy Z Fold5 (2023)",
+                "Galaxy Z Fold4 (2022)",
+                "Galaxy Z Fold3 (2021)",
+                "Galaxy Z Flip5 (2023)",
+                "Galaxy Z Flip4 (2022)",
+                "Galaxy Z Flip3 (2021)"
+              ]
+            },
+            {
+              "name": "Samsung Galaxy Note Series",
+              "versions": [
+                "Galaxy Note 20 Series (2020)",
+                "Galaxy Note 20",
+                "Galaxy Note 20 Ultra"
+              ]
+            },
+            {
+              "name": "Samsung Galaxy A Series",
+              "versions": ["Galaxy A54 (2023)", "Galaxy A53 (2022)"]
+            }
+          ],
+          "note": "Ang kakayahan ng eSIM ay maaaring mag-iba depende sa modelo at rehiyon. Mangyaring makipag-ugnayan sa iyong lokal na carrier para sa kumpirmasyon."
+        },
+        {
+          "title": "Google",
+          "devices": [
+            {
+              "name": "Google Pixel 8 Series (2023)",
+              "versions": ["Pixel 8", "Pixel 8 Pro"]
+            },
+            {
+              "name": "Google Pixel 7 Series (2022)",
+              "versions": ["Pixel 7", "Pixel 7 Pro"]
+            },
+            {
+              "name": "Google Pixel 6 Series (2021)",
+              "versions": ["Pixel 6", "Pixel 6 Pro", "Pixel 6a"]
+            },
+            {
+              "name": "Google Pixel 5 Series (2020)",
+              "versions": ["Pixel 5", "Pixel 5a 5G"]
+            },
+            {
+              "name": "Google Pixel 4 Series (2019)",
+              "versions": ["Pixel 4", "Pixel 4 XL", "Pixel 4a"]
+            },
+            {
+              "name": "Google Pixel 3 Series (2018)",
+              "versions": ["Pixel 3", "Pixel 3 XL", "Pixel 3a", "Pixel 3a XL"]
+            }
+          ],
+          "note": "Ang kakayahan ng eSIM ay maaaring mag-iba depende sa modelo at rehiyon. Mangyaring makipag-ugnayan sa iyong lokal na carrier para sa kumpirmasyon."
+        },
+        {
+          "title": "Huawei",
+          "devices": [
+            {
+              "name": "Huawei P Series",
+              "versions": [
+                "Huawei P60 Pro (2023)",
+                "Huawei P50 Pro (2021)",
+                "Huawei P40 Series (2020)",
+                "Huawei P40",
+                "Huawei P40 Pro",
+                "Huawei P40 Pro+"
+              ]
+            },
+            {
+              "name": "Huawei Mate Series",
+              "versions": [
+                "Huawei Mate 50 Pro (2022)",
+                "Huawei Mate 40 Pro (2020)",
+                "Huawei Mate 30 Series (2019)",
+                "Huawei Mate 30",
+                "Huawei Mate 30 Pro"
+              ]
+            },
+            {
+              "name": "Huawei Watch (eSIM models)",
+              "versions": [
+                "Huawei Watch 4 Pro",
+                "Huawei Watch 3",
+                "Huawei Watch 3 Pro"
+              ]
+            }
+          ],
+          "note": "Ang kakayahan ng eSIM ay maaaring mag-iba depende sa modelo at rehiyon. Mangyaring makipag-ugnayan sa iyong lokal na carrier para sa kumpirmasyon."
+        },
+        {
+          "title": "Oppo",
+          "devices": [
+            {
+              "name": "Oppo Find X Series",
+              "versions": [
+                "Oppo Find X6 Pro (2023)",
+                "Oppo Find X5 Series (2022)",
+                "Oppo Find X5",
+                "Oppo Find X5 Pro",
+                "Oppo Find X3 Series (2021)",
+                "Oppo Find X3",
+                "Oppo Find X3 Pro"
+              ]
+            },
+            {
+              "name": "Oppo Reno Series",
+              "versions": ["Oppo Reno8 Pro (2022)", "Oppo Reno7 Pro 5G"]
+            },
+            {
+              "name": "Oppo A Series",
+              "versions": ["Oppo A55s 5G (2022)"]
+            }
+          ],
+          "note": "Ang kakayahan ng eSIM ay maaaring mag-iba depende sa modelo at rehiyon. Mangyaring makipag-ugnayan sa iyong lokal na carrier para sa kumpirmasyon."
+        },
+        {
+          "title": "Xiaomi",
+          "devices": [
+            {
+              "name": "Xiaomi 13 Series",
+              "versions": [
+                "Xiaomi 13 (2023)",
+                "Xiaomi 13 Pro (2023)",
+                "Xiaomi 13 Lite (2023)"
+              ]
+            },
+            {
+              "name": "Xiaomi 12 Series",
+              "versions": [
+                "Xiaomi 12 (2021)",
+                "Xiaomi 12 Pro (2021)",
+                "Xiaomi 12T (2022)",
+                "Xiaomi 12T Pro (2022)"
+              ]
+            },
+            {
+              "name": "Xiaomi Mi 11 Series",
+              "versions": [
+                "Xiaomi Mi 11 (2020)",
+                "Xiaomi Mi 11 Pro (2021)",
+                "Xiaomi Mi 11 Ultra (2021)"
+              ]
+            },
+            {
+              "name": "Redmi Note Series",
+              "versions": [
+                "Redmi Note 12 Pro (2022)",
+                "Redmi Note 12 Pro+ (2022)"
+              ]
+            }
+          ],
+          "note": "Ang kakayahan ng eSIM ay maaaring mag-iba depende sa modelo at rehiyon. Mangyaring makipag-ugnayan sa iyong lokal na carrier para sa kumpirmasyon."
+        },
+        {
+          "title": "Honor",
+          "devices": [
+            {
+              "name": "Honor Magic Series",
+              "versions": [
+                "Honor Magic 5 Pro (2023)",
+                "Honor Magic 4 Pro (2022)",
+                "Honor Magic 3 Series (2021)",
+                "Honor Magic 3",
+                "Honor Magic 3 Pro",
+                "Honor Magic 3 Pro+"
+              ]
+            },
+            {
+              "name": "Honor 50 Series",
+              "versions": ["Honor 50 (2021)", "Honor 50 Pro (2021)"]
+            },
+            {
+              "name": "Honor V Series",
+              "versions": ["Honor V40 (2021)", "Honor V30 (2019)"]
+            },
+            {
+              "name": "Honor 20 Series",
+              "versions": ["Honor 20 Pro (2019)"]
+            }
+          ],
+          "note": "Ang kakayahan ng eSIM ay maaaring mag-iba depende sa modelo at rehiyon. Mangyaring makipag-ugnayan sa iyong lokal na carrier para sa kumpirmasyon."
+        },
+        {
+          "title": "Sony",
+          "devices": [
+            {
+              "name": "Sony Xperia Series",
+              "versions": [
+                "Sony Xperia 1 V (2023)",
+                "Sony Xperia 1 IV (2022)",
+                "Sony Xperia 5 IV (2022)",
+                "Sony Xperia 10 IV (2022)"
+              ]
+            },
+            {
+              "name": "Sony Xperia 1 III Series (2021)",
+              "versions": ["Sony Xperia 1 III", "Sony Xperia 5 III"]
+            },
+            {
+              "name": "Sony Xperia 10 Series",
+              "versions": ["Sony Xperia 10 III (2021)"]
+            }
+          ],
+          "note": "Ang kakayahan ng eSIM ay maaaring mag-iba depende sa modelo at rehiyon. Mangyaring makipag-ugnayan sa iyong lokal na carrier para sa kumpirmasyon."
+        },
+        {
+          "title": "Motorola",
+          "devices": [
+            {
+              "name": "Motorola Edge Series",
+              "versions": [
+                "Motorola Edge 40 (2023)",
+                "Motorola Edge 30 (2022)",
+                "Motorola Edge 20 (2021)",
+                "Motorola Edge 20 Pro (2021)"
+              ]
+            },
+            {
+              "name": "Motorola Razr (Foldable)",
+              "versions": ["Motorola Razr 40 (2023)", "Motorola Razr 2020"]
+            },
+            {
+              "name": "Motorola Moto G Series",
+              "versions": ["Moto G72 (2022)"]
+            }
+          ],
+          "note": "Ang kakayahan ng eSIM ay maaaring mag-iba depende sa modelo at rehiyon. Mangyaring makipag-ugnayan sa iyong lokal na carrier para sa kumpirmasyon."
+        }
+      ]
+    },
+    "howToTopUp": {
+      "heading": "Paano Mag-top Up ng SIM/eSIM",
+      "subHeading": "3 Simpleng Hakbang upang Mag-top Up ng Iyong SIM/eSIM",
+      "steps": [
+        {
+          "title": "Buksan ang Yoowifi App",
+          "description": "Sa Yoowifi app, mag-navigate sa My Data at piliin ang SIM o eSIM na nais mong i-top up."
+        },
+        {
+          "title": "Magdagdag ng Data",
+          "description": "I-tap ang Add Data, pagkatapos ay piliin ang iyong destinasyong bansa, plano, laki ng data, at piliin ang bilang ng mga araw."
+        },
+        {
+          "title": "Magpatuloy sa Pag-checkout",
+          "description": "Kumpirmahin ang iyong mga pagpili at magpatuloy sa pag-checkout."
+        }
+      ]
+    },
+    "otherProducts": {
+      "title": "Iba pang mga produkto na maaaring magustuhan mo"
+    }
+  },
+  "aboutUs": {
+    "header": {
+      "title": "Tungkol sa Amin",
+      "description": "Ang Yoowifi ay isang kumpanya na nakabase sa Singapore na nag-aalok ng mga serbisyo ng pagpapaupa ng pocket wifi para sa mga biyahero. Nag-aalok kami ng malawak na hanay ng mga device ng pocket wifi na may walang limitasyong mga plano sa data upang mapanatili kang konektado saan man ikaw magpunta."
+    },
+    "whoWeAre": {
+      "title": "Sino Kami",
+      "description": "Ang UR Communications Pte Ltd, na gumagana sa ilalim ng kilalang tatak na Yoowifi, ay nagtatampok ng isang advanced na solusyon para sa walang kahirap-hirap na global na koneksyon sa pamamagitan ng aming intuitive na mobile application. Sa aming pangako na mapabuti ang mga paglalakbay at itaguyod ang global na komunikasyon, ang Yoowifi App ay nagbibigay ng walang kapantay na kaginhawahan, pagiging maaasahan, at cost-effectiveness. \n\nAng aming layunin ay magtatag ng isang mundo kung saan ang mga eksperto sa telecom at mga biyahero ay madaling makakonekta sa iba't ibang bansa, nang hindi naiintriga ng mataas na bayad sa roaming. Ang aming misyon ay magtayo ng isang kumpanya na nag-aalok ng madaling ma-access, maaasahan, at walang hangganan na mga serbisyo sa mobile, na nagbibigay kapangyarihan sa mga tao na manatiling konektado sa kanilang mga mahal sa buhay habang nagsasaliksik ng iba't ibang sulok ng mundo.",
+      "image": "images.whoWeAre1"
+    },
+    "features": [
+      "Maaasahang WiFi, saan man ikaw magpunta",
+      "Saklaw ang higit sa 160 mga Bansa",
+      "24/7 Suporta sa Customer",
+      "Pambansang presensya sa higit sa 10 bansa"
+    ],
+    "companyMission": {
+      "title": "Ang Misyon ng aming Kumpanya",
+      "mission": {
+        "title": "Manatiling Konektado Kahit Kailan, Kahit Saan",
+        "year": "2001",
+        "description": "Ang aming misyon ay maghatid ng madaling ma-access, maaasahan, at walang hangganan na mga serbisyo sa data. Nagsusumikap kaming bigyan ng kapangyarihan ang mga indibidwal na manatiling konektado sa kanilang mga mahal sa buhay habang nagsasaliksik ng mga bagong kultura, nakakaranas ng mga pakikipagsapalaran, at gumagala sa iba't ibang sulok ng mundo, upang matiyak ang isang seamless at nakakapagpabagong karanasan sa koneksyon.",
+        "image": "images.companyMission1"
+      }
+    },
+    "awardsAndAchievements": {
+      "header": "Aming mga Gantimpala at Nakamit",
+      "details": [
+        {
+          "year": "2024",
+          "title": "Pinakamost na Inobatibong Travel Wi-Fi Solutions Company 2024",
+          "description": "Iginawad ng AI Business Excellence Awards"
+        },
+        {
+          "year": "2024",
+          "title": "Pinakamabilis na Lumalagong Kumpanya sa Singapore 2024",
+          "description": "Iginawad ng The Straits Times & Statista"
+        }
+      ]
+    },
+    "whatWeDo": {
+      "header": "Ano ang Aming Ginagawa",
+      "details": [
+        {
+          "title": "Management Portal",
+          "description": "Ang aming management portal ay nag-aalok ng isang user-friendly na platform para sa seamless na kontrol at pagsubaybay, nagbibigay kapangyarihan sa iyo upang pamahalaan ang mga serbisyo nang mahusay."
+        },
+        {
+          "title": "Mobile General Solutions",
+          "description": "Ang aming mga solusyon sa mobile ay nagbibigay ng maaasahan, flexible, at cutting-edge na mga serbisyo upang mapanatili kang konektado anumang oras, kahit saan, na angkop para sa parehong personal at negosyo."
+        },
+        {
+          "title": "Custom Solutions",
+          "description": "Tuklasin ang aming mga custom na solusyon na iniakma upang matugunan ang iyong mga natatanging pangangailangan. Nakikipagtulungan kami sa iyo upang magdisenyo ng mga makabago at flexible na mga serbisyo na magpapalago sa iyong negosyo."
+        },
+        {
+          "title": "Events & Roadshows",
+          "description": "Sumali sa amin sa aming mga kapana-panabik na mga kaganapan at roadshow, kung saan ipinapakita namin ang mga makabago at inobatibong solusyon, nakikipag-ugnayan sa mga customer, at hinuhubog ang hinaharap ng seamless na komunikasyon."
+        }
+      ]
+    },
+    "personal": {
+      "heading": "Para sa Personal",
+      "subHeading": "Maaasahang Solusyon para sa Iyong Personal na Koneksyon",
+      "content": [
+        {
+          "title": "Global Coverage",
+          "description": "Manatiling konektado sa 160 bansa, kahit saan pa man magtungo ang iyong paglalakbay gamit ang mga serbisyo ng travel wifi ng Yoowifi."
+        },
+        {
+          "title": "Flexible Data Plans",
+          "description": "Pumili mula sa iba't ibang flexible na mga plano ng data, na nagbibigay-daan sa iyong piliin ang perpektong plano batay sa iyong mga pangangailangan sa paggamit."
+        },
+        {
+          "title": "Hassle-Free Delivery",
+          "description": "Mag-enjoy ng hassle-free na paghahatid na may mabilis at maaasahang serbisyo na nagpapadala ng iyong order nang madali at maginhawa."
+        }
+      ]
+    },
+    "business": {
+      "heading": "Para sa Negosyo",
+      "subHeading": "Binibigyan ang Iyong Negosyo ng Seamless na Koneksyon",
+      "content": [
+        {
+          "title": "Zero Touch On Demand",
+          "description": "Mag-enjoy ng seamless at walang kahirap-hirap na zero-touch, on-demand na serbisyo na iniakma ayon sa iyong mga pangangailangan."
+        },
+        {
+          "title": "Flexible Data Plans",
+          "description": "Flexible na mga plano sa data para sa mga negosyo, na idinisenyo upang umangkop sa natatanging pangangailangan at paggamit ng iyong kumpanya."
+        },
+        {
+          "title": "Multi-homing Network",
+          "description": "Tiyakin ang tuloy-tuloy na koneksyon gamit ang aming multi-homing network, na nag-aalok ng maraming koneksyon para sa mas mataas na pagiging maaasahan at pagganap."
+        }
+      ]
+    }
+  },
+  "recommendedPackages": {
+    "heading": "Inirerekomendang mga Pakete",
+    "subHeading": "Tuklasin ang Aming mga Inirerekomendang Pakete para sa Iyong mga Pangangailangan",
+    "packageList": [
+      {
+        "title": "Basic Package",
+        "features": [
+          "Panatilihin ang Yoowifi device",
+          "Top-up plans lamang",
+          "Valido sa loob ng 365 araw",
+          "Saklaw ang 90 bansa"
+        ],
+        "information": "Ang package na ito ay nagbibigay ng pangunahing koneksyon sa internet, perpekto para sa mga naglalakbay o mga magaan na gumagamit ng internet."
+      },
+      {
+        "title": "Traveler Package",
+        "features": [
+          "Panatilihin ang Yoowifi device",
+          "Top-up plans lamang",
+          "Valido sa loob ng 365 araw",
+          "Saklaw ang 90 bansa"
+        ],
+        "information": "Perpekto para sa mga madalas maglakbay, ang package na ito ay sumusuporta sa global na koneksyon sa internet."
+      },
+      {
+        "title": "Extended Package",
+        "features": [
+          "Panatilihin ang Yoowifi device",
+          "Top-up plans lamang",
+          "Valido sa loob ng 365 araw",
+          "Saklaw ang 90 bansa"
+        ],
+        "information": "Pinalawak ang mga tampok ng standard na package, nag-aalok ng mas mahahabang panahon ng paggamit o karagdagang mga opsyon sa data."
+      },
+      {
+        "title": "Unlimited Package",
+        "features": [
+          "Panatilihin ang Yoowifi device",
+          "Top-up plans lamang",
+          "Valido sa loob ng 365 araw",
+          "Saklaw ang 90 bansa"
+        ],
+        "information": "Nag-aalok ng walang limitasyong data para sa walang alalahaning paggamit ng internet."
+      },
+      {
+        "title": "Light Package",
+        "features": [
+          "Panatilihin ang Yoowifi device",
+          "Top-up plans lamang",
+          "Valido sa loob ng 180 araw",
+          "Saklaw ang 60 bansa"
+        ],
+        "information": "Isang package na dinisenyo para sa magaan na mga gumagamit o panandaliang paggamit."
+      },
+      {
+        "title": "Business Package",
+        "features": [
+          "Panatilihin ang Yoowifi device",
+          "Top-up plans lamang",
+          "Valido sa loob ng 365 araw",
+          "Priority na suporta",
+          "Saklaw ang 100 bansa"
+        ],
+        "information": "Ang package na ito ay inangkop para sa mga negosyanteng gumagamit na madalas maglakbay o mga madalas maglakbay para sa trabaho."
+      },
+      {
+        "title": "Premium Package",
+        "features": [
+          "Panatilihin ang Yoowifi device",
+          "Top-up plans lamang",
+          "Valido sa loob ng 365 araw",
+          "Walang limitasyong data sa mga piling bansa",
+          "Saklaw ang 90 bansa"
+        ],
+        "information": "Nagbibigay ng premium na karanasan sa konektividad na may walang limitasyong data sa mga napiling bansa."
+      },
+      {
+        "title": "Family Package",
+        "features": [
+          "Panatilihin ang Yoowifi device",
+          "Top-up plans lamang",
+          "Valido sa loob ng 365 araw",
+          "Makakonekta ng hanggang 10 device",
+          "Saklaw ang 90 bansa"
+        ],
+        "information": "Isang package na nakatuon sa pamilya na nagbibigay-daan sa maramihang device na kumonekta nang sabay-sabay."
+      },
+      {
+        "title": "Traveler Plus Package",
+        "features": [
+          "Panatilihin ang Yoowifi device",
+          "Top-up plans lamang",
+          "Valido sa loob ng 180 araw",
+          "Pinahusay na data para sa mabigat na mga gumagamit",
+          "Saklaw ang 80 bansa"
+        ],
+        "information": "Isang perpektong opsyon para sa mga naglalakbay na nangangailangan ng mas malaking kapasidad ng data."
+      },
+      {
+        "title": "Global Unlimited Package",
+        "features": [
+          "Panatilihin ang Yoowifi device",
+          "Top-up plans lamang",
+          "Valido sa loob ng 365 araw",
+          "Walang limitasyong data sa buong mundo",
+          "Saklaw ang 100 bansa"
+        ],
+        "information": "Ang pinakamataas na package na nag-aalok ng walang limitasyong data sa buong mundo."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Makipag-ugnayan sa amin",
+    "description": "Kung mayroon kang tanong o alinlangan, punan lamang ang form at kami ay makikipag-ugnayan sa iyo sa lalong madaling panahon!",
+    "letsTalk": {
+      "heading": "Mag-usap Tayo",
+      "subHeading": "Kung mayroon kang mga tanong o alalahanin, punan lamang ang form at makikipag-ugnayan kami sa iyo sa lalong madaling panahon!",
+      "social": [
+        {
+          "_id": 1,
+          "name": "WhatsApp",
+          "text": "I-WhatsApp Kami",
+          "value": "(+65) 6100 9998",
+          "image": "images.whatsapp",
+          "type": "call"
+        },
+        {
+          "_id": 2,
+          "name": "Email",
+          "text": "Email Address",
+          "value": "business@yoowifi.com",
+          "image": "images.email",
+          "type": "email"
+        }
+      ],
+      "form": {
+        "fields": [
+          {
+            "label": "Pangalan",
+            "placeholder": "Ilagay ang iyong pangalan"
+          },
+          {
+            "label": "Numero ng Telepono",
+            "placeholder": "Ilagay ang numero ng telepono"
+          },
+          {
+            "label": "Email Address",
+            "placeholder": "Ilagay ang email address"
+          },
+          {
+            "label": "Paksa",
+            "placeholder": "Isulat ang paksa"
+          },
+          {
+            "label": "Mensahe",
+            "placeholder": "Ikwento ang iyong mga katanungan.."
+          }
+        ]
+      }
+    }
+  },
+  "faqs": {
+    "heading": "Suporta & FAQ",
+    "subHeading": "Magbasa upang makahanap ng mga simpleng solusyon, kapaki-pakinabang na mga tip, at sulitin ang iyong paglalakbay gamit ang Yoowifi.",
+    "content": [
+      {
+        "_id": 1,
+        "question": "Puwede ba akong magtawag gamit ang pocket wifi?",
+        "answer": "Ang pocket wifi ay nagbibigay lamang ng koneksyon sa internet; hindi ito nagpapahintulot ng regular na tawag gamit ang iyong cellular network. Gayunpaman, pinapayagan nitong magtawag gamit ang VoIP tulad ng Skype, Viber, at Google Voice."
+      },
+      {
+        "_id": 2,
+        "question": "Ano ang pagkakaiba ng megabyte (MB) at gigabyte (GB)?",
+        "answer": "Ang isang megabyte (MB) ay 1,024 kilobytes (KB), habang ang isang gigabyte (GB) ay 1,024 megabytes. Karaniwan, ang 1GB ay katumbas ng 1,024MB."
+      },
+      {
+        "_id": 3,
+        "question": "Paano ko ibabalik ang pocket wifi sa pagtatapos ng aking rental period?",
+        "answer": "Maaari mong ibalik ang iyong pocket wifi sa pamamagitan ng pagsunod sa mga tagubilin na ibinigay sa panahon ng renta. Karaniwan, ito ay kinabibilangan ng pagbalik nito sa isang drop-off location o gamit ang ibinigay na return envelope."
+      },
+      {
+        "_id": 4,
+        "question": "Puwede ko bang baguhin ang aking booking information pagkatapos mag-order?",
+        "answer": "Oo, maaari mong baguhin ang iyong booking information pagkatapos mag-order sa pamamagitan ng pagkontak sa aming support team, na tutulong sa iyo sa kinakailangang mga pagbabago."
+      },
+      {
+        "_id": 5,
+        "question": "Paano ko kakanselahin ang aking booking?",
+        "answer": "Upang kanselahin ang iyong booking, mangyaring makipag-ugnayan sa aming customer service team. Ang mga kanselasyon ay maaaring isailalim sa aming cancellation policy."
+      },
+      {
+        "_id": 6,
+        "question": "Maglalakbay ako sa maraming bansa sa buong mundo, ilang device ang kailangan ko?",
+        "answer": "Ang bilang ng device na kailangan mo ay nakadepende sa iyong travel itinerary. Karaniwan, isang device bawat rehiyon o bansa na may partikular na coverage ng data ang inirerekomenda."
+      }
+    ],
+    "footer": {
+      "heading": "May tanong pa?",
+      "description": "Hindi mo ba makita ang sagot na hinahanap mo? Huwag mag-atubiling makipag-chat sa aming magiliw na team!"
+    }
+  },
+  "footer": {
+    "subscribeNewsLetter": "Mag-subscribe sa newsletter!",
+    "copyRightText": "Lahat ng Karapatan ay Nakalaan.",
+    "contact": [
+      {
+        "type": "Tawag"
+      },
+      {
+        "type": "Liham"
+      }
+    ],
+    "legals": [
+      {
+        "title": "Mga Tuntunin ng Paggamit"
+      },
+      {
+        "title": "Patakaran sa Privacy"
+      }
+    ],
+    "menuData": [
+      {
+        "title": "YOOWIFI",
+        "links": [
+          {
+            "label": "Tungkol sa Amin"
+          },
+          {
+            "label": "FAQ"
+          },
+          {
+            "label": "I-download ang App"
+          },
+          {
+            "label": "Makipag-ugnay sa Amin"
+          },
+          {
+            "label": "Mga Tuntunin ng Serbisyo"
+          },
+          {
+            "label": "Patakaran sa Privacy"
+          }
+        ]
+      },
+      {
+        "title": "PARA SA YOO",
+        "links": [
+          {
+            "label": "Travel Data"
+          },
+          {
+            "label": "Coverage ng Bansa"
+          },
+          {
+            "label": "Local Data"
+          },
+          {
+            "label": "Mga Lokasyon ng Pickup / Drop-off"
+          },
+          {
+            "label": "Mga Produkto"
+          },
+          {
+            "label": "Paano ito gumagana"
+          }
+        ]
+      },
+      {
+        "title": "KORPORATIBA",
+        "links": [
+          {
+            "label": "Iot"
+          },
+          {
+            "label": "Hotel"
+          },
+          {
+            "label": "Ahensya ng Paglalakbay"
+          },
+          {
+            "label": "Maritime Internet"
+          },
+          {
+            "label": "Mga Opisina / Roadshow & Kaganapan"
+          }
+        ]
+      }
+    ]
+  },
+  "corporateHero": {
+    "heading": "Korporatiba",
+    "subHeading": "Ang UR Communications Pte Ltd, na nagpapatakbo sa ilalim ng kilalang brand na Yoowifi, ay nag-aalok ng isang advanced na solusyon para sa walang kahirap-hirap na global connectivity sa pamamagitan ng intuitive na mobile application nito. Sa pangako na pagyamanin ang mga paglalakbay at itaguyod ang global na komunikasyon, ang Yoowifi App ay naghahatid ng hindi matatawarang kaginhawahan, pagiging maaasahan, at cost-effectiveness."
+  },
+  "iot": {
+    "pageTitle": "IOT",
+    "description": "Manatiling konektado sa iyong tahanan, pamilya, at negosyo sa lahat ng oras gamit ang isang device! Ang mga ito ay dinisenyo upang matugunan ang iyong mga natatanging pangangailangan, maging ikaw man ay isang indibidwal o negosyo.",
+    "featureList": [
+      "Laki ng Datos",
+      "Tukoy sa Operator",
+      "Pamamahala ng platform at Pagsubaybay",
+      "Isa o Maramihang Bansa"
+    ]
+  },
+  "hotel": {
+    "pageTitle": "HOTEL",
+    "description": "Gawing tahanan ang iyong hotel na may mabilis na koneksyon sa internet! Maaaring manatiling produktibo ang iyong mga bisita saan man sila naroroon, at ang iyong negosyo ay maaaring mag-stand out mula sa kumpetisyon.",
+    "featureList": [
+      "Manatiling konektado kahit na maantala ang operasyon",
+      "Mabilis na deployment",
+      "Customized na solusyon upang panatilihing konektado ang iyong koponan sa buong mundo"
+    ]
+  },
+  "travelAgency": {
+    "pageTitle": "AHENSIYA NG PAGBABIYAHE",
+    "description": "Magbigay ng impormasyon para sa iyong mga kliyente sa bilis ng kidlat gamit ang aming mga solusyon sa WiFi. Makipag-ugnayan nang epektibo sa mga kasosyo at iwasan ang pagkabigo mula sa mahinang koneksyon o hindi maaasahang signal strength.",
+    "featureList": [
+      "Laki ng Datos",
+      "Tukoy sa Operator",
+      "Pamamahala ng platform at Pagsubaybay",
+      "Isa o Maramihang Bansa"
+    ]
+  },
+  "maritimeInternet": {
+    "pageTitle": "INTERNET SA DAGAT",
+    "description": "Hayaan kaming gabayan ka sa iyong pangangailangan sa internet sa malawak na dagat. Mapapanatili namin ang koneksyon ng iyong crew at ang negosyo sa pamamagitan ng aming mga solusyon. Kaya’t saan man magpunta ang barko, maaari mong tangkilikin ang broadband na walang hangganan.",
+    "featureList": [
+      "Isa o Maramihang Bansa",
+      "Mabilis na deployment",
+      "Customized na solusyon upang panatilihing konektado ang iyong koponan sa buong mundo"
+    ]
+  },
+  "office": {
+    "pageTitle": "OPISINA / ROADSHOW EVENTS",
+    "description": "Saan ka man magpunta, manatiling konektado gamit ang aming mga solusyon sa WiFi! Maging sa opisina o nagho-host ng roadshow, tamasahin ang seamless at lightning-quick na access sa internet. Huwag hayaang magka-aberya ang iyong araw ng trabaho kasama kami sa Yoowifi!",
+    "featureList": [
+      "Mabilis at maaasahang koneksyon",
+      "Dedikadong suporta",
+      "Makatarungang gastos o Sponsorship"
+    ]
+  },
+  "corporateSharedHero": {
+    "heading": "Kumonekta sa Paglalakbay",
+    "items": ["Portable Hotspot", "eSim", "SIM card"]
+  },
+  "commercial": {
+    "pageTitle": "Komersyal",
+    "description": "Itaguyod ang iyong produktibidad sa susunod na antas gamit ang aming walang patid na koneksyon! Nagbibigay kami ng pintuan patungo sa digital na mundo na magpapasaya sa iyong araw ng walang abala."
+  },
+  "benefits": {
+    "heading": "Mga Benepisyo",
+    "subHeading": "Huwag hayaan ang mabagal na internet na magpigil sa iyo! Lumipat sa aming mga portable na solusyon upang maranasan ang koneksyon na walang hangganan.",
+    "benefitsData": [
+      {
+        "title": "Dedikadong Aplikasyon",
+        "content": "Magkaroon ng kontrol sa iyong mga pangangailangan sa koneksyon gamit ang aming online management portal, na nagbibigay ng kapangyarihan para sa isang maayos at walang abalang karanasan."
+      },
+      {
+        "title": "Makatipid sa Gastos",
+        "content": "Tamasahin ang abot-kayang at walang abalang koneksyon gamit ang teknolohiya ng vSIM ng Yoowifi, na nag-aalis ng magastos na roaming charges para sa abot-kayang serbisyo ng data."
+      },
+      {
+        "title": "Customisable na Mga Plano ng Data",
+        "content": "Iayos ang iyong data package upang matugunan ang iyong mga tiyak na pangangailangan at mag-scale habang lumalaki ang iyong negosyo."
+      }
+    ]
+  },
+  "pocketWifiDetails": {
+    "pocketWifiDayPass": {
+      "headers": ["Pocket Wifi-Unlimited Daypass", "1GB/araw", "5GB/araw"],
+      "plans": [
+        "Hong Kong, Indonesia, Japan, Macau, Malaysia, Philippines, South Korea, Taiwan, Thailand, Vietnam 1 Araw",
+        "Australia, Brunei, Canada, Cambodia, China (may VPN), Europe, Laos, Mexico, New Zealand, Turkey, USA 1 Araw",
+        "Bahrain, Bangladesh, Egypt, India, Israel, Jordan, Kazakhstan, Kuwait, Oman, Pakistan, Qatar, Saudi Arabia, South Africa, Sri Lanka, UAE, Uzbekistan 1 Araw"
+      ]
+    },
+    "restOfTheWorldDayPass": {
+      "headers": [
+        "Rest of the World-Unlimited Daypass",
+        "1GB/araw",
+        "5GB/araw"
+      ],
+      "plan": "Algeria, Anguilla, Antigua at Barbuda, Argentina, Aruba, Azerbaijan, Bolivia, Brazil, British Virgin Islands, Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, El Salvador, Fiji, French Antilles (Martinique), French Sint Maarten, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Jamaica, Kyrgyzstan, Maldives, Mongolia, Myanmar, Netherlands Antilles (Curacao), Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Vincent and the Grenadines, Suriname, Tahiti, Tajikistan, the Cayman Islands, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela"
+    },
+    "sim": {
+      "heading": "SIM/eSIM",
+      "subHeading": "Lorem Ipsum ay isang dummy text na ginagamit sa industriya ng pag-imprenta at typesetting.",
+      "description": {
+        "title": "Mga Deskripsyon",
+        "content": "Ang aming Sim/eSim ay perpekto para sa mga taong pinahahalagahan ang kaginhawaan at kadalian ng paggamit. Maaari mo itong i-activate sa loob ng ilang minuto at magsimula nang tamasahin ang lahat ng mga benepisyo na kasama nito. Kung ikaw ay isang estudyante, isang propesyonal, o sinuman na nangangailangan ng maaasahang serbisyo ng telekomunikasyon, ang aming Sim/E-Sim ay ang perpektong solusyon para sa iyo. Nag-aalok kami ng mga kompetitibong presyo, flexible na mga plano, at mahusay na customer support upang matiyak na makakakuha ka ng pinakamahusay na halaga para sa iyong pera!"
+      }
+    },
+    "simDataPlan": {
+      "headers": [
+        "SIM/eSIM-Unlimited Data Plan",
+        "500MB/araw",
+        "1GB/araw",
+        "2GB/araw"
+      ],
+      "plans": [
+        "Malaysia/Thailand 1 araw",
+        "China 1 Araw",
+        "South Korea 3 Araw",
+        "Japan 3 Araw",
+        "Europe 5 Araw",
+        "Australia 5 Araw"
+      ]
+    },
+    "regionalCountries": "*Europe: Albania, Armenia, Andorra, Austria, Belgium, Bosnia at Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Georgia, Gibraltar, Greece, Guernsey, Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Latvia, Liechtenstein, Lithuania, Luxembourg, Macedonia, Malta, Monaco, Montenegro, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Ukraine, United Kingdom, Vatican"
+  },
+  "pocketWifiRegion": {
+    "tabs": ["Pocket WIFI", "SIM/eSIM", "Router"],
+    "header": {
+      "text": "Pumili ng Produkto"
+    },
+    "form": {
+      "fields": [
+        {
+          "label": "Bansa",
+          "placeholder": "Pumili ng Bansa"
+        },
+        {
+          "label": "Promo code",
+          "placeholder": "Promo code"
+        },
+        {
+          "label": "Member ID",
+          "placeholder": "Ilagay ang member id"
+        }
+      ]
+    }
+  },
+  "pocketWifiPlan": {
+    "heading": "Pumili ng Plano",
+    "tabs": ["lahat", "araw-araw", "buwanang", "maramihang-bansa"]
+  },
+  "discountDownloadApp": {
+    "title": "Sa Mobile App",
+    "percentage": "8% Diskwento",
+    "description": "Mga advanced na tampok para sa isang maginhawang digital na karanasan kahit kailan, saanman!"
+  },
+  "pickDropLocation": {
+    "heroTitle": "Mga Lokasyon ng Pagkuha at Pagbabalik"
+  },
+  "routerRegion": {
+    "tabs": ["Pocket WIFI", "SIM/eSIM", "Router"],
+    "header": {
+      "text": "Pumili ng Produkto"
+    },
+    "form": {
+      "fields": [
+        {
+          "label": "Bansa",
+          "placeholder": "Pumili ng Bansa"
+        },
+        {
+          "label": "Promo code",
+          "placeholder": "Promo code"
+        },
+        {
+          "label": "Member ID",
+          "placeholder": "Ilagay ang member id"
+        }
+      ]
+    }
+  },
+  "routerPlan": {
+    "heading": "Pumili ng Plano",
+    "tabs": ["lahat", "araw-araw", "buwan-buwan", "maraming-bansa"]
+  },
+  "simRegion": {
+    "tabs": ["Pocket WIFI", "SIM/eSIM", "Router"],
+    "header": {
+      "text": "Pumili ng Produkto"
+    },
+    "form": {
+      "fields": [
+        {
+          "label": "Bansa",
+          "placeholder": "Pumili ng Bansa"
+        },
+        {
+          "label": "Promo code",
+          "placeholder": "Promo code"
+        },
+        {
+          "label": "Member ID",
+          "placeholder": "Ilagay ang member id"
+        }
+      ]
+    }
+  },
+  "simPlan": {
+    "heading": "Pumili ng Plano",
+    "tabs": ["lahat", "araw-araw", "buwan-buwan", "maramihang-bansa"]
+  },
+  "simInformation": {
+    "accordionData": {
+      "items": [
+        {
+          "title": "Impormasyon",
+          "content": "Mag-enjoy ng Mataas na Bilis ng Internet. Agarang Koneksyon hanggang B Device. 4G Internet Speed. Hanggang 12 oras ng baterya ng device. Ycxywifi 24/7 Customer Support. Kasama ang Pocket Wifi Device, Charging Cable, Pouch. Pwedeng magdagdag ng mga araw o plano anumang oras."
+        },
+        {
+          "title": "Mga Bansang Saklaw",
+          "content": "Algeria, Anguilla, Antigua at Barbuda, Argentina, Aruba, Azerbaijan, Bolivia, Brazil, British Virgin Islands, Chile, Colombia, Costa Rica."
+        },
+        {
+          "title": "Paano Gamitin",
+          "content": "50GB global data ay naaayon sa 90 bansa. Ang bilis ng serbisyo ay depende sa mobile network partner. Para sa kanselasyon ng order, mayroong 10% na singil mula sa kabuuang halaga ng order. Ang mga pangkalahatang tuntunin at kondisyon ay naaangkop. Ang Yoowifi ay may karapatang magbago anumang oras."
+        },
+        {
+          "title": "Pagkakatugma",
+          "content": [
+            "50GB global data ay naaayon sa 90 bansa.",
+            "Ang bilis ng serbisyo ay depende sa mobile network partner.",
+            "Para sa kanselasyon ng order, mayroong 10% na singil mula sa kabuuang halaga ng order.",
+            "Ang Yoowifi ay may karapatang magbago anumang oras."
+          ]
+        }
+      ]
+    }
+  },
+  "shippingOptions": [
+    {
+      "title": "Self Pickup",
+      "subtitle": "Pumili ng iyong lokasyon",
+      "description": "Pagkuha ng Device: 5 araw bago ang biyahe"
+    },
+    {
+      "title": "Domestic",
+      "subtitle": "",
+      "description": "Sa loob ng 5 araw na negosyo bago ang biyahe para sa Disyembre gamit ang return mailer bag. Para sa advance na mga order, ang paghahatid ay sa loob ng 3 araw bago ang biyahe"
+    },
+    {
+      "title": "Domestic Express",
+      "subtitle": "",
+      "description": "Sa loob ng 2 araw na negosyo para sa mga order bago mag-2pm gamit ang return mailer bag"
+    },
+    {
+      "title": "Domestic Super Express",
+      "subtitle": "",
+      "description": "Sa parehong araw ng negosyo bago mag-2pm gamit ang return mailer bag"
+    }
+  ],
+  "orderSummary": {
+    "orderSummary": "Buod ng Order",
+    "planName": "Pangalan ng Plano",
+    "minimumCharges": "Minimum na Singil",
+    "deposit": "Deposito",
+    "subtotal": "Sub-total",
+    "quantity": "Dami",
+    "selfPickupDeliveryFee": "Fee para sa Self pick-up",
+    "returnDropOffFee": "Fee para sa Return drop-off",
+    "totalDeliveryCharges": "Kabuuang Charges para sa Delivery",
+    "totalDataCharges": "Kabuuang Charges para sa Data",
+    "paymentInformation": "Impormasyon ng Pagbabayad",
+    "noCardAdded": "Walang Kard na Idinagdag",
+    "addCard": "Magdagdag ng Kard",
+    "addNewPaymentMethod": "Magdagdag ng Bagong Pamamaraan ng Pagbabayad",
+    "termsAndConditions": "Mga Termino at Kondisyon",
+    "privacyPolicy": "Patakaran sa Pagkapribado",
+    "readAndAgree": "Nabasa ko at sumasang-ayon sa",
+    "orderConfirmed": "Nakonpirma ang Order!",
+    "welcomeMessage": "Masaya kaming makita kang muli. Tara, simulan na ang iyong mga kurso.",
+    "continue": "Magpatuloy",
+    "simType": "Uri ng SIM"
+  },
+  "setupPocketWifi": {
+    "heading": "Paano ikonekta ang Pocket WiFi?",
+    "subHeading": "Madaling Ikonekta ang Iyong Pocket WiFi sa Ilang Simpleng Hakbang",
+    "setupSteps": [
+      {
+        "step": 1,
+        "title": "Buksan ang Pocket WiFi",
+        "description": "Pindutin ang power button upang buksan ito at maghintay hanggang kumonekta sa network."
+      },
+      {
+        "step": 2,
+        "title": "Hanapin ang WiFi Pangalan",
+        "description": "Tingnan ang screen ng device para sa WiFi network name (SSID)."
+      },
+      {
+        "step": 3,
+        "title": "Ikonekta sa WiFi",
+        "description": "Sa iyong smartphone, tablet, o laptop, buksan ang WiFi settings, piliin ang SSID, ilagay ang password na makikita sa device, at ikaw ay makokonekta na sa internet."
+      }
+    ]
+  },
+  "returnDevicePocketWifi": {
+    "heading": "Paano Ibalik ang Device?",
+    "subHeading": "Sundin ang aming madaling hakbang para sa isang walang aberyang karanasan sa pagbabalik.",
+    "cardData": [
+      {
+        "title": "Singpost Drop-Off",
+        "description": "Kapag umarkila ka ng device, isang pre-paid return label ang isasama sa package. Maaari mong gamitin ang label na ito upang madaling ibalik ang device. Pagkatapos itong ibalik, malamang ay makakatanggap ka ng email confirmation kapag naproseso na ang pagbabalik.",
+        "buttonText": "Tingnan ang mga Lokasyon"
+      },
+      {
+        "title": "Pickup Drop-off Locations",
+        "description": "Sa Yoowifi, maaari mong kunin ang iyong device sa alinman sa aming mga itinalagang lokasyon at ibalik ito sa isa sa aming 30+ maginhawang drop-off point sa buong isla. Ang pinadali na prosesong ito ay nagbibigay ng walang aberyang karanasan, na nagpapahintulot sa iyong manatiling konektado saan man magtungo ang iyong mga paglalakbay!",
+        "buttonText": "Tingnan ang mga Lokasyon"
+      }
+    ]
+  },
+  "pocketWifiTopUp": {
+    "heading": "Paano Mag-Top Up ng Plan",
+    "subHeading": "Madaling Pamahalaan ang Iyong Mga Pangangailangan sa Data gamit ang Yoowifi Top-Up",
+    "setupSteps": [
+      {
+        "step": 1,
+        "title": "Piliin ang Iyong Device",
+        "description": "Buksan ang Yoowifi app, pumunta sa My Data, at piliin ang device na nais mong i-top up."
+      },
+      {
+        "step": 2,
+        "title": "Pumili ng Iyong Plan",
+        "description": "I-click ang Add Data, piliin ang iyong nais na bansa at plan, at itakda ang start at end dates."
+      },
+      {
+        "step": 3,
+        "title": "Magpatuloy sa Pag-checkout",
+        "description": "Kumpirmahin ang iyong mga pinili at magpatuloy sa checkout."
+      }
+    ]
+  },
+  "affiliate": {
+    "affiliateServiceData": [
+      {
+        "title": "Piliin ang Iyong Device",
+        "description": "Buksan ang Yoowifi app, pumunta sa My Data, at piliin ang device na nais mong i-top up."
+      },
+      {
+        "title": "Pumili ng Iyong Plan",
+        "description": "I-click ang Add Data, piliin ang iyong nais na bansa at plan, at itakda ang start at end dates."
+      },
+      {
+        "title": "Magpatuloy sa Pag-checkout",
+        "description": "Kumpirmahin ang iyong mga pinili at magpatuloy sa checkout."
+      }
+    ],
+    "banner": {
+      "pageTitle": "AFFILIATE",
+      "description": "Kung mayroon kang tanong o alinlangan, punan lamang ang form at makikipag-ugnayan kami sa iyo sa lalong madaling panahon!"
+    },
+    "joinAffiliateSection": {
+      "sectionId": "join-affiliate",
+      "secCommon80Class": "sec_common_80 xl:!px-0",
+      "sectionHeader": {
+        "heading": "Sumali sa YooWander Program",
+        "midHeading": "Mag-explore ng Mundo at Manatiling Konektado!",
+        "subHeading": "Ikaw ba ay isang travel-loving influencer na pinahahalagahan ang manatiling konektado at magbahagi ng mga pakikipagsapalaran sa iyong mga tagasubaybay? Sumali sa Yoowifi Affiliate Yoo Wander program para sa isang kapana-panabik na partnership. Nandito kami upang suportahan ang iyong orihinal na travel content at panatilihin kang konektado gamit ang LIBRENG global data."
+      }
+    }
+  },
+  "howItWorksPage": {
+    "rentWifiSection": {
+      "sectionHeader": {
+        "heading": "Magrenta ng Yoowifi Pocket WiFi sa 3 Madaling Hakbang!",
+        "subHeading": "Piliin ang iyong plano, kolektahin ang iyong device, at manatiling konektado ng walang kahirap-hirap saan man magtungo!"
+      },
+      "rentWifiData": [
+        {
+          "step": "Hakbang-1",
+          "title": "Kunin ang Yoowifi App",
+          "description": "I-download ang Yoowifi App (para sa mga bagong user lang)",
+          "buttonText": "I-download ang Yoowifi",
+          "icon": "DownloadFillIcon"
+        },
+        {
+          "step": "Hakbang-2",
+          "title": "Piliin ang Iyong Plano",
+          "description": "Sa app, hanapin ang iyong destinasyon na bansa, piliin ang laki ng data, at itakda ang start at end dates."
+        },
+        {
+          "step": "Hakbang-3",
+          "title": "Kumpletuhin ang Iyong Pag-book",
+          "description": "Piliin ang iyong nais na paraan ng pagpapadala at magpatuloy sa checkout."
+        }
+      ],
+      "links": [
+        {
+          "title": "Mga Drop Off Locations"
+        },
+        {
+          "title": "Makipag-ugnayan sa Amin",
+          "variant": "secondary"
+        }
+      ]
+    },
+    "deliveryChargesSection": {
+      "sectionHeader": {
+        "heading": "Mga Singil sa Pagpapadala",
+        "subHeading": "Huwag hayaang hadlangan ka ng mabagal na internet! Lumipat sa aming mga portable na solusyon upang maranasan ang konektividad na walang hangganan."
+      },
+      "howItWorksData": [
+        {
+          "type": "Local",
+          "typeSuffix": "",
+          "duration": "3-4 Business days"
+        },
+        {
+          "type": "Express",
+          "typeSuffix": "(Order by 10am)",
+          "duration": "3-4 Business days"
+        },
+        {
+          "type": "Super Express",
+          "typeSuffix": "(Order by 10am)",
+          "duration": "3-4 Business days"
+        },
+        {
+          "type": "Standard International",
+          "typeSuffix": "",
+          "duration": "3-4 Business days"
+        }
+      ]
+    },
+    "rentServices": [
+      {
+        "title": "Local return mailer bag",
+        "description": "I-pack lang ang device at mga accessories nito sa prepaid at return mailer bag at ipadala sa anumang SingPost mailbox."
+      },
+      {
+        "title": "Self-Return",
+        "description": "I-pack lang ang device at mga accessories nito at maaari mo itong i-return sa kahit anong pickup/Return location."
+      },
+      {
+        "title": "International Courier",
+        "description": "Makipag-ugnayan sa lokal na DHL upang kunin ang device kung mayroon kang return mailer bag / ayusin ang iyong sariling courier."
+      }
+    ],
+    "selfReturnSection": {
+      "sectionHeader": {
+        "heading": "Madaling Self-Return sa Mas Mababa sa Isang Minuto",
+        "subHeading": "Sa Yoowifi, madaling kunin ang iyong device sa alinmang itinalagang lokasyon at ibalik ito sa isa sa 20+ drop-off points sa buong isla. Mag-enjoy ng walang hassle na karanasan at manatiling konektado saan man magtungo ang iyong mga paglalakbay!"
+      },
+      "selfReturnData": [
+        {
+          "title": "Mag-login sa Yoowifi App",
+          "description": "Simulan sa pagbisita sa alinmang sa aming 20+ pickup at return locations. Sa app, pumunta sa 'My Data', piliin ang device na nais mong ibalik, at i-tap ang 'Return Device'."
+        },
+        {
+          "title": "I-scan ang QR Code ng Lokasyon",
+          "description": "Sunod, i-scan ang QR code ng lokasyon na ibinigay ng staff."
+        },
+        {
+          "title": "I-scan ang QR Code ng Device",
+          "description": "I-scan ang QR code na matatagpuan sa likod ng device upang makumpleto ang return."
+        }
+      ]
+    },
+    "topUpSection": {
+      "sectionHeader": {
+        "heading": "Top Up ng Iyong Data sa Ilang Hakbang lang",
+        "subHeading": "Magdagdag ng data ng walang kahirap-hirap sa ilang tap lang, upang matiyak na manatiling konektado ka."
+      },
+      "topUpData": [
+        {
+          "title": "Piliin ang Iyong Device",
+          "description": "Buksan ang Yoowifi app, pumunta sa My Data, at piliin ang device na nais mong i-top up."
+        },
+        {
+          "title": "Pumili ng Iyong Plano",
+          "description": "I-click ang Add Data, piliin ang iyong nais na bansa at plan, at itakda ang start at end dates."
+        },
+        {
+          "title": "Magpatuloy sa Pag-checkout",
+          "description": "Kumpirmahin ang iyong mga pinili at magpatuloy sa checkout."
+        }
+      ]
+    }
+  },
+  "countryCoverage": {
+    "sectionHeader": {
+      "heading": "Saklaw ng Bansa",
+      "subHeading": "Maglakbay sa buong mundo nang may tiwala! Manatiling konektado at handa sa data, anumang oras, saan man!"
+    },
+    "regionList": [
+      {
+        "name": "Asia",
+        "value": "asia"
+      },
+      {
+        "name": "Europa",
+        "value": "europe"
+      },
+      {
+        "name": "Amerika",
+        "value": "america"
+      },
+      {
+        "name": "Australia",
+        "value": "australia"
+      },
+      {
+        "name": "Africa",
+        "value": "africa"
+      }
+    ]
+  },
+  "stayConnectedCTA": {
+    "heading": "Manatiling Konektado Lahat ng Dako",
+    "subHeading": "140+ Bansa",
+    "description": "Isang mundo ng walang alalahaning WiFi sa iyong mga kamay. Kumonekta sa de-kalidad na internet habang naglalakbay—hindi mahalaga kung saan ka man patungo."
+  },
+  "login": {
+    "title": "Kinakailangan ang Pag-login!",
+    "text": "Mangyaring mag-log in upang magpatuloy."
+  },
+  "authModal": {
+    "authMessages": {
+      "welcomeBack": {
+        "title": "Maligayang Pagbalik!",
+        "text": "Masaya kaming makita ka ulit. Simulan na ang iyong mga kurso."
+      },
+      "verification": {
+        "title": "Beripikasyon",
+        "text": "Isang code ng kumpirmasyon ay ipinadala sa iyong email at numero ng telepono."
+      },
+      "signUp": {
+        "title": "Mag-sign Up",
+        "text": "Masaya ang magrehistro. Magsimula na!"
+      },
+      "signUpSuccessful": {
+        "title": "Matagumpay ang Pag-sign Up!",
+        "text": "Salamat sa pagsali! Ang iyong account ay handa na."
+      },
+      "loginSuccessful": {
+        "title": "Matagumpay ang Pag-log In!",
+        "text": "Maligayang pagbalik! Handa ka na bang magpatuloy?"
+      },
+      "accountReady": {
+        "title": "Handa na ang Account!",
+        "text": "Salamat sa pagsali! Ang iyong account ay handa na."
+      }
+    },
+    "placeholders": {
+      "firstName": "Unang Pangalan",
+      "lastName": "Huling Pangalan",
+      "email": "Email"
+    },
+    "prompts": {
+      "noAccount": {
+        "text": "Wala pang account?",
+        "linkText": "Magrehistro Ngayon"
+      },
+      "hasAccount": {
+        "text": "May account na?",
+        "linkText": "Mag-login"
+      },
+      "resendOTP": {
+        "text": "Wala bang natanggap na OTP?",
+        "linkText": "Muling Ipadala ang Code"
+      }
+    }
+  }
+}
