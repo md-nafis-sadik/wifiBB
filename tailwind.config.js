@@ -94,10 +94,11 @@ export default {
         secondary: {
           100: "#E6F4FB",  // Lightest tint (10% of #299ED3)
           200: "#C3E5F6",  // 20% tint
-          300: "#9FD5F1",  // 30% tint
+          300: "#9FD5F1",
           400: "#5BBBE8",  // 50% tint
           450: "#3AAEE2",  // Between 400-500
-          500: "#17A1D9",  // Your original base blue
+          500: "#17A1D9",
+          525: "#299ED3",   // Your original base blue
           550: "#0D94D0",  // Between 500-600
           600: "#0285C3",  // Your deep blue
           650: "#0274A8",  // Slightly darker
