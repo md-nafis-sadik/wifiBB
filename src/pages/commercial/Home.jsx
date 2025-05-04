@@ -1,3 +1,4 @@
+import CountryGrid from "@/components/commercial/home/CountryGrid";
 import GetYourOwn from "@/components/commercial/home/GetYourOwn";
 import Hero from "@/components/commercial/home/Hero";
 import HowItWorks from "@/components/commercial/home/HowItWorks";
@@ -14,6 +15,7 @@ function Home() {
     <div className="overflow-hidden w-full">
       <Hero />
       <TravelPlans/>
+      <CountryGrid/>
       {/* <Products />
       <GetYourOwn />
       <InternetPackage />

@@ -80,8 +80,20 @@ import whatsapp from "@/assets/images/whatsapp.webp";
 import whoWeAre1 from "@/assets/images/who-we-are-1.webp";
 import blackPocketWifiEn from "@/assets/images/pocket-wifi/black-pocket-wifi-en.webp";
 import heroImage from "@/assets/images/hero.png";
+import country1Image from "@/assets/images/country-images/country1.jpg";
+import country2Image from "@/assets/images/country-images/country2.jpg";
+import country3Image from "@/assets/images/country-images/country3.jpg";
+import country4Image from "@/assets/images/country-images/country4.jpg";
+import country5Image from "@/assets/images/country-images/country5.jpg";
+import country6Image from "@/assets/images/country-images/country6.jpg";
 
 export {
+  country1Image,
+  country2Image,
+  country3Image,
+  country4Image,
+  country5Image,
+  country6Image,
   BelgiumFlag,
   heroImage,
   CroatiaFlag,

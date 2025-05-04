@@ -69,7 +69,7 @@ function Hero() {
           className="bg-white rounded-3xl shadow-lg w-[95%] max-w-2xl lg:max-w-3xl p-5"
         >
           <div>
-            <div className="block md:flex items-center justify-between gap-4">
+            <div className="block md:flex items-center justify-between gap-2">
               <div className="w-full md:w-[50%] relative">
                 <div>
                   <input
@@ -95,7 +95,7 @@ function Hero() {
               </div>
             </div>
 
-            <div className="block md:flex items-center justify-between gap-4 mt-4">
+            <div className="block md:flex items-center justify-between gap-2 mt-4">
               <Controller
                 name="startDate"
                 control={control}
@@ -109,7 +109,7 @@ function Hero() {
                 )}
               />
 
-<div className=" mt-4 md:mt-0"></div>
+            <div className=" mt-4 md:mt-0"></div>
               <Controller
                 name="endDate"
                 control={control}
@@ -125,7 +125,7 @@ function Hero() {
 
               <button
                 type="submit"
-                className="w-full md:w-[20%] bg-yellow-300 hover:bg-yellow-500 text-black font-bold py-3 px-4 rounded-full text-sm lg:text-sm mt-4 md:mt-0"
+                className="w-full md:w-[20%] bg-yellow-300 hover:bg-yellow-500  text-black font-bold py-3 px-4 rounded-full text-sm lg:text-sm mt-4 md:mt-0"
               >
                 Search Plan
               </button>

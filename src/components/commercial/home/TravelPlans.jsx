@@ -1,9 +1,10 @@
+import { images } from "@/services";
 import React, { useState } from "react";
 
 const plans = [
   {
     country: "Japan",
-    image: "/images/japan.jpg",
+    image: images.country1Image,
     price: 46,
     original: 88,
     highlight: true,
@@ -16,7 +17,7 @@ const plans = [
   },
   {
     country: "Korea",
-    image: "/images/korea.jpg",
+    image: images.country2Image,
     price: 49,
     original: 88,
     details: [
@@ -28,7 +29,7 @@ const plans = [
   },
   {
     country: "China",
-    image: "/images/china.jpg",
+    image: images.country3Image,
     price: 78,
     original: 88,
     details: [
@@ -40,7 +41,7 @@ const plans = [
   },
   {
     country: "Taiwan",
-    image: "/images/taiwan.jpg",
+    image: images.country4Image,
     price: 49,
     original: 88,
     details: [
@@ -52,7 +53,7 @@ const plans = [
   },
   {
     country: "Thailand",
-    image: "/images/thailand.jpg",
+    image: images.country5Image,
     price: 49,
     original: 88,
     details: [
@@ -64,7 +65,7 @@ const plans = [
   },
   {
     country: "Australia",
-    image: "/images/australia.jpg",
+    image: images.country6Image,
     price: 78,
     original: 110,
     details: [
@@ -76,7 +77,7 @@ const plans = [
   },
   {
     country: "Singapore",
-    image: "/images/singapore.jpg",
+    image: images.country1Image,
     price: 65,
     original: 95,
     details: [
@@ -88,7 +89,7 @@ const plans = [
   },
   {
     country: "Malaysia",
-    image: "/images/malaysia.jpg",
+    image: images.country2Image,
     price: 55,
     original: 85,
     details: [
@@ -100,7 +101,7 @@ const plans = [
   },
   {
     country: "Vietnam",
-    image: "/images/vietnam.jpg",
+    image: images.country3Image,
     price: 52,
     original: 82,
     details: [
@@ -116,13 +117,13 @@ const PlanCard = ({ plan, selected, onSelect }) => {
   return (
     <div
       onClick={onSelect}
-      className={`cursor-pointer rounded-xl overflow-hidden border-2 shadow-md flex flex-col justify-between transition-transform hover:scale-105 ${
+      className={`cursor-pointer rounded-xl overflow-hidden border-2 shadow-md flex flex-col justify-between transition-transform hover:scale-101 p-2 ${
         selected
           ? "border-main-600 bg-main-600"
-          : "border-zinc-700 bg-zinc-900"
+          : "border-zinc-700 "
       }`}
     >
-      <img src={plan.image} alt={plan.country} className="w-full h-40 object-cover" />
+      <img src={plan.image} alt={plan.country} className="w-full h-80 object-cover rounded-lg" />
       <div className="p-4 flex-1 flex flex-col justify-between">
         <div className=" mb-6">
           <h3 className={`text-2xl mb-6 font-bold ${selected ? "text-black" : "text-white"}`}>{
@@ -145,7 +146,7 @@ const PlanCard = ({ plan, selected, onSelect }) => {
             className={`rounded-full text-sm px-6 py-3 font-semibold transition-colors duration-200 ${
               selected
                 ? "bg-black text-main-600 hover:bg-zinc-800"
-                : "bg-black text-main-600 border border-main-600 hover:bg-main-600"
+                : "bg-black text-main-600 border border-main-600 hover:bg-main-600 hover:text-black-900"
             }`}
           >
             Buy now
@@ -165,9 +166,12 @@ const TravelPlans = () => {
   };
 
   return (
-    <div className="min-h-screen bg-black py-10 px-4 sm:px-8">
-      <div>Top</div>
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 max-w-7xl mx-auto">
+    <div className="min-h-screen bg-black py-12 lg:py-28 px-4 sm:px-8 ">
+      <div className="mb-8">
+        <div className="text-white text-5xl font-semibold text-center mb-4">Top Destinations</div>
+        <div className="text-black-600 text-center">Discover the most sought-after locations for unforgettable experiences.</div>
+      </div>
+      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-8 max-w-7xl mx-auto">
         {plans.slice(0, visible).map((plan, idx) => (
           <PlanCard
             key={idx}
