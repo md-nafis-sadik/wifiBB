@@ -190,6 +190,7 @@
   },
   "heroHome": {
     "heroConnected": {
+      "travelPrompt": "Where Are You Travelling Today?",
       "stayConnected": "Stay Connected",
       "anyTimeAnyWhere": "Anytime, Anywhere",
       "seamlessConnectivity": "Seamless Connectivity"
@@ -1588,7 +1589,7 @@
     "copyRightText": "All Rights Reserved.",
     "contact": [
       {
-        "type": "Call"
+        "type": "WifiBB - Your solution for reliable, global connectivity with eSIM technology."
       },
       {
         "type": "Mail"
@@ -1600,75 +1601,41 @@
       },
       {
         "title": "Privacy policy"
+      },
+      {
+        "title": "Refund Policy"
       }
     ],
     "menuData": [
       {
-        "title": "YOOWIFI",
+        "title": "Services & Plans",
         "links": [
           {
-            "label": "About Us"
+            "label": "Pricing & Ordering"
+          },
+          {
+            "label": "How to use WiFiBB"
+          },
+          {
+            "label": "Membership"
+          }
+        ]
+      },
+      {
+        "title": "Support & Deals",
+        "links": [
+          {
+            "label": "Promo"
           },
           {
             "label": "FAQ"
           },
           {
-            "label": "Download the app"
-          },
-          {
-            "label": "Contact Us"
-          },
-          {
-            "label": "Terms of service"
-          },
-          {
-            "label": "Privacy Policy"
-          }
-        ]
-      },
-      {
-        "title": "FOR YOO",
-        "links": [
-          {
-            "label": "Travel Data"
-          },
-          {
-            "label": "Country Coverage"
-          },
-          {
-            "label": "Local Data"
-          },
-          {
-            "label": "Pickup /drop off locations"
-          },
-          {
-            "label": "Products"
-          },
-          {
-            "label": "How it works"
-          }
-        ]
-      },
-      {
-        "title": "CORPORATE",
-        "links": [
-          {
-            "label": "Iot"
-          },
-          {
-            "label": "Hotel"
-          },
-          {
-            "label": "Travel Agency"
-          },
-          {
-            "label": "Maritime Internet"
-          },
-          {
-            "label": "Offices/Roadshow&Event"
+            "label": "Contact"
           }
         ]
       }
+      
     ]
   },
 

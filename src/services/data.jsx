@@ -239,12 +239,8 @@ export const servicesData = () => [
 export const footerData = {
   contact: [
     {
-      type: "Call",
-      value: "111 222 3456",
-    },
-    {
-      type: "Mail",
-      value: "info@demo.com",
+      type: "WifiBB - Your solution for reliable, global connectivity with eSIM technology.",
+      value: "WifiBB - Your solution for reliable, global connectivity with eSIM technology.",
     },
   ],
   legals: [

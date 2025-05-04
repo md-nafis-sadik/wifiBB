@@ -16,12 +16,28 @@ import {
   SearchIcon,
 } from "@/services";
 import { MenuIcon } from "lucide-react";
-import { useState } from "react";
 import { CountrySelect } from "react-country-state-city";
 import { Link, useNavigate } from "react-router-dom";
 import DesktopMegaMenu from "./DesktopMegaMenu";
 import MobileMegaMenu from "./MobileMegaMenu";
 import { useTranslation } from "react-i18next";
+import React, { useEffect, useState } from "react";
+import { LazyLoadImage } from "react-lazy-load-image-component";
+import {
+  languageOptions,
+
+} from "@/services";
+import { ChevronRight } from "lucide-react";
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@/components/ui/select";
+
+import Cookies from "js-cookie";
+import i18next from "i18next";
 
 function NavBar() {
   const { isScrolled, isWhite, isActive, isHome, isBlack, isBannerRoutes } =
@@ -71,6 +87,16 @@ function NavBar() {
   ];
 
   const menuItems = useActiveMenuItem(commercialMenuItems);
+
+    const currentLanguage = Cookies.get("i18next");
+    const [lang, setLang] = useState(currentLanguage);
+
+    // console.log(currentLanguage);
+  
+    const handleLanguageChange = (language) => {
+      setLang(language);
+      i18next.changeLanguage(language);
+    };
 
   const handleModalOpen = (name = "auth", value) => {
     if (name == "auth") {
@@ -346,7 +372,27 @@ function NavBar() {
                   
                   <span>{t("buttonText.downloadApp")}</span>
                 </Button>
-                
+                <Select onValueChange={handleLanguageChange} defaultValue={lang}>
+            <SelectTrigger className="w-[180px] bg-main-20">
+              <SelectValue placeholder="Select Language" />
+            </SelectTrigger>
+            <SelectContent>
+              {languageOptions.map(({ _id, label, value, flag }) => (
+                <SelectItem
+                  key={_id}
+                  value={value}
+                  className={"flex flex-row gap-1 items-center"}
+                >
+                  <img
+                    src={flag()}
+                    alt={label}
+                    className="w-8 h-auto inline-block"
+                  />{" "}
+                  <span>{label}</span>
+                </SelectItem>
+              ))}
+            </SelectContent>
+          </Select>
               </div>
             </div>
           </div>
