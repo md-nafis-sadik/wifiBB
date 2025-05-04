@@ -19,7 +19,7 @@ function CommercialLayout() {
       {isHome ? <NavBar /> : <NavBarSecondary />}
 
       <Outlet />
-      <DownloadYoowifi />
+      {/* <DownloadYoowifi /> */}
       <Footer />
       {authModal}
       {loginModal}

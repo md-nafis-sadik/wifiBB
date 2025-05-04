@@ -6,6 +6,7 @@ import {
   corporateRoutes,
   images,
   languageOptions,
+  Logo,
   validateEmail,
 } from "@/services";
 import { ChevronRight } from "lucide-react";
@@ -107,15 +108,13 @@ const Footer = () => {
   }, [userEmail]);
 
   return (
-    <footer className="bg-black">
+    <footer className="bg-white">
       <div className="container2X sec_common_80 xl:px-0 grid grid-cols-1 md:grid-cols-10 gap-10 md:gap-20">
         {/* CONTACT/LOGO */}
         <div className="col-span-1 md:col-span-5 min-[1320px]:col-span-4">
-          <LazyLoadImage
-            src={images.appLogo}
-            alt="logo"
-            className="h-[71px] w-auto"
-          />
+          <Logo
+                          className="max-w-[100px] sm:max-w-[112px]"
+                        />
           {footerData.contact.map(({ type, value }, index) => (
             <p
               key={index}
@@ -124,7 +123,7 @@ const Footer = () => {
               <span className="text-black-600">
                 {t(`footer.contact.${index}.type`)} :
               </span>
-              <span className="text-white font-semibold">{value}</span>
+              <span className="text-black-900 font-semibold">{value}</span>
             </p>
           ))}
 
@@ -136,14 +135,14 @@ const Footer = () => {
             <input
               type="email"
               placeholder="Ex: user@website.com"
-              className="text-sm md:text-base bg-transparent text-white placeholder-black-600 focus:outline-none w-full px-4 font-semibold"
+              className="text-sm md:text-base bg-transparent text-black-900 placeholder-black-600 focus:outline-none w-full px-4 font-semibold"
               onChange={(e) => setUserEmail(e.target.value)}
               value={userEmail}
               required
             />
             <button
               className={cn(
-                "h-8 w-8 md:h-[52px] md:w-[52px] shrink-0 bg-main-600 text-white rounded-[8px] md:rounded-2xl p-2 flex items-center justify-center ml-2",
+                "h-8 w-8 md:h-[52px] md:w-[52px] shrink-0 bg-main-600 text-black-900rounded-[8px] md:rounded-2xl p-2 flex items-center justify-center ml-2",
                 isButtonDisabled
                   ? "opacity-50 cursor-not-allowed"
                   : "hover:bg-red-500"
@@ -169,7 +168,7 @@ const Footer = () => {
               {links.map(({ path }, index) => (
                 <li
                   key={index}
-                  className="text-sm md:text-base text-black-100 font-semibold !leading-[1.2] hover:opacity-70 mt-3 md:mt-6 lg:mt-8 whitespace-normal"
+                  className="text-sm md:text-base text-black-900 !leading-[1.2] hover:opacity-70 mt-3 md:mt-6 lg:mt-8 whitespace-normal"
                 >
                   <Link to={path}>
                     {t(`footer.menuData.${menuIndex}.links.${index}.label`)}
@@ -182,7 +181,7 @@ const Footer = () => {
       </div>
 
       <div className="container2X sec_common_40 lg:px-4 flex flex-col md:flex-row gap-2 justify-between md:items-center">
-        <p className="text-sm md:text-base text-white !leading-[1.4]">
+        <p className="text-sm md:text-base text-black-900 !leading-[1.4]">
           ©2024 <span className="font-semibold">Yoowifi</span>.{" "}
           {t("footer.copyRightText")}
         </p>
@@ -215,7 +214,7 @@ const Footer = () => {
               <Link
                 key={index}
                 to={item.path}
-                className="text-sm md:text-base text-white !leading-[1.4] hover:opacity-70"
+                className="text-sm md:text-base text-black-900 !leading-[1.4] hover:opacity-70"
               >
                 {t(`footer.legals.${index}.title`)}
               </Link>

@@ -12,14 +12,14 @@ function Home() {
   return (
     <div className="overflow-hidden w-full">
       <Hero />
-      <Products />
+      {/* <Products />
       <GetYourOwn />
       <InternetPackage />
       <WhyYoowifi />
       <StayConnectedRegions />
       <CustomerTestimonial />
       <HowItWorks />
-      <CollaborateMarquee />
+      <CollaborateMarquee /> */}
     </div>
   );
 }

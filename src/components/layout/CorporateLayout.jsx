@@ -15,7 +15,7 @@ function CorporateLayout() {
     <main>
       <CorporateNavbar />
       <Outlet />
-      <DownloadYoowifi />
+      {/* <DownloadYoowifi /> */}
       <Footer />
       {authModal}
       {loginModal}
