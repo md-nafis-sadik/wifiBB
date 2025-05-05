@@ -41,9 +41,6 @@ export default function SplitText({ text, className = "" }) {
       </div>
       <style>{`
         .split-text-container {
-          display: flex;
-          justify-content: center;
-          align-items: center;
           visibility: hidden;
         }
         .split-word {

@@ -86,8 +86,13 @@ import country3Image from "@/assets/images/country-images/country3.jpg";
 import country4Image from "@/assets/images/country-images/country4.jpg";
 import country5Image from "@/assets/images/country-images/country5.jpg";
 import country6Image from "@/assets/images/country-images/country6.jpg";
+import rentalDevice from "@/assets/images/rental-device.png";
+import productShowBackground from "@/assets/images/product-showcase-background.png";
+// import googleplayLogo from "@/assets/images/product-showcase-background.png";
 
 export {
+  productShowBackground,
+  rentalDevice,
   country1Image,
   country2Image,
   country3Image,

@@ -3,6 +3,7 @@
 import SplitText from "./SplitText";
 import { useEffect, useRef } from "react";
 import { inView, animate } from "motion";
+import { images } from "@/services";
 
 export default function DownloadApp() {
   const imageRef = useRef(null);
@@ -20,36 +21,42 @@ export default function DownloadApp() {
   }, []);
 
   return (
-    <section className="bg-yellow-400 py-20 px-4 md:px-10 rounded-t-3xl">
-      <div className="max-w-7xl mx-auto text-center">
-        <h2 className="text-3xl md:text-5xl font-bold text-black mb-4">
-          <SplitText text="Download The WifiBB App" />
-        </h2>
-        <p className="text-black/70 mb-8 text-sm md:text-lg">
+    <section className="bg-main-600 mx-4  max-w-[1360px] xl:mx-auto pt-20 my-10 rounded-[40px]">
+      <div className="max-w-full mx-auto text-center">
+        
+          <SplitText text="Download The WifiBB App" className="text-3xl md:text-5xl font-bold text-black mb-4 px-4" />
+
+        <p className="text-black/70 mb-8 text-sm md:text-lg px-4">
           Advanced features for an effortless digital experience anytime, anywhere!
         </p>
 
         {/* Buttons */}
-        <div className="flex justify-center gap-4 mb-12 flex-wrap">
+        <div className="lg:flex justify-center items-center relative">
+        <div className="flex justify-center gap-4 flex-wrap lg:absolute top-0">
+          <button>
           <img
-            src="/assets/google-play.png"
+            src={images.googlePlay}
             alt="Google Play"
             className="h-12 w-auto"
           />
+          </button>
+          <button>
           <img
-            src="/assets/app-store.png"
-            alt="App Store"
+            src={images.appStore}
+            alt="Google Play"
             className="h-12 w-auto"
           />
+          </button>
         </div>
 
         {/* Phone image area */}
         <div ref={imageRef} className="opacity-0 transition-all duration-700">
           <img
-            src="/assets/app-mockup.png"
+            src={images.productShowBackground}
             alt="App Preview"
-            className="mx-auto max-w-full w-[300px] md:w-[600px]"
+            className="mx-auto w-full"
           />
+        </div>
         </div>
       </div>
     </section>

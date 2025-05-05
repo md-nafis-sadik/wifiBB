@@ -1,7 +1,9 @@
 "use client";
 import React, { useEffect, useState } from "react";
 import { Controller, useForm } from "react-hook-form";
-import toast, { Toaster } from "react-hot-toast";
+import { ToastContainer, toast } from "react-toastify";
+import 'react-toastify/dist/ReactToastify.css';
+
 import * as motion from "motion/react-client";
 
 import useEmblaCarouselDotButtons from "@/hooks/useEmblaCarouselDotButtons";
@@ -23,47 +25,63 @@ import { useTranslation } from "react-i18next";
 import SplitText from "./SplitText";
 
 function Hero() {
-  const {
-    register,
-    handleSubmit,
-    formState: { errors },
-    control,
-  } = useForm();
+  const { register, handleSubmit, formState: { errors }, control, getValues, watch } = useForm();
+
+const startDate = watch("startDate");
+const endDate = watch("endDate");
+const country = watch("country");
+
+const isFormValid =
+  country &&
+  startDate &&
+  endDate &&
+  new Date(startDate) < new Date(endDate) &&
+  Object.keys(errors).length === 0;
 
   const onSubmit = (data) => {
-    if (Object.keys(errors).length > 0) return;
+    if (new Date(data.startDate) >= new Date(data.endDate)) {
+      toast.error("Start date must be earlier than end date", {
+        position: "top-right",
+        autoClose: 3000,
+        theme: "colored",
+      });
+      return;
+    }
+  
     console.log("Form Submitted:", data);
   };
+  
   const currentLanguage = Cookies.get("i18next");
     const [lang, setLang] = useState(currentLanguage);
     const { t } = useTranslation();
 
-  useEffect(() => {
-    if (Object.keys(errors).length > 0) {
-      toast.error("Please fill out the required fields.", {
-        position: "top-right",
-        duration: 3000,
-        style: {
-          background: "#dc2626",
-          color: "#fff",
-          fontWeight: "bold",
-          borderRadius: "8px",
-        },
-      });
-    }
-  }, [errors]);
+    useEffect(() => {
+      if (Object.keys(errors).length > 0) {
+        toast.error("Please fill out the required fields.", {
+          position: "top-right",
+          autoClose: 3000,
+          hideProgressBar: false,
+          closeOnClick: true,
+          pauseOnHover: true,
+          draggable: true,
+          theme: "colored",
+        });
+      }
+    }, [errors]);
+    
 
   return (
     <section className="w-full relative bg-gradient-to-b from-secondary-525 to-secondary-600">
-      <Toaster /> {/* ✅ Toast container */}
+      <ToastContainer />
+
 
       <div className=" flex flex-col items-center justify-center pt-20">
         <div className="text-white text-3xl sm:text-5xl md:text-6xl font-bold text-center relative mb-20">
-        <SplitText text="Where Are You Travelling Today?" className="w-[90%] md:w-full max-w-3xl mx-auto" />
+        <SplitText text="Where Are You Travelling Today?" className="w-[95%] lg:w-full max-w-3xl mx-auto text-[33px] md:text-5xl lg:text-6xl" />
           <motion.button
             animate={{ rotate: 360 }}
             transition={{ duration: 1 }}
-            className="bg-main-650 text-black font-extrabold py-1 px-8 rounded-full mt-2 mb-6 absolute top-14 md:top-10 text-xs md:text-lg lg:text-xl border-4 border-secondary-525 sm:right-16 md:right-32"
+            className="bg-main-650 text-black font-extrabold py-1 px-8 rounded-full mt-2 mb-6 absolute  text-xs md:text-sm lg:text-xl border-4 border-secondary-525 right-28 sm:right-28 md:right-44 lg:right-36 top-14 sm:top-6 md:top-8 lg:top-10"
           >
             <div>GRAB IT</div>
             <div className="md:mt-[-7px]">NOW!</div>
@@ -138,7 +156,13 @@ function Hero() {
 
               <button
                 type="submit"
-                className="w-full md:w-[20%] bg-yellow-300 hover:bg-yellow-500  text-black font-bold py-3 px-4 rounded-full text-sm lg:text-sm mt-4 md:mt-0"
+                disabled={!isFormValid}
+                className={cn(
+                  "w-full md:w-[20%] font-bold py-3 px-4 rounded-full text-sm lg:text-sm mt-4 md:mt-0 transition",
+                  isFormValid
+                    ? "bg-main-600 hover:bg-main-650 cursor-pointer text-black"
+                    : "bg-main-500 text-gray-500 cursor-not-allowed"
+                )}
               >
                 Search Plan
               </button>

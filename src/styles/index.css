@@ -12,7 +12,7 @@
   }
 
   .container2X {
-    @apply w-full max-w-[1220px] mx-auto;
+    @apply w-full max-w-[1280px] mx-auto;
   }
 
   .containerX {

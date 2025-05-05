@@ -143,7 +143,7 @@ const Footer = () => {
             {t("footer.subscribeNewsLetter")}
           </p>
 
-          <div className="flex items-center bg-white rounded-full p-1 mt-3 md:mt-4 border border-neutral-300 max-w-[348px] mx-auto">
+          <div className="flex items-center bg-white rounded-full p-1 mt-3 md:mt-4 border border-neutral-300 max-w-[348px] mx-auto md:mx-0">
             <input
               type="email"
               placeholder="Ex: user@website.com"
