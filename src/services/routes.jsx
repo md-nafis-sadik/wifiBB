@@ -11,6 +11,7 @@ import Home from "@/pages/commercial/Home";
 import HowItWorks from "@/pages/commercial/howItWorks/HowItWorks";
 import HowToConnectPocketWifi from "@/pages/commercial/HowToConnectPocketWifi";
 import HowToSetupSim from "@/pages/commercial/HowToSetupSim";
+import MembershipRegistration from "@/pages/commercial/MembershipRegistration";
 import PackageDetails from "@/pages/commercial/PackageDetails";
 import PickDropLocation from "@/pages/commercial/PickDropLocation";
 import PocketWifiHome from "@/pages/commercial/pocketWifi/Home";
@@ -60,6 +61,12 @@ const commercialRoutes = {
     name: "Home",
     activePath: "home",
     element: <Home />,
+  },
+  memberRegistration: {
+    path: "/membership-registration",
+    name: "Membership Registration",
+    activePath: "membership-registration",
+    element: <MembershipRegistration />,
   },
   pocketWifiHome: {
     path: "/product/pocket-wifi",
@@ -329,6 +336,12 @@ const corporateRoutes = {
     name: "Corporate",
     activePath: "home",
     element: <CorporateHome />,
+  },
+  memberRegistration: {
+    path: "/corporate/membership-registration",
+    name: "Membership Registration",
+    activePath: "membership-registration",
+    element: <MembershipRegistration />,
   },
   iot: {
     path: "/corporate/iot",

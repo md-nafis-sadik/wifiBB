@@ -55,15 +55,24 @@ const OTPInput = ({ setOtp, ...props }) => {
 };
 
 const BottomTextLink = ({ text, linkText, onClick }) => (
-  <p className="text-sm md:text-base font-normal text-black-600 mt-2 md:mt-3">
+  // <p className="text-sm md:text-base font-normal text-black-600 mt-2 md:mt-3">
+  //   {text}{" "}
+  //   <span
+  //     className="font-semibold text-main-600 hover:underline cursor-pointer"
+  //     onClick={onClick}
+  //   >
+  //     {linkText}
+  //   </span>
+  // </p>
+
+  <a className="text-sm md:text-base font-normal text-black-600 mt-2 md:mt-3" href="/membership-registration">
     {text}{" "}
     <span
       className="font-semibold text-main-600 hover:underline cursor-pointer"
-      onClick={onClick}
     >
       {linkText}
     </span>
-  </p>
+  </a>
 );
 
 const AuthDialog = ({ isOpen, setIsOpen }) => {
