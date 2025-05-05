@@ -6,9 +6,12 @@ import InternetPackage from "@/components/commercial/home/InternetPackage";
 import Products from "@/components/commercial/home/Products";
 import StayConnectedRegions from "@/components/commercial/home/StayConnectedRegions";
 import TravelPlans from "@/components/commercial/home/TravelPlans";
+import WhyChooseUs from "@/components/commercial/home/WhyChooseUs";
 import WhyYoowifi from "@/components/commercial/home/WhyYoowifi";
+import WifiBBIntro from "@/components/commercial/home/WifiBBIntro";
 import CollaborateMarquee from "@/components/shared/CollaborateMarquee";
 import CustomerTestimonial from "@/components/shared/others/CustomerTestimonial";
+import DownloadApp from "../../components/commercial/home/DownloadApp";
 
 function Home() {
   return (
@@ -16,6 +19,9 @@ function Home() {
       <Hero />
       <TravelPlans/>
       <CountryGrid/>
+      <WifiBBIntro/>
+      <WhyChooseUs/>
+      <DownloadApp/>
       {/* <Products />
       <GetYourOwn />
       <InternetPackage />

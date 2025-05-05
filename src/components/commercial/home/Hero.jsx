@@ -2,6 +2,7 @@
 import React, { useEffect, useState } from "react";
 import { Controller, useForm } from "react-hook-form";
 import toast, { Toaster } from "react-hot-toast";
+import * as motion from "motion/react-client";
 
 import useEmblaCarouselDotButtons from "@/hooks/useEmblaCarouselDotButtons";
 import { cn } from "@/lib/utils";
@@ -19,6 +20,7 @@ import { Search } from "lucide-react";
 import { CalendarPicker } from "./Calendar";
 import Cookies from "js-cookie";
 import { useTranslation } from "react-i18next";
+import SplitText from "./SplitText";
 
 function Hero() {
   const {
@@ -57,17 +59,28 @@ function Hero() {
 
       <div className=" flex flex-col items-center justify-center pt-20">
         <div className="text-white text-3xl sm:text-5xl md:text-6xl font-bold text-center relative mb-20">
-          <div className="w-[90%] md:w-full max-w-3xl mx-auto">{t('Where Are You Travelling Today?')}</div>
-          <button className="bg-main-650 text-black font-extrabold py-1 px-8 rounded-full mt-2 mb-6 absolute top-14 md:top-10 text-xs md:text-lg lg:text-xl border-4  border-secondary-525 sm:right-16 md:right-32">
+        <SplitText text="Where Are You Travelling Today?" className="w-[90%] md:w-full max-w-3xl mx-auto" />
+          <motion.button
+            animate={{ rotate: 360 }}
+            transition={{ duration: 1 }}
+            className="bg-main-650 text-black font-extrabold py-1 px-8 rounded-full mt-2 mb-6 absolute top-14 md:top-10 text-xs md:text-lg lg:text-xl border-4 border-secondary-525 sm:right-16 md:right-32"
+          >
             <div>GRAB IT</div>
             <div className="md:mt-[-7px]">NOW!</div>
-          </button>
+          </motion.button>
         </div>
+<motion.form
+      initial={{ opacity: 0, scale: 0.95 }}
+      whileInView={{ opacity: 1, scale: 1 }}
+      viewport={{ once: true, amount: 0.3 }} // run once, trigger when 30% visible
+      transition={{
+        duration: 0.4,
+        scale: { type: "spring", visualDuration: 0.4, bounce: 0.5 },
+      }}
+      onSubmit={handleSubmit(onSubmit)}
+      className="bg-white rounded-3xl shadow-lg w-[95%] max-w-2xl lg:max-w-3xl p-5"
+    >
 
-        <form
-          onSubmit={handleSubmit(onSubmit)}
-          className="bg-white rounded-3xl shadow-lg w-[95%] max-w-2xl lg:max-w-3xl p-5"
-        >
           <div>
             <div className="block md:flex items-center justify-between gap-2">
               <div className="w-full md:w-[50%] relative">
@@ -131,7 +144,7 @@ function Hero() {
               </button>
             </div>
           </div>
-        </form>
+          </motion.form>
 
         <img src={images.heroImage} className="min-h-[260px] object-cover md:object-contain" />
       </div>

@@ -1,5 +1,6 @@
 import { images } from "@/services";
 import React, { useState } from "react";
+import * as motion from "motion/react-client";
 
 const plans = [
   {
@@ -115,7 +116,14 @@ const plans = [
 
 const PlanCard = ({ plan, selected, onSelect }) => {
   return (
-    <div
+    <motion.div
+      initial={{ opacity: 0, scale: 0.95 }}
+      whileInView={{ opacity: 1, scale: 1 }}
+      viewport={{ once: true, amount: 0.3 }} // run once, trigger when 30% visible
+      transition={{
+        duration: 0.4,
+        scale: { type: "spring", visualDuration: 0.4, bounce: 0.5 },
+      }}
       onClick={onSelect}
       className={`cursor-pointer rounded-xl overflow-hidden border-2 shadow-md flex flex-col justify-between transition-transform hover:scale-101 p-2 ${
         selected
@@ -123,6 +131,7 @@ const PlanCard = ({ plan, selected, onSelect }) => {
           : "border-zinc-700 "
       }`}
     >
+
       <img src={plan.image} alt={plan.country} className="w-full h-80 object-cover rounded-lg" />
       <div className="p-4 flex-1 flex flex-col justify-between">
         <div className=" mb-6">
@@ -153,9 +162,11 @@ const PlanCard = ({ plan, selected, onSelect }) => {
           </button>
         </div>
       </div>
-    </div>
+
+    </motion.div>
   );
 };
+
 
 const TravelPlans = () => {
   const [visible, setVisible] = useState(6);
