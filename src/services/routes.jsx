@@ -1,5 +1,6 @@
 import CommercialLayout from "@/components/layout/CommercialLayout";
 import PocketWifiLayout from "@/components/layout/PocketWifiLayout";
+import RegisterLayout from "@/components/layout/RegisterLayout";
 import RouterLayout from "@/components/layout/RouterLayout";
 import SimLayout from "@/components/layout/SimLayout";
 import AboutUs from "@/pages/commercial/AboutUs";
@@ -61,12 +62,6 @@ const commercialRoutes = {
     name: "Home",
     activePath: "home",
     element: <Home />,
-  },
-  memberRegistration: {
-    path: "/membership-registration",
-    name: "Membership Registration",
-    activePath: "membership-registration",
-    element: <MembershipRegistration />,
   },
   pocketWifiHome: {
     path: "/product/pocket-wifi",
@@ -337,12 +332,6 @@ const corporateRoutes = {
     activePath: "home",
     element: <CorporateHome />,
   },
-  memberRegistration: {
-    path: "/corporate/membership-registration",
-    name: "Membership Registration",
-    activePath: "membership-registration",
-    element: <MembershipRegistration />,
-  },
   iot: {
     path: "/corporate/iot",
     name: "IOT",
@@ -387,4 +376,25 @@ const corporateRoutes = {
   },
 };
 
-export { commercialRoutes, corporateRoutes };
+const registerRoutes = {
+registerLayout: {
+    path: "/",
+    name: "Home",
+    activePath: "home",
+    element: <RegisterLayout />,
+  },
+  home: {
+    path: "/",
+    name: "Home",
+    activePath: "home",
+    element: <Home />,
+  },
+  memberRegistration: {
+    path: "/membership-registration",
+    name: "Membership Registration",
+    activePath: "membership-registration",
+    element: <MembershipRegistration />,
+  }
+};
+
+export { commercialRoutes, corporateRoutes, registerRoutes };

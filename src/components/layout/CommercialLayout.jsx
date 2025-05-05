@@ -6,6 +6,7 @@ import Footer from "../shared/navigation/Footer";
 import NavBar from "../shared/navigation/NavBar";
 import NavBarSecondary from "../shared/navigation/NavBarSecondary";
 import DownloadYoowifi from "../shared/others/DownloadYoowifi";
+import DownloadApp from "../shared/navigation/DownloadApp";
 
 function CommercialLayout() {
   useSetLocalData("commercialLayout");
@@ -19,7 +20,7 @@ function CommercialLayout() {
       {isHome ? <NavBar /> : <NavBarSecondary />}
 
       <Outlet />
-      {/* <DownloadYoowifi /> */}
+      <DownloadApp/>
       <Footer />
       {authModal}
       {loginModal}

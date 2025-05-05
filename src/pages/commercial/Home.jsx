@@ -11,7 +11,7 @@ import WhyYoowifi from "@/components/commercial/home/WhyYoowifi";
 import WifiBBIntro from "@/components/commercial/home/WifiBBIntro";
 import CollaborateMarquee from "@/components/shared/CollaborateMarquee";
 import CustomerTestimonial from "@/components/shared/others/CustomerTestimonial";
-import DownloadApp from "../../components/commercial/home/DownloadApp";
+import DownloadApp from "../../components/shared/navigation/DownloadApp";
 
 function Home() {
   return (
@@ -21,7 +21,7 @@ function Home() {
       <CountryGrid/>
       <WifiBBIntro/>
       <WhyChooseUs/>
-      <DownloadApp/>
+      {/* <DownloadApp/> */}
       {/* <Products />
       <GetYourOwn />
       <InternetPackage />

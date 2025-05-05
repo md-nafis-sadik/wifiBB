@@ -9,8 +9,7 @@ const {
   maritimeInternet,
   office,
   commercial,
-  aboutUs,
-  memberRegistration
+  aboutUs
 } = routes || {};
 
 export const corpRoutes = [
@@ -21,10 +20,6 @@ export const corpRoutes = [
       {
         path: home.path,
         element: home.element,
-      },
-      {
-        path: memberRegistration.path,
-        element: memberRegistration.element,
       },
       {
         path: iot.path,

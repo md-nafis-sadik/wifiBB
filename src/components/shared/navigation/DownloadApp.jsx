@@ -1,6 +1,6 @@
 "use client";
 
-import SplitText from "./SplitText";
+import SplitText from "../../commercial/home/SplitText";
 import { useEffect, useRef } from "react";
 import { inView, animate } from "motion";
 import { images } from "@/services";
@@ -21,7 +21,7 @@ export default function DownloadApp() {
   }, []);
 
   return (
-    <section className="bg-main-600 mx-4  max-w-[1360px] xl:mx-auto pt-20 my-10 rounded-[40px]">
+    <section className="bg-main-600 mx-4 max-w-7xl xl:mx-auto pt-20 my-10 rounded-[40px]">
       <div className="max-w-full mx-auto text-center">
         
           <SplitText text="Download The WifiBB App" className="text-3xl md:text-5xl font-bold text-black mb-4 px-4" />

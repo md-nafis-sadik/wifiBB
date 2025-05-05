@@ -6,6 +6,7 @@ import DevFAB from "../shared/others/DevFAB";
 import DownloadYoowifi from "../shared/others/DownloadYoowifi";
 import useModal from "@/hooks/useModal";
 import AppDownloadDialog from "../shared/navigation/AppDownloadDialog";
+import DownloadApp from "../shared/navigation/DownloadApp";
 
 function CorporateLayout() {
   useScrollToTop();
@@ -15,7 +16,7 @@ function CorporateLayout() {
     <main>
       <CorporateNavbar />
       <Outlet />
-      {/* <DownloadYoowifi /> */}
+      <DownloadApp/>
       <Footer />
       {authModal}
       {loginModal}
