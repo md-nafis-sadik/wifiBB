@@ -1,3 +1,4 @@
+import Promo from "@/components/commercial/promo/Promo";
 import CommercialLayout from "@/components/layout/CommercialLayout";
 import PocketWifiLayout from "@/components/layout/PocketWifiLayout";
 import RegisterLayout from "@/components/layout/RegisterLayout";
@@ -248,7 +249,12 @@ const commercialRoutes = {
     activePath: "about-us",
     element: <AboutUs />,
   },
-
+  promo: {
+    path: "/promo",
+    name: "Promo",
+    activePath: "promo",
+    element: <Promo />,
+  },
   // contact
   contact: {
     path: "/contact",

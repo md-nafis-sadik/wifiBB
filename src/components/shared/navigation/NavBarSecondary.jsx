@@ -48,11 +48,7 @@ const NavBarSecondary = () => {
       path: commercialRoutes.home.path,
       activePath: commercialRoutes.home.activePath,
     },
-    {
-      name: "SIM/eSIM",
-      path: commercialRoutes.simHome.path,
-      activePath: commercialRoutes.simHome.activePath,
-    },
+    
     {
       name: "Pocket WIFI",
       path: commercialRoutes.pocketWifiHome.path,
@@ -63,7 +59,11 @@ const NavBarSecondary = () => {
       path: commercialRoutes.routerHome.path,
       activePath: commercialRoutes.routerHome.activePath,
     },
-
+    {
+      name: "SIM/eSIM",
+      path: commercialRoutes.simHome.path,
+      activePath: commercialRoutes.simHome.activePath,
+    },
     {
       name: "Contact Us",
       path: commercialRoutes.contact.path,
@@ -103,10 +103,10 @@ const NavBarSecondary = () => {
         !isHome && !isBannerRoutes ? "border-b border-neutral-200" : ""
       )}
     >
-      <div className="w-full max-w-[1600px] mx-auto">
+      <div className="w-full max-w-7xl mx-auto">
         <nav
           className={cn(
-            "w-full duration-300 flex items-center lg:gap-10 2xl:gap-15 justify-between px-4 py-2 sm:py-4",
+            "w-full duration-300 flex items-center lg:gap-10 2xl:gap-15 justify-between px-4 xl:px-0 py-2 sm:py-4",
             isScrolled ? "text-black-900" : "text-black-900 xl:text-black-700"
           )}
         >
@@ -208,7 +208,7 @@ const NavBarSecondary = () => {
                   </li>
                 ))}
                 {/* mega menu  */}
-                <li
+                {/* <li
                   className="hidden xl:block"
                   onMouseEnter={() => setShowMegaMenu(true)}
                   onMouseLeave={() => setShowMegaMenu(false)}
@@ -230,7 +230,7 @@ const NavBarSecondary = () => {
                   </div>
                   <DesktopMegaMenu isShow={showMegaMenu} />
                 </li>
-                <MobileMegaMenu setIsShowMenu={setIsShowMenu} />
+                <MobileMegaMenu setIsShowMenu={setIsShowMenu} /> */}
               </ul>
 
               {/* <Link

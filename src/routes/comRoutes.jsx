@@ -42,6 +42,7 @@ const {
   affiliate,
   pickDropLocation,
   faq,
+  promo
 } = routes || {};
 
 export const comRoutes = [
@@ -56,6 +57,10 @@ export const comRoutes = [
       {
         path: pocketWifiHome.path,
         element: pocketWifiHome.element,
+      },
+      {
+        path: promo.path,
+        element: promo.element,
       },
       {
         path: routerHome.path,

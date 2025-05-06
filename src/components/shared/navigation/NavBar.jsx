@@ -59,11 +59,7 @@ function NavBar() {
       path: commercialRoutes.home.path,
       activePath: commercialRoutes.home.activePath,
     },
-    {
-      name: "SIM/eSIM",
-      path: commercialRoutes.simHome.path,
-      activePath: commercialRoutes.simHome.activePath,
-    },
+    
     {
       name: "Pocket WIFI",
       path: commercialRoutes.pocketWifiHome.path,
@@ -74,7 +70,11 @@ function NavBar() {
       path: commercialRoutes.routerHome.path,
       activePath: commercialRoutes.routerHome.activePath,
     },
-
+    {
+      name: "SIM/eSIM",
+      path: commercialRoutes.simHome.path,
+      activePath: commercialRoutes.simHome.activePath,
+    },
     {
       name: "Contact Us",
       path: commercialRoutes.contact.path,
