@@ -60,6 +60,11 @@ function NavBar() {
       activePath: commercialRoutes.home.activePath,
     },
     {
+      name: "SIM/eSIM",
+      path: commercialRoutes.simHome.path,
+      activePath: commercialRoutes.simHome.activePath,
+    },
+    {
       name: "Pocket WIFI",
       path: commercialRoutes.pocketWifiHome.path,
       activePath: commercialRoutes.pocketWifiHome.activePath,
@@ -69,11 +74,7 @@ function NavBar() {
       path: commercialRoutes.routerHome.path,
       activePath: commercialRoutes.routerHome.activePath,
     },
-    {
-      name: "SIM/eSIM",
-      path: commercialRoutes.simHome.path,
-      activePath: commercialRoutes.simHome.activePath,
-    },
+
     {
       name: "Contact Us",
       path: commercialRoutes.contact.path,
@@ -267,12 +268,12 @@ function NavBar() {
                 ))}
 
                 {/* mega menu  */}
-                <li
+                {/* <li
                   className="hidden xl:block"
                   onMouseEnter={() => setShowMegaMenu(true)}
                   onMouseLeave={() => setShowMegaMenu(false)}
-                >
-                  <div className="flex items-center justify-between xl:justify-start cursor-pointer w-full max-w-[320px] p-3 rounded-lg xl:rounded-none hover:bg-secondary-500 xl:w-auto xl:max-w-none xl:p-0 xl:hover:text-inherit xl:hover:bg-transparent hover:text-black-900">
+                > */}
+                  {/* <div className="flex items-center justify-between xl:justify-start cursor-pointer w-full max-w-[320px] p-3 rounded-lg xl:rounded-none hover:bg-secondary-500 xl:w-auto xl:max-w-none xl:p-0 xl:hover:text-inherit xl:hover:bg-transparent hover:text-black-900">
                     <span>{t("navbar.megamenu.menuText")}</span>
                     <ArrowDownIcon
                       className={cn(
@@ -287,10 +288,10 @@ function NavBar() {
                           : "fill-white xl:fill-neutral-black"
                       }
                     />
-                  </div>
-                  <DesktopMegaMenu isShow={showMegaMenu} />
-                </li>
-                <MobileMegaMenu setIsShowMenu={setIsShowMenu} />
+                  </div> */}
+                  {/* <DesktopMegaMenu isShow={showMegaMenu} /> */}
+                {/* </li>
+                <MobileMegaMenu setIsShowMenu={setIsShowMenu} /> */}
               </ul>
               {/* <Link
                 className={cn(
@@ -373,7 +374,7 @@ function NavBar() {
                   <span>{t("buttonText.downloadApp")}</span>
                 </Button>
                 <Select onValueChange={handleLanguageChange} defaultValue={lang}>
-            <SelectTrigger className="w-[180px] bg-main-20">
+            <SelectTrigger className="w-16 bg-white text-black font-semibold">
               <SelectValue placeholder="Select Language" />
             </SelectTrigger>
             <SelectContent>
@@ -381,13 +382,13 @@ function NavBar() {
                 <SelectItem
                   key={_id}
                   value={value}
-                  className={"flex flex-row gap-1 items-center"}
+                  className={"flex flex-row gap-1 items-center text-black font-semibold"}
                 >
-                  <img
+                  {/* <img
                     src={flag()}
                     alt={label}
                     className="w-8 h-auto inline-block"
-                  />{" "}
+                  />{" "} */}
                   <span>{label}</span>
                 </SelectItem>
               ))}

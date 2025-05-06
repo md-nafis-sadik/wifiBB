@@ -66,77 +66,78 @@ export const navBarData = () => ({
 export const languageOptions = [
   {
     _id: 1,
-    label: "English",
+    label: "EN", // English
     value: "en",
     flag: () => images.USFlag,
   },
   {
     _id: 2,
-    label: "Chinese (Simplified)",
+    label: "中文", // Chinese (Simplified)
     value: "zhcn",
     flag: () => images.ChinaFlag,
   },
   {
     _id: 3,
-    label: "Chinese (Traditional)",
+    label: "中文", // Chinese (Traditional)
     value: "zhhk",
     flag: () => images.ChinaFlag,
   },
   {
     _id: 4,
-    label: "Malaysian",
+    label: "BM", // Bahasa Melayu (Malay)
     value: "ms",
     flag: () => images.MalaysiaFlag,
   },
   {
     _id: 5,
-    label: "Indonesian",
+    label: "ID", // Bahasa Indonesia
     value: "id",
     flag: () => images.IndonesiaFlag,
   },
   {
     _id: 6,
-    label: "Japanese",
+    label: "日本", // Japanese
     value: "jp",
     flag: () => images.JapanFlag,
   },
   {
     _id: 7,
-    label: "Thai",
+    label: "ไทย", // Thai
     value: "th",
     flag: () => images.ThailandFlag,
   },
   {
     _id: 8,
-    label: "Vietnamese",
+    label: "VI", // Vietnamese (no standard native abbreviation)
     value: "vi",
     flag: () => images.VietnamFlag,
   },
   {
     _id: 9,
-    label: "Phillipino",
+    label: "TL", // Filipino (Tagalog)
     value: "ph",
     flag: () => images.PhilippinesFlag,
   },
   {
     _id: 10,
-    label: "Spanish",
+    label: "ES", // Español
     value: "es",
     flag: () => images.SpainFlag,
   },
   {
     _id: 11,
-    label: "German",
+    label: "DE", // Deutsch
     value: "gm",
     flag: () => images.GermanyFlag,
   },
   {
     _id: 12,
-    label: "French",
+    label: "FR", // Français
     value: "fr",
     flag: () => images.FranceFlag,
   },
 ];
+
 
 // p
 

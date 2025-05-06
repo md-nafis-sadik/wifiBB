@@ -19,7 +19,7 @@ export function CalendarPicker({ value, onChange, className }) {
         <Button
           variant={"outline"}
           className={cn(
-            "w-full md:w-[40%] justify-between text-left font-normal border border-neutral-300 bg-neutral-50",
+            "w-full md:w-[50%] justify-between text-left font-normal border border-neutral-300 bg-neutral-50 p-3 sm:p-4",
             !value && "text-black-600",
             className // ✅ apply dynamic class (e.g., red border)
           )}

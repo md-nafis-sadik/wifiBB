@@ -80,6 +80,12 @@ import whatsapp from "@/assets/images/whatsapp.webp";
 import whoWeAre1 from "@/assets/images/who-we-are-1.webp";
 import blackPocketWifiEn from "@/assets/images/pocket-wifi/black-pocket-wifi-en.webp";
 import heroImage from "@/assets/images/hero.png";
+import heroImage2 from "@/assets/images/hero2.png";
+import heroImage3 from "@/assets/images/hero3.png";
+import heroImage4 from "@/assets/images/hero4.png";
+import sunMask from "@/assets/images/sunMask.png";
+import buildingMask from "@/assets/images/buildingMask.png";
+import railLine from "@/assets/images/railLine.png";
 import country1Image from "@/assets/images/country-images/country1.jpg";
 import country2Image from "@/assets/images/country-images/country2.jpg";
 import country3Image from "@/assets/images/country-images/country3.jpg";
@@ -93,6 +99,9 @@ import registerImsge2 from "@/assets/images/register2.png";
 
 export {
   registerImsge2,
+  railLine,
+  buildingMask,
+  sunMask,
   productShowBackground,
   rentalDevice,
   country1Image,
@@ -103,6 +112,9 @@ export {
   country6Image,
   BelgiumFlag,
   heroImage,
+  heroImage2,
+  heroImage3,
+  heroImage4,
   CroatiaFlag,
   FranceFlag,
   GermanyFlag,
