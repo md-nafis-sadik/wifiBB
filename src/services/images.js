@@ -93,9 +93,27 @@ import rentalDevice from "@/assets/images/rental-device.png";
 import productShowBackground from "@/assets/images/product-showcase-background.webp";
 import registerImsge2 from "@/assets/images/register2.webp";
 import contactMap from "@/assets/images/contact-map.webp";
+import promoLogo1 from "@/assets/images/promo/logo-promo1.webp";
+import promoLogo2 from "@/assets/images/promo/logo-promo2.webp";
+import promoLogo3 from "@/assets/images/promo/logo-promo3.webp";
+import promoLogo4 from "@/assets/images/promo/logo-promo4.webp";
+import promoLogo5 from "@/assets/images/promo/logo-promo5.webp";
+import promoLogo6 from "@/assets/images/promo/logo-promo6.webp";
+import promoLogo7 from "@/assets/images/promo/logo-promo7.webp";
+import promoLogo8 from "@/assets/images/promo/logo-promo8.webp";
+import promoLogo9 from "@/assets/images/promo/logo-promo9.webp";
 // import googleplayLogo from "@/assets/images/product-showcase-background.png";
 
 export {
+  promoLogo1,
+  promoLogo2,
+  promoLogo3,
+  promoLogo4,
+  promoLogo5,
+  promoLogo6,
+  promoLogo7,
+  promoLogo8,
+  promoLogo9,
   contactMap,
   registerImsge2,
   railLine,

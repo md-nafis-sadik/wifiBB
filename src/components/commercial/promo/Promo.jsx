@@ -1,56 +1,84 @@
 import SectionHeader from "@/components/shared/others/SectionHeader";
 import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
+import { images } from "@/services";
+import { useState } from "react";
+
+
 
 export default function Promo() {
+  
   const discounts = [
     {
-      logo: "/logos/hsbc.png",
+      logo: images.promoLogo1,
       title: "HSBC Staff Discount",
       description: "HSBC staff can enjoy 10% off discount.",
     },
     {
-      logo: "/logos/unionpay.png",
+      logo: images.promoLogo2,
       title: "UnionPay Card Discount",
       description: "Plus: UnionPay card holder can enjoy 20% off discount",
     },
     {
-      logo: "/logos/hyatt.png",
+      logo: images.promoLogo3,
       title: "HYATT Staff Discount",
       description: "HYATT staff can enjoy 10% off discount",
     },
     {
-      logo: "/logos/airbusan.png",
+      logo: images.promoLogo4,
       title: "Air Busan Discount",
       description: "Air Busan passengers can enjoy 10% off discount",
     },
     {
-      logo: "/logos/kpmg.png",
+      logo: images.promoLogo5,
       title: "KPMG Staff Discount",
       description: "KPMG employees can enjoy 10% off rent.",
     },
     {
-      logo: "/logos/caltex.png",
+      logo: images.promoLogo6,
       title: "Caltex Member Discount",
       description:
         "HK Caltex JoyFuel Card and StarCard members can enjoy 10% off discount",
     },
     {
-      logo: "/logos/ubs.png",
+      logo: images.promoLogo7,
       title: "UBS Staff Discount",
       description: "UBS staff can enjoy 10% off discount",
     },
     {
-      logo: "/logos/bluecross.png",
+      logo: images.promoLogo8,
       title: "Blue Cross Discount",
       description: "HK Blue Cross voucher holders can enjoy rental discount",
     },
     {
-      logo: "/logos/hkia.png",
+      logo: images.promoLogo9,
       title: "HKIA Staff Discount",
       description: "HKIA staff can enjoy 10% off discount",
     },
+    {
+      logo: images.promoLogo1,
+      title: "HSBC Staff Discount",
+      description: "HSBC staff can enjoy 10% off discount.",
+    },
+    {
+      logo: images.promoLogo2,
+      title: "UnionPay Card Discount",
+      description: "Plus: UnionPay card holder can enjoy 20% off discount",
+    },
+    {
+      logo: images.promoLogo3,
+      title: "HYATT Staff Discount",
+      description: "HYATT staff can enjoy 10% off discount",
+    },
   ];
+
+  const [visibleCount, setVisibleCount] = useState(9); // initial visible items
+
+  const handleLoadMore = () => {
+    setVisibleCount((prev) => prev + 3);
+  };
+
+  const visibleDiscounts = discounts.slice(0, visibleCount);
 
   const cards = [
     {
@@ -156,7 +184,7 @@ export default function Promo() {
         <motion.button
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
-          className="mt-10 px-6 py-2.5 rounded-full bg-main-600 hover:bg-main-650 font-semibold text-sm"
+          className="mt-10 px-6 py-3 rounded-full bg-main-600 hover:bg-main-650 font-semibold text-sm"
         >
           Rent WifiBB Now
         </motion.button>
@@ -171,29 +199,34 @@ export default function Promo() {
         }
         containerClassName={"gap-4 md:gap-[18px] mb-10"}
       />
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 max-w-6xl mx-auto">
-          {discounts.map((item, index) => (
-            <motion.div
-              key={index}
-              className="flex flex-col items-center text-center"
-              initial={{ opacity: 0, y: 20 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.4, delay: index * 0.1 }}
-              viewport={{ once: true }}
-            >
-              <img src={item.logo} alt={item.title} className="h-10 mb-4" />
-              <h3 className="font-semibold text-lg mb-1">{item.title}</h3>
-              <p className="text-gray-600 text-sm max-w-xs">
-                {item.description}
-              </p>
-            </motion.div>
-          ))}
-        </div>
-        <div className="mt-12">
-          <Button className="mt-10 px-6 py-2.5 rounded-full bg-main-600 hover:bg-main-650 font-semibold text-sm text-black-900">
-            Load More
-          </Button>
-        </div>
+       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 max-w-6xl mx-auto">
+  {visibleDiscounts.map((item, index) => (
+    <motion.div
+      key={index}
+      className="flex flex-col items-center text-center"
+      initial={{ opacity: 0, y: 20 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.4, delay: index * 0.1 }}
+      viewport={{ once: true }}
+    >
+      <img src={item.logo} alt={item.title} className="w-32 mb-4" />
+      <h3 className="font-semibold text-lg mb-1">{item.title}</h3>
+      <p className="text-gray-600 text-sm max-w-xs">
+        {item.description}
+      </p>
+    </motion.div>
+  ))}
+</div>
+{visibleCount < discounts.length && (
+  <div className="mt-12">
+    <Button
+      onClick={handleLoadMore}
+      className="mt-10 px-6 py-3 rounded-full bg-main-600 hover:bg-main-650 font-semibold text-sm text-black-900"
+    >
+      Load More
+    </Button>
+  </div>
+)}
       </section>
     </div>
   );
