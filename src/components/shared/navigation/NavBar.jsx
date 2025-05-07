@@ -59,36 +59,30 @@ function NavBar() {
       path: commercialRoutes.home.path,
       activePath: commercialRoutes.home.activePath,
     },
-    
-    {
-      name: "Pocket WIFI",
-      path: commercialRoutes.pocketWifiHome.path,
-      activePath: commercialRoutes.pocketWifiHome.activePath,
-    },
-    {
-      name: "Router",
-      path: commercialRoutes.routerHome.path,
-      activePath: commercialRoutes.routerHome.activePath,
-    },
     {
       name: "SIM/eSIM",
       path: commercialRoutes.simHome.path,
       activePath: commercialRoutes.simHome.activePath,
     },
     {
-      name: "Contact Us",
-      path: commercialRoutes.contact.path,
-      activePath: commercialRoutes.contact.activePath,
-    },
-    {
-      name: "About Us",
-      path: commercialRoutes.aboutUs.path,
-      activePath: commercialRoutes.aboutUs.activePath,
+      name: "Pocket WIFI",
+      path: commercialRoutes.pocketWifiHome.path,
+      activePath: commercialRoutes.pocketWifiHome.activePath,
     },
     {
       name: "Promo",
       path: commercialRoutes.promo.path,
       activePath: commercialRoutes.promo.activePath,
+    },
+    {
+      name: "FAQ",
+      path: commercialRoutes.faq.path,
+      activePath: commercialRoutes.faq.activePath,
+    },
+    {
+      name: "Contact Us",
+      path: commercialRoutes.contact.path,
+      activePath: commercialRoutes.contact.activePath,
     },
   ];
 

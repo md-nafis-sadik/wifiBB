@@ -34,25 +34,31 @@ export const navBarData = () => ({
     },
     {
       _id: 2,
+      label: commercialRoutes.simHome.name,
+      path: commercialRoutes.simHome.path,
+    },
+    {
+      _id: 3,
+      label: commercialRoutes.promo.name,
+      path: commercialRoutes.promo.path,
+    },
+    {
+      _id: 4,
       label: commercialRoutes.pocketWifiHome.name,
       path: commercialRoutes.pocketWifiHome.path,
     },
     {
-      _id: 3,
+      _id: 5,
       label: commercialRoutes.routerHome.name,
       path: commercialRoutes.routerHome.path,
     },
-    {
-      _id: 4,
-      label: commercialRoutes.simHome.name,
-      path: commercialRoutes.simHome.path,
-    },
-    { _id: 5, label: "Contact Us", path: "/contact" },
-    {
-      _id: 6,
-      label: commercialRoutes.aboutUs.name,
-      path: commercialRoutes.aboutUs.path,
-    },
+
+    { _id: 6, label: "Contact", path: "/contact" },
+    // {
+    //   _id: 6,
+    //   label: commercialRoutes.aboutUs.name,
+    //   path: commercialRoutes.aboutUs.path,
+    // },
     {
       _id: 7,
       label: corporateRoutes.home.name,
@@ -255,7 +261,7 @@ export const footerData = {
         { label: "About Us", path: "/about-us" },
         { label: "FAQ", path: "/faq" },
         { label: "Download the app", path: "/download" },
-        { label: "Contact Us", path: "/contact" },
+        { label: "Contact", path: "/contact" },
         { label: "Terms of service", path: "/terms-of-service" },
         { label: "Privacy Policy", path: "/privacy-policy" },
       ],

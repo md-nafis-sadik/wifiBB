@@ -12,7 +12,7 @@
     "submit": "Submit",
     "getInTouch": "Get In Touch",
     "exploreProducts": "Explore Products",
-    "contactUs": "Contact Us",
+    "contactUs": "Contact",
     "enquireNow": "Enquire Now",
     "viewMore": "View More",
     "viewSimESim": "View SIM/eSIM",
@@ -114,22 +114,20 @@
         "name": "Home"
       },
       {
-        "name": "Pocket WIFI"
-      },
-      {
-        "name": "Router"
-      },
-      {
         "name": "SIM/eSIM"
       },
       {
-        "name": "Contact Us"
+        "name": "Pocket WIFI"
       },
-      {
-        "name": "About Us"
-      },
+
       {
         "name": "Promo"
+      },
+      {
+        "name": "FAQ"
+      },
+      {
+        "name": "Contact"
       }
     ],
     "corporate": [
@@ -2049,7 +2047,7 @@
           "title": "Drop Off Locations"
         },
         {
-          "title": "Contact Us",
+          "title": "Contact",
           "variant": "secondary"
         }
       ]

@@ -258,7 +258,7 @@ const commercialRoutes = {
   // contact
   contact: {
     path: "/contact",
-    name: "Contact Us",
+    name: "Contact",
     activePath: "contact",
     element: <Contact />,
   },
