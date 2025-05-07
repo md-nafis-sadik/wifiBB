@@ -133,7 +133,7 @@ const PlanCard = ({ plan, selected, onSelect }) => {
       }`}
     >
 
-      <img src={plan.image} alt={plan.country} className="w-full max-h-72 md:max-h-80 object-cover rounded-lg"  />
+      <img src={plan.image} alt={plan.country} className="w-full h-72 md:h-80 object-cover rounded-lg"  />
       <div className="p-3 sm:p-4 flex-1 flex flex-col justify-between">
         <div className=" mb-03 lg:mb-6">
           <div className={`text-base sm:text-lg md:text-xl lg:text-2xl mb-03 lg:mb-6 font-bold ${selected ? "text-black" : "text-white"}`}>{
