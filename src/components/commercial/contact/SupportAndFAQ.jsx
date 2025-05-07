@@ -10,6 +10,7 @@ import { cn } from "@/lib/utils";
 import { ArrowUpRightIcon } from "@/services";
 import { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
+import SplitText from "../home/SplitText";
 
 const SupportAndFAQ = ({ data }) => {
   const [firstHalf, setFirstHalf] = useState([]);
@@ -37,8 +38,7 @@ const SupportAndFAQ = ({ data }) => {
           subHeading={t("faqs.subHeading")}
           containerClassName={"gap-4 md:gap-[18px]"}
         />
-
-        <div className="containerX xl:px-0 grid md:grid-cols-1 gap-y-3 md:gap-10 mt-4 md:mt-8 lg:mt-[60px]">
+        <div className="containerX max-w-[776px] xl:px-0 grid md:grid-cols-1 gap-y-3 md:gap-10 mt-4 md:mt-8 lg:mt-[60px]">
           <Accordion
             type="single"
             collapsible
@@ -93,39 +93,6 @@ const SupportAndFAQ = ({ data }) => {
           </Accordion>
         </div>
 
-        <div className="flex flex-col items-center mt-4 md:mt-8 lg:mt-[60px]">
-          <h2 className="text-main-600 text-2xl md:text-5xl font-bold !leading-[1.4] md:!leading-[1.1] text-center">
-            {t("faqs.footer.heading")}
-          </h2>
-          <p className="p_common mt-[18px] text-center">
-            {t("faqs.footer.description")}
-          </p>
-
-          <div className="flex gap-3 mt-6">
-            <a
-              href="https://tidycal.com/netrosystems/discussion"
-              target="_blank"
-            >
-              <Button
-                variant="secondary"
-                className={
-                  "!text-base font-semibold !leading-[1.2] w-[177px] h-[52px]"
-                }
-              >
-                {t("buttonText.getInTouch")}
-              </Button>
-            </a>
-
-            <a
-              href="https://tidycal.com/netrosystems/discussion"
-              target="_blank"
-            >
-              <Button color="white" className={"h-[52px] w-[52px]"}>
-                <ArrowUpRightIcon className={"shrink-0 !h-6 !w-6"} />
-              </Button>
-            </a>
-          </div>
-        </div>
       </div>
     </div>
   );

@@ -23,10 +23,7 @@ import MobileMegaMenu from "./MobileMegaMenu";
 import { useTranslation } from "react-i18next";
 import React, { useEffect, useState } from "react";
 import { LazyLoadImage } from "react-lazy-load-image-component";
-import {
-  languageOptions,
-
-} from "@/services";
+import { languageOptions } from "@/services";
 import { ChevronRight } from "lucide-react";
 import {
   Select,
@@ -35,7 +32,6 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
-
 import Cookies from "js-cookie";
 import i18next from "i18next";
 
@@ -88,15 +84,15 @@ function NavBar() {
 
   const menuItems = useActiveMenuItem(commercialMenuItems);
 
-    const currentLanguage = Cookies.get("i18next");
-    const [lang, setLang] = useState(currentLanguage);
+  const currentLanguage = Cookies.get("i18next");
+  const [lang, setLang] = useState(currentLanguage);
 
-    // console.log(currentLanguage);
-  
-    const handleLanguageChange = (language) => {
-      setLang(language);
-      i18next.changeLanguage(language);
-    };
+  // console.log(currentLanguage);
+
+  const handleLanguageChange = (language) => {
+    setLang(language);
+    i18next.changeLanguage(language);
+  };
 
   const handleModalOpen = (name = "auth", value) => {
     if (name == "auth") {
@@ -123,7 +119,7 @@ function NavBar() {
     //     !isHome && !isBannerRoutes ? "border-b border-neutral-200" : ""
     //   )}
     // >
-      <header
+    <header
       className={cn(
         "sticky top-0 left-0 w-full z-40 duration-300",
         isScrolled || showMegaMenu ? "bg-white" : "",
@@ -143,9 +139,7 @@ function NavBar() {
         >
           <div className="flex w-full xl:w-auto items-center gap-2 sm:gap-6  justify-between">
             <Link to={commercialRoutes.home.path}>
-              <Logo
-                className="max-w-[100px] sm:max-w-[112px]"
-              />
+              <Logo className="max-w-[100px] sm:max-w-[112px]" />
             </Link>
             {/* <div className="w-full max-w-[200px] xs:max-w-full  items-center justify-end xs:gap-1 flex xl:hidden">
               <div
@@ -272,7 +266,7 @@ function NavBar() {
                   onMouseEnter={() => setShowMegaMenu(true)}
                   onMouseLeave={() => setShowMegaMenu(false)}
                 > */}
-                  {/* <div className="flex items-center justify-between xl:justify-start cursor-pointer w-full max-w-[320px] p-3 rounded-lg xl:rounded-none hover:bg-secondary-500 xl:w-auto xl:max-w-none xl:p-0 xl:hover:text-inherit xl:hover:bg-transparent hover:text-black-900">
+                {/* <div className="flex items-center justify-between xl:justify-start cursor-pointer w-full max-w-[320px] p-3 rounded-lg xl:rounded-none hover:bg-secondary-500 xl:w-auto xl:max-w-none xl:p-0 xl:hover:text-inherit xl:hover:bg-transparent hover:text-black-900">
                     <span>{t("navbar.megamenu.menuText")}</span>
                     <ArrowDownIcon
                       className={cn(
@@ -288,7 +282,7 @@ function NavBar() {
                       }
                     />
                   </div> */}
-                  {/* <DesktopMegaMenu isShow={showMegaMenu} /> */}
+                {/* <DesktopMegaMenu isShow={showMegaMenu} /> */}
                 {/* </li>
                 <MobileMegaMenu setIsShowMenu={setIsShowMenu} /> */}
               </ul>
@@ -305,12 +299,10 @@ function NavBar() {
               >
                 {t("extraText.corporate")}
               </Link> */}
-
             </div>
 
-
             <div className="flex flex-col xl:flex-row xl:items-center gap-3 w-full xl:w-auto flex-1 xl:flex-none justify-end xl:justify-center mt-6 xl:mt-0">
-                {/* <div className="w-full relative hidden xl:block max-w-[198px]">
+              {/* <div className="w-full relative hidden xl:block max-w-[198px]">
                   <CountrySelect
                     onChange={(val) => handleCountryChange(val)}
                     name="country"
@@ -338,66 +330,67 @@ function NavBar() {
                     }
                   />
                 </div> */}
-                <Button
-                  variant="secondary"
-                  className={
-                    "px-6 md:py-3 rounded-[10px] w-full max-w-[320px] xl:w-auto hidden"
-                  }
-                >
-                  <span>Login</span>
-                </Button>
-                <Button
-                  variant="outline"
-                  className={
-                    "px-6 md:py-3 bg-transparent border-secondary-500 text-secondary-500 hover:bg-secondary-500 hover:text-black-900 rounded-[10px] w-full max-w-[320px] xl:w-auto xl:hidden"
-                  }
-                  onClick={() => handleModalOpen("auth", true)}
-                >
-                  <span>Login</span>
-                </Button>
-                <Button
-                  className={
-                    "min-w-10 min-h-10 p-0 rounded-full hidden xl:flex bg-neutral-100 hover:bg-neutral-100"
-                  }
-                  variant="secondary"
-                  onClick={() => handleModalOpen("auth", true)}
-                >
-                  <PersonFillIcon />
-                </Button>
-                <Button
-                  className={cn(
-                    "px-6 md:py-3 rounded-full w-full max-w-[320px] xl:w-auto",
-                    (!isActive && !isScrolled && isHome) || isBannerRoutes
-                      ? "bg-main-600 text-black-900 "
-                      : "bg-main-600 text-black-900"
-                  )}
-                  onClick={() => handleModalOpen("download", true)}
-                >
-                  
-                  <span>{t("buttonText.downloadApp")}</span>
-                </Button>
-                <Select onValueChange={handleLanguageChange} defaultValue={lang}>
-            <SelectTrigger className="w-16 bg-white text-black font-semibold">
-              <SelectValue placeholder="Select Language" />
-            </SelectTrigger>
-            <SelectContent>
-              {languageOptions.map(({ _id, label, value, flag }) => (
-                <SelectItem
-                  key={_id}
-                  value={value}
-                  className={"flex flex-row gap-1 items-center text-black font-semibold"}
-                >
-                  {/* <img
+              <Button
+                variant="secondary"
+                className={
+                  "px-6 md:py-3 rounded-[10px] w-full max-w-[320px] xl:w-auto hidden"
+                }
+              >
+                <span>Login</span>
+              </Button>
+              <Button
+                variant="outline"
+                className={
+                  "px-6 md:py-3 bg-transparent border-secondary-500 text-secondary-500 hover:bg-secondary-500 hover:text-black-900 rounded-[10px] w-full max-w-[320px] xl:w-auto xl:hidden"
+                }
+                onClick={() => handleModalOpen("auth", true)}
+              >
+                <span>Login</span>
+              </Button>
+              <Button
+                className={
+                  "min-w-10 min-h-10 p-0 rounded-full hidden xl:flex bg-neutral-100 hover:bg-neutral-100"
+                }
+                variant="secondary"
+                onClick={() => handleModalOpen("auth", true)}
+              >
+                <PersonFillIcon />
+              </Button>
+              <Button
+                className={cn(
+                  "px-6 md:py-3 rounded-full w-full max-w-[320px] xl:w-auto",
+                  (!isActive && !isScrolled && isHome) || isBannerRoutes
+                    ? "bg-main-600 text-black-900 "
+                    : "bg-main-600 text-black-900"
+                )}
+                onClick={() => handleModalOpen("download", true)}
+              >
+                <span>{t("buttonText.downloadApp")}</span>
+              </Button>
+              <Select onValueChange={handleLanguageChange} defaultValue={lang}>
+                <SelectTrigger className="w-16 bg-white text-black font-semibold">
+                  <SelectValue placeholder="Select Language" />
+                </SelectTrigger>
+                <SelectContent>
+                  {languageOptions.map(({ _id, label, value, flag }) => (
+                    <SelectItem
+                      key={_id}
+                      value={value}
+                      className={
+                        "flex flex-row gap-1 items-center text-black font-semibold"
+                      }
+                    >
+                      {/* <img
                     src={flag()}
                     alt={label}
                     className="w-8 h-auto inline-block"
                   />{" "} */}
-                  <span>{label}</span>
-                </SelectItem>
-              ))}
-            </SelectContent>
-          </Select>
-              </div>
+                      <span>{label}</span>
+                    </SelectItem>
+                  ))}
+                </SelectContent>
+              </Select>
+            </div>
           </div>
         </nav>
       </div>

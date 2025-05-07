@@ -29,10 +29,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
-import {
-  languageOptions,
-
-} from "@/services";
+import { languageOptions } from "@/services";
 import Cookies from "js-cookie";
 import i18next from "i18next";
 
@@ -133,9 +130,7 @@ const NavBarSecondary = () => {
         >
           <div className="flex w-full xl:w-auto items-center gap-2 sm:gap-6  justify-between">
             <Link to={commercialRoutes.home.path}>
-              <Logo
-                className="max-w-[100px] sm:max-w-[112px]"
-              />
+              <Logo className="max-w-[100px] sm:max-w-[112px]" />
             </Link>
             {/* <div className="w-full max-w-[200px] xs:max-w-full  items-center justify-end xs:gap-1 flex xl:hidden">
                <div
@@ -262,7 +257,6 @@ const NavBarSecondary = () => {
               >
                 {t("extraText.corporate")}
               </Link> */}
-
             </div>
 
             <div className="flex flex-col xl:flex-row xl:items-center gap-3 w-full xl:w-auto flex-1 xl:flex-none justify-end xl:justify-center mt-6 xl:mt-0">
@@ -326,7 +320,9 @@ const NavBarSecondary = () => {
                     <SelectItem
                       key={_id}
                       value={value}
-                      className={"flex flex-row gap-1 items-center text-black font-semibold"}
+                      className={
+                        "flex flex-row gap-1 items-center text-black font-semibold"
+                      }
                     >
                       {/* <img
                     src={flag()}

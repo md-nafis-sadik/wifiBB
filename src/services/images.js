@@ -92,9 +92,11 @@ import country6Image from "@/assets/images/country-images/country6.webp";
 import rentalDevice from "@/assets/images/rental-device.png";
 import productShowBackground from "@/assets/images/product-showcase-background.webp";
 import registerImsge2 from "@/assets/images/register2.webp";
+import contactMap from "@/assets/images/contact-map.webp";
 // import googleplayLogo from "@/assets/images/product-showcase-background.png";
 
 export {
+  contactMap,
   registerImsge2,
   railLine,
   buildingMask,

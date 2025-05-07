@@ -1,3 +1,4 @@
+import ContactUs from "@/components/commercial/contact/ContactUs";
 import LetsTalk from "@/components/commercial/contact/LetsTalk";
 import SupportAndFAQ from "@/components/commercial/contact/SupportAndFAQ";
 import HeroCommon from "@/components/shared/others/HeroCommon";
@@ -10,11 +11,12 @@ const Contact = () => {
 
   return (
     <div>
-      <HeroCommon
+      {/* <HeroCommon
         title={t("contact.title")}
         description={t("contact.description")}
-      />
-      <LetsTalk data={contact} />
+      /> */}
+      {/* <LetsTalk data={contact} /> */}
+      <ContactUs/>
       <SupportAndFAQ data={faqs} />
     </div>
   );

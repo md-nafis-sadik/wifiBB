@@ -40,7 +40,7 @@
   }
 
   .title {
-    @apply text-2xl md:text-4xl lg:text-6xml font-bold !leading-[1.2] text-black-900 tracking-tight text-center;
+    @apply w-full lg:w-full max-w-3xl mx-auto text-3xl md:text-4xl lg:text-5xl font-semibold text-center;
   }
 
   .p_common {
