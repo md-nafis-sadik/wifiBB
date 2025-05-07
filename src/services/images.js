@@ -79,22 +79,19 @@ import tour from "@/assets/images/tour.webp";
 import whatsapp from "@/assets/images/whatsapp.webp";
 import whoWeAre1 from "@/assets/images/who-we-are-1.webp";
 import blackPocketWifiEn from "@/assets/images/pocket-wifi/black-pocket-wifi-en.webp";
-import heroImage from "@/assets/images/hero.png";
-import heroImage2 from "@/assets/images/hero2.png";
-import heroImage3 from "@/assets/images/hero3.png";
-import heroImage4 from "@/assets/images/hero4.png";
+import heroImage from "@/assets/images/hero.webp";
 import sunMask from "@/assets/images/sunMask.png";
 import buildingMask from "@/assets/images/buildingMask.png";
 import railLine from "@/assets/images/railLine.png";
-import country1Image from "@/assets/images/country-images/country1.jpg";
-import country2Image from "@/assets/images/country-images/country2.jpg";
-import country3Image from "@/assets/images/country-images/country3.jpg";
-import country4Image from "@/assets/images/country-images/country4.jpg";
-import country5Image from "@/assets/images/country-images/country5.jpg";
-import country6Image from "@/assets/images/country-images/country6.jpg";
+import country1Image from "@/assets/images/country-images/country1.webp";
+import country2Image from "@/assets/images/country-images/country2.webp";
+import country3Image from "@/assets/images/country-images/country3.webp";
+import country4Image from "@/assets/images/country-images/country4.webp";
+import country5Image from "@/assets/images/country-images/country5.webp";
+import country6Image from "@/assets/images/country-images/country6.webp";
 import rentalDevice from "@/assets/images/rental-device.png";
-import productShowBackground from "@/assets/images/product-showcase-background.png";
-import registerImsge2 from "@/assets/images/register2.png";
+import productShowBackground from "@/assets/images/product-showcase-background.webp";
+import registerImsge2 from "@/assets/images/register2.webp";
 // import googleplayLogo from "@/assets/images/product-showcase-background.png";
 
 export {
@@ -112,9 +109,6 @@ export {
   country6Image,
   BelgiumFlag,
   heroImage,
-  heroImage2,
-  heroImage3,
-  heroImage4,
   CroatiaFlag,
   FranceFlag,
   GermanyFlag,

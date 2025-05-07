@@ -31,14 +31,14 @@ const SupportAndFAQ = ({ data }) => {
 
   return (
     <div className="px-4 2xl:px-0 sec_common_80">
-      <div className="sec_common_60 pb-3 md:pb-10 lg:pb-20 container3X rounded-2xl md:rounded-3xl bg-[#ececec] px-3 md:px-6 min-[1320px]:px-0">
+      <div className="sec_common_60 pb-3 md:pb-10 lg:pb-20 container3X rounded-2xl md:rounded-3xl px-3 md:px-6 min-[1320px]:px-0">
         <SectionHeader
           heading={t("faqs.heading")}
           subHeading={t("faqs.subHeading")}
           containerClassName={"gap-4 md:gap-[18px]"}
         />
 
-        <div className="containerX xl:px-0 grid md:grid-cols-2 gap-y-3 md:gap-10 mt-4 md:mt-8 lg:mt-[60px]">
+        <div className="containerX xl:px-0 grid md:grid-cols-1 gap-y-3 md:gap-10 mt-4 md:mt-8 lg:mt-[60px]">
           <Accordion
             type="single"
             collapsible

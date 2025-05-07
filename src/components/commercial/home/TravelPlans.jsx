@@ -133,27 +133,27 @@ const PlanCard = ({ plan, selected, onSelect }) => {
       }`}
     >
 
-      <img src={plan.image} alt={plan.country} className="w-full h-72 md:h-80 object-cover rounded-lg"  />
+      <img src={plan.image} alt={plan.country} className="w-full h-56 md:h-60 object-cover rounded-lg"  />
       <div className="p-3 sm:p-4 flex-1 flex flex-col justify-between">
-        <div className=" mb-03 lg:mb-6">
-          <div className={`text-base sm:text-lg md:text-xl lg:text-2xl mb-03 lg:mb-6 font-bold ${selected ? "text-black" : "text-white"}`}>{
+        <div className="mb-3 lg:mb-4">
+          <div className={`text-base sm:text-base md:text-lg lg:text-xl mb-03 lg:mb-6 font-bold ${selected ? "text-black" : "text-white"}`}>{
             plan.country
           }</div>
-          <ul className={`text-xs sm:text-sm md:text-base mt-2 space-y-1 list-disc pl-5 ${selected ? "text-black" : "text-gray-300"}`}>
+          <ul className={`text-xs md:text-sm mt-2 space-y-1 list-disc pl-5 ${selected ? "text-black" : "text-gray-300"}`}>
             {plan.details.map((point, i) => (
               <li key={i}>{point}</li>
             ))}
           </ul>
         </div>
-        <div className={`h-[1px] my-3 lg:my-6 ${selected ? "bg-[#E0CE42]" : "bg-neutral-800"}`} ></div>
+        <div className={`h-[1px] my-2 lg:my-4 ${selected ? "bg-[#E0CE42]" : "bg-neutral-800"}`} ></div>
         <div className="flex flex-col sm:flex-row flex-wrap items-center justify-center sm:justify-between">
-          <div className="text-sm sn:text-base lg:text-lg">
+          <div className="text-xs sn:text-sm lg:text-sm">
             <span className="line-through mr-1 text-gray-400">HKD{plan.original}</span>
             <span className={`font-semibold ${selected ? "text-black" : "text-white"}`}>HKD{plan.price}</span>
             <span className="text-gray-400">/Day</span>
           </div>
           <button
-            className={`rounded-full text-xs sm:text-sm px-6 py-3 font-semibold transition-colors duration-200 mt-3 sm:mt-0 ${
+            className={`rounded-full text-xs sm:text-sm px-4 py-2 font-semibold transition-colors duration-200 mt-3 sm:mt-0 ${
               selected
                 ? "bg-black text-main-600 hover:bg-zinc-800"
                 : "bg-black text-main-600 border border-main-600 hover:bg-main-600 hover:text-black-900"
@@ -170,11 +170,11 @@ const PlanCard = ({ plan, selected, onSelect }) => {
 
 
 const TravelPlans = () => {
-  const [visible, setVisible] = useState(6);
+  const [visible, setVisible] = useState(8);
   const [selectedPlan, setSelectedPlan] = useState(0);
 
   const loadMore = () => {
-    setVisible((prev) => prev + 3);
+    setVisible((prev) => prev + 4);
   };
 
   return (
@@ -183,7 +183,7 @@ const TravelPlans = () => {
         <SplitText text="Top Destinations" className="text-3xl md:text-5xl font-bold text-white mb-4 px-4 text-center" />
         <div className="text-black-600 text-center text-sm lg:text-base">Discover the most sought-after locations for unforgettable experiences.</div>
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-8 max-w-7xl mx-auto">
+      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-8 max-w-7xl mx-auto">
         {plans.slice(0, visible).map((plan, idx) => (
           <PlanCard
             key={idx}
