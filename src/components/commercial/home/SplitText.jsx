@@ -21,7 +21,7 @@ export default function SplitText({ text, className = "" }) {
           type: "spring",
           duration: 2,
           bounce: 0,
-          delay: stagger(0.05),
+          delay: stagger(0.00),
         }
       );
     });
