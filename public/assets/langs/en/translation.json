@@ -5,6 +5,7 @@
     "search": "Search",
     "seeDetails": "See Details",
     "aboutUs": "About Us",
+    "promo": "Promo",
     "howItWorks": "How It Works",
     "downloadApp": "Rent WifiBB Now",
     "loadMore": "Load More",
@@ -126,6 +127,9 @@
       },
       {
         "name": "About Us"
+      },
+      {
+        "name": "Promo"
       }
     ],
     "corporate": [
@@ -146,6 +150,9 @@
       },
       {
         "name": "About Us"
+      },
+      {
+        "name": "Promo"
       },
       {
         "name": "Commercial"

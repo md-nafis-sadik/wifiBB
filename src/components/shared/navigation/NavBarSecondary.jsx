@@ -22,6 +22,19 @@ import { Link, useNavigate } from "react-router-dom";
 import DesktopMegaMenu from "./DesktopMegaMenu";
 import MobileMegaMenu from "./MobileMegaMenu";
 import { useTranslation } from "react-i18next";
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@/components/ui/select";
+import {
+  languageOptions,
+
+} from "@/services";
+import Cookies from "js-cookie";
+import i18next from "i18next";
 
 const NavBarSecondary = () => {
   const { isScrolled, isRedBorder, isHome, isBlack, isBannerRoutes } =
@@ -41,6 +54,15 @@ const NavBarSecondary = () => {
       `country-coverage/filter?region=${country?.region?.toLowerCase()}&country=${country?.name?.toLowerCase()}`
     );
   };
+  const currentLanguage = Cookies.get("i18next");
+  const [lang, setLang] = useState(currentLanguage);
+
+  // console.log(currentLanguage);
+
+  const handleLanguageChange = (language) => {
+    setLang(language);
+    i18next.changeLanguage(language);
+  };
 
   const commercialMenuItems = [
     {
@@ -48,7 +70,7 @@ const NavBarSecondary = () => {
       path: commercialRoutes.home.path,
       activePath: commercialRoutes.home.activePath,
     },
-    
+
     {
       name: "Pocket WIFI",
       path: commercialRoutes.pocketWifiHome.path,
@@ -73,6 +95,11 @@ const NavBarSecondary = () => {
       name: "About Us",
       path: commercialRoutes.aboutUs.path,
       activePath: commercialRoutes.aboutUs.activePath,
+    },
+    {
+      name: "Promo",
+      path: commercialRoutes.promo.path,
+      activePath: commercialRoutes.promo.activePath,
     },
   ];
 
@@ -177,7 +204,7 @@ const NavBarSecondary = () => {
                 : "translate-x-full xl:translate-x-[auto]"
             )}
           >
-            <div className="max-w-[360px] pt-10 xl:pt-0 xl:max-w-none mx-auto flex-1 xl:flex flex-col xl:flex-row xl:items-center xl:justify-between">
+            <div className="max-w-[360px] pt-10 xl:pt-0 xl:max-w-none mx-auto flex-1 xl:flex flex-col xl:flex-row xl:items-center xl:justify-center">
               <div className="flex xl:hidden w-full xl:w-auto items-center justify-between pb-10">
                 <Link to={commercialRoutes.home.path}>
                   <Logo />
@@ -241,8 +268,11 @@ const NavBarSecondary = () => {
               >
                 {t("extraText.corporate")}
               </Link> */}
-              <div className="flex flex-col xl:flex-row xl:items-center gap-3 w-full xl:w-auto flex-1 xl:flex-none justify-end xl:justify-center mt-6 xl:mt-0">
-                {/* <div className="w-full relative hidden xl:block max-w-[198px]">
+
+            </div>
+
+            <div className="flex flex-col xl:flex-row xl:items-center gap-3 w-full xl:w-auto flex-1 xl:flex-none justify-end xl:justify-center mt-6 xl:mt-0">
+              {/* <div className="w-full relative hidden xl:block max-w-[198px]">
                   <CountrySelect
                     onChange={(val) => handleCountryChange(val)}
                     name="country"
@@ -258,43 +288,62 @@ const NavBarSecondary = () => {
                     color="#191919"
                   />
                 </div> */}
-                <Button
-                  variant="secondary"
-                  className={
-                    "px-6 md:py-3 rounded-[10px] w-full max-w-[320px] xl:w-auto hidden"
-                  }
-                >
-                  <span>Login</span>
-                </Button>
-                <Button
-                  variant="outline"
-                  className={
-                    "px-6 md:py-3 bg-transparent border-secondary-500 text-secondary-500 hover:bg-secondary-500 hover:text-black-900 rounded-[10px] w-full max-w-[320px] xl:w-auto xl:hidden"
-                  }
-                  onClick={() => handleModalOpen("auth", true)}
-                >
-                  <span>Login</span>
-                </Button>
-                <Button
-                  className={
-                    "min-w-10 min-h-10 p-0 rounded-full hidden xl:flex bg-neutral-100 hover:bg-neutral-100"
-                  }
-                  variant="secondary"
-                  onClick={() => handleModalOpen("auth", true)}
-                >
-                  <PersonFillIcon />
-                </Button>
-                <Button
-                  className={cn(
-                    "px-6 md:py-3 rounded-full w-full max-w-[320px] xl:w-auto bg-main-600 text-black-900"
-                  )}
-                  onClick={() => handleModalOpen("download", true)}
-                >
-                  {/* <CellphoneIcon color="#fff" className="w-5 h-5 shrink-0" /> */}
-                  <span>{t("buttonText.downloadApp")}</span>
-                </Button>
-
-              </div>
+              <Button
+                variant="secondary"
+                className={
+                  "px-6 md:py-3 rounded-[10px] w-full max-w-[320px] xl:w-auto hidden"
+                }
+              >
+                <span>Login</span>
+              </Button>
+              <Button
+                variant="outline"
+                className={
+                  "px-6 md:py-3 bg-transparent border-secondary-500 text-secondary-500 hover:bg-secondary-500 hover:text-black-900 rounded-[10px] w-full max-w-[320px] xl:w-auto xl:hidden"
+                }
+                onClick={() => handleModalOpen("auth", true)}
+              >
+                <span>Login</span>
+              </Button>
+              <Button
+                className={
+                  "min-w-10 min-h-10 p-0 rounded-full hidden xl:flex bg-neutral-100 hover:bg-neutral-100"
+                }
+                variant="secondary"
+                onClick={() => handleModalOpen("auth", true)}
+              >
+                <PersonFillIcon />
+              </Button>
+              <Button
+                className={cn(
+                  "px-6 md:py-3 rounded-full w-full max-w-[320px] xl:w-auto bg-main-600 text-black-900"
+                )}
+                onClick={() => handleModalOpen("download", true)}
+              >
+                {/* <CellphoneIcon color="#fff" className="w-5 h-5 shrink-0" /> */}
+                <span>{t("buttonText.downloadApp")}</span>
+              </Button>
+              <Select onValueChange={handleLanguageChange} defaultValue={lang}>
+                <SelectTrigger className="w-16 bg-white text-black font-semibold">
+                  <SelectValue placeholder="Select Language" />
+                </SelectTrigger>
+                <SelectContent>
+                  {languageOptions.map(({ _id, label, value, flag }) => (
+                    <SelectItem
+                      key={_id}
+                      value={value}
+                      className={"flex flex-row gap-1 items-center text-black font-semibold"}
+                    >
+                      {/* <img
+                    src={flag()}
+                    alt={label}
+                    className="w-8 h-auto inline-block"
+                  />{" "} */}
+                      <span>{label}</span>
+                    </SelectItem>
+                  ))}
+                </SelectContent>
+              </Select>
             </div>
           </div>
         </nav>

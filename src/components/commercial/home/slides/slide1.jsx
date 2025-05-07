@@ -164,7 +164,7 @@ function Slide1() {
                         </div>
                     </motion.form>
 
-                    <img src={images.heroImage} className="min-h-[260px] object-cover md:object-contain" />
+                    <img src={images.heroImage} className="min-h-[200px] object-cover md:object-contain" />
                 </div>
 
             </section>

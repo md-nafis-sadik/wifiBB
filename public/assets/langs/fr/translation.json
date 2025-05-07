@@ -5,6 +5,7 @@
     "search": "Rechercher",
     "seeDetails": "Voir les Détails",
     "aboutUs": "À Propos de Nous",
+    "promo": "TODO",
     "howItWorks": "Comment Ça Marche",
     "downloadApp": "Télécharger l'APP",
     "loadMore": "Charger Plus",
@@ -125,6 +126,9 @@
       },
       {
         "name": "À Propos de Nous"
+      },
+      {
+        "name": "TODO"
       }
     ],
     "corporate": [

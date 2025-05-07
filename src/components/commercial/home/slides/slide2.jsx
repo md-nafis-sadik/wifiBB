@@ -15,7 +15,7 @@ export default function Slide2() {
                   <motion.button
                     animate={{ rotate: 360 }}
                     transition={{ duration: 1 }}
-                    className="bg-main-650 text-black font-extrabold py-1 px-8 rounded-full mt-2 mb-6 absolute  text-xs md:text-sm lg:text-xl border-4 border-secondary-525 right-20 sm:right-28 md:right-40 lg:right-32 top-16 sm:top-6 md:top-8 lg:top-10"
+                    className="bg-main-650 text-black font-extrabold py-1 px-8 rounded-full mt-2 mb-6 absolute  text-xs md:text-sm lg:text-xl border-4 border-secondary-525 right-24 sm:right-28 md:right-40 lg:right-32 top-16 sm:top-6 md:top-8 lg:top-10"
                   >
                     <div>GRAB IT</div>
                     <div className="md:mt-[-7px]">NOW!</div>

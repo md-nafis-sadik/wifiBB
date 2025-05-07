@@ -85,6 +85,11 @@ function NavBar() {
       path: commercialRoutes.aboutUs.path,
       activePath: commercialRoutes.aboutUs.activePath,
     },
+    {
+      name: "Promo",
+      path: commercialRoutes.promo.path,
+      activePath: commercialRoutes.promo.activePath,
+    },
   ];
 
   const menuItems = useActiveMenuItem(commercialMenuItems);
@@ -236,7 +241,7 @@ function NavBar() {
                 : "translate-x-full xl:translate-x-[auto]"
             )}
           >
-            <div className="max-w-[360px] pt-10 xl:pt-0 xl:max-w-none mx-auto flex-1 xl:flex flex-col xl:flex-row xl:items-center xl:justify-between">
+            <div className="max-w-[360px] pt-10 xl:pt-0 xl:max-w-none mx-auto flex-1 xl:flex flex-col xl:flex-row xl:items-center xl:justify-center">
               <div className="flex xl:hidden w-full xl:w-auto items-center justify-between pb-10">
                 <Link to={commercialRoutes.home.path}>
                   <Logo />
@@ -306,7 +311,11 @@ function NavBar() {
               >
                 {t("extraText.corporate")}
               </Link> */}
-              <div className="flex flex-col xl:flex-row xl:items-center gap-3 w-full xl:w-auto flex-1 xl:flex-none justify-end xl:justify-center mt-6 xl:mt-0">
+
+            </div>
+
+
+            <div className="flex flex-col xl:flex-row xl:items-center gap-3 w-full xl:w-auto flex-1 xl:flex-none justify-end xl:justify-center mt-6 xl:mt-0">
                 {/* <div className="w-full relative hidden xl:block max-w-[198px]">
                   <CountrySelect
                     onChange={(val) => handleCountryChange(val)}
@@ -395,7 +404,6 @@ function NavBar() {
             </SelectContent>
           </Select>
               </div>
-            </div>
           </div>
         </nav>
       </div>
