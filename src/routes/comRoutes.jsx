@@ -42,7 +42,11 @@ const {
   affiliate,
   pickDropLocation,
   faq,
-  promo
+  promo,
+  termsConditions,
+  rentalAgreements,
+  refundPolicy,
+  rentPocketDevice
 } = routes || {};
 
 export const comRoutes = [
@@ -61,6 +65,22 @@ export const comRoutes = [
       {
         path: promo.path,
         element: promo.element,
+      },
+      {
+        path: termsConditions.path,
+        element: termsConditions.element,
+      },
+      {
+        path: rentalAgreements.path,
+        element: rentalAgreements.element,
+      },
+      {
+        path: refundPolicy.path,
+        element: refundPolicy.element,
+      },
+      {
+        path: rentPocketDevice.path,
+        element: rentPocketDevice.element,
       },
       {
         path: routerHome.path,

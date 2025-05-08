@@ -1592,23 +1592,19 @@
   "footer": {
     "subscribeNewsLetter": "Subscribe newsletter!",
     "copyRightText": "All Rights Reserved.",
-    "contact": [
-      {
-        "type": "WifiBB - Your solution for reliable, global connectivity with eSIM technology."
-      },
-      {
-        "type": "Mail"
-      }
-    ],
+    "description": "WifiBB - Your solution for reliable, global connectivity with eSIM technology.",
     "legals": [
       {
-        "title": "Terms of use"
+        "title": "Terms and Conditions"
       },
       {
-        "title": "Privacy policy"
+        "title": "Rental Agreement"
       },
       {
         "title": "Refund Policy"
+      },
+      {
+        "title": "Download the app"
       }
     ],
     "menuData": [
@@ -2222,5 +2218,107 @@
         "linkText": "Resend Code"
       }
     }
+  },
+
+
+
+  "termsModal": {
+    "header": "Terms And Conditions",
+    "subheader": "Ensure compliance by reviewing our detailed service policies.",
+    "section1Header": {
+        "heading": "Web Site Terms and Conditions of Use"
+      },
+      "termsOfUse": [
+        {
+          "title": "1. Terms",
+          "text": "By accessing this web site, you are agreeing to be bound by these web site Terms and Conditions of Use, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this web site are protected by applicable copyright and trade mark law."
+        },
+        {
+          "title": "2. Use License",
+          "ul": [
+            {
+              "li": "Permission is granted to temporarily download one copy of the materials (information or software) on Wifipack Ltd.'s web site for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:",
+              "ul": [
+                {
+                  "li1": "modify or copy the materials;",
+                  "li2": "use the materials for any commercial purpose, or for any public display (commercial or non-commercial);",
+                  "li3": "attempt to decompile or reverse engineer any software contained on Wifipack Ltd.'s web site;",
+                  "li4": "remove any copyright or other proprietary notations from the materials; or",
+                  "li5": "transfer the materials to another person or \"mirror\" the materials on any other server."
+                }
+              ]
+            },
+            {
+              "li": "This license shall automatically terminate if you violate any of these restrictions and may be terminated by Wifipack Ltd. at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format."
+            }
+          ]
+        },
+        {
+          "title": "3. Disclaimer",
+          "text": "The materials on Wifipack Ltd.'s web site are provided \"as is\". Wifipack Ltd. makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, Wifipack Ltd. does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Internet web site or otherwise relating to such materials or on any sites linked to this site."
+        },
+        {
+          "title": "4. Limitations",
+          "text": "In no event shall Wifipack Ltd. or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption,) arising out of the use or inability to use the materials on Wifipack Ltd.'s Internet site, even if Wifipack Ltd. or a Wifipack Ltd. authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you."
+        },
+        {
+          "title": "5. Revisions and Errata",
+          "text": "The materials appearing on Wifipack Ltd.'s web site could include technical, typographical, or photographic errors. Wifipack Ltd. does not warrant that any of the materials on its web site are accurate, complete, or current. Wifipack Ltd. may make changes to the materials contained on its web site at any time without notice. Wifipack Ltd. does not, however, make any commitment to update the materials."
+        },
+        {
+          "title": "6. Links",
+          "text": "Wifipack Ltd. has not reviewed all of the sites linked to its Internet web site and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Wifipack Ltd. of the site. Use of any such linked web site is at the user's own risk."
+        },
+        {
+          "title": "7. Site Terms of Use Modifications",
+          "text": "Wifipack Ltd. may revise these terms of use for its web site at any time without notice. By using this web site you are agreeing to be bound by the then current version of these Terms and Conditions of Use."
+        },
+        {
+          "title": "8. Site Terms of Use Modifications",
+          "text": "Any claim relating to Wifipack Ltd.'s web site shall be governed by the laws of Hong Kong without regard to its conflict of law provisions.<br><br>General Terms and Conditions applicable to Use of a Web Site."
+
+        }
+        
+      ],
+      "section2Header": {
+        "heading": "Privacy Policy",
+        "text": "Your privacy is very important to us. Accordingly, we have developed this Privacy Policy, in compliance with the Personal Data (Privacy) Ordinance (Cap. 486) (the “Ordinance”), for you to understand how we collect, use, communicate and disclose and make use of your personal information. The following outlines our Privacy Policy."
+      },
+      "privacyPolicy": [
+        {
+          "title": "1. Your personal data and our usage of it",
+          "text": "The Company collects personal information to ensure we can fulfill your rental order(s) and ensure that you may have a satisfactory shopping experience online and in our store(s).<br><brUpon your booking of your intended rental, we shall collect and store your personal information so as to offer you a personal experience on our website and to make the renting process easier and quicker. Information collected shall include your full name, address, phone number, credit card details and email address.<br><brIn confirming your rental contract, you have specially consented to us that we may use your personal information for the following purposes:<br><brFulfilling your rental orders including payment clearance and Equipment processing for collection;Responding to your enquiries;Matching personal information at store(s) with information you provided in the booking;Analysing trends and rental behavior as well as conducting customer surveys to continuously improve our offerings and services; andDirect marketing as more particularly set out under point 2 below.",
+          "ul": [
+            {
+              "li": "This license shall automatically terminate if you violate any of these restrictions and may be terminated by Wifipack Ltd. at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format."
+            }
+          ]
+          
+        },
+        {
+          "title": "2. Direct Marketing",
+          "text": "In confirming your rental contract, you have specifically consented to us using your personal information to conduct direct marketing activities with you. Our direct marketing activities shall only be conducted with respect to our promotional offers in our products and services (“Wifi Products”).<br><br>The direct marketing activities that we may conduct with you shall include sending to you email, text or other mobile messages or printed communications about Wifi Products and events or promotions that the Company may conduct online or at our store(s) with respect to Wifi Products.<br><br>Please be informed that you shall have the right to opt out in respect of these direct marketing activities. In the event that you want to exercise your opt out right, you may do so, before confirming your rental contract, by clicking [unsubscribe from our mailing list] to opt out from receiving direct marketing activities from the Company. Alternatively, you may prefer to contact us at hello@wifibb.com or call us at (852) 3184 0668 for help.<br><br>Please be assured that in the marketing or promotional emails we send to you, we will also provide you with an option to unsubscribe in future.​​"
+        },
+        {
+          "title": "3. Security and protection of your information",
+          "text": "We may use your personal information to meet our customer services commitments such as arranging your order or preventing frauds. Access to such information is protected by physical, electronic and managerial measures and we therefore limit the access to your information to our employees and agents who need it to do their jobs. <br><br>We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. However, neither people nor security systems are foolproof. Therefore, we cannot guarantee its absolute security and we may not be able to prevent unauthorized access to such information by third parties or any inadvertent disclosure of such information during any such data transfers. Users acknowledge this risk when using our services."
+        },
+        {
+          "title": "4. Disclosure of your personal information",
+          "text": "Your personal information held by the Company will be kept confidential but we may disclose information to our affiliates or related companies or those service providers to the Company which are under a strict obligation of confidentiality, where such disclosure is necessary to satisfy the purpose, or a directly related purpose, for which the data was collected.<br><br>We do not provide any personally identifiable customer information to any advertisers or third-party websites unless your specific written consent is obtained. If you follow a link to any of these websites or submit information to third parties via our websites, please check and read their own privacy policy before submitting your details. Kindly note that we do not accept any responsibility or liability in connection with such submission of information to third parties.<br><br>Your personal data may also be disclosed to any person or persons pursuant to any statutory or contractual obligations or as required by court of law, provided such person or persons shall be able to prove the required right/authority to access such information. In addition, your personal data may be disclosed under any of the circumstances described in Part VII of the Ordinance as exemption from the provisions of the Ordinance."
+        },
+        {
+          "title": "5. How to check and update your information",
+          "text": "We will only retain personal information as long as necessary for the fulfillment of those purposes. In case you may wish to verify or update any personal information that you have submitted to us by contacting us at hello@wifibb.com or call us at (852) 3184 0668 for help."
+        },
+        {
+          "title": "6. Our Corporate Policy",
+          "text": "Our Officers, management and staff members shall, at all times, respect the confidentiality of and endeavour to keep safe any and all personal data collected and/or stored and/or transmitted and/or used for, or on behalf of the Company.  The Company shall endeavour to ensure all collection, storage, transmission and other handling of usage of personal data shall be done on accordance with the obligations and requirements of the Ordinance."
+        },
+        {
+          "title": "7. Changes to this Privacy Policy",
+          "text": "We may, from time to time, amend this Privacy Policy, in whole or part, in our sole discretion to clarify our practices and to reflect new or different privacy practices. Any changes to this Privacy Policy will be effective immediately upon the posting of the revised policy on our website. If you do not agree with the terms of this Privacy Policy, which may be amended from time to time, in whole or part, you must terminate your use of our services. In any event, by continuing to use our services following any changes to this Privacy Policy, you are deemed to have agreed to such changes."
+        }
+      ]
   }
 }

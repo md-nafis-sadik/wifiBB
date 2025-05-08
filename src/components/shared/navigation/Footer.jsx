@@ -22,32 +22,31 @@ import {
 import Cookies from "js-cookie";
 import { useTranslation } from "react-i18next";
 import i18next from "i18next";
+import { testValueType } from "motion";
 
 const Footer = () => {
   const footerData = {
     contact: [
       {
         type: "WifiBB - Your solution for reliable, global connectivity with eSIM technology.",
-        value: "WifiBB - Your solution for reliable, global connectivity with eSIM technology.",
+        value:
+          "WifiBB - Your solution for reliable, global connectivity with eSIM technology.",
       },
-
     ],
     legals: [
-      { title: "Download the app", path: "#" },
-      { title: "Rental Agreement", path: "#" },
-      { title: "Refund policy", path: "#" },
+      { title: "Terms and Conditions", path: "/terms-and-conditions" },
+      { title: "Rental Agreement", path: "/rental-agreements" },
+      { title: "Refund Policy", path: "/refund-policy" },
     ],
 
-    downloads: [
-      { title: "Download the app", path: "#" },
-    ],
+    downloads: [{ title: "Download the app", path: "#" }],
     menuData: [
       {
         title: "Services & Plans",
         links: [
           { label: "Pricing & Ordering", path: commercialRoutes.aboutUs.path },
           { label: "How to use WiFiBB", path: commercialRoutes.faq.path },
-          { label: "Membership", path: "/download" },
+          { label: "Membership", path: "/membership-registration" },
         ],
       },
       {
@@ -55,16 +54,15 @@ const Footer = () => {
         links: [
           {
             label: "Promo",
-            path: commercialRoutes.pocketWifiDetails.path,
+            path: commercialRoutes.promo.path,
           },
           {
             label: "FAQ",
-            path: commercialRoutes.countryCoverage.path,
+            path: commercialRoutes.faq.path,
           },
-          { label: "Contact", path: "/local-data" },
-       
+          { label: "Contact", path: "/contact" },
         ],
-      }
+      },
     ],
   };
 
@@ -86,29 +84,22 @@ const Footer = () => {
   }, [userEmail]);
 
   return (
-    <footer className="bg-white">
+    <footer className="bg-white ">
       <div className="container2X sec_common_80 xl:px-0 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-6 gap-10 md:gap-16 text-center md:text-left">
         {/* CONTACT/LOGO */}
         <div className="col-span-1 md:col-span-2 min-[1320px]:col-span-2">
           <div className="flex justify-center md:justify-start mb-4">
-          <Logo
-                          className="max-w-[100px] sm:max-w-[112px] mx-auto md:mx-0"
-                        />
-                        </div>
+            <Logo className="max-w-[100px] sm:max-w-[112px] mx-auto md:mx-0" />
+          </div>
           {footerData.contact.map(({ type, value }, index) => (
             <p
               key={index}
               className="flex items-center gap-1 mt-4 md:mt-6 text-base md:text-lg !leading-[1.4]"
             >
-              <span className="text-black-00">
-                {t(`footer.contact.${index}.type`)} :
-              </span>
+              <span className="text-black-00">{t(`footer.description`)}</span>
               {/* <span className="text-black-700">{value}</span> */}
-              
             </p>
           ))}
-
-          
         </div>
 
         {/* ESSENTIAL LINKS */}
@@ -124,7 +115,7 @@ const Footer = () => {
               {links.map(({ path }, index) => (
                 <li
                   key={index}
-                  className="text-sm md:text-base text-black-900 !leading-[1.2] hover:opacity-70 mt-3 md:mt-3 lg:mt-4 whitespace-normal"
+                  className="text-sm md:text-base text-black-900 !leading-[1.2] hover:text-secondary-600 transition-colors mt-3 md:mt-3 lg:mt-4 whitespace-normal"
                 >
                   <Link to={path}>
                     {t(`footer.menuData.${menuIndex}.links.${index}.label`)}
@@ -135,11 +126,8 @@ const Footer = () => {
           </div>
         ))}
 
-<div
-     
-            className="col-span-1 md:col-span-2 min-[1320px]:col-span-2 shrink-0"
-          >
-            <p className="text-sm md:text-base text-secondary-500 font-semibold !leading-[1.4] ">
+        <div className="col-span-1 md:col-span-2 min-[1320px]:col-span-2 shrink-0">
+          <p className="text-sm md:text-base text-secondary-500 font-semibold !leading-[1.4] ">
             {t("footer.subscribeNewsLetter")}
           </p>
 
@@ -155,9 +143,7 @@ const Footer = () => {
             <button
               className={cn(
                 "shrink-0 bg-main-600 text-black-900 rounded-full px-5 py-3 flex items-center justify-center ml-2 text-sm font-semibold",
-                isButtonDisabled
-                  ? "cursor-not-allowed"
-                  : "hover:bg-main-650 "
+                isButtonDisabled ? "cursor-not-allowed" : "hover:bg-main-650 "
               )}
               onClick={() => setUserEmail("")}
               disabled={isButtonDisabled}
@@ -165,14 +151,15 @@ const Footer = () => {
               Subscribe <ChevronRight className="w-4 h-4" />
             </button>
           </div>
-          </div>
+        </div>
       </div>
 
-      <div className="container2X sec_common_40 lg:px-4 flex flex-col md:flex-row gap-2 justify-between md:items-center">
-        <p className="text-sm md:text-base text-black-900 !leading-[1.4] text-center">
-          ©2024 <span className="font-semibold">Wifipack Ltd</span>.{" "}
-          {t("footer.copyRightText")}
-
+      <div className="container2X sec_common_40 lg:px-4 flex flex-col lg:flex-row gap-2 justify-between lg:items-center">
+        <div className="text-sm md:text-base flex flex-col lg:flex-row items-center md:items-start lg:items-center">
+          <div className="mb-2 lg:mb-0 text-black-900 !leading-[1.4] text-center md:text-left">
+            ©2025 <span className="font-semibold">Wifipack Ltd</span>.{" "}
+            {t("footer.copyRightText")}
+          </div>
           {/* <div className="flex gap-4 md:gap-8">
             {footerData.legals.map((item, index) => (
               <Link
@@ -183,24 +170,27 @@ const Footer = () => {
                 {t(`footer.legals.${index}.title`)}
               </Link>
             ))}
-          </div> */} | Terms and Conditions |
-          Rental Agreement | Refund Policy
-        </p>
+          </div> */}{" "}
+          {footerData.legals.map((item, index) => (
+            <div
+              key={index}
+              className="lg:pl-2 lg:ml-2 lg:border-l border-neutral-200 text-black-900 !leading-[1.2] hover:text-secondary-600 transition-colors"
+            >
+              <a href={item.path}>{t(`footer.legals.${index}.title`)}</a>
+            </div>
+          ))}
+        </div>
 
         <div className="flex flex-col md:flex-row gap-4 md:gap-8 items-center">
-
-
           <div className="flex gap-4 md:gap-8">
-            {footerData.downloads.map((item, index) => (
-              <Link
-                key={index}
-                to={item.path}
-                className="text-sm md:text-base text-black-900 !leading-[1.4] hover:opacity-70"
-              >
-                {/* {t(`footer.downloads.${index}.title`)} */}
-                Download the app
-              </Link>
-            ))}
+            
+                  <Link
+                    to="#"
+                    className="text-sm md:text-base text-black-900 !leading-[1.2] hover:text-secondary-600 transition-colors hover:opacity-70"
+                  >
+                    {t(`footer.legals.${3}.title`)}
+                  </Link>
+                
           </div>
         </div>
       </div>

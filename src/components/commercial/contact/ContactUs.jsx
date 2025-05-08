@@ -5,7 +5,7 @@ import { Download } from "lucide-react";
 
 export default function ContactUs() {
   return (
-    <div className="max-w-7xl mx-auto px-4 py-16 text-center">
+    <div className="max-w-7xl mx-auto px-4 py-16 text-center ">
       <SectionHeader
         heading={"Contact Us"}
         subHeading={"Have questions or need support? We're here to help!"}
@@ -61,7 +61,7 @@ export default function ContactUs() {
 
         {/* Map Section */}
         <motion.div
-          className="bg-blue-50 rounded-lg p-6"
+          className="bg-blue-50 rounded-lg p-6 mx-auto"
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}

@@ -102,9 +102,11 @@ import promoLogo6 from "@/assets/images/promo/logo-promo6.webp";
 import promoLogo7 from "@/assets/images/promo/logo-promo7.webp";
 import promoLogo8 from "@/assets/images/promo/logo-promo8.webp";
 import promoLogo9 from "@/assets/images/promo/logo-promo9.webp";
+import selectBuildings from "@/assets/images/select-buildings.webp";
 // import googleplayLogo from "@/assets/images/product-showcase-background.png";
 
 export {
+  selectBuildings,
   promoLogo1,
   promoLogo2,
   promoLogo3,

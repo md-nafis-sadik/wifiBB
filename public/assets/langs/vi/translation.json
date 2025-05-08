@@ -1573,69 +1573,51 @@
   "footer": {
     "subscribeNewsLetter": "Đăng ký nhận bản tin!",
     "copyRightText": "Bản quyền thuộc về.",
-    "contact": [
-      {
-        "type": "Gọi"
-      },
-      {
-        "type": "Email"
-      }
-    ],
+    "description": "WifiBB - Giải pháp của bạn cho kết nối toàn cầu đáng tin cậy với công nghệ eSIM.",
     "legals": [
-      {
-        "title": "Điều khoản sử dụng"
-      },
-      {
-        "title": "Chính sách bảo mật"
-      }
-    ],
+  {
+    "title": "Điều khoản và Điều kiện"
+  },
+  {
+    "title": "Hợp đồng cho thuê"
+  },
+  {
+    "title": "Chính sách hoàn tiền"
+  },
+  {
+    "title": "Tải xuống ứng dụng"
+  }
+]
+,
     "menuData": [
-      {
-        "title": "YOOWIFI",
-        "links": [
-          {
-            "label": "Về chúng tôi"
-          },
-          {
-            "label": "Câu hỏi thường gặp"
-          },
-          {
-            "label": "Tải ứng dụng"
-          },
-          {
-            "label": "Liên hệ với chúng tôi"
-          },
-          {
-            "label": "Điều khoản dịch vụ"
-          },
-          {
-            "label": "Chính sách bảo mật"
-          }
-        ]
-      },
-      {
-        "title": "DÀNH CHO YOO",
-        "links": [
-          {
-            "label": "Dữ liệu du lịch"
-          },
-          {
-            "label": "Phạm vi quốc gia"
-          },
-          {
-            "label": "Dữ liệu địa phương"
-          },
-          {
-            "label": "Vị trí đón / trả"
-          },
-          {
-            "label": "Sản phẩm"
-          },
-          {
-            "label": "Cách thức hoạt động"
-          }
-        ]
-      },
+    {
+      "title": "Dịch vụ & Gói",
+      "links": [
+        {
+          "label": "Giá cả & Đặt hàng"
+        },
+        {
+          "label": "Cách sử dụng WiFiBB"
+        },
+        {
+          "label": "Thành viên"
+        }
+      ]
+    },
+    {
+      "title": "Hỗ trợ & Ưu đãi",
+      "links": [
+        {
+          "label": "Khuyến mãi"
+        },
+        {
+          "label": "Câu hỏi thường gặp"
+        },
+        {
+          "label": "Liên hệ"
+        }
+      ]
+    },
       {
         "title": "DOANH NGHIỆP",
         "links": [
@@ -2239,5 +2221,96 @@
         "linkText": "Gửi lại mã"
       }
     }
+  },
+  "termsModal": {
+    "header": "Điều khoản và Điều kiện",
+    "subheader": "Hãy chắc chắn rằng bạn đồng ý với các chính sách dịch vụ chi tiết của chúng tôi.",
+    "section1Header": {
+      "heading": "Điều khoản sử dụng Website"
+    },
+    "termsOfUse": [
+      {
+        "title": "1. Điều khoản",
+        "text": "Khi truy cập vào trang web này, bạn đồng ý tuân thủ các điều khoản sử dụng của trang web này, tất cả các luật và quy định áp dụng, và bạn chịu trách nhiệm tuân thủ các luật địa phương. Nếu bạn không đồng ý với bất kỳ điều khoản nào trong số này, bạn bị cấm sử dụng hoặc truy cập trang web này. Tất cả các tài liệu trên trang web này được bảo vệ bởi luật bản quyền và các nhãn hiệu có liên quan."
+      },
+      {
+        "title": "2. Giấy phép Sử dụng",
+        "ul": [
+          {
+            "li": "a. Việc tải xuống các tài liệu từ trang web của Wifipack Ltd. chỉ được phép cho mục đích quan sát cá nhân tạm thời và không vì mục đích thương mại. Đây là một giấy phép, không phải là chuyển nhượng quyền sở hữu, và theo giấy phép này bạn không được phép:",
+            "ul": [
+              {
+                "li1": "a. Thay đổi hoặc sao chép tài liệu;",
+                "li2": "b. Sử dụng tài liệu cho mục đích thương mại hoặc trình chiếu công cộng (cho dù là thương mại hay không);",
+                "li3": "c. Cố gắng giải mã hoặc đảo ngược kỹ thuật phần mềm có trong tài liệu trên trang web của Wifipack Ltd.;",
+                "li4": "d. Xóa bất kỳ thông báo bản quyền hoặc thông báo quyền sở hữu nào từ tài liệu;",
+                "li5": "e. Chuyển giao tài liệu cho người khác hoặc 'gương' tài liệu trên bất kỳ máy chủ nào khác."
+              }
+            ]
+          },
+          {
+            "li": "b. Giấy phép này sẽ tự động chấm dứt nếu bạn vi phạm bất kỳ giới hạn nào trong số này và có thể bị Wifipack Ltd. chấm dứt bất cứ lúc nào. Khi giấy phép này kết thúc hoặc bạn ngừng sử dụng tài liệu, bạn phải hủy tất cả tài liệu đã tải xuống, dù ở dạng điện tử hay in ra."
+          }
+        ]
+      },
+      {
+        "title": "3. Từ chối Bảo đảm",
+        "text": "Các tài liệu trên trang web của Wifipack Ltd. được cung cấp 'như là'. Wifipack Ltd. không đưa ra bất kỳ bảo đảm nào, dù là rõ ràng hay ngụ ý, và qua đó từ chối tất cả các bảo đảm khác, bao gồm nhưng không giới hạn các bảo đảm về khả năng bán được hoặc sự phù hợp cho một mục đích cụ thể, hoặc các bảo đảm về quyền sở hữu hoặc không vi phạm. Hơn nữa, Wifipack Ltd. không cam kết về tính chính xác, kết quả có thể đạt được, hoặc độ tin cậy của các tài liệu trên trang web hoặc các trang web liên kết."
+      },
+      {
+        "title": "4. Giới hạn Trách nhiệm",
+        "text": "Trong bất kỳ trường hợp nào, Wifipack Ltd. hoặc các nhà cung cấp của họ sẽ không chịu trách nhiệm đối với bất kỳ thiệt hại nào (bao gồm nhưng không giới hạn mất mát dữ liệu hoặc lợi nhuận, hoặc gián đoạn kinh doanh) phát sinh từ việc sử dụng hoặc không sử dụng các tài liệu trên trang web này, ngay cả khi Wifipack Ltd. hoặc các đại diện ủy quyền của họ đã được thông báo về khả năng xảy ra thiệt hại. Một số khu vực pháp lý không cho phép giới hạn bảo đảm ngụ ý hoặc loại trừ thiệt hại ngẫu nhiên hoặc do hậu quả, vì vậy các giới hạn này có thể không áp dụng cho bạn."
+      },
+      {
+        "title": "5. Sửa chữa và Chính xác của Thông tin",
+        "text": "Các tài liệu trên trang web của Wifipack Ltd. có thể chứa lỗi kỹ thuật, lỗi đánh máy hoặc hình ảnh không chính xác. Wifipack Ltd. không cam kết rằng các tài liệu trên trang web của mình là chính xác, đầy đủ hoặc cập nhật. Wifipack Ltd. có thể thực hiện thay đổi đối với các tài liệu trên trang web của mình bất kỳ lúc nào mà không cần thông báo. Tuy nhiên, Wifipack Ltd. không có nghĩa vụ phải cập nhật các tài liệu."
+      },
+      {
+        "title": "6. Liên kết",
+        "text": "Wifipack Ltd. không xem xét tất cả các liên kết liên kết đến trang web của mình và không chịu trách nhiệm về nội dung của bất kỳ trang web liên kết nào. Những liên kết này không đồng nghĩa với việc Wifipack Ltd. phê duyệt các trang web này. Việc sử dụng bất kỳ trang web liên kết nào là rủi ro của bạn."
+      },
+      {
+        "title": "7. Thay đổi Điều khoản Sử dụng",
+        "text": "Wifipack Ltd. có thể thay đổi các điều khoản sử dụng của trang web này bất kỳ lúc nào mà không cần thông báo. Việc bạn tiếp tục sử dụng trang web này sẽ được coi là sự chấp nhận các điều khoản đã cập nhật."
+      },
+      {
+        "title": "8. Luật áp dụng",
+        "text": "Bất kỳ yêu cầu nào liên quan đến trang web của Wifipack Ltd. sẽ được điều chỉnh theo luật pháp của Hồng Kông, không tính đến các quy định của các luật mâu thuẫn."
+      }
+    ],
+    "section2Header": {
+      "heading": "Chính sách Bảo mật",
+      "text": "Chúng tôi rất coi trọng quyền riêng tư của bạn. Vì vậy, chúng tôi đã cung cấp chính sách bảo mật này để giúp bạn hiểu cách chúng tôi thu thập, sử dụng, quản lý và tiết lộ thông tin cá nhân của bạn theo các quy định của luật bảo vệ dữ liệu cá nhân."
+    },
+    "privacyPolicy": [
+      {
+        "title": "1. Thông tin Cá nhân mà chúng tôi Thu thập và Cách sử dụng",
+        "text": "Chúng tôi thu thập thông tin cá nhân của bạn để xử lý đơn đặt hàng thuê của bạn và cung cấp trải nghiệm mua sắm trực tuyến và tại cửa hàng hài lòng. Khi bạn thực hiện một đơn đặt hàng thuê, bạn cung cấp cho chúng tôi thông tin cần thiết để xử lý đơn hàng của bạn, bao gồm tên, địa chỉ, số điện thoại, thông tin thẻ tín dụng và địa chỉ email.<br><br>Bằng cách chấp nhận đơn đặt hàng thuê của bạn, bạn cho phép chúng tôi sử dụng thông tin cá nhân của mình cho các mục đích sau:<br><br>Xử lý đơn hàng thuê (bao gồm thanh toán và sắp xếp thiết bị), trả lời câu hỏi của bạn, phối hợp thông tin tại cửa hàng, phân tích các mô hình và thói quen thuê, gửi khảo sát khách hàng, và marketing trực tiếp như đã nêu trong Mục 2."
+      },
+      {
+        "title": "2. Marketing Trực tiếp",
+        "text": "Bằng cách chấp nhận đơn đặt hàng thuê của bạn, bạn cho phép chúng tôi sử dụng thông tin cá nhân của mình cho marketing trực tiếp. Các hoạt động marketing trực tiếp của chúng tôi chỉ giới hạn trong các chương trình khuyến mãi liên quan đến các sản phẩm và dịch vụ của Wifi.<br><br>Các hoạt động marketing trực tiếp này bao gồm gửi email, SMS, tin nhắn di động, hoặc thư in về các sản phẩm của Wifi hoặc các sự kiện khuyến mãi trực tuyến và cửa hàng.<br><br>Bạn có thể chọn không nhận các chương trình marketing trực tiếp này bằng cách nhấp vào 'Hủy đăng ký' trong email bạn nhận được, hoặc liên hệ với chúng tôi qua email hello@wifibb.com hoặc gọi cho chúng tôi theo số (852) 3184 0668."
+      },
+      {
+        "title": "3. Bảo mật và Bảo vệ Thông tin",
+        "text": "Chúng tôi thực hiện các biện pháp bảo mật để bảo vệ thông tin cá nhân của bạn khỏi việc mất mát, đánh cắp, truy cập trái phép, tiết lộ, sao chép, sử dụng hoặc thay đổi. Việc truy cập thông tin này chỉ được cấp cho nhân viên và đại lý có cần thiết để thực hiện công việc của họ. Tuy nhiên, chúng tôi không thể đảm bảo bảo mật hoàn toàn và không thể đảm bảo rằng không có bên thứ ba nào sẽ có quyền truy cập vào thông tin khi nó được truyền tải."
+      },
+      {
+        "title": "4. Tiết lộ Thông tin",
+        "text": "Thông tin cá nhân mà chúng tôi thu thập sẽ được bảo mật, nhưng có thể tiết lộ cho các công ty liên kết hoặc nhà cung cấp dịch vụ cần thiết để xử lý thông tin đó cho các mục đích liên quan đến dịch vụ của chúng tôi. Chúng tôi không bán thông tin cá nhân của bạn cho bên thứ ba cho mục đích marketing mà không có sự đồng ý của bạn. Thông tin có thể bị tiết lộ khi được yêu cầu bởi pháp luật."
+      },
+      {
+        "title": "5. Truy cập và Cập nhật Thông tin",
+        "text": "Chúng tôi sẽ chỉ giữ thông tin cá nhân của bạn trong thời gian cần thiết để hoàn thành các mục đích nêu trên. Nếu bạn muốn truy cập hoặc cập nhật thông tin cá nhân của mình, vui lòng liên hệ với chúng tôi qua email hello@wifibb.com hoặc gọi cho chúng tôi theo số (852) 3184 0668."
+      },
+      {
+        "title": "6. Chính sách Bảo mật của Chúng tôi",
+        "text": "Các giám đốc, quản lý và nhân viên của chúng tôi cam kết bảo vệ thông tin cá nhân của bạn và sẽ đảm bảo rằng tất cả các hoạt động thu thập, lưu trữ, truyền tải và sử dụng thông tin cá nhân đều tuân thủ các quy định của pháp luật."
+      },
+      {
+        "title": "7. Thay đổi Chính sách Bảo mật",
+        "text": "Chúng tôi có thể thay đổi chính sách bảo mật này bất kỳ lúc nào. Mọi thay đổi sẽ có hiệu lực ngay lập tức khi được đăng tải trên website của chúng tôi. Bạn được coi là đã chấp nhận những thay đổi này khi tiếp tục sử dụng dịch vụ của chúng tôi."
+      }
+    ]
   }
 }

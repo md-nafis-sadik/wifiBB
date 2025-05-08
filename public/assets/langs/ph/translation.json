@@ -1585,69 +1585,51 @@
   "footer": {
     "subscribeNewsLetter": "Mag-subscribe sa newsletter!",
     "copyRightText": "Lahat ng Karapatan ay Nakalaan.",
-    "contact": [
-      {
-        "type": "Tawag"
-      },
-      {
-        "type": "Liham"
-      }
-    ],
+    "description": "WifiBB - Ang iyong solusyon para sa maaasahang, global na konektividad gamit ang teknolohiyang eSIM.",
     "legals": [
-      {
-        "title": "Mga Tuntunin ng Paggamit"
-      },
-      {
-        "title": "Patakaran sa Privacy"
-      }
-    ],
+  {
+    "title": "Mga Tuntunin at Kondisyon"
+  },
+  {
+    "title": "Kasunduan sa Pag-upa"
+  },
+  {
+    "title": "Patakaran sa Pagbabalik"
+  },
+  {
+    "title": "I-download ang app"
+  }
+]
+,
     "menuData": [
-      {
-        "title": "YOOWIFI",
-        "links": [
-          {
-            "label": "Tungkol sa Amin"
-          },
-          {
-            "label": "FAQ"
-          },
-          {
-            "label": "I-download ang App"
-          },
-          {
-            "label": "Makipag-ugnay sa Amin"
-          },
-          {
-            "label": "Mga Tuntunin ng Serbisyo"
-          },
-          {
-            "label": "Patakaran sa Privacy"
-          }
-        ]
-      },
-      {
-        "title": "PARA SA YOO",
-        "links": [
-          {
-            "label": "Travel Data"
-          },
-          {
-            "label": "Coverage ng Bansa"
-          },
-          {
-            "label": "Local Data"
-          },
-          {
-            "label": "Mga Lokasyon ng Pickup / Drop-off"
-          },
-          {
-            "label": "Mga Produkto"
-          },
-          {
-            "label": "Paano ito gumagana"
-          }
-        ]
-      },
+    {
+      "title": "Mga Serbisyo at Plano",
+      "links": [
+        {
+          "label": "Pagpepresyo at Pag-order"
+        },
+        {
+          "label": "Paano gamitin ang WiFiBB"
+        },
+        {
+          "label": "Pagkamember"
+        }
+      ]
+    },
+    {
+      "title": "Suporta at Mga Alok",
+      "links": [
+        {
+          "label": "Promo"
+        },
+        {
+          "label": "FAQ"
+        },
+        {
+          "label": "Makipag-ugnayan"
+        }
+      ]
+    },
       {
         "title": "KORPORATIBA",
         "links": [
@@ -2236,5 +2218,96 @@
         "linkText": "Muling Ipadala ang Code"
       }
     }
+  },
+  "termsModal": {
+    "header": "Mga Termino at Kundisyon",
+    "subheader": "Siguraduhing sumasang-ayon ka sa aming mga detalyadong patakaran ng serbisyo.",
+    "section1Header": {
+      "heading": "Mga Termino ng Paggamit ng Website"
+    },
+    "termsOfUse": [
+      {
+        "title": "1. Mga Termino",
+        "text": "Sa pag-access ng website na ito, sumasang-ayon kang sumunod sa mga termino ng paggamit ng website na ito, lahat ng naaangkop na batas at regulasyon, at ikaw ay may pananagutan sa pagsunod sa mga lokal na batas. Kung hindi ka sumasang-ayon sa alinman sa mga terminong ito, ipinagbabawal kang gamitin o i-access ang website na ito. Lahat ng materyal na nasa website na ito ay protektado ng mga batas ng copyright at mga kaugnay na trademark."
+      },
+      {
+        "title": "2. Lisensya ng Paggamit",
+        "ul": [
+          {
+            "li": "a. Ang pag-download ng mga materyales mula sa website ng Wifipack Ltd. ay pinapayagan para sa pansamantalang personal na pagmamasid lamang at hindi para sa komersyal na layunin. Ito ay isang pagbibigay ng lisensya, hindi isang paglipat ng pag-aari, at sa ilalim ng lisensyang ito hindi mo pinapayagan na:",
+            "ul": [
+              {
+                "li1": "a. Baguhin o kopyahin ang mga materyales;",
+                "li2": "b. Gamitin ang mga materyales para sa komersyal na layunin o pampublikong pagpapakita (komersyal man o hindi komersyal);",
+                "li3": "c. Subukang baligtarin ang engineering o i-decode ang software na nilalaman sa website ng Wifipack Ltd.;",
+                "li4": "d. Alisin ang anumang mga copyright o mga pahayag ng pagmamay-ari mula sa mga materyales;",
+                "li5": "e. Ilipat ang mga materyales sa ibang tao o 'i-mirror' ang mga materyales sa anumang ibang server."
+              }
+            ]
+          },
+          {
+            "li": "b. Ang lisensyang ito ay awtomatikong magtatapos kung nilabag mo ang alinman sa mga limitasyong ito at maaaring itigil ng Wifipack Ltd. sa anumang oras. Kapag natapos ang lisensyang ito o kung titigil ka sa paggamit ng mga materyales, kailangan mong sirain ang lahat ng mga materyales na na-download, maging sa elektronikong anyo o sa pag-print."
+          }
+        ]
+      },
+      {
+        "title": "3. Pagwawaksi",
+        "text": "Ang mga materyales sa website ng Wifipack Ltd. ay ibinibigay 'as is'. Wifipack Ltd. ay walang ginagawang mga garantiya, ipinahayag o ipinahiwatig, at sa pamamagitan ng mga ito ay nagwawaksi at tinatanggihan ang lahat ng iba pang mga garantiya, kabilang ang walang limitasyon na mga garantiya ng pagkakapare-pareho para sa kalakalan o angkop para sa isang partikular na layunin, o mga garantiya ng pagmamay-ari o hindi paglabag. Bukod dito, ang Wifipack Ltd. ay walang ginagawang mga garantiya o representasyon tungkol sa kawastuhan, mga resulta na maaaring makuha, o pagiging maaasahan ng mga materyales na nasa website o kaugnay na mga website."
+      },
+      {
+        "title": "4. Mga Limitasyon ng Pananagutan",
+        "text": "Sa anumang kaso, ang Wifipack Ltd. o ang mga supplier nito ay hindi mananagot para sa anumang mga pinsala (kabilang ngunit hindi limitado sa pagkawala ng data o kita o pagkagambala ng negosyo) na nagmula sa paggamit o hindi paggamit ng mga materyales sa website na ito, kahit na ang Wifipack Ltd. o mga awtorisadong kinatawan nito ay binigyan ng abiso tungkol sa posibilidad ng mga pinsala. Ang ilang mga hurisdiksyon ay hindi nagpapahintulot ng mga limitasyon sa ipinahiwatig na garantiya o ang pagbubukod ng mga incidental o consequential damages, kaya maaaring hindi mag-apply sa iyo ang mga limitasyong ito."
+      },
+      {
+        "title": "5. Pagwawasto at Katumpakan ng Impormasyon",
+        "text": "Ang mga materyales na nasa website ng Wifipack Ltd. ay maaaring maglaman ng mga teknikal na error, mga pagkakamali ng tipograpiya o mga imahe na hindi tama. Wifipack Ltd. ay hindi nagbibigay ng anumang garantiya na ang mga materyales sa website ay tumpak, kumpleto, o kasalukuyan. Ang Wifipack Ltd. ay maaaring gumawa ng mga pagbabago sa mga materyales na nasa website ng Wifipack Ltd. anumang oras nang walang abiso. Gayunpaman, ang Wifipack Ltd. ay walang obligasyong mag-update ng mga materyales."
+      },
+      {
+        "title": "6. Mga Link",
+        "text": "Ang Wifipack Ltd. ay hindi nire-review ang lahat ng mga link na naka-link sa kanyang website at hindi responsable para sa nilalaman ng anumang mga link na naka-link na website. Ang mga link na ito ay hindi nangangahulugang aprubado ng Wifipack Ltd. ang website. Ang paggamit ng anumang mga naka-link na website ay nasa iyong sariling peligro."
+      },
+      {
+        "title": "7. Pagbabago ng Mga Termino ng Paggamit",
+        "text": "Ang Wifipack Ltd. ay maaaring baguhin ang mga termino ng paggamit ng website na ito anumang oras nang walang abiso. Ang patuloy na paggamit ng website na ito ay ituturing bilang pagtanggap ng mga na-update na termino."
+      },
+      {
+        "title": "8. Mga Nalalapat na Batas",
+        "text": "Anumang mga claim na may kaugnayan sa website ng Wifipack Ltd. ay pamamahalaan alinsunod sa mga batas ng Hong Kong, nang hindi isinasaalang-alang ang mga probisyon ng mga batas na salungat."
+      }
+    ],
+    "section2Header": {
+      "heading": "Patakaran sa Pagkapribado",
+      "text": "Ang iyong privacy ay napakahalaga sa amin. Kaya naman, naglaan kami ng patakaran sa privacy na ito upang tulungan kang maunawaan kung paano namin kinokolekta, ginagamit, pinamamahalaan, at inilalahad ang iyong personal na impormasyon alinsunod sa mga naaangkop na batas ng proteksyon ng personal na data."
+    },
+    "privacyPolicy": [
+      {
+        "title": "1. Personal na Impormasyon na Kinokolekta Namin at Paggamit Nito",
+        "text": "Kinokolekta namin ang iyong personal na impormasyon upang maproseso ang iyong rental order at magbigay ng isang kasiya-siyang karanasan sa pamimili online at sa tindahan. Sa pamamagitan ng paggawa ng rental order, nagbibigay ka sa amin ng impormasyon na kinakailangan upang iproseso ang iyong order, na maaaring kabilang ang pangalan, address, numero ng telepono, impormasyon ng credit card, at email address.<br><br>Sa pamamagitan ng pag-apruba ng iyong rental order, binibigyan mo kami ng pahintulot upang gamitin ang iyong personal na impormasyon para sa mga sumusunod na layunin:<br><br>Proseso ng rental order (kasama ang pagbabayad at pagsasaayos ng kagamitan), pagsagot sa mga katanungan, pagtutugma ng impormasyon sa tindahan, pagsusuri ng mga pattern at mga gawi sa rental, pagpapadala ng survey ng customer, at direktang marketing gaya ng nakasaad sa Seksyon 2."
+      },
+      {
+        "title": "2. Direktang Marketing",
+        "text": "Sa pamamagitan ng pag-apruba ng iyong rental order, binibigyan mo kami ng pahintulot upang gamitin ang iyong personal na impormasyon para sa direktang marketing. Ang aming direktang marketing na aktibidad ay limitado lamang sa mga promosyon na nauugnay sa mga produkto at serbisyo ng Wifi.<br><br>Ang mga aktibidad ng direktang marketing na ito ay kinabibilangan ng pagpapadala ng mga email, SMS, mobile messages, o naka-print na liham tungkol sa mga produkto ng Wifi o mga promosyon ng online at store events.<br><br>Maari mong piliing hindi tumanggap ng mga direktang marketing na ito sa pamamagitan ng pag-click ng 'Unsubscribe' sa email na natanggap mo, o makipag-ugnay sa amin sa hello@wifibb.com o tawagan kami sa (852) 3184 0668."
+      },
+      {
+        "title": "3. Seguridad at Proteksyon ng Impormasyon",
+        "text": "Kami ay kumukuha ng mga hakbang sa seguridad upang protektahan ang iyong personal na impormasyon mula sa pagkawala, pagnanakaw, hindi awtorisadong pag-access, pagpapahayag, pagkopya, paggamit, o pagbabago. Ang pag-access sa impormasyong ito ay ibinibigay lamang sa mga empleyado at kinatawan na kailangan ito upang maisagawa ang kanilang mga tungkulin. Gayunpaman, hindi namin magagarantiya ang buong seguridad at hindi kami makapagbibigay ng garantiya na walang ikatlong partido ang makakakuha ng access sa impormasyon habang ipinapadala ito."
+      },
+      {
+        "title": "4. Pagbubunyag ng Impormasyon",
+        "text": "Ang personal na impormasyon na kinokolekta namin ay itinatago nang may pagiging lihim, ngunit maaaring ibunyag ito sa mga kaugnay na kumpanya o mga service provider na kinakailangan upang iproseso ito para sa mga layuning kaugnay ng aming serbisyo. Hindi namin ibibigay ang iyong personal na impormasyon sa mga ikatlong partido para sa layunin ng marketing nang walang iyong pahintulot. Ang impormasyon ay maaari ding ibunyag kapag kinakailangan ng batas."
+      },
+      {
+        "title": "5. Pag-access at Pag-update ng Impormasyon",
+        "text": "Itatago lamang namin ang iyong personal na impormasyon hangga't kinakailangan upang makamit ang mga layunin na nabanggit. Kung nais mong ma-access o i-update ang iyong personal na impormasyon, mangyaring makipag-ugnay sa amin sa email sa hello@wifibb.com o tawagan kami sa (852) 3184 0668."
+      },
+      {
+        "title": "6. Ang Aming Patakaran sa Privacy",
+        "text": "Ang aming mga direktor, manager, at mga empleyado ay nakatuon sa pagprotekta ng iyong personal na impormasyon at titiyakin na lahat ng pagkolekta, pag-iimbak, pagpapadala, at paggamit ng personal na impormasyon ay sumunod sa mga naaangkop na batas."
+      },
+      {
+        "title": "7. Pagbabago ng Patakaran sa Privacy",
+        "text": "Maaari naming baguhin ang patakaran sa privacy na ito anumang oras. Ang anumang mga pagbabago ay magiging epektibo agad kapag ipinakita sa aming website. Itinuturing kang tinatanggap ang mga pagbabagong ito sa pamamagitan ng patuloy na paggamit ng aming mga serbisyo."
+      }
+    ]
   }
 }

@@ -2,10 +2,10 @@
 
 import { useEffect, useRef } from "react";
 import { animate, inView } from "motion";
-import SplitText from "./SplitText"; // assuming you have this
+import SplitText from "../home/SplitText"; // assuming you have this
 import { EasyrateIcon, EfficientIcon, PlaneIcon } from "@/services";
 
-export default function WhyChooseUs() {
+export default function RentWays() {
   const cardRefs = useRef([]);
 
   useEffect(() => {
@@ -39,17 +39,10 @@ export default function WhyChooseUs() {
   ];
 
   return (
-    <div className="max-w-7xl mx-auto bg-white py-10 md:py-36 xl:py-44 px-6 text-center">
-      <SplitText
-        text="Why Choose Us"
-        className="text-3xl md:text-5xl font-bold text-black mb-4 px-4 text-center"
-      />
-      <div className="text-black-600 text-center text-sm lg:text-base">
-        Experience unmatched quality, innovation, and customer satisfaction at
-        every step.
-      </div>
+    <div className=" w-full bg-secondary-50 py-10 md:py-32 xl:py-40 text-center">
 
-      <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 mt-6 md:mt-12 xl:mt-20">
+
+      <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 max-w-7xl mx-auto px-10">
         {features.map((feature, index) => (
           <div
             key={index}

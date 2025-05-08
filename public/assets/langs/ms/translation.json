@@ -1586,69 +1586,51 @@
   "footer": {
     "subscribeNewsLetter": "Langgan surat berita!",
     "copyRightText": "Hak Cipta Terpelihara.",
-    "contact": [
-      {
-        "type": "Panggil"
-      },
-      {
-        "type": "Emel"
-      }
-    ],
+    "description": "WifiBB - Penyelesaian anda untuk sambungan global yang boleh dipercayai dengan teknologi eSIM.",
     "legals": [
-      {
-        "title": "Terma Penggunaan"
-      },
-      {
-        "title": "Dasar Privasi"
-      }
-    ],
+  {
+    "title": "Terma dan Syarat"
+  },
+  {
+    "title": "Perjanjian Sewa"
+  },
+  {
+    "title": "Dasar Pemulangan"
+  },
+  {
+    "title": "Muat turun aplikasi"
+  }
+]
+,
     "menuData": [
-      {
-        "title": "YOOWIFI",
-        "links": [
-          {
-            "label": "Mengenai Kami"
-          },
-          {
-            "label": "Soalan Lazim"
-          },
-          {
-            "label": "Muat Turun Aplikasi"
-          },
-          {
-            "label": "Hubungi Kami"
-          },
-          {
-            "label": "Terma Perkhidmatan"
-          },
-          {
-            "label": "Dasar Privasi"
-          }
-        ]
-      },
-      {
-        "title": "UNTUK YOO",
-        "links": [
-          {
-            "label": "Data Perjalanan"
-          },
-          {
-            "label": "Liputan Negara"
-          },
-          {
-            "label": "Data Tempatan"
-          },
-          {
-            "label": "Lokasi Pengambilan / Penghantaran"
-          },
-          {
-            "label": "Produk"
-          },
-          {
-            "label": "Cara Ia Berfungsi"
-          }
-        ]
-      },
+    {
+      "title": "Perkhidmatan & Pelan",
+      "links": [
+        {
+          "label": "Harga & Tempahan"
+        },
+        {
+          "label": "Cara menggunakan WiFiBB"
+        },
+        {
+          "label": "Keahlian"
+        }
+      ]
+    },
+    {
+      "title": "Sokongan & Tawaran",
+      "links": [
+        {
+          "label": "Promosi"
+        },
+        {
+          "label": "FAQ"
+        },
+        {
+          "label": "Hubungi"
+        }
+      ]
+    },
       {
         "title": "KORPORAT",
         "links": [
@@ -2250,5 +2232,96 @@
         "linkText": "Hantar Semula Kod"
       }
     }
+  },
+  "termsModal": {
+    "header": "Terma dan Syarat",
+    "subheader": "Sila pastikan anda bersetuju dengan dasar terperinci perkhidmatan kami.",
+    "section1Header": {
+      "heading": "Terma Penggunaan Laman Web"
+    },
+    "termsOfUse": [
+      {
+        "title": "1. Terma",
+        "text": "Dengan mengakses laman web ini, anda bersetuju untuk mematuhi terma penggunaan laman web ini, semua undang-undang dan peraturan yang berkenaan, dan anda bertanggungjawab untuk mematuhi undang-undang tempatan yang berkenaan. Jika anda tidak bersetuju dengan mana-mana syarat ini, anda dilarang untuk menggunakan atau mengakses laman web ini. Semua bahan di laman web ini dilindungi oleh undang-undang hak cipta dan tanda dagangan yang berkenaan."
+      },
+      {
+        "title": "2. Lesen Penggunaan",
+        "ul": [
+          {
+            "li": "a. Memuat turun bahan-bahan di laman web Wifipack Ltd. adalah dibenarkan untuk kegunaan sementara sahaja untuk tujuan pemerhatian peribadi dan bukan komersial. Ini adalah pemberian lesen, bukan pemindahan hak milik, dan di bawah lesen ini anda tidak dibenarkan untuk:",
+            "ul": [
+              {
+                "li1": "a. Mengubah atau menyalin bahan-bahan;",
+                "li2": "b. Menggunakan bahan-bahan untuk tujuan komersial atau paparan awam (komersial atau tidak komersial);",
+                "li3": "c. Cuba untuk membalikkan kejuruteraan atau menyahkod perisian yang terkandung di laman web Wifipack Ltd.;",
+                "li4": "d. Mengeluarkan sebarang tanda hak cipta atau notis milikan dari bahan-bahan;",
+                "li5": "e. Memindahkan bahan-bahan kepada orang lain atau 'mirror' bahan tersebut di mana-mana pelayan lain."
+              }
+            ]
+          },
+          {
+            "li": "b. Lesen ini akan tamat secara automatik jika anda melanggar mana-mana daripada sekatan-sekatan ini dan boleh dihentikan oleh Wifipack Ltd. pada bila-bila masa. Apabila lesen ini tamat atau apabila anda menamatkan penggunaan bahan-bahan, anda mesti memusnahkan semua bahan-bahan yang dimuat turun, sama ada dalam bentuk elektronik atau cetakan."
+          }
+        ]
+      },
+      {
+        "title": "3. Penafian",
+        "text": "Bahan di laman web Wifipack Ltd. disediakan 'seperti adanya'. Wifipack Ltd. tidak membuat sebarang jaminan, tersurat atau tersirat, dan dengan ini menafikan dan menolak semua jaminan lain, termasuk tanpa had jaminan tersirat untuk jualan atau kesesuaian untuk tujuan tertentu, atau jaminan hak milik atau bukan pelanggaran. Selain itu, Wifipack Ltd. tidak membuat jaminan atau perwakilan mengenai ketepatan, hasil yang mungkin diperoleh, atau kebolehpercayaan bahan-bahan yang terkandung dalam laman web atau yang berkaitan dengan laman web tersebut."
+      },
+      {
+        "title": "4. Had Tanggungjawab",
+        "text": "Dalam apa jua keadaan sekalipun, Wifipack Ltd. atau pembekalnya tidak akan bertanggungjawab untuk sebarang kerosakan (termasuk tetapi tidak terhad kepada kerugian data atau keuntungan atau gangguan perniagaan) yang timbul daripada penggunaan atau ketidakupayaan untuk menggunakan bahan-bahan di laman web ini, walaupun Wifipack Ltd. atau wakil yang dibenarkan telah diberi notis tentang kemungkinan kerosakan tersebut. Sesetengah bidang kuasa tidak membenarkan had kepada jaminan tersirat atau pengecualian kerosakan sampingan atau berbangkit, jadi sekatan-sekatan ini mungkin tidak terpakai kepada anda."
+      },
+      {
+        "title": "5. Pembetulan dan Ketepatan Maklumat",
+        "text": "Bahan yang terkandung di laman web Wifipack Ltd. mungkin mengandungi kesilapan teknikal, kesilapan tipografi atau gambar yang tidak tepat. Wifipack Ltd. tidak memberikan sebarang jaminan bahawa bahan di laman web ini adalah tepat, lengkap atau terkini. Wifipack Ltd. boleh membuat perubahan kepada bahan yang terkandung di laman web ini pada bila-bila masa tanpa notis. Namun, Wifipack Ltd. tidak membuat sebarang komitmen untuk mengemas kini bahan."
+      },
+      {
+        "title": "6. Pautan",
+        "text": "Wifipack Ltd. tidak menyemak semua laman yang dipautkan ke laman webnya dan tidak bertanggungjawab untuk kandungan mana-mana laman yang dipautkan tersebut. Pautan tidak menunjukkan pengesahan oleh Wifipack Ltd. terhadap laman tersebut. Penggunaan laman web yang dipautkan adalah di bawah tanggungjawab anda sendiri."
+      },
+      {
+        "title": "7. Pindaan Terma Penggunaan",
+        "text": "Wifipack Ltd. boleh mengubah terma penggunaan laman web ini pada bila-bila masa tanpa notis. Penggunaan berterusan laman web ini akan dianggap sebagai penerimaan terma yang telah dikemas kini."
+      },
+      {
+        "title": "8. Undang-Undang yang Mengawal",
+        "text": "Sebarang tuntutan yang berkaitan dengan laman web Wifipack Ltd. akan dikendalikan mengikut undang-undang Hong Kong, tanpa mengambil kira peruntukan undang-undang yang bertentangan."
+      }
+    ],
+    "section2Header": {
+      "heading": "Dasar Privasi",
+      "text": "Privasi anda sangat penting bagi kami. Oleh itu, kami telah menyediakan dasar privasi ini untuk membantu anda memahami bagaimana kami mengumpul, menggunakan, mengendalikan dan mendedahkan maklumat peribadi anda mengikut undang-undang perlindungan data peribadi yang berkenaan."
+    },
+    "privacyPolicy": [
+      {
+        "title": "1. Maklumat Peribadi yang Kami Kumpul dan Penggunaannya",
+        "text": "Kami mengumpul maklumat peribadi anda untuk memproses pesanan sewaan anda dan menyediakan pengalaman membeli-belah yang memuaskan secara dalam talian dan di kedai. Dengan membuat pesanan sewaan, anda memberi kami maklumat yang diperlukan untuk memproses pesanan tersebut, yang mungkin termasuk nama, alamat, nombor telefon, maklumat kad kredit, dan alamat emel.<br><br>Dengan mengesahkan pesanan sewaan, anda memberi persetujuan kepada kami untuk menggunakan maklumat peribadi anda bagi tujuan berikut:<br><br>Memproses pesanan sewaan (termasuk pembayaran dan pengaturan peralatan), menjawab pertanyaan, memadankan maklumat yang diberikan di kedai, menganalisis corak dan tingkah laku sewaan, melakukan tinjauan pelanggan, dan pemasaran langsung seperti yang diterangkan dalam bahagian 2."
+      },
+      {
+        "title": "2. Pemasaran Langsung",
+        "text": "Dengan mengesahkan pesanan sewaan, anda memberi persetujuan kepada kami untuk menggunakan maklumat peribadi anda untuk pemasaran langsung. Aktiviti pemasaran langsung kami hanya merangkumi promosi berkaitan produk dan perkhidmatan Wifi kami.<br><br>Aktiviti pemasaran langsung ini termasuk pengiriman e-mel, SMS, mesej mudah alih lain, atau surat bercetak mengenai produk Wifi atau acara promosi dalam talian dan kedai.<br><br>Anda boleh memilih untuk tidak menerima pemasaran langsung ini dengan mengklik 'Nyahlanggan' dalam pesanan e-mel atau menghubungi kami di hello@wifibb.com atau menelefon kami di (852) 3184 0668."
+      },
+      {
+        "title": "3. Keselamatan dan Perlindungan Maklumat",
+        "text": "Kami mengambil langkah-langkah keselamatan untuk melindungi maklumat peribadi anda daripada kehilangan, kecurian, akses yang tidak dibenarkan, pendedahan, penggandaan, penggunaan, atau pengubahsuaian. Akses kepada maklumat ini hanya diberikan kepada pekerja dan wakil yang diperlukan untuk menjalankan tugas mereka. Walau bagaimanapun, kami tidak dapat menjamin keselamatan sepenuhnya dan tidak dapat menjamin bahawa tiada pihak ketiga yang akan mendapat akses kepada maklumat tersebut semasa penghantaran."
+      },
+      {
+        "title": "4. Pendedahan Maklumat",
+        "text": "Maklumat peribadi yang kami kumpulkan akan disimpan dengan kerahsiaan, tetapi ia boleh didedahkan kepada syarikat berkaitan atau pembekal perkhidmatan yang diwajibkan untuk memprosesnya bagi tujuan yang berkaitan dengan perkhidmatan kami. Kami tidak akan menyediakan maklumat peribadi anda kepada pihak ketiga untuk tujuan pemasaran tanpa persetujuan anda. Maklumat juga boleh didedahkan apabila diperlukan oleh undang-undang."
+      },
+      {
+        "title": "5. Mengakses dan Mengemas Kini Maklumat",
+        "text": "Kami hanya akan menyimpan maklumat peribadi anda untuk tempoh yang diperlukan untuk mencapai tujuan yang dinyatakan. Jika anda ingin mengakses atau mengemas kini maklumat peribadi anda, sila hubungi kami melalui emel di hello@wifibb.com atau telefon di (852) 3184 0668."
+      },
+      {
+        "title": "6. Polisi Privasi Kami",
+        "text": "Pengarah, pengurus, dan kakitangan kami berkomitmen untuk melindungi maklumat peribadi anda dan akan memastikan semua pengumpulan, penyimpanan, penghantaran, dan penggunaan maklumat peribadi mematuhi undang-undang yang berkenaan."
+      },
+      {
+        "title": "7. Perubahan Polisi Privasi",
+        "text": "Kami boleh mengubah polisi privasi ini pada bila-bila masa. Sebarang perubahan akan berkuat kuasa segera apabila dipaparkan di laman web kami. Anda dianggap menerima perubahan ini dengan terus menggunakan perkhidmatan kami."
+      }
+    ]
   }
 }

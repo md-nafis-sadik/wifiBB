@@ -1585,46 +1585,51 @@
   "footer": {
     "subscribeNewsLetter": "Newsletter abonnieren!",
     "copyRightText": "Alle Rechte vorbehalten.",
-    "contact": [
-      {
-        "type": "Anruf"
-      },
-      {
-        "type": "Mail"
-      }
-    ],
+    "description": "WifiBB - Ihre Lösung für zuverlässige, globale Konnektivität mit eSIM-Technologie.",
     "legals": [
-      {
-        "title": "Nutzungsbedingungen"
-      },
-      {
-        "title": "Datenschutzrichtlinie"
-      }
-    ],
+  {
+    "title": "Allgemeine Geschäftsbedingungen"
+  },
+  {
+    "title": "Mietvertrag"
+  },
+  {
+    "title": "Rückerstattungsrichtlinie"
+  },
+  {
+    "title": "Laden Sie die App herunter"
+  }
+]
+,
     "menuData": [
-      {
-        "title": "YOOWIFI",
-        "links": [
-          {
-            "label": "Über uns"
-          },
-          {
-            "label": "FAQ"
-          },
-          {
-            "label": "App herunterladen"
-          },
-          {
-            "label": "Kontaktieren Sie uns"
-          },
-          {
-            "label": "Nutzungsbedingungen"
-          },
-          {
-            "label": "Datenschutzrichtlinie"
-          }
-        ]
-      },
+    {
+      "title": "Dienste und Pläne",
+      "links": [
+        {
+          "label": "Preise und Bestellungen"
+        },
+        {
+          "label": "Wie man WiFiBB verwendet"
+        },
+        {
+          "label": "Mitgliedschaft"
+        }
+      ]
+    },
+    {
+      "title": "Support und Angebote",
+      "links": [
+        {
+          "label": "Promo"
+        },
+        {
+          "label": "FAQ"
+        },
+        {
+          "label": "Kontakt"
+        }
+      ]
+    },
       {
         "title": "FÜR YOO",
         "links": [
@@ -2246,5 +2251,101 @@
         "linkText": "Code erneut senden"
       }
     }
+  },
+  "termsModal": {
+    "header": "Conditions générales",
+    "subheader": "Assurez-vous de respecter nos politiques de service détaillées.",
+    "section1Header": {
+      "heading": "Conditions générales d’utilisation du site Web"
+    },
+    "termsOfUse": [
+      {
+        "title": "1. Conditions",
+        "text": "En accédant à ce site Web, vous acceptez d’être lié par les présentes conditions générales d’utilisation du site Web, par toutes les lois et réglementations applicables, et vous acceptez d’être responsable du respect des lois locales applicables. Si vous n’acceptez pas l’une de ces conditions, vous êtes interdit d’utiliser ou d’accéder à ce site. Les matériaux contenus sur ce site Web sont protégés par les lois sur le droit d’auteur et les marques commerciales en vigueur."
+      },
+      {
+        "title": "2. Licence d’utilisation",
+        "ul": [
+          {
+            "li": "a. La permission est accordée de télécharger temporairement une copie des matériaux (informations ou logiciels) sur le site Web de Wifipack Ltd. pour un visionnage personnel et non commercial et temporaire uniquement. Il s’agit de l’octroi d’une licence, non d’un transfert de titre, et sous cette licence, vous ne pouvez pas :",
+            "ul": [
+              {
+                "li1": "a. modifier ou copier les matériaux ;",
+                "li2": "b. utiliser les matériaux à des fins commerciales, ou pour toute présentation publique (commerciale ou non) ;",
+                "li3": "c. tenter de décompiler ou d’ingénier à rebours tout logiciel contenu sur le site Web de Wifipack Ltd. ;",
+                "li4": "d. retirer tout copyright ou autres mentions de propriété des matériaux ; ou",
+                "li5": "e. transférer les matériaux à une autre personne ou les « refléter » sur un autre serveur."
+              }
+            ]
+          },
+          {
+            "li": "b. Cette licence sera automatiquement résiliée si vous violez l’une de ces restrictions et peut être résiliée par Wifipack Ltd. à tout moment. Lors de la fin de votre consultation de ces matériaux ou à la résiliation de cette licence, vous devez détruire tous les matériaux téléchargés en votre possession, qu’ils soient sous forme électronique ou imprimée."
+          }
+        ]
+      },
+      {
+        "title": "3. Clause de non-responsabilité",
+        "text": "Les matériaux sur le site Web de Wifipack Ltd. sont fournis « tels quels ». Wifipack Ltd. ne donne aucune garantie, expresse ou implicite, et décline et nie par la présente toutes les autres garanties, y compris sans limitation, les garanties implicites ou conditions de qualité marchande, d’adéquation à un usage particulier, ou de non-violation de la propriété intellectuelle ou autre violation des droits. De plus, Wifipack Ltd. ne garantit ni ne fait aucune déclaration concernant l’exactitude, les résultats probables ou la fiabilité de l’utilisation des matériaux sur son site Web ou autrement liés à ces matériaux ou sur tout site lié à ce site."
+      },
+      {
+        "title": "4. Limitations",
+        "text": "En aucun cas Wifipack Ltd. ou ses fournisseurs ne seront responsables de tout dommage (y compris, sans limitation, les dommages pour perte de données ou de bénéfices, ou en raison d’interruptions d’affaires) découlant de l’utilisation ou de l’impossibilité d’utiliser les matériaux sur le site Internet de Wifipack Ltd., même si Wifipack Ltd. ou un représentant autorisé de Wifipack Ltd. a été informé oralement ou par écrit de la possibilité de tels dommages. Étant donné que certaines juridictions n’autorisent pas les limitations sur les garanties implicites ou les limitations de responsabilité pour les dommages indirects ou accessoires, ces limitations peuvent ne pas s’appliquer à vous."
+      },
+      {
+        "title": "5. Révisions et errata",
+        "text": "Les matériaux apparaissant sur le site Web de Wifipack Ltd. pourraient inclure des erreurs techniques, typographiques ou photographiques. Wifipack Ltd. ne garantit pas que l’un des matériaux sur son site Web est exact, complet ou à jour. Wifipack Ltd. peut apporter des modifications aux matériaux contenus sur son site Web à tout moment sans préavis. Cependant, Wifipack Ltd. ne s’engage pas à mettre à jour les matériaux."
+      },
+      {
+        "title": "6. Liens",
+        "text": "Wifipack Ltd. n’a pas examiné tous les sites liés à son site Internet et n’est pas responsable du contenu de tout site lié. L’inclusion de tout lien n’implique pas l’approbation par Wifipack Ltd. du site. L’utilisation de tout site Web lié se fait aux risques et périls de l’utilisateur."
+      },
+      {
+        "title": "7. Modifications des conditions d’utilisation",
+        "text": "Wifipack Ltd. peut réviser ces conditions d’utilisation pour son site Web à tout moment sans préavis. En utilisant ce site Web, vous acceptez d’être lié par la version actuelle de ces conditions générales d’utilisation."
+      },
+      {
+        "title": "8. Droit applicable",
+        "text": "Toute réclamation relative au site Web de Wifipack Ltd. sera régie par les lois de Hong Kong, sans égard à ses dispositions en matière de conflit de lois.<br><br>Conditions générales applicables à l’utilisation d’un site Web."
+      }
+    ],
+    "section2Header": {
+      "heading": "Politique de confidentialité",
+      "text": "Votre vie privée est très importante pour nous. En conséquence, nous avons élaboré cette politique de confidentialité, conformément à l’Ordonnance sur la protection des données personnelles (chap. 486) (l’« Ordonnance »), pour vous permettre de comprendre comment nous collectons, utilisons, communiquons et divulguons vos informations personnelles et en faisons usage. Ce qui suit décrit notre politique de confidentialité."
+    },
+    "privacyPolicy": [
+      {
+        "title": "1. Vos données personnelles et notre utilisation",
+        "text": "La société collecte des informations personnelles afin de garantir que nous puissions exécuter vos commandes de location et que vous puissiez avoir une expérience d’achat satisfaisante en ligne et en magasin.<br><br>Lors de votre réservation de location, nous collecterons et conserverons vos informations personnelles afin de vous offrir une expérience personnalisée sur notre site Web et de faciliter et d’accélérer le processus de location. Les informations collectées incluent votre nom complet, adresse, numéro de téléphone, détails de carte de crédit et adresse e-mail.<br><br>En confirmant votre contrat de location, vous avez expressément consenti à ce que nous puissions utiliser vos informations personnelles aux fins suivantes :<br><br>Exécution de vos commandes de location, y compris le paiement et le traitement des équipements ; réponse à vos demandes ; correspondance des informations personnelles en magasin avec celles fournies lors de la réservation ; analyse des tendances et des comportements de location, ainsi que la réalisation d’enquêtes clients pour améliorer continuellement nos offres et services ; et marketing direct comme précisé au point 2 ci-dessous.",
+        "ul": [
+          {
+            "li": "Cette licence sera automatiquement résiliée si vous violez l’une de ces restrictions et peut être résiliée par Wifipack Ltd. à tout moment. Lors de la fin de votre consultation de ces matériaux ou à la résiliation de cette licence, vous devez détruire tous les matériaux téléchargés en votre possession, qu’ils soient sous forme électronique ou imprimée."
+          }
+        ]
+      },
+      {
+        "title": "2. Marketing direct",
+        "text": "En confirmant votre contrat de location, vous avez spécifiquement consenti à ce que nous utilisions vos informations personnelles pour mener des activités de marketing direct avec vous. Nos activités de marketing direct ne concerneront que nos offres promotionnelles sur nos produits et services (« Produits Wifi »).<br><br>Les activités de marketing direct que nous pourrions mener incluent l’envoi d’e-mails, de SMS ou d’autres messages mobiles, ou de communications imprimées concernant les Produits Wifi et les événements ou promotions que la société pourrait organiser en ligne ou en magasin.<br><br>Veuillez noter que vous avez le droit de vous désinscrire de ces activités de marketing direct. Si vous souhaitez exercer votre droit de désinscription, vous pouvez le faire avant de confirmer votre contrat de location en cliquant sur [se désabonner de notre liste de diffusion] pour ne plus recevoir de communications marketing. Vous pouvez également nous contacter à hello@wifibb.com ou nous appeler au (852) 3184 0668 pour obtenir de l’aide.<br><br>Soyez assuré que dans les e-mails marketing ou promotionnels que nous vous envoyons, nous vous fournirons également une option de désabonnement à l’avenir."
+      },
+      {
+        "title": "3. Sécurité et protection de vos informations",
+        "text": "Nous pouvons utiliser vos informations personnelles pour respecter nos engagements en matière de service client, tels que l’organisation de votre commande ou la prévention des fraudes. L’accès à ces informations est protégé par des mesures physiques, électroniques et de gestion, et nous limitons donc l’accès à vos informations à nos employés et agents qui en ont besoin pour accomplir leur travail.<br><br>Nous protégerons les informations personnelles par des mesures de sécurité raisonnables contre la perte ou le vol, ainsi que contre l’accès, la divulgation, la copie, l’utilisation ou la modification non autorisés. Cependant, ni les personnes ni les systèmes de sécurité ne sont infaillibles. Par conséquent, nous ne pouvons pas garantir une sécurité absolue et nous ne pouvons pas empêcher l’accès non autorisé à ces informations par des tiers ou toute divulgation involontaire de ces informations lors de tels transferts de données. Les utilisateurs reconnaissent ce risque en utilisant nos services."
+      },
+      {
+        "title": "4. Divulgation de vos informations personnelles",
+        "text": "Vos informations personnelles détenues par la société seront gardées confidentielles, mais nous pouvons divulguer des informations à nos affiliés ou sociétés liées, ou à des prestataires de services de la société soumis à une obligation stricte de confidentialité, lorsque cette divulgation est nécessaire pour atteindre l’objectif, ou un objectif directement lié, pour lequel les données ont été collectées.<br><br>Nous ne fournissons aucune information client personnellement identifiable à des annonceurs ou à des sites Web tiers, sauf si votre consentement écrit spécifique est obtenu. Si vous suivez un lien vers l’un de ces sites Web ou soumettez des informations à des tiers via nos sites Web, veuillez vérifier et lire leur propre politique de confidentialité avant de soumettre vos informations. Veuillez noter que nous déclinons toute responsabilité en relation avec une telle soumission d’informations à des tiers.<br><br>Vos données personnelles peuvent également être divulguées à toute personne en vertu d’obligations statutaires ou contractuelles ou comme l’exige la loi, à condition que cette personne soit en mesure de prouver le droit/l’autorité nécessaire pour accéder à ces informations. De plus, vos données personnelles peuvent être divulguées dans l’une des circonstances décrites à la partie VII de l’Ordonnance comme exemption aux dispositions de l’Ordonnance."
+      },
+      {
+        "title": "5. Comment vérifier et mettre à jour vos informations",
+        "text": "Nous ne conserverons les informations personnelles que le temps nécessaire à la réalisation de ces objectifs. Si vous souhaitez vérifier ou mettre à jour des informations personnelles que vous nous avez soumises, vous pouvez nous contacter à hello@wifibb.com ou nous appeler au (852) 3184 0668 pour obtenir de l’aide."
+      },
+      {
+        "title": "6. Notre politique d’entreprise",
+        "text": "Nos dirigeants, gestionnaires et membres du personnel respecteront à tout moment la confidentialité et s’efforceront de protéger toutes les données personnelles collectées et/ou stockées et/ou transmises et/ou utilisées pour, ou au nom de, la société. La société s’efforcera de garantir que toute collecte, stockage, transmission et autre traitement ou utilisation de données personnelles soit conforme aux obligations et exigences de l’Ordonnance."
+      },
+      {
+        "title": "7. Modifications de cette politique de confidentialité",
+        "text": "Nous pouvons, de temps à autre, modifier cette politique de confidentialité, en tout ou en partie, à notre seule discrétion afin de clarifier nos pratiques et de refléter de nouvelles ou différentes pratiques en matière de confidentialité. Toute modification de cette politique de confidentialité sera effective immédiatement après la publication de la politique révisée sur notre site Web. Si vous n’êtes pas d’accord avec les termes de cette politique de confidentialité, qui peut être modifiée de temps à autre, en tout ou en partie, vous devez cesser d’utiliser nos services. En tout état de cause, en continuant à utiliser nos services après toute modification de cette politique de confidentialité, vous êtes réputé avoir accepté ces modifications."
+      }
+    ]
   }
 }

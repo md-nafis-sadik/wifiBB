@@ -356,19 +356,21 @@ function NavBar() {
               >
                 <PersonFillIcon />
               </Button>
-              <Button
-                className={cn(
-                  "px-6 md:py-3 rounded-full w-full max-w-[320px] xl:w-auto",
-                  (!isActive && !isScrolled && isHome) || isBannerRoutes
-                    ? "bg-main-600 text-black-900 "
-                    : "bg-main-600 text-black-900"
-                )}
-                onClick={() => handleModalOpen("download", true)}
-              >
-                <span>{t("buttonText.downloadApp")}</span>
-              </Button>
+              <Link to="/rent-pocket-wifi-device">
+                <Button
+                  className={cn(
+                    "px-6 md:py-3 rounded-full w-full max-w-[320px] xl:w-auto",
+                    (!isActive && !isScrolled && isHome) || isBannerRoutes
+                      ? "bg-main-600 text-black-900 "
+                      : "bg-main-600 text-black-900"
+                  )}
+                  // onClick={() => handleModalOpen("download", true)}
+                >
+                  <span>{t("buttonText.downloadApp")}</span>
+                </Button>
+              </Link>
               <Select onValueChange={handleLanguageChange} defaultValue={lang}>
-                <SelectTrigger className="w-16 bg-white text-black font-semibold">
+                <SelectTrigger className="w-20 bg-white text-black font-semibold">
                   <SelectValue placeholder="Select Language" />
                 </SelectTrigger>
                 <SelectContent>

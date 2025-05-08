@@ -25,6 +25,9 @@ import PocketWifiRegion from "@/pages/commercial/pocketWifi/PocketWifiRegion";
 import PocketWifiSelfPickup from "@/pages/commercial/pocketWifi/PocketWifiSelfPickup";
 import PocketWifiShippingOption from "@/pages/commercial/pocketWifi/PocketWifiShippingOption";
 import PocketWifiDetails from "@/pages/commercial/PocketWifiDetails";
+import RefundPolicy from "@/pages/commercial/RefundPolicy";
+import RentalAgreement from "@/pages/commercial/RentalAgreement";
+import RentPocketWifiDevice from "@/pages/commercial/RentPocketWifiDevice";
 import RouterHome from "@/pages/commercial/router/Home";
 import RouterCartService from "@/pages/commercial/router/RouterCartService";
 import RouterOrderSummery from "@/pages/commercial/router/RouterOrderSummery";
@@ -41,6 +44,7 @@ import SimPlanSummery from "@/pages/commercial/sim/SimPlanSummery";
 import SimRegion from "@/pages/commercial/sim/SimRegion";
 import SimSelfPickup from "@/pages/commercial/sim/SimSelfPickup";
 import SimShippingOption from "@/pages/commercial/sim/SimShippingOption";
+import TermsConditions from "@/pages/commercial/TermsConditions";
 import AboutCorporate from "@/pages/corporate/AboutCorporate";
 import Commercial from "@/pages/corporate/Commercial";
 import CorporateHome from "@/pages/corporate/Home";
@@ -132,14 +136,36 @@ const commercialRoutes = {
     activePath: "pocketWifi",
     element: <PocketWifiOrderSummery />,
   },
-
   pocketWifiDetails: {
     path: "/pocket-wifi-details",
     name: "Pocket Wifi Details",
     activePath: "pocketWifi",
     element: <PocketWifiDetails />,
   },
-
+  termsConditions: {
+    path: "/terms-and-conditions",
+    name: "Terms and Conditions",
+    activePath: "termsConditions",
+    element: <TermsConditions />,
+  },
+  rentalAgreements: {
+    path: "/rental-agreements",
+    name: "Rental Agreements",
+    activePath: "rentalAgreements",
+    element: <RentalAgreement />,
+  },
+  refundPolicy: {
+    path: "/refund-policy",
+    name: "Refund Policy",
+    activePath: "refundPolicy",
+    element: <RefundPolicy />,
+  },
+  rentPocketDevice: {
+    path: "/rent-pocket-wifi-device",
+    name: "Rent Pocket Wifi Device",
+    activePath: "rentPocketDevice",
+    element: <RentPocketWifiDevice />,
+  },
   // router
   routerLayout: {
     path: "/router",

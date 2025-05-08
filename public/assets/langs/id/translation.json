@@ -1586,69 +1586,51 @@
   "footer": {
     "subscribeNewsLetter": "Berlangganan buletin!",
     "copyRightText": "Semua Hak Dilindungi.",
-    "contact": [
-      {
-        "type": "Telepon"
-      },
-      {
-        "type": "Email"
-      }
-    ],
+    "description": "WifiBB - Solusi Anda untuk konektivitas global yang andal dengan teknologi eSIM.",
     "legals": [
-      {
-        "title": "Syarat Penggunaan"
-      },
-      {
-        "title": "Kebijakan Privasi"
-      }
-    ],
+  {
+    "title": "Syarat dan Ketentuan"
+  },
+  {
+    "title": "Perjanjian Sewa"
+  },
+  {
+    "title": "Polisi Pemulangan"
+  },
+  {
+    "title": "Muat turun aplikasi"
+  }
+]
+,
     "menuData": [
-      {
-        "title": "YOOWIFI",
-        "links": [
-          {
-            "label": "Tentang Kami"
-          },
-          {
-            "label": "FAQ"
-          },
-          {
-            "label": "Unduh aplikasi"
-          },
-          {
-            "label": "Hubungi Kami"
-          },
-          {
-            "label": "Syarat layanan"
-          },
-          {
-            "label": "Kebijakan Privasi"
-          }
-        ]
-      },
-      {
-        "title": "UNTUK YOO",
-        "links": [
-          {
-            "label": "Data Perjalanan"
-          },
-          {
-            "label": "Cakupan Negara"
-          },
-          {
-            "label": "Data Lokal"
-          },
-          {
-            "label": "Lokasi Penjemputan / pengembalian"
-          },
-          {
-            "label": "Produk"
-          },
-          {
-            "label": "Cara Kerja"
-          }
-        ]
-      },
+    {
+      "title": "Layanan & Paket",
+      "links": [
+        {
+          "label": "Harga & Pemesanan"
+        },
+        {
+          "label": "Cara menggunakan WiFiBB"
+        },
+        {
+          "label": "Keanggotaan"
+        }
+      ]
+    },
+    {
+      "title": "Dukungan & Penawaran",
+      "links": [
+        {
+          "label": "Promo"
+        },
+        {
+          "label": "FAQ"
+        },
+        {
+          "label": "Kontak"
+        }
+      ]
+    },
       {
         "title": "KORPORAT",
         "links": [
@@ -2248,5 +2230,101 @@
         "linkText": "Kirim Ulang Kode"
       }
     }
+  },
+  "termsModal": {
+    "header": "Syarat & Ketentuan",
+    "subheader": "Pastikan Anda mematuhi kebijakan layanan kami yang terperinci.",
+    "section1Header": {
+      "heading": "Syarat Penggunaan Situs Web"
+    },
+    "termsOfUse": [
+      {
+        "title": "1. Ketentuan",
+        "text": "Dengan mengakses situs web ini, Anda setuju untuk terikat dengan syarat dan ketentuan penggunaan situs web ini, semua undang-undang dan peraturan yang berlaku, dan Anda setuju untuk bertanggung jawab mematuhi hukum setempat yang berlaku. Jika Anda tidak setuju dengan salah satu syarat ini, Anda dilarang menggunakan atau mengakses situs ini. Materi yang terdapat di situs web ini dilindungi oleh undang-undang hak cipta dan merek dagang yang berlaku."
+      },
+      {
+        "title": "2. Lisensi Penggunaan",
+        "ul": [
+          {
+            "li": "a. Izin diberikan untuk mengunduh sementara satu salinan materi (informasi atau perangkat lunak) di situs web Wifipack Ltd. hanya untuk dilihat secara pribadi dan non-komersial sementara. Ini adalah pemberian lisensi, bukan pengalihan kepemilikan, dan berdasarkan lisensi ini Anda tidak boleh:",
+            "ul": [
+              {
+                "li1": "a. mengubah atau menyalin materi;",
+                "li2": "b. menggunakan materi untuk tujuan komersial, atau untuk tampilan publik (komersial atau non-komersial);",
+                "li3": "c. mencoba mendekompilasi atau merekayasa balik perangkat lunak apa pun yang terdapat di situs web Wifipack Ltd.;",
+                "li4": "d. menghapus hak cipta atau notasi kepemilikan lainnya dari materi; atau",
+                "li5": "e. mentransfer materi ke orang lain atau 'mencerminkan' materi di server lain."
+              }
+            ]
+          },
+          {
+            "li": "b. Lisensi ini akan secara otomatis dihentikan jika Anda melanggar salah satu dari pembatasan ini dan dapat dihentikan oleh Wifipack Ltd. kapan saja. Setelah Anda mengakhiri penayangan materi ini atau setelah penghentian lisensi ini, Anda harus memusnahkan semua materi yang diunduh yang Anda miliki baik dalam format elektronik maupun cetak."
+          }
+        ]
+      },
+      {
+        "title": "3. Penafian",
+        "text": "Materi di situs web Wifipack Ltd. disediakan 'sebagaimana adanya'. Wifipack Ltd. tidak memberikan jaminan, tersurat maupun tersirat, dan dengan ini menolak serta menyangkal semua jaminan lainnya termasuk, tanpa batasan, jaminan tersirat atau kondisi kelayakan untuk diperdagangkan, kesesuaian untuk tujuan tertentu, atau non-pelanggaran hak kekayaan intelektual atau pelanggaran lainnya atas hak. Selanjutnya, Wifipack Ltd. tidak menjamin atau membuat pernyataan apa pun mengenai keakuratan, kemungkinan hasil, atau keandalan penggunaan materi di situs webnya atau yang berkaitan dengan materi tersebut atau di situs apa pun yang tertaut ke situs ini."
+      },
+      {
+        "title": "4. Batasan",
+        "text": "Dalam keadaan apa pun Wifipack Ltd. atau pemasoknya tidak bertanggung jawab atas kerusakan (termasuk, tanpa batasan, kerusakan karena kehilangan data atau keuntungan, atau karena gangguan bisnis) yang timbul dari penggunaan atau ketidakmampuan menggunakan materi di situs web Wifipack Ltd., bahkan jika Wifipack Ltd. atau perwakilan resmi Wifipack Ltd. telah diberitahu secara lisan atau tertulis tentang kemungkinan kerusakan tersebut. Karena beberapa yurisdiksi tidak mengizinkan pembatasan jaminan tersirat atau pembatasan tanggung jawab atas kerusakan insidental atau konsekuensial, pembatasan ini mungkin tidak berlaku untuk Anda."
+      },
+      {
+        "title": "5. Revisi dan Kesalahan",
+        "text": "Materi yang muncul di situs web Wifipack Ltd. dapat mencakup kesalahan teknis, tipografi, atau fotografi. Wifipack Ltd. tidak menjamin bahwa salah satu materi di situs webnya akurat, lengkap, atau terkini. Wifipack Ltd. dapat membuat perubahan pada materi yang terkandung di situs webnya kapan saja tanpa pemberitahuan. Namun, Wifipack Ltd. tidak membuat komitmen untuk memperbarui materi."
+      },
+      {
+        "title": "6. Tautan",
+        "text": "Wifipack Ltd. belum meninjau semua situs yang tertaut ke situs webnya dan tidak bertanggung jawab atas isi dari situs tertaut tersebut. Dimasukkannya tautan apa pun tidak menyiratkan pengesahan oleh Wifipack Ltd. atas situs tersebut. Penggunaan situs web tertaut semacam itu sepenuhnya merupakan risiko pengguna."
+      },
+      {
+        "title": "7. Modifikasi Syarat Penggunaan",
+        "text": "Wifipack Ltd. dapat merevisi syarat penggunaan ini untuk situs webnya kapan saja tanpa pemberitahuan. Dengan menggunakan situs web ini, Anda setuju untuk terikat dengan versi terbaru dari syarat dan ketentuan penggunaan ini."
+      },
+      {
+        "title": "8. Hukum yang Berlaku",
+        "text": "Setiap klaim yang berkaitan dengan situs web Wifipack Ltd. akan diatur oleh hukum Hong Kong tanpa memperhatikan pertentangan ketentuan hukumnya.<br><br>Syarat & ketentuan yang berlaku untuk penggunaan situs web."
+      }
+    ],
+    "section2Header": {
+      "heading": "Kebijakan Privasi",
+      "text": "Privasi Anda sangat penting bagi kami. Oleh karena itu, kami telah mengembangkan kebijakan privasi ini sesuai dengan Undang-Undang Perlindungan Data Pribadi (Cap. 486) ('Undang-Undang') agar Anda memahami bagaimana kami mengumpulkan, menggunakan, mengkomunikasikan, dan mengungkapkan informasi pribadi Anda serta menggunakannya. Berikut ini menjelaskan kebijakan privasi kami."
+    },
+    "privacyPolicy": [
+      {
+        "title": "1. Data Pribadi Anda dan Penggunaan Kami",
+        "text": "Perusahaan mengumpulkan informasi pribadi untuk memastikan bahwa kami dapat memenuhi pesanan sewa Anda dan Anda dapat memiliki pengalaman berbelanja online dan di toko yang memuaskan.<br><br>Saat Anda melakukan reservasi sewa, kami akan mengumpulkan dan menyimpan informasi pribadi Anda untuk memberi Anda pengalaman yang dipersonalisasi di situs web kami dan untuk mempermudah dan mempercepat proses penyewaan. Informasi yang dikumpulkan termasuk nama lengkap, alamat, nomor telepon, detail kartu kredit, dan alamat email Anda.<br><br>Dengan mengonfirmasi kontrak sewa Anda, Anda secara tegas menyetujui bahwa kami dapat menggunakan informasi pribadi Anda untuk tujuan berikut:<br><br>Memproses pesanan sewa Anda, termasuk pembayaran dan pemrosesan peralatan; menanggapi pertanyaan Anda; mencocokkan informasi pribadi di toko dengan yang diberikan saat reservasi; menganalisis tren dan perilaku penyewaan, serta melakukan survei pelanggan untuk terus meningkatkan penawaran dan layanan kami; dan pemasaran langsung seperti yang ditentukan dalam poin 2 di bawah ini.",
+        "ul": [
+          {
+            "li": "Lisensi ini akan secara otomatis dihentikan jika Anda melanggar salah satu dari pembatasan ini dan dapat dihentikan oleh Wifipack Ltd. kapan saja. Setelah Anda mengakhiri penayangan materi ini atau setelah penghentian lisensi ini, Anda harus memusnahkan semua materi yang diunduh yang Anda miliki baik dalam format elektronik maupun cetak."
+          }
+        ]
+      },
+      {
+        "title": "2. Pemasaran Langsung",
+        "text": "Dengan mengonfirmasi kontrak sewa Anda, Anda secara khusus menyetujui bahwa kami menggunakan informasi pribadi Anda untuk melakukan aktivitas pemasaran langsung kepada Anda. Aktivitas pemasaran langsung kami hanya akan mencakup penawaran promosi terkait produk dan layanan kami ('Produk Wifi').<br><br>Aktivitas pemasaran langsung yang mungkin kami lakukan mencakup pengiriman email, SMS atau pesan seluler lainnya, atau komunikasi cetak mengenai Produk Wifi dan acara atau promosi yang mungkin diselenggarakan perusahaan secara online atau di toko.<br><br>Perlu diketahui bahwa Anda berhak untuk memilih keluar dari aktivitas pemasaran langsung ini. Jika Anda ingin menggunakan hak untuk memilih keluar, Anda dapat melakukannya sebelum mengonfirmasi kontrak sewa Anda dengan mengklik [berhenti berlangganan dari daftar email kami] untuk berhenti menerima komunikasi pemasaran. Anda juga dapat menghubungi kami di hello@wifibb.com atau menelepon kami di (852) 3184 0668 untuk mendapatkan bantuan.<br><br>Yakinlah bahwa dalam email pemasaran atau promosi yang kami kirimkan kepada Anda, kami juga akan memberikan opsi berhenti berlangganan di masa mendatang."
+      },
+      {
+        "title": "3. Keamanan dan Perlindungan Informasi Anda",
+        "text": "Kami dapat menggunakan informasi pribadi Anda untuk memenuhi kewajiban layanan pelanggan kami, seperti memproses pesanan Anda atau mencegah penipuan. Akses ke informasi ini dilindungi oleh langkah-langkah fisik, elektronik, dan manajerial, dan kami membatasi akses ke informasi Anda hanya kepada karyawan dan agen kami yang perlu mengetahuinya untuk melakukan pekerjaan mereka.<br><br>Kami akan melindungi informasi pribadi dengan langkah-langkah keamanan yang wajar terhadap kehilangan atau pencurian, serta akses, pengungkapan, penyalinan, penggunaan, atau modifikasi yang tidak sah. Namun, tidak ada individu atau sistem keamanan yang sepenuhnya aman. Oleh karena itu, kami tidak dapat menjamin keamanan mutlak dan tidak dapat mencegah akses tidak sah oleh pihak ketiga atau pengungkapan tidak disengaja atas informasi tersebut selama transfer data semacam itu. Pengguna mengakui risiko ini dengan menggunakan layanan kami."
+      },
+      {
+        "title": "4. Pengungkapan Informasi Pribadi Anda",
+        "text": "Informasi pribadi Anda yang dimiliki oleh perusahaan akan dijaga kerahasiaannya, tetapi kami dapat mengungkapkan informasi tersebut kepada afiliasi atau perusahaan terkait kami, atau penyedia layanan perusahaan yang tunduk pada kewajiban kerahasiaan yang ketat, ketika pengungkapan tersebut diperlukan untuk mencapai tujuan, atau tujuan yang secara langsung terkait, untuk mana data dikumpulkan.<br><br>Kami tidak memberikan informasi pelanggan yang dapat diidentifikasi secara pribadi kepada pengiklan atau situs web pihak ketiga kecuali persetujuan tertulis spesifik Anda diperoleh. Jika Anda mengikuti tautan ke salah satu situs web tersebut atau mengirimkan informasi kepada pihak ketiga melalui situs web kami, harap periksa dan baca kebijakan privasi mereka sendiri sebelum mengirimkan informasi Anda. Harap diperhatikan bahwa kami tidak bertanggung jawab sehubungan dengan pengiriman informasi tersebut kepada pihak ketiga.<br><br>Data pribadi Anda juga dapat diungkapkan kepada siapa pun berdasarkan kewajiban hukum atau kontrak atau sebagaimana diwajibkan oleh hukum, asalkan orang tersebut dapat membuktikan hak/kewenangan yang diperlukan untuk mengakses informasi tersebut. Selain itu, data pribadi Anda dapat diungkapkan dalam salah satu keadaan yang dijelaskan di bagian VII Undang-Undang sebagai pengecualian terhadap ketentuan Undang-Undang."
+      },
+      {
+        "title": "5. Cara Memeriksa dan Memperbarui Informasi Anda",
+        "text": "Kami hanya akan menyimpan informasi pribadi selama diperlukan untuk memenuhi tujuan tersebut. Jika Anda ingin memeriksa atau memperbarui informasi pribadi yang telah Anda kirimkan kepada kami, Anda dapat menghubungi kami di hello@wifibb.com atau menelepon kami di (852) 3184 0668 untuk mendapatkan bantuan."
+      },
+      {
+        "title": "6. Kebijakan Perusahaan Kami",
+        "text": "Direktur, manajer, dan anggota staf kami akan selalu menghormati kerahasiaan dan berusaha untuk melindungi semua data pribadi yang dikumpulkan dan/atau disimpan dan/atau dikirimkan dan/atau digunakan untuk, atau atas nama, perusahaan. Perusahaan akan berupaya memastikan bahwa setiap pengumpulan, penyimpanan, transmisi, dan pemrosesan atau penggunaan data pribadi lainnya sesuai dengan kewajiban dan persyaratan Undang-Undang."
+      },
+      {
+        "title": "7. Perubahan pada Kebijakan Privasi Ini",
+        "text": "Kami dapat, dari waktu ke waktu, mengubah kebijakan privasi ini, seluruhnya atau sebagian, atas kebijakan kami sendiri untuk memperjelas praktik kami dan mencerminkan praktik privasi baru atau berbeda. Setiap perubahan pada kebijakan privasi ini akan berlaku segera setelah diposting di situs web kami. Jika Anda tidak setuju dengan ketentuan kebijakan privasi ini, yang dapat diubah dari waktu ke waktu, seluruhnya atau sebagian, Anda harus berhenti menggunakan layanan kami. Bagaimanapun, dengan terus menggunakan layanan kami setelah adanya perubahan pada kebijakan privasi ini, Anda dianggap telah menerima perubahan tersebut."
+      }
+    ]
   }
 }

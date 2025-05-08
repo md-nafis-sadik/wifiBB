@@ -5,6 +5,7 @@ import { images } from "@/services";
 import { useEffect, useState } from "react";
 import { setPocketWifiCartData } from "@/store/module/pocketWifi/slice";
 import { useTranslation } from "react-i18next";
+import SectionHeader from "@/components/shared/others/SectionHeader";
 
 const CountryWiseLocation = () => {
   const { pickupLocations, cart } = useSelector((state) => state.pocketWifi);
@@ -21,8 +22,13 @@ const CountryWiseLocation = () => {
 
   return (
     <div className="w-full containerX sec_common_60 xl:px-0" id="view-location">
+      <SectionHeader
+        heading="Find a Pickup and Drop Off Location"
+        subHeading="Check where you can collect or return your WiFiBB."
+        containerClassName={"gap-4 md:gap-[18px] my-12"}
+      />
       <div className="flex flex-col gap-2 relative z-10">
-        <span className="label">{t("extraText.country")}</span>
+        <span className="label text-black-900 font-semibold">{t("extraText.country")}</span>
         <CountrySelect
           name="country"
           defaultValue={cart?.pickupCountry}

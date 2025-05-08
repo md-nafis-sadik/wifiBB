@@ -20,7 +20,7 @@ const GeneralCard = ({
   return (
     <div
       className={cn(
-        "p-6 sm:pl-8 md:pl-10 rounded-2xl bg-neutral-100 h-full flex flex-col justify-between gap-4",
+        "p-6 sm:pl-8 md:pl-10 rounded-2xl bg-secondary-50 h-full flex flex-col justify-between gap-4",
         className
       )}
     >
@@ -42,11 +42,11 @@ const GeneralCard = ({
           }
         >
           <Button
-            className="p-2.5 sm:px-4 md:px-6 sm:py-3 md:py-4 rounded sm:rounded-xl !text-xs md:!text-base"
+            className="p-2.5 sm:px-4 md:px-6 sm:py-3 md:py-3 rounded sm:rounded-full !text-xs md:!text-base"
             onClick={onClick}
           >
             <span>{buttonText}</span>
-            <ArrowUpRightIcon className="w-[14px] h-[14px] md:w-6 md:h-6" />
+            <ArrowUpRightIcon className="w-[14px] h-[14px] md:w-6 md:h-6 text-black-900" color="#191919" />
           </Button>
         </Link>
 
@@ -55,7 +55,7 @@ const GeneralCard = ({
             <Button
               variant="secondary"
               className={
-                "p-2.5 py-[11px] sm:px-4 md:px-6 sm:py-[13px] md:py-4 lg:py-[17px] rounded sm:rounded-xl !text-xs md:!text-base"
+                "p-2.5 py-[11px] sm:px-4 md:px-8 sm:py-[13px] md:py-4 lg:py-[17px] rounded sm:rounded-xl !text-xs md:!text-base"
               }
             >
               {t(`buttonText.viewSteps`) || stepsButton.text}

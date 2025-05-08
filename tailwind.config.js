@@ -92,12 +92,13 @@ export default {
           rgb: "rgba(207, 207, 207, 0.20)",
         },
         secondary: {
+          50: "#F0F9FF",
           100: "#E6F4FB",  // Lightest tint (10% of #299ED3)
           200: "#C3E5F6",  // 20% tint
           300: "#9FD5F1",
           400: "#5BBBE8",  // 50% tint
           450: "#3AAEE2",  // Between 400-500
-          500: "#17A1D9",
+          500: "#37B7F9",
           525: "#299ED3",   // Your original base blue
           550: "#0D94D0",  // Between 500-600
           600: "#0285C3",  // Your deep blue
@@ -117,8 +118,8 @@ export default {
           400: "#FEF3B3",  // Soft yellow
           500: "#FDEF99",  // Your original base yellow
           600: "#F9E550",  // Added vibrant orange-yellow
-          650: "#FFC212",  // Darker gold
-          700: "#CC8F00",  // Deep amber
+          650: "#f2d730",  // Darker gold
+          700: "#FFC212",  // Deep amber
           750: "#B27600",  // Rich brown-orange
           800: "#995C00",  // Dark burnt orange
           900: "#804300",  // Deep espresso
