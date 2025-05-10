@@ -39,7 +39,7 @@ export default function WhyChooseUs() {
   ];
 
   return (
-    <div className="max-w-7xl mx-auto bg-white py-10 md:py-36 xl:py-44 px-6 text-center">
+    <div className="containerX mx-auto bg-white py-10 md:py-36 xl:py-44 px-6 text-center">
       <SplitText
         text="Why Choose Us"
         className="text-3xl md:text-5xl font-bold text-black mb-4 px-4 text-center"

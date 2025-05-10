@@ -109,24 +109,12 @@
   "navbar": {
     "forYoo": "Untuk Yoo",
     "commercial": [
-      {
-        "name": "Beranda"
-      },
-      {
-        "name": "Pocket WIFI"
-      },
-      {
-        "name": "Router"
-      },
-      {
-        "name": "SIM/eSIM"
-      },
-      {
-        "name": "Hubungi Kami"
-      },
-      {
-        "name": "Tentang Kami"
-      }
+      { "name": "Beranda" },
+    { "name": "SIM/eSIM" },
+    { "name": "WiFi Saku" },
+    { "name": "Promo" },
+    { "name": "FAQ" },
+    { "name": "Kontak" }
     ],
     "corporate": [
       {

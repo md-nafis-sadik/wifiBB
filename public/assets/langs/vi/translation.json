@@ -112,19 +112,19 @@
         "name": "Trang chủ"
       },
       {
-        "name": "Pocket WIFI"
-      },
-      {
-        "name": "Router"
-      },
-      {
         "name": "SIM/eSIM"
       },
       {
-        "name": "Liên hệ chúng tôi"
+        "name": "WIFI bỏ túi"
       },
       {
-        "name": "Về chúng tôi"
+        "name": "Khuyến mãi"
+      },
+      {
+        "name": "Câu hỏi thường gặp"
+      },
+      {
+        "name": "Liên hệ"
       }
     ],
     "corporate": [
@@ -155,15 +155,27 @@
       "menuItems": [
         {
           "title": "Dữ liệu du lịch",
-          "items": ["Chi tiết Pocket Wifi", "Chi tiết SIM/eSIM"]
+          "items": [
+            "Chi tiết Pocket Wifi",
+            "Chi tiết SIM/eSIM"
+          ]
         },
         {
           "title": "Phạm vi quốc gia",
-          "items": ["Châu Á", "Châu Âu", "Châu Mỹ", "Châu Úc", "Châu Phi"]
+          "items": [
+            "Châu Á",
+            "Châu Âu",
+            "Châu Mỹ",
+            "Châu Úc",
+            "Châu Phi"
+          ]
         },
         {
           "title": "Địa điểm nhận/trả lại",
-          "items": ["Địa điểm nhận", "Địa điểm trả lại"]
+          "items": [
+            "Địa điểm nhận",
+            "Địa điểm trả lại"
+          ]
         },
         {
           "title": "Cách thức hoạt động",
@@ -182,7 +194,10 @@
         },
         {
           "title": "Hướng dẫn",
-          "items": ["Cài đặt eSIM", "Cách kết nối Pocketwifi?"]
+          "items": [
+            "Cài đặt eSIM",
+            "Cách kết nối Pocketwifi?"
+          ]
         }
       ]
     }
@@ -269,7 +284,13 @@
   "stayConnectedRegions": {
     "sectionHeading": "Giữ Kết Nối Mọi Nơi",
     "sectionSubHeading": "Chọn Điểm Đến Mơ Ước và Gói Cước Phù Hợp Ngay Bây Giờ",
-    "regions": ["Châu Á", "Châu Mỹ", "Châu Phi", "Châu Úc", "Châu Âu"]
+    "regions": [
+      "Châu Á",
+      "Châu Mỹ",
+      "Châu Phi",
+      "Châu Úc",
+      "Châu Âu"
+    ]
   },
   "customerTestimonial": {
     "sectionHeading": "Khách Hàng Nói Gì Về Chúng Tôi",
@@ -825,7 +846,10 @@
     "whatsIncluded": {
       "heading": "Bao Gồm Những Gì",
       "subHeading": "Tất cả những gì bạn cần để kết nối mượt mà",
-      "includedList": ["x1 Router Wifi", "x1 Bộ nguồn"]
+      "includedList": [
+        "x1 Router Wifi",
+        "x1 Bộ nguồn"
+      ]
     },
     "howToConnectRouter": {
       "heading": "Cách kết nối Router?",
@@ -1038,7 +1062,10 @@
             },
             {
               "name": "Samsung Galaxy A Series",
-              "versions": ["Galaxy A54 (2023)", "Galaxy A53 (2022)"]
+              "versions": [
+                "Galaxy A54 (2023)",
+                "Galaxy A53 (2022)"
+              ]
             }
           ],
           "note": "Chức năng eSIM có thể thay đổi theo mẫu và khu vực. Vui lòng liên hệ với nhà mạng địa phương của bạn để xác nhận."
@@ -1048,27 +1075,49 @@
           "devices": [
             {
               "name": "Google Pixel 8 Series (2023)",
-              "versions": ["Pixel 8", "Pixel 8 Pro"]
+              "versions": [
+                "Pixel 8",
+                "Pixel 8 Pro"
+              ]
             },
             {
               "name": "Google Pixel 7 Series (2022)",
-              "versions": ["Pixel 7", "Pixel 7 Pro"]
+              "versions": [
+                "Pixel 7",
+                "Pixel 7 Pro"
+              ]
             },
             {
               "name": "Google Pixel 6 Series (2021)",
-              "versions": ["Pixel 6", "Pixel 6 Pro", "Pixel 6a"]
+              "versions": [
+                "Pixel 6",
+                "Pixel 6 Pro",
+                "Pixel 6a"
+              ]
             },
             {
               "name": "Google Pixel 5 Series (2020)",
-              "versions": ["Pixel 5", "Pixel 5a 5G"]
+              "versions": [
+                "Pixel 5",
+                "Pixel 5a 5G"
+              ]
             },
             {
               "name": "Google Pixel 4 Series (2019)",
-              "versions": ["Pixel 4", "Pixel 4 XL", "Pixel 4a"]
+              "versions": [
+                "Pixel 4",
+                "Pixel 4 XL",
+                "Pixel 4a"
+              ]
             },
             {
               "name": "Google Pixel 3 Series (2018)",
-              "versions": ["Pixel 3", "Pixel 3 XL", "Pixel 3a", "Pixel 3a XL"]
+              "versions": [
+                "Pixel 3",
+                "Pixel 3 XL",
+                "Pixel 3a",
+                "Pixel 3a XL"
+              ]
             }
           ],
           "note": "Chức năng eSIM có thể thay đổi theo mẫu và khu vực. Vui lòng liên hệ với nhà mạng địa phương của bạn để xác nhận."
@@ -1125,11 +1174,16 @@
             },
             {
               "name": "Oppo Reno Series",
-              "versions": ["Oppo Reno8 Pro (2022)", "Oppo Reno7 Pro 5G"]
+              "versions": [
+                "Oppo Reno8 Pro (2022)",
+                "Oppo Reno7 Pro 5G"
+              ]
             },
             {
               "name": "Oppo A Series",
-              "versions": ["Oppo A55s 5G (2022)"]
+              "versions": [
+                "Oppo A55s 5G (2022)"
+              ]
             }
           ],
           "note": "Chức năng eSIM có thể khác nhau tùy theo mẫu máy và khu vực. Vui lòng liên hệ với nhà mạng địa phương để xác nhận."
@@ -1188,15 +1242,23 @@
             },
             {
               "name": "Honor 50 Series",
-              "versions": ["Honor 50 (2021)", "Honor 50 Pro (2021)"]
+              "versions": [
+                "Honor 50 (2021)",
+                "Honor 50 Pro (2021)"
+              ]
             },
             {
               "name": "Honor V Series",
-              "versions": ["Honor V40 (2021)", "Honor V30 (2019)"]
+              "versions": [
+                "Honor V40 (2021)",
+                "Honor V30 (2019)"
+              ]
             },
             {
               "name": "Honor 20 Series",
-              "versions": ["Honor 20 Pro (2019)"]
+              "versions": [
+                "Honor 20 Pro (2019)"
+              ]
             }
           ],
           "note": "Chức năng eSIM có thể khác nhau tùy theo mẫu máy và khu vực. Vui lòng liên hệ với nhà mạng địa phương để xác nhận."
@@ -1215,11 +1277,16 @@
             },
             {
               "name": "Sony Xperia 1 III Series (2021)",
-              "versions": ["Sony Xperia 1 III", "Sony Xperia 5 III"]
+              "versions": [
+                "Sony Xperia 1 III",
+                "Sony Xperia 5 III"
+              ]
             },
             {
               "name": "Sony Xperia 10 Series",
-              "versions": ["Sony Xperia 10 III (2021)"]
+              "versions": [
+                "Sony Xperia 10 III (2021)"
+              ]
             }
           ],
           "note": "Chức năng eSIM có thể khác nhau tùy theo mẫu máy và khu vực. Vui lòng liên hệ với nhà mạng địa phương để xác nhận."
@@ -1238,11 +1305,16 @@
             },
             {
               "name": "Motorola Razr (Gập lại)",
-              "versions": ["Motorola Razr 40 (2023)", "Motorola Razr 2020"]
+              "versions": [
+                "Motorola Razr 40 (2023)",
+                "Motorola Razr 2020"
+              ]
             },
             {
               "name": "Motorola Moto G Series",
-              "versions": ["Moto G72 (2022)"]
+              "versions": [
+                "Moto G72 (2022)"
+              ]
             }
           ],
           "note": "Chức năng eSIM có thể khác nhau tùy theo mẫu máy và khu vực. Vui lòng liên hệ với nhà mạng địa phương để xác nhận."
@@ -1575,49 +1647,48 @@
     "copyRightText": "Bản quyền thuộc về.",
     "description": "WifiBB - Giải pháp của bạn cho kết nối toàn cầu đáng tin cậy với công nghệ eSIM.",
     "legals": [
-  {
-    "title": "Điều khoản và Điều kiện"
-  },
-  {
-    "title": "Hợp đồng cho thuê"
-  },
-  {
-    "title": "Chính sách hoàn tiền"
-  },
-  {
-    "title": "Tải xuống ứng dụng"
-  }
-]
-,
+      {
+        "title": "Điều khoản và Điều kiện"
+      },
+      {
+        "title": "Hợp đồng cho thuê"
+      },
+      {
+        "title": "Chính sách hoàn tiền"
+      },
+      {
+        "title": "Tải xuống ứng dụng"
+      }
+    ],
     "menuData": [
-    {
-      "title": "Dịch vụ & Gói",
-      "links": [
-        {
-          "label": "Giá cả & Đặt hàng"
-        },
-        {
-          "label": "Cách sử dụng WiFiBB"
-        },
-        {
-          "label": "Thành viên"
-        }
-      ]
-    },
-    {
-      "title": "Hỗ trợ & Ưu đãi",
-      "links": [
-        {
-          "label": "Khuyến mãi"
-        },
-        {
-          "label": "Câu hỏi thường gặp"
-        },
-        {
-          "label": "Liên hệ"
-        }
-      ]
-    },
+      {
+        "title": "Dịch vụ & Gói",
+        "links": [
+          {
+            "label": "Giá cả & Đặt hàng"
+          },
+          {
+            "label": "Cách sử dụng WiFiBB"
+          },
+          {
+            "label": "Thành viên"
+          }
+        ]
+      },
+      {
+        "title": "Hỗ trợ & Ưu đãi",
+        "links": [
+          {
+            "label": "Khuyến mãi"
+          },
+          {
+            "label": "Câu hỏi thường gặp"
+          },
+          {
+            "label": "Liên hệ"
+          }
+        ]
+      },
       {
         "title": "DOANH NGHIỆP",
         "links": [
@@ -1693,7 +1764,11 @@
   },
   "corporateSharedHero": {
     "heading": "Kết Nối Trong Chuyến Đi",
-    "items": ["Hotspot Di Động", "eSim", "Thẻ SIM"]
+    "items": [
+      "Hotspot Di Động",
+      "eSim",
+      "Thẻ SIM"
+    ]
   },
   "commercial": {
     "pageTitle": "Thương Mại",
@@ -1764,9 +1839,12 @@
     },
     "regionalCountries": "*Châu Âu: Albania, Armenia, Andorra, Áo, Bỉ, Bosnia và Herzegovina, Bulgaria, Croatia, Síp, Cộng hòa Séc, Đan Mạch, Estonia, Phần Lan, Pháp, Đức, Georgia, Gibraltar, Hy Lạp, Guernsey, Hungary, Iceland, Ireland, Isle of Man, Ý, Jersey, Latvia, Liechtenstein, Litva, Luxembourg, Macedonia, Malta, Monaco, Montenegro, Hà Lan, Na Uy, Ba Lan, Bồ Đào Nha, Romania, San Marino, Serbia, Slovakia, Slovenia, Tây Ban Nha, Thụy Điển, Thụy Sĩ, Ukraine, Vương quốc Anh, Vatican"
   },
-
   "pocketWifiRegion": {
-    "tabs": ["Pocket WIFI", "SIM/eSIM", "Router"],
+    "tabs": [
+      "Pocket WIFI",
+      "SIM/eSIM",
+      "Router"
+    ],
     "header": {
       "text": "Chọn Sản Phẩm"
     },
@@ -1789,21 +1867,27 @@
   },
   "pocketWifiPlan": {
     "heading": "Chọn Gói Cước",
-    "tabs": ["tất cả", "hàng ngày", "hàng tháng", "đa quốc gia"]
+    "tabs": [
+      "tất cả",
+      "hàng ngày",
+      "hàng tháng",
+      "đa quốc gia"
+    ]
   },
-
   "discountDownloadApp": {
     "title": "Trên Ứng Dụng Di Động",
     "percentage": "Giảm 8%",
     "description": "Tính năng nâng cao cho trải nghiệm kỹ thuật số dễ dàng mọi lúc, mọi nơi!"
   },
-
   "pickDropLocation": {
     "heroTitle": "Các vị trí nhận và trả hàng"
   },
-
   "routerRegion": {
-    "tabs": ["Pocket WIFI", "SIM/eSIM", "Router"],
+    "tabs": [
+      "Pocket WIFI",
+      "SIM/eSIM",
+      "Router"
+    ],
     "header": {
       "text": "Chọn Sản Phẩm"
     },
@@ -1826,11 +1910,19 @@
   },
   "routerPlan": {
     "heading": "Chọn Gói Cước",
-    "tabs": ["tất cả", "hàng ngày", "hàng tháng", "đa quốc gia"]
+    "tabs": [
+      "tất cả",
+      "hàng ngày",
+      "hàng tháng",
+      "đa quốc gia"
+    ]
   },
-
   "simRegion": {
-    "tabs": ["Pocket WIFI", "SIM/eSIM", "Router"],
+    "tabs": [
+      "Pocket WIFI",
+      "SIM/eSIM",
+      "Router"
+    ],
     "header": {
       "text": "Chọn Sản Phẩm"
     },
@@ -1853,7 +1945,12 @@
   },
   "simPlan": {
     "heading": "Chọn Gói Cước",
-    "tabs": ["tất cả", "hàng ngày", "hàng tháng", "đa quốc gia"]
+    "tabs": [
+      "tất cả",
+      "hàng ngày",
+      "hàng tháng",
+      "đa quốc gia"
+    ]
   },
   "simInformation": {
     "accordionData": {
@@ -1948,7 +2045,6 @@
       }
     ]
   },
-
   "returnDevicePocketWifi": {
     "heading": "Cách trả thiết bị?",
     "subHeading": "Theo dõi các bước đơn giản của chúng tôi để đảm bảo trải nghiệm trả thiết bị không gặp rắc rối.",
@@ -1963,7 +2059,6 @@
       }
     ]
   },
-
   "pocketWifiTopUp": {
     "heading": "Cách nạp tiền gói cước",
     "subHeading": "Dễ dàng quản lý nhu cầu dữ liệu của bạn với Yoowifi Top-Up",
@@ -1985,7 +2080,6 @@
       }
     ]
   },
-
   "affiliate": {
     "affiliateServiceData": [
       {
@@ -2015,7 +2109,6 @@
       }
     }
   },
-
   "howItWorksPage": {
     "rentWifiSection": {
       "sectionHeader": {
@@ -2134,7 +2227,6 @@
       ]
     }
   },
-
   "countryCoverage": {
     "sectionHeader": {
       "heading": "Phạm Vi Quốc Gia",
@@ -2163,18 +2255,15 @@
       }
     ]
   },
-
   "stayConnectedCTA": {
     "heading": "Giữ Kết Nối Mọi Nơi",
     "subHeading": "Hơn 140 Quốc Gia",
     "description": "Một thế giới WiFi không lo lắng trong lòng bàn tay của bạn. Kết nối internet chất lượng khi bạn du lịch—dù hành trình của bạn đưa bạn đến đâu."
   },
-
   "login": {
     "title": "Cần Đăng Nhập!",
     "text": "Vui lòng đăng nhập để tiếp tục."
   },
-
   "authModal": {
     "authMessages": {
       "welcomeBack": {

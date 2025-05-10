@@ -29,7 +29,7 @@ export default function PickUpProcess() {
         initial={{ opacity: 0, scale: 0.95 }}
         animate={{ opacity: 1, scale: 1 }}
         transition={{ duration: 0.5 }}
-        className="relative w-full max-w-7xl rounded-2xl overflow-hidden shadow-lg"
+        className="relative w-full containerX rounded-2xl overflow-hidden shadow-lg"
       >
         <video
           ref={videoRef}
@@ -60,7 +60,7 @@ export default function PickUpProcess() {
       </motion.div>
 
       {/* Steps Section */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 w-full max-w-7xl">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 w-full containerX">
         {/* Step 1 */}
         <div className="rounded-xl border border-neutral-300 bg-white shadow-sm p-4 flex flex-col justify-between">
           <div>

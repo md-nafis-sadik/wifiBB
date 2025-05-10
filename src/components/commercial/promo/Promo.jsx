@@ -123,7 +123,7 @@ export default function Promo() {
   ];
 
   return (
-    <div className="min-h-screen max-w-7xl mx-auto bg-white px-4 py-10 text-left">
+    <div className="min-h-screen containerX mx-auto bg-white px-4 py-10 text-left">
       <SectionHeader
         heading={"Promotional Discount"}
         subHeading={

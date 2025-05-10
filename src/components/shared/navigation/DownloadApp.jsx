@@ -22,7 +22,7 @@ export default function DownloadApp() {
   }, []);
 
   return (
-    <section className="bg-main-600 mx-4 max-w-7xl xl:mx-auto pt-20 my-10 rounded-[40px]">
+    <section className="bg-main-600 mx-4 container2X xl:mx-auto pt-20 my-10 rounded-[40px]">
       <div className="max-w-full mx-auto text-center">
         <SplitText
           text="Download The WifiBB App"

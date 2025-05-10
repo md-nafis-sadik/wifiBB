@@ -42,7 +42,7 @@ export default function RentWays() {
     <div className=" w-full bg-secondary-50 py-10 md:py-32 xl:py-40 text-center">
 
 
-      <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 max-w-7xl mx-auto px-10">
+      <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 containerX mx-auto px-10">
         {features.map((feature, index) => (
           <div
             key={index}

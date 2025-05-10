@@ -109,22 +109,22 @@
     "forYoo": "Para sa Yoo",
     "commercial": [
       {
-        "name": "Tahanan"
-      },
-      {
-        "name": "Pocket WIFI"
-      },
-      {
-        "name": "Router"
+        "name": "Home"
       },
       {
         "name": "SIM/eSIM"
       },
       {
-        "name": "Makipag-ugnayan sa Amin"
+        "name": "Pocket WIFI"
       },
       {
-        "name": "Tungkol sa Amin"
+        "name": "Promo"
+      },
+      {
+        "name": "Mga Tanong"
+      },
+      {
+        "name": "Makipag-ugnayan"
       }
     ],
     "corporate": [
@@ -155,15 +155,27 @@
       "menuItems": [
         {
           "title": "Travel Data",
-          "items": ["Mga Detalye ng Pocket Wifi", "Mga Detalye ng SIM/eSIM"]
+          "items": [
+            "Mga Detalye ng Pocket Wifi",
+            "Mga Detalye ng SIM/eSIM"
+          ]
         },
         {
           "title": "Saklaw ng Bansa",
-          "items": ["Asya", "Europa", "Amerika", "Australia", "Aprika"]
+          "items": [
+            "Asya",
+            "Europa",
+            "Amerika",
+            "Australia",
+            "Aprika"
+          ]
         },
         {
           "title": "Pickup/Drop off Lokasyon",
-          "items": ["Lokasyon ng Pickup", "Lokasyon ng Drop off"]
+          "items": [
+            "Lokasyon ng Pickup",
+            "Lokasyon ng Drop off"
+          ]
         },
         {
           "title": "Paano Ito Gumagana",
@@ -182,7 +194,10 @@
         },
         {
           "title": "Paano",
-          "items": ["I-set ang eSIM", "Paano ikonekta ang Pocketwifi?"]
+          "items": [
+            "I-set ang eSIM",
+            "Paano ikonekta ang Pocketwifi?"
+          ]
         }
       ]
     }
@@ -269,7 +284,13 @@
   "stayConnectedRegions": {
     "sectionHeading": "Manatiling Konektado sa Lahat ng Dako",
     "sectionSubHeading": "Pumili ng Iyong Pangarap na Destinasyon at Perpektong Package Ngayon",
-    "regions": ["Asia", "America", "Africa", "Australia", "Europe"]
+    "regions": [
+      "Asia",
+      "America",
+      "Africa",
+      "Australia",
+      "Europe"
+    ]
   },
   "customerTestimonial": {
     "sectionHeading": "Ano ang Sinasabi ng Aming mga Customer",
@@ -837,7 +858,10 @@
     "whatsIncluded": {
       "heading": "Ano ang Kasama",
       "subHeading": "Lahat ng Kailangan Mo para sa Walang Putol na Koneksyon",
-      "includedList": ["x1 Wifi Router", "x1 Power Adapter"]
+      "includedList": [
+        "x1 Wifi Router",
+        "x1 Power Adapter"
+      ]
     },
     "howToConnectRouter": {
       "heading": "Paano Ikonekta ang Router?",
@@ -1050,7 +1074,10 @@
             },
             {
               "name": "Samsung Galaxy A Series",
-              "versions": ["Galaxy A54 (2023)", "Galaxy A53 (2022)"]
+              "versions": [
+                "Galaxy A54 (2023)",
+                "Galaxy A53 (2022)"
+              ]
             }
           ],
           "note": "Ang kakayahan ng eSIM ay maaaring mag-iba depende sa modelo at rehiyon. Mangyaring makipag-ugnayan sa iyong lokal na carrier para sa kumpirmasyon."
@@ -1060,27 +1087,49 @@
           "devices": [
             {
               "name": "Google Pixel 8 Series (2023)",
-              "versions": ["Pixel 8", "Pixel 8 Pro"]
+              "versions": [
+                "Pixel 8",
+                "Pixel 8 Pro"
+              ]
             },
             {
               "name": "Google Pixel 7 Series (2022)",
-              "versions": ["Pixel 7", "Pixel 7 Pro"]
+              "versions": [
+                "Pixel 7",
+                "Pixel 7 Pro"
+              ]
             },
             {
               "name": "Google Pixel 6 Series (2021)",
-              "versions": ["Pixel 6", "Pixel 6 Pro", "Pixel 6a"]
+              "versions": [
+                "Pixel 6",
+                "Pixel 6 Pro",
+                "Pixel 6a"
+              ]
             },
             {
               "name": "Google Pixel 5 Series (2020)",
-              "versions": ["Pixel 5", "Pixel 5a 5G"]
+              "versions": [
+                "Pixel 5",
+                "Pixel 5a 5G"
+              ]
             },
             {
               "name": "Google Pixel 4 Series (2019)",
-              "versions": ["Pixel 4", "Pixel 4 XL", "Pixel 4a"]
+              "versions": [
+                "Pixel 4",
+                "Pixel 4 XL",
+                "Pixel 4a"
+              ]
             },
             {
               "name": "Google Pixel 3 Series (2018)",
-              "versions": ["Pixel 3", "Pixel 3 XL", "Pixel 3a", "Pixel 3a XL"]
+              "versions": [
+                "Pixel 3",
+                "Pixel 3 XL",
+                "Pixel 3a",
+                "Pixel 3a XL"
+              ]
             }
           ],
           "note": "Ang kakayahan ng eSIM ay maaaring mag-iba depende sa modelo at rehiyon. Mangyaring makipag-ugnayan sa iyong lokal na carrier para sa kumpirmasyon."
@@ -1137,11 +1186,16 @@
             },
             {
               "name": "Oppo Reno Series",
-              "versions": ["Oppo Reno8 Pro (2022)", "Oppo Reno7 Pro 5G"]
+              "versions": [
+                "Oppo Reno8 Pro (2022)",
+                "Oppo Reno7 Pro 5G"
+              ]
             },
             {
               "name": "Oppo A Series",
-              "versions": ["Oppo A55s 5G (2022)"]
+              "versions": [
+                "Oppo A55s 5G (2022)"
+              ]
             }
           ],
           "note": "Ang kakayahan ng eSIM ay maaaring mag-iba depende sa modelo at rehiyon. Mangyaring makipag-ugnayan sa iyong lokal na carrier para sa kumpirmasyon."
@@ -1200,15 +1254,23 @@
             },
             {
               "name": "Honor 50 Series",
-              "versions": ["Honor 50 (2021)", "Honor 50 Pro (2021)"]
+              "versions": [
+                "Honor 50 (2021)",
+                "Honor 50 Pro (2021)"
+              ]
             },
             {
               "name": "Honor V Series",
-              "versions": ["Honor V40 (2021)", "Honor V30 (2019)"]
+              "versions": [
+                "Honor V40 (2021)",
+                "Honor V30 (2019)"
+              ]
             },
             {
               "name": "Honor 20 Series",
-              "versions": ["Honor 20 Pro (2019)"]
+              "versions": [
+                "Honor 20 Pro (2019)"
+              ]
             }
           ],
           "note": "Ang kakayahan ng eSIM ay maaaring mag-iba depende sa modelo at rehiyon. Mangyaring makipag-ugnayan sa iyong lokal na carrier para sa kumpirmasyon."
@@ -1227,11 +1289,16 @@
             },
             {
               "name": "Sony Xperia 1 III Series (2021)",
-              "versions": ["Sony Xperia 1 III", "Sony Xperia 5 III"]
+              "versions": [
+                "Sony Xperia 1 III",
+                "Sony Xperia 5 III"
+              ]
             },
             {
               "name": "Sony Xperia 10 Series",
-              "versions": ["Sony Xperia 10 III (2021)"]
+              "versions": [
+                "Sony Xperia 10 III (2021)"
+              ]
             }
           ],
           "note": "Ang kakayahan ng eSIM ay maaaring mag-iba depende sa modelo at rehiyon. Mangyaring makipag-ugnayan sa iyong lokal na carrier para sa kumpirmasyon."
@@ -1250,11 +1317,16 @@
             },
             {
               "name": "Motorola Razr (Foldable)",
-              "versions": ["Motorola Razr 40 (2023)", "Motorola Razr 2020"]
+              "versions": [
+                "Motorola Razr 40 (2023)",
+                "Motorola Razr 2020"
+              ]
             },
             {
               "name": "Motorola Moto G Series",
-              "versions": ["Moto G72 (2022)"]
+              "versions": [
+                "Moto G72 (2022)"
+              ]
             }
           ],
           "note": "Ang kakayahan ng eSIM ay maaaring mag-iba depende sa modelo at rehiyon. Mangyaring makipag-ugnayan sa iyong lokal na carrier para sa kumpirmasyon."
@@ -1587,49 +1659,48 @@
     "copyRightText": "Lahat ng Karapatan ay Nakalaan.",
     "description": "WifiBB - Ang iyong solusyon para sa maaasahang, global na konektividad gamit ang teknolohiyang eSIM.",
     "legals": [
-  {
-    "title": "Mga Tuntunin at Kondisyon"
-  },
-  {
-    "title": "Kasunduan sa Pag-upa"
-  },
-  {
-    "title": "Patakaran sa Pagbabalik"
-  },
-  {
-    "title": "I-download ang app"
-  }
-]
-,
+      {
+        "title": "Mga Tuntunin at Kondisyon"
+      },
+      {
+        "title": "Kasunduan sa Pag-upa"
+      },
+      {
+        "title": "Patakaran sa Pagbabalik"
+      },
+      {
+        "title": "I-download ang app"
+      }
+    ],
     "menuData": [
-    {
-      "title": "Mga Serbisyo at Plano",
-      "links": [
-        {
-          "label": "Pagpepresyo at Pag-order"
-        },
-        {
-          "label": "Paano gamitin ang WiFiBB"
-        },
-        {
-          "label": "Pagkamember"
-        }
-      ]
-    },
-    {
-      "title": "Suporta at Mga Alok",
-      "links": [
-        {
-          "label": "Promo"
-        },
-        {
-          "label": "FAQ"
-        },
-        {
-          "label": "Makipag-ugnayan"
-        }
-      ]
-    },
+      {
+        "title": "Mga Serbisyo at Plano",
+        "links": [
+          {
+            "label": "Pagpepresyo at Pag-order"
+          },
+          {
+            "label": "Paano gamitin ang WiFiBB"
+          },
+          {
+            "label": "Pagkamember"
+          }
+        ]
+      },
+      {
+        "title": "Suporta at Mga Alok",
+        "links": [
+          {
+            "label": "Promo"
+          },
+          {
+            "label": "FAQ"
+          },
+          {
+            "label": "Makipag-ugnayan"
+          }
+        ]
+      },
       {
         "title": "KORPORATIBA",
         "links": [
@@ -1705,7 +1776,11 @@
   },
   "corporateSharedHero": {
     "heading": "Kumonekta sa Paglalakbay",
-    "items": ["Portable Hotspot", "eSim", "SIM card"]
+    "items": [
+      "Portable Hotspot",
+      "eSim",
+      "SIM card"
+    ]
   },
   "commercial": {
     "pageTitle": "Komersyal",
@@ -1731,7 +1806,11 @@
   },
   "pocketWifiDetails": {
     "pocketWifiDayPass": {
-      "headers": ["Pocket Wifi-Unlimited Daypass", "1GB/araw", "5GB/araw"],
+      "headers": [
+        "Pocket Wifi-Unlimited Daypass",
+        "1GB/araw",
+        "5GB/araw"
+      ],
       "plans": [
         "Hong Kong, Indonesia, Japan, Macau, Malaysia, Philippines, South Korea, Taiwan, Thailand, Vietnam 1 Araw",
         "Australia, Brunei, Canada, Cambodia, China (may VPN), Europe, Laos, Mexico, New Zealand, Turkey, USA 1 Araw",
@@ -1773,7 +1852,11 @@
     "regionalCountries": "*Europe: Albania, Armenia, Andorra, Austria, Belgium, Bosnia at Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Georgia, Gibraltar, Greece, Guernsey, Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Latvia, Liechtenstein, Lithuania, Luxembourg, Macedonia, Malta, Monaco, Montenegro, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Ukraine, United Kingdom, Vatican"
   },
   "pocketWifiRegion": {
-    "tabs": ["Pocket WIFI", "SIM/eSIM", "Router"],
+    "tabs": [
+      "Pocket WIFI",
+      "SIM/eSIM",
+      "Router"
+    ],
     "header": {
       "text": "Pumili ng Produkto"
     },
@@ -1796,7 +1879,12 @@
   },
   "pocketWifiPlan": {
     "heading": "Pumili ng Plano",
-    "tabs": ["lahat", "araw-araw", "buwanang", "maramihang-bansa"]
+    "tabs": [
+      "lahat",
+      "araw-araw",
+      "buwanang",
+      "maramihang-bansa"
+    ]
   },
   "discountDownloadApp": {
     "title": "Sa Mobile App",
@@ -1807,7 +1895,11 @@
     "heroTitle": "Mga Lokasyon ng Pagkuha at Pagbabalik"
   },
   "routerRegion": {
-    "tabs": ["Pocket WIFI", "SIM/eSIM", "Router"],
+    "tabs": [
+      "Pocket WIFI",
+      "SIM/eSIM",
+      "Router"
+    ],
     "header": {
       "text": "Pumili ng Produkto"
     },
@@ -1830,10 +1922,19 @@
   },
   "routerPlan": {
     "heading": "Pumili ng Plano",
-    "tabs": ["lahat", "araw-araw", "buwan-buwan", "maraming-bansa"]
+    "tabs": [
+      "lahat",
+      "araw-araw",
+      "buwan-buwan",
+      "maraming-bansa"
+    ]
   },
   "simRegion": {
-    "tabs": ["Pocket WIFI", "SIM/eSIM", "Router"],
+    "tabs": [
+      "Pocket WIFI",
+      "SIM/eSIM",
+      "Router"
+    ],
     "header": {
       "text": "Pumili ng Produkto"
     },
@@ -1856,7 +1957,12 @@
   },
   "simPlan": {
     "heading": "Pumili ng Plano",
-    "tabs": ["lahat", "araw-araw", "buwan-buwan", "maramihang-bansa"]
+    "tabs": [
+      "lahat",
+      "araw-araw",
+      "buwan-buwan",
+      "maramihang-bansa"
+    ]
   },
   "simInformation": {
     "accordionData": {

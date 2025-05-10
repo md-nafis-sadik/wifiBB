@@ -42,7 +42,7 @@ export default function WifiBBIntro() {
 
   return (
     <div className="bg-black text-white py-12 px-4 md:px-10 lg:px-20">
-      <div className="max-w-7xl mx-auto">
+      <div className="containerX mx-auto">
       <div className="flex flex-col lg:flex-row items-center justify-between gap-10">
         {/* Left Text Section */}
         <div className="space-y-6 max-w-lg">

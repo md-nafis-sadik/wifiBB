@@ -10,7 +10,7 @@ export default function TermsConditions() {
     const privacyPolicy = termsData.privacyPolicy || [];
 
     return (
-        <div className="overflow-hidden w-full max-w-7xl mx-auto px-4 md:px-6">
+        <div className="overflow-hidden w-full containerX mx-auto px-4 md:px-6">
             <div className="py-14 md:py-20">
                 <SectionHeader
                     heading={termsData.header}

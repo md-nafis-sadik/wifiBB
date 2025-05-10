@@ -67,7 +67,7 @@ function Hero() {
     <section className="relative w-full">
       <ToastContainer />
       <section className="w-full relative bg-gradient-to-b from-secondary-525 to-secondary-600">
-        <div className="flex flex-col items-center justify-center pt-14 md:pt-20 max-w-7xl mx-auto">
+        <div className="flex flex-col items-center justify-center pt-14 md:pt-20 containerX mx-auto">
           <div className="text-white text-3xl sm:text-5xl md:text-6xl font-bold text-center relative mb-12">
             <SplitText
               text="Where Are You Travelling Today?"

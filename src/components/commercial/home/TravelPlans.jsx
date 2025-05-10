@@ -183,7 +183,7 @@ const TravelPlans = () => {
         <SplitText text="Top Destinations" className="text-3xl md:text-5xl font-bold text-white mb-4 px-4 text-center" />
         <div className="text-black-600 text-center text-sm lg:text-base">Discover the most sought-after locations for unforgettable experiences.</div>
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-8 max-w-7xl mx-auto">
+      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-8 containerX mx-auto">
         {plans.slice(0, visible).map((plan, idx) => (
           <PlanCard
             key={idx}

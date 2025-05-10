@@ -113,22 +113,19 @@
         "name": "Accueil"
       },
       {
-        "name": "Pocket WIFI"
-      },
-      {
-        "name": "Routeur"
-      },
-      {
         "name": "SIM/eSIM"
       },
       {
-        "name": "Nous Contacter"
+        "name": "WiFi de poche"
       },
       {
-        "name": "À Propos de Nous"
+        "name": "Promotion"
       },
       {
-        "name": "TODO"
+        "name": "FAQ"
+      },
+      {
+        "name": "Contactez-nous"
       }
     ],
     "corporate": [
@@ -159,15 +156,27 @@
       "menuItems": [
         {
           "title": "Données de Voyage",
-          "items": ["Détails Pocket Wifi", "Détails Sim/eSim"]
+          "items": [
+            "Détails Pocket Wifi",
+            "Détails Sim/eSim"
+          ]
         },
         {
           "title": "Couverture du Pays",
-          "items": ["Asie", "Europe", "Amérique", "Australie", "Afrique"]
+          "items": [
+            "Asie",
+            "Europe",
+            "Amérique",
+            "Australie",
+            "Afrique"
+          ]
         },
         {
           "title": "Lieu de Ramassage/Dépôt",
-          "items": ["Lieu de Ramassage", "Lieu de Dépôt"]
+          "items": [
+            "Lieu de Ramassage",
+            "Lieu de Dépôt"
+          ]
         },
         {
           "title": "Comment Ça Marche",
@@ -186,7 +195,10 @@
         },
         {
           "title": "Comment Faire",
-          "items": ["Configurer une eSIM", "Comment connecter Pocketwifi?"]
+          "items": [
+            "Configurer une eSIM",
+            "Comment connecter Pocketwifi?"
+          ]
         }
       ]
     }
@@ -273,7 +285,13 @@
   "stayConnectedRegions": {
     "sectionHeading": "Restez Connecté Partout",
     "sectionSubHeading": "Choisissez Votre Destination de Rêve et le Forfait Parfait Maintenant",
-    "regions": ["Asie", "Amérique", "Afrique", "Australie", "Europe"]
+    "regions": [
+      "Asie",
+      "Amérique",
+      "Afrique",
+      "Australie",
+      "Europe"
+    ]
   },
   "customerTestimonial": {
     "sectionHeading": "Ce Que Disent Nos Clients",
@@ -841,7 +859,10 @@
     "whatsIncluded": {
       "heading": "Ce qui est inclus",
       "subHeading": "Tout ce dont vous avez besoin pour une connectivité transparente",
-      "includedList": ["x1 Routeur Wifi", "x1 Adaptateur Secteur"]
+      "includedList": [
+        "x1 Routeur Wifi",
+        "x1 Adaptateur Secteur"
+      ]
     },
     "howToConnectRouter": {
       "heading": "Comment connecter le Routeur?",
@@ -1054,7 +1075,10 @@
             },
             {
               "name": "Samsung Galaxy A Series",
-              "versions": ["Galaxy A54 (2023)", "Galaxy A53 (2022)"]
+              "versions": [
+                "Galaxy A54 (2023)",
+                "Galaxy A53 (2022)"
+              ]
             }
           ],
           "note": "La fonctionnalité eSIM peut varier selon le modèle et la région. Veuillez contacter votre opérateur local pour confirmation."
@@ -1064,27 +1088,49 @@
           "devices": [
             {
               "name": "Google Pixel 8 Series (2023)",
-              "versions": ["Pixel 8", "Pixel 8 Pro"]
+              "versions": [
+                "Pixel 8",
+                "Pixel 8 Pro"
+              ]
             },
             {
               "name": "Google Pixel 7 Series (2022)",
-              "versions": ["Pixel 7", "Pixel 7 Pro"]
+              "versions": [
+                "Pixel 7",
+                "Pixel 7 Pro"
+              ]
             },
             {
               "name": "Google Pixel 6 Series (2021)",
-              "versions": ["Pixel 6", "Pixel 6 Pro", "Pixel 6a"]
+              "versions": [
+                "Pixel 6",
+                "Pixel 6 Pro",
+                "Pixel 6a"
+              ]
             },
             {
               "name": "Google Pixel 5 Series (2020)",
-              "versions": ["Pixel 5", "Pixel 5a 5G"]
+              "versions": [
+                "Pixel 5",
+                "Pixel 5a 5G"
+              ]
             },
             {
               "name": "Google Pixel 4 Series (2019)",
-              "versions": ["Pixel 4", "Pixel 4 XL", "Pixel 4a"]
+              "versions": [
+                "Pixel 4",
+                "Pixel 4 XL",
+                "Pixel 4a"
+              ]
             },
             {
               "name": "Google Pixel 3 Series (2018)",
-              "versions": ["Pixel 3", "Pixel 3 XL", "Pixel 3a", "Pixel 3a XL"]
+              "versions": [
+                "Pixel 3",
+                "Pixel 3 XL",
+                "Pixel 3a",
+                "Pixel 3a XL"
+              ]
             }
           ],
           "note": "La fonctionnalité eSIM peut varier selon le modèle et la région. Veuillez contacter votre opérateur local pour confirmation."
@@ -1141,11 +1187,16 @@
             },
             {
               "name": "Oppo Reno Series",
-              "versions": ["Oppo Reno8 Pro (2022)", "Oppo Reno7 Pro 5G"]
+              "versions": [
+                "Oppo Reno8 Pro (2022)",
+                "Oppo Reno7 Pro 5G"
+              ]
             },
             {
               "name": "Oppo A Series",
-              "versions": ["Oppo A55s 5G (2022)"]
+              "versions": [
+                "Oppo A55s 5G (2022)"
+              ]
             }
           ],
           "note": "La fonctionnalité eSIM peut varier selon le modèle et la région. Veuillez contacter votre opérateur local pour confirmation."
@@ -1204,15 +1255,23 @@
             },
             {
               "name": "Honor 50 Series",
-              "versions": ["Honor 50 (2021)", "Honor 50 Pro (2021)"]
+              "versions": [
+                "Honor 50 (2021)",
+                "Honor 50 Pro (2021)"
+              ]
             },
             {
               "name": "Honor V Series",
-              "versions": ["Honor V40 (2021)", "Honor V30 (2019)"]
+              "versions": [
+                "Honor V40 (2021)",
+                "Honor V30 (2019)"
+              ]
             },
             {
               "name": "Honor 20 Series",
-              "versions": ["Honor 20 Pro (2019)"]
+              "versions": [
+                "Honor 20 Pro (2019)"
+              ]
             }
           ],
           "note": "La fonctionnalité eSIM peut varier selon le modèle et la région. Veuillez contacter votre opérateur local pour confirmation."
@@ -1231,11 +1290,16 @@
             },
             {
               "name": "Sony Xperia 1 III Series (2021)",
-              "versions": ["Sony Xperia 1 III", "Sony Xperia 5 III"]
+              "versions": [
+                "Sony Xperia 1 III",
+                "Sony Xperia 5 III"
+              ]
             },
             {
               "name": "Sony Xperia 10 Series",
-              "versions": ["Sony Xperia 10 III (2021)"]
+              "versions": [
+                "Sony Xperia 10 III (2021)"
+              ]
             }
           ],
           "note": "La fonctionnalité eSIM peut varier selon le modèle et la région. Veuillez contacter votre opérateur local pour confirmation."
@@ -1254,11 +1318,16 @@
             },
             {
               "name": "Motorola Razr (Pliable)",
-              "versions": ["Motorola Razr 40 (2023)", "Motorola Razr 2020"]
+              "versions": [
+                "Motorola Razr 40 (2023)",
+                "Motorola Razr 2020"
+              ]
             },
             {
               "name": "Motorola Moto G Series",
-              "versions": ["Moto G72 (2022)"]
+              "versions": [
+                "Moto G72 (2022)"
+              ]
             }
           ],
           "note": "La fonctionnalité eSIM peut varier selon le modèle et la région. Veuillez contacter votre opérateur local pour confirmation."
@@ -1591,49 +1660,48 @@
     "copyRightText": "Tous droits réservés.",
     "description": "WifiBB - Votre solution pour une connectivité fiable et mondiale avec la technologie eSIM.",
     "legals": [
-  {
-    "title": "Termes et Conditions"
-  },
-  {
-    "title": "Contrat de location"
-  },
-  {
-    "title": "Politique de remboursement"
-  },
-  {
-    "title": "Téléchargez l'application"
-  }
-]
-,
+      {
+        "title": "Termes et Conditions"
+      },
+      {
+        "title": "Contrat de location"
+      },
+      {
+        "title": "Politique de remboursement"
+      },
+      {
+        "title": "Téléchargez l'application"
+      }
+    ],
     "menuData": [
-    {
-      "title": "Services et Plans",
-      "links": [
-        {
-          "label": "Tarification et Commandes"
-        },
-        {
-          "label": "Comment utiliser WiFiBB"
-        },
-        {
-          "label": "Abonnement"
-        }
-      ]
-    },
-    {
-      "title": "Support et Offres",
-      "links": [
-        {
-          "label": "Promotion"
-        },
-        {
-          "label": "FAQ"
-        },
-        {
-          "label": "Contact"
-        }
-      ]
-    },
+      {
+        "title": "Services et Plans",
+        "links": [
+          {
+            "label": "Tarification et Commandes"
+          },
+          {
+            "label": "Comment utiliser WiFiBB"
+          },
+          {
+            "label": "Abonnement"
+          }
+        ]
+      },
+      {
+        "title": "Support et Offres",
+        "links": [
+          {
+            "label": "Promotion"
+          },
+          {
+            "label": "FAQ"
+          },
+          {
+            "label": "Contact"
+          }
+        ]
+      },
       {
         "title": "CORPORATE",
         "links": [
@@ -1709,7 +1777,11 @@
   },
   "corporateSharedHero": {
     "heading": "Voyagez Connecté",
-    "items": ["Hotspot Portable", "eSim", "Carte SIM"]
+    "items": [
+      "Hotspot Portable",
+      "eSim",
+      "Carte SIM"
+    ]
   },
   "commercial": {
     "pageTitle": "Commercial",
@@ -1735,7 +1807,11 @@
   },
   "pocketWifiDetails": {
     "pocketWifiDayPass": {
-      "headers": ["Pocket Wifi-Pass Journée Illimité", "1GB/jour", "5GB/jour"],
+      "headers": [
+        "Pocket Wifi-Pass Journée Illimité",
+        "1GB/jour",
+        "5GB/jour"
+      ],
       "plans": [
         "Hong Kong, Indonésie, Japon, Macao, Malaisie, Philippines, Corée du Sud, Taïwan, Thaïlande, Vietnam 1 Jour",
         "Australie, Brunei, Canada, Cambodge, Chine (avec VPN), Europe, Laos, Mexique, Nouvelle-Zélande, Turquie, USA 1 Jour",
@@ -1777,7 +1853,11 @@
     "regionalCountries": "*Europe: Albanie, Arménie, Andorre, Autriche, Belgique, Bosnie-Herzégovine, Bulgarie, Croatie, Chypre, République Tchèque, Danemark, Estonie, Finlande, France, Allemagne, Géorgie, Gibraltar, Grèce, Guernesey, Hongrie, Islande, Irlande, Île de Man, Italie, Jersey, Lettonie, Liechtenstein, Lituanie, Luxembourg, Macédoine, Malte, Monaco, Monténégro, Pays-Bas, Norvège, Pologne, Portugal, Roumanie, Saint-Marin, Serbie, Slovaquie, Slovénie, Espagne, Suède, Suisse, Ukraine, Royaume-Uni, Vatican"
   },
   "pocketWifiRegion": {
-    "tabs": ["Pocket WIFI", "SIM/eSIM", "Routeur"],
+    "tabs": [
+      "Pocket WIFI",
+      "SIM/eSIM",
+      "Routeur"
+    ],
     "header": {
       "text": "Sélectionner le Produit"
     },
@@ -1800,7 +1880,12 @@
   },
   "pocketWifiPlan": {
     "heading": "Sélectionner un Plan",
-    "tabs": ["tout", "quotidien", "mensuel", "multi-pays"]
+    "tabs": [
+      "tout",
+      "quotidien",
+      "mensuel",
+      "multi-pays"
+    ]
   },
   "discountDownloadApp": {
     "title": "Sur l'Application Mobile",
@@ -1811,7 +1896,11 @@
     "heroTitle": "Points de Collecte et de Dépôt"
   },
   "routerRegion": {
-    "tabs": ["Pocket WIFI", "SIM/eSIM", "Routeur"],
+    "tabs": [
+      "Pocket WIFI",
+      "SIM/eSIM",
+      "Routeur"
+    ],
     "header": {
       "text": "Sélectionner le Produit"
     },
@@ -1834,10 +1923,19 @@
   },
   "routerPlan": {
     "heading": "Sélectionner un Plan",
-    "tabs": ["tout", "quotidien", "mensuel", "multi-pays"]
+    "tabs": [
+      "tout",
+      "quotidien",
+      "mensuel",
+      "multi-pays"
+    ]
   },
   "simRegion": {
-    "tabs": ["Pocket WIFI", "SIM/eSIM", "Routeur"],
+    "tabs": [
+      "Pocket WIFI",
+      "SIM/eSIM",
+      "Routeur"
+    ],
     "header": {
       "text": "Sélectionner le Produit"
     },
@@ -1860,7 +1958,12 @@
   },
   "simPlan": {
     "heading": "Sélectionner un Plan",
-    "tabs": ["tout", "quotidien", "mensuel", "multi-pays"]
+    "tabs": [
+      "tout",
+      "quotidien",
+      "mensuel",
+      "multi-pays"
+    ]
   },
   "simInformation": {
     "accordionData": {

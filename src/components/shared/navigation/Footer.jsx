@@ -154,7 +154,7 @@ const Footer = () => {
         </div>
       </div>
 
-      <div className="container2X sec_common_40 lg:px-4 flex flex-col lg:flex-row gap-2 justify-between lg:items-center">
+      <div className="container2X sec_common_40 lg:px-0 flex flex-col lg:flex-row gap-2 justify-between lg:items-center">
         <div className="text-sm md:text-base flex flex-col lg:flex-row items-center md:items-start lg:items-center">
           <div className="mb-2 lg:mb-0 text-black-900 !leading-[1.4] text-center md:text-left">
             ©2025 <span className="font-semibold">Wifipack Ltd</span>.{" "}

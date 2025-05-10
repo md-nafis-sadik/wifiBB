@@ -112,19 +112,19 @@
         "name": "Laman Utama"
       },
       {
-        "name": "Pocket WIFI"
-      },
-      {
-        "name": "Router"
-      },
-      {
         "name": "SIM/eSIM"
       },
       {
-        "name": "Hubungi Kami"
+        "name": "WiFi Poket"
       },
       {
-        "name": "Tentang Kami"
+        "name": "Promosi"
+      },
+      {
+        "name": "Soalan Lazim"
+      },
+      {
+        "name": "Hubungi Kami"
       }
     ],
     "corporate": [
@@ -155,15 +155,27 @@
       "menuItems": [
         {
           "title": "Data Perjalanan",
-          "items": ["Butiran Pocket Wifi", "Butiran Sim/eSim"]
+          "items": [
+            "Butiran Pocket Wifi",
+            "Butiran Sim/eSim"
+          ]
         },
         {
           "title": "Liputan Negara",
-          "items": ["Asia", "Eropah", "Amerika", "Australia", "Afrika"]
+          "items": [
+            "Asia",
+            "Eropah",
+            "Amerika",
+            "Australia",
+            "Afrika"
+          ]
         },
         {
           "title": "Lokasi Ambil/Hantar",
-          "items": ["Lokasi Ambil", "Lokasi Hantar"]
+          "items": [
+            "Lokasi Ambil",
+            "Lokasi Hantar"
+          ]
         },
         {
           "title": "Bagaimana Ia Berfungsi",
@@ -182,7 +194,10 @@
         },
         {
           "title": "Cara-cara",
-          "items": ["Pasang eSIM", "Bagaimana untuk menyambung Pocketwifi?"]
+          "items": [
+            "Pasang eSIM",
+            "Bagaimana untuk menyambung Pocketwifi?"
+          ]
         }
       ]
     }
@@ -252,7 +267,6 @@
     "sectionSubHeading": "Temui Pakej Internet Kami Untuk Keperluan Anda",
     "searchPlaceholder": "Cari negara.."
   },
-
   "whyYooWifi": {
     "sectionHeading": "Kenapa Yoowifi?",
     "servicesData": [
@@ -270,7 +284,13 @@
   "stayConnectedRegions": {
     "sectionHeading": "Sentiasa Terhubung Di Mana Sahaja",
     "sectionSubHeading": "Pilih Destinasi Impian Anda dan Pakej Sempurna Sekarang",
-    "regions": ["Asia", "Amerika", "Afrika", "Australia", "Eropah"]
+    "regions": [
+      "Asia",
+      "Amerika",
+      "Afrika",
+      "Australia",
+      "Eropah"
+    ]
   },
   "customerTestimonial": {
     "sectionHeading": "Apa Kata Pelanggan Kami",
@@ -838,7 +858,10 @@
     "whatsIncluded": {
       "heading": "Apa yang Disertakan",
       "subHeading": "Segala yang Anda Perlu untuk Sambungan Tanpa Gangguan",
-      "includedList": ["x1 Router WiFi", "x1 Penyesuai Kuasa"]
+      "includedList": [
+        "x1 Router WiFi",
+        "x1 Penyesuai Kuasa"
+      ]
     },
     "howToConnectRouter": {
       "heading": "Bagaimana untuk menyambung Penyambung?",
@@ -1051,7 +1074,10 @@
             },
             {
               "name": "Samsung Galaxy A Series",
-              "versions": ["Galaxy A54 (2023)", "Galaxy A53 (2022)"]
+              "versions": [
+                "Galaxy A54 (2023)",
+                "Galaxy A53 (2022)"
+              ]
             }
           ],
           "note": "Fungsi eSIM boleh berbeza mengikut model dan wilayah. Sila hubungi pembekal perkhidmatan tempatan untuk pengesahan."
@@ -1061,27 +1087,49 @@
           "devices": [
             {
               "name": "Google Pixel 8 Series (2023)",
-              "versions": ["Pixel 8", "Pixel 8 Pro"]
+              "versions": [
+                "Pixel 8",
+                "Pixel 8 Pro"
+              ]
             },
             {
               "name": "Google Pixel 7 Series (2022)",
-              "versions": ["Pixel 7", "Pixel 7 Pro"]
+              "versions": [
+                "Pixel 7",
+                "Pixel 7 Pro"
+              ]
             },
             {
               "name": "Google Pixel 6 Series (2021)",
-              "versions": ["Pixel 6", "Pixel 6 Pro", "Pixel 6a"]
+              "versions": [
+                "Pixel 6",
+                "Pixel 6 Pro",
+                "Pixel 6a"
+              ]
             },
             {
               "name": "Google Pixel 5 Series (2020)",
-              "versions": ["Pixel 5", "Pixel 5a 5G"]
+              "versions": [
+                "Pixel 5",
+                "Pixel 5a 5G"
+              ]
             },
             {
               "name": "Google Pixel 4 Series (2019)",
-              "versions": ["Pixel 4", "Pixel 4 XL", "Pixel 4a"]
+              "versions": [
+                "Pixel 4",
+                "Pixel 4 XL",
+                "Pixel 4a"
+              ]
             },
             {
               "name": "Google Pixel 3 Series (2018)",
-              "versions": ["Pixel 3", "Pixel 3 XL", "Pixel 3a", "Pixel 3a XL"]
+              "versions": [
+                "Pixel 3",
+                "Pixel 3 XL",
+                "Pixel 3a",
+                "Pixel 3a XL"
+              ]
             }
           ],
           "note": "Fungsi eSIM boleh berbeza mengikut model dan wilayah. Sila hubungi pembekal perkhidmatan tempatan untuk pengesahan."
@@ -1138,11 +1186,16 @@
             },
             {
               "name": "Oppo Reno Series",
-              "versions": ["Oppo Reno8 Pro (2022)", "Oppo Reno7 Pro 5G"]
+              "versions": [
+                "Oppo Reno8 Pro (2022)",
+                "Oppo Reno7 Pro 5G"
+              ]
             },
             {
               "name": "Oppo A Series",
-              "versions": ["Oppo A55s 5G (2022)"]
+              "versions": [
+                "Oppo A55s 5G (2022)"
+              ]
             }
           ],
           "note": "Fungsi eSIM mungkin berbeza mengikut model dan rantau. Sila hubungi pembekal tempatan anda untuk pengesahan."
@@ -1201,15 +1254,23 @@
             },
             {
               "name": "Honor 50 Series",
-              "versions": ["Honor 50 (2021)", "Honor 50 Pro (2021)"]
+              "versions": [
+                "Honor 50 (2021)",
+                "Honor 50 Pro (2021)"
+              ]
             },
             {
               "name": "Honor V Series",
-              "versions": ["Honor V40 (2021)", "Honor V30 (2019)"]
+              "versions": [
+                "Honor V40 (2021)",
+                "Honor V30 (2019)"
+              ]
             },
             {
               "name": "Honor 20 Series",
-              "versions": ["Honor 20 Pro (2019)"]
+              "versions": [
+                "Honor 20 Pro (2019)"
+              ]
             }
           ],
           "note": "Fungsi eSIM mungkin berbeza mengikut model dan rantau. Sila hubungi pembekal tempatan anda untuk pengesahan."
@@ -1228,11 +1289,16 @@
             },
             {
               "name": "Sony Xperia 1 III Series (2021)",
-              "versions": ["Sony Xperia 1 III", "Sony Xperia 5 III"]
+              "versions": [
+                "Sony Xperia 1 III",
+                "Sony Xperia 5 III"
+              ]
             },
             {
               "name": "Sony Xperia 10 Series",
-              "versions": ["Sony Xperia 10 III (2021)"]
+              "versions": [
+                "Sony Xperia 10 III (2021)"
+              ]
             }
           ],
           "note": "Fungsi eSIM mungkin berbeza mengikut model dan rantau. Sila hubungi pembekal tempatan anda untuk pengesahan."
@@ -1251,11 +1317,16 @@
             },
             {
               "name": "Motorola Razr (Foldable)",
-              "versions": ["Motorola Razr 40 (2023)", "Motorola Razr 2020"]
+              "versions": [
+                "Motorola Razr 40 (2023)",
+                "Motorola Razr 2020"
+              ]
             },
             {
               "name": "Motorola Moto G Series",
-              "versions": ["Moto G72 (2022)"]
+              "versions": [
+                "Moto G72 (2022)"
+              ]
             }
           ],
           "note": "Fungsi eSIM mungkin berbeza mengikut model dan rantau. Sila hubungi pembekal tempatan anda untuk pengesahan."
@@ -1588,49 +1659,48 @@
     "copyRightText": "Hak Cipta Terpelihara.",
     "description": "WifiBB - Penyelesaian anda untuk sambungan global yang boleh dipercayai dengan teknologi eSIM.",
     "legals": [
-  {
-    "title": "Terma dan Syarat"
-  },
-  {
-    "title": "Perjanjian Sewa"
-  },
-  {
-    "title": "Dasar Pemulangan"
-  },
-  {
-    "title": "Muat turun aplikasi"
-  }
-]
-,
+      {
+        "title": "Terma dan Syarat"
+      },
+      {
+        "title": "Perjanjian Sewa"
+      },
+      {
+        "title": "Dasar Pemulangan"
+      },
+      {
+        "title": "Muat turun aplikasi"
+      }
+    ],
     "menuData": [
-    {
-      "title": "Perkhidmatan & Pelan",
-      "links": [
-        {
-          "label": "Harga & Tempahan"
-        },
-        {
-          "label": "Cara menggunakan WiFiBB"
-        },
-        {
-          "label": "Keahlian"
-        }
-      ]
-    },
-    {
-      "title": "Sokongan & Tawaran",
-      "links": [
-        {
-          "label": "Promosi"
-        },
-        {
-          "label": "FAQ"
-        },
-        {
-          "label": "Hubungi"
-        }
-      ]
-    },
+      {
+        "title": "Perkhidmatan & Pelan",
+        "links": [
+          {
+            "label": "Harga & Tempahan"
+          },
+          {
+            "label": "Cara menggunakan WiFiBB"
+          },
+          {
+            "label": "Keahlian"
+          }
+        ]
+      },
+      {
+        "title": "Sokongan & Tawaran",
+        "links": [
+          {
+            "label": "Promosi"
+          },
+          {
+            "label": "FAQ"
+          },
+          {
+            "label": "Hubungi"
+          }
+        ]
+      },
       {
         "title": "KORPORAT",
         "links": [
@@ -1653,7 +1723,6 @@
       }
     ]
   },
-
   "corporateHero": {
     "heading": "Korporat",
     "subHeading": "UR Communications Pte Ltd, yang beroperasi di bawah nama jenama terkenal Yoowifi, memperkenalkan penyelesaian canggih untuk kesalinghubungan global yang mudah melalui aplikasi mudah alihnya yang intuitif. Dengan komitmen untuk memperkaya perjalanan dan memupuk komunikasi global, Yoowifi App memberikan kemudahan, kebolehpercayaan, dan kos efektif yang tiada tandingan."
@@ -1707,7 +1776,11 @@
   },
   "corporateSharedHero": {
     "heading": "Berhubung Semasa Melancong",
-    "items": ["Hotspot Mudah Alih", "eSim", "Kad SIM"]
+    "items": [
+      "Hotspot Mudah Alih",
+      "eSim",
+      "Kad SIM"
+    ]
   },
   "commercial": {
     "pageTitle": "Komersial",
@@ -1731,10 +1804,13 @@
       }
     ]
   },
-
   "pocketWifiDetails": {
     "pocketWifiDayPass": {
-      "headers": ["Pocket Wifi-Unlimited Daypass", "1GB/hari", "5GB/hari"],
+      "headers": [
+        "Pocket Wifi-Unlimited Daypass",
+        "1GB/hari",
+        "5GB/hari"
+      ],
       "plans": [
         "Hong Kong, Indonesia, Jepun, Macau, Malaysia, Filipina, Korea Selatan, Taiwan, Thailand, Vietnam 1 Hari",
         "Australia, Brunei, Kanada, Kemboja, China (dengan VPN), Eropah, Laos, Mexico, New Zealand, Turki, USA 1 Hari",
@@ -1742,7 +1818,11 @@
       ]
     },
     "restOfTheWorldDayPass": {
-      "headers": ["Seluruh Dunia-Unlimited Daypass", "1GB/hari", "5GB/hari"],
+      "headers": [
+        "Seluruh Dunia-Unlimited Daypass",
+        "1GB/hari",
+        "5GB/hari"
+      ],
       "plan": "Algeria, Anguilla, Antigua dan Barbuda, Argentina, Aruba, Azerbaijan, Bolivia, Brazil, Kepulauan Virgin British, Chile, Colombia, Costa Rica, Republik Dominika, Ecuador, El Salvador, Fiji, Antilles Perancis (Martinique), Sint Maarten Perancis, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Jamaica, Kyrgyzstan, Maldives, Mongolia, Myanmar, Antilles Belanda (Curacao), Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Vincent dan Grenadines, Suriname, Tahiti, Tajikistan, Kepulauan Cayman, Trinidad dan Tobago, Kepulauan Turks dan Caicos, Uruguay, Venezuela"
     },
     "sim": {
@@ -1771,9 +1851,12 @@
     },
     "regionalCountries": "*Eropah: Albania, Armenia, Andorra, Austria, Belgium, Bosnia dan Herzegovina, Bulgaria, Croatia, Cyprus, Republik Czech, Denmark, Estonia, Finland, Perancis, Jerman, Georgia, Gibraltar, Greece, Guernsey, Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Latvia, Liechtenstein, Lithuania, Luxembourg, Macedonia, Malta, Monaco, Montenegro, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Ukraine, United Kingdom, Vatican"
   },
-
   "pocketWifiRegion": {
-    "tabs": ["Pocket WIFI", "SIM/eSIM", "Router"],
+    "tabs": [
+      "Pocket WIFI",
+      "SIM/eSIM",
+      "Router"
+    ],
     "header": {
       "text": "Pilih Produk"
     },
@@ -1796,21 +1879,27 @@
   },
   "pocketWifiPlan": {
     "heading": "Pilih Pelan",
-    "tabs": ["semua", "harian", "bulanan", "multi-negara"]
+    "tabs": [
+      "semua",
+      "harian",
+      "bulanan",
+      "multi-negara"
+    ]
   },
-
   "discountDownloadApp": {
     "title": "Pada Aplikasi Mudah Alih",
     "percentage": "Diskaun 8%",
     "description": "Ciri-ciri canggih untuk pengalaman digital yang mudah, di mana sahaja, bila-bila masa!"
   },
-
   "pickDropLocation": {
     "heroTitle": "Lokasi Pengambilan & Penghantaran"
   },
-
   "routerRegion": {
-    "tabs": ["Pocket WIFI", "SIM/eSIM", "Router"],
+    "tabs": [
+      "Pocket WIFI",
+      "SIM/eSIM",
+      "Router"
+    ],
     "header": {
       "text": "Pilih Produk"
     },
@@ -1833,11 +1922,19 @@
   },
   "routerPlan": {
     "heading": "Pilih Pelan",
-    "tabs": ["semua", "harian", "bulanan", "multi-negara"]
+    "tabs": [
+      "semua",
+      "harian",
+      "bulanan",
+      "multi-negara"
+    ]
   },
-
   "simRegion": {
-    "tabs": ["Pocket WIFI", "SIM/eSIM", "Router"],
+    "tabs": [
+      "Pocket WIFI",
+      "SIM/eSIM",
+      "Router"
+    ],
     "header": {
       "text": "Pilih Produk"
     },
@@ -1860,7 +1957,12 @@
   },
   "simPlan": {
     "heading": "Pilih Pelan",
-    "tabs": ["semua", "harian", "bulanan", "multi-negara"]
+    "tabs": [
+      "semua",
+      "harian",
+      "bulanan",
+      "multi-negara"
+    ]
   },
   "simInformation": {
     "accordionData": {
@@ -1911,7 +2013,6 @@
       "description": "Pada hari bekerja yang sama sebelum 2pm dengan beg penghantar pulang"
     }
   ],
-
   "orderSummary": {
     "orderSummary": "Ringkasan Pesanan",
     "planName": "Nama Pelan",
@@ -1935,7 +2036,6 @@
     "continue": "Teruskan",
     "simType": "Jenis SIM"
   },
-
   "setupPocketWifi": {
     "heading": "Cara untuk menyambung Pocketwifi?",
     "subHeading": "Sambung ke Pocket WiFi Anda dengan Mudah dalam Beberapa Langkah Sederhana",
@@ -1957,7 +2057,6 @@
       }
     ]
   },
-
   "returnDevicePocketWifi": {
     "heading": "Cara Mengembalikan Peranti?",
     "subHeading": "Ikuti langkah mudah kami untuk memastikan pengalaman pengembalian tanpa masalah.",
@@ -1974,7 +2073,6 @@
       }
     ]
   },
-
   "pocketWifiTopUp": {
     "heading": "Cara Menambah Pelan",
     "subHeading": "Urus Keperluan Data Anda dengan Mudah melalui Top-Up Yoowifi",
@@ -1996,7 +2094,6 @@
       }
     ]
   },
-
   "affiliate": {
     "affiliateServiceData": [
       {
@@ -2026,7 +2123,6 @@
       }
     }
   },
-
   "howItWorksPage": {
     "rentWifiSection": {
       "sectionHeader": {
@@ -2145,7 +2241,6 @@
       ]
     }
   },
-
   "countryCoverage": {
     "sectionHeader": {
       "heading": "Liputan Negara",
@@ -2174,18 +2269,15 @@
       }
     ]
   },
-
   "stayConnectedCTA": {
     "heading": "Kekal Disambungkan Di Mana-mana",
     "subHeading": "140+ Negara",
     "description": "Dunia WiFi tanpa risau di hujung jari anda. Sambung ke internet berkualiti apabila anda melancong—tidak kira ke mana perjalanan anda membawa anda."
   },
-
   "login": {
     "title": "Log Masuk Diperlukan!",
     "text": "Sila log masuk untuk meneruskan."
   },
-
   "authModal": {
     "authMessages": {
       "welcomeBack": {

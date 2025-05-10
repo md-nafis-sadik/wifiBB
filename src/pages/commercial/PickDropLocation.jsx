@@ -13,7 +13,7 @@ const PickDropLocation = () => {
       {/* <HeroCommon title={t("pickDropLocation.heroTitle")} /> */}
       <ReturnDevice />
       <CountryWiseLocation />
-      <div className="w-full"><img src={images.selectBuildings} className="rounded-sm max-w-7xl mx-auto"/></div>
+      <div className="w-full"><img src={images.selectBuildings} className="rounded-sm containerX mx-auto"/></div>
     </Fragment>
   );
 };

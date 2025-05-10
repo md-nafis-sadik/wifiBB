@@ -5,7 +5,7 @@ import { Download } from "lucide-react";
 
 export default function ContactUs() {
   return (
-    <div className="max-w-7xl mx-auto px-4 py-16 text-center ">
+    <div className="containerX mx-auto px-4 py-16 text-center ">
       <SectionHeader
         heading={"Contact Us"}
         subHeading={"Have questions or need support? We're here to help!"}

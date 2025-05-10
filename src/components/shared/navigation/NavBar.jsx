@@ -126,7 +126,7 @@ function NavBar() {
         !isHome && !isBannerRoutes ? "border-b border-neutral-200" : ""
       )}
     >
-      <div className="w-full max-w-7xl mx-auto">
+      <div className="w-full container2X mx-auto">
         <nav
           className={cn(
             "w-full duration-300 flex items-center lg:gap-10 2xl:gap-15 justify-between px-4 xl:px-0 py-2 sm:py-4",

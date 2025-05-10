@@ -112,19 +112,19 @@
         "name": "首页"
       },
       {
-        "name": "口袋WiFi"
-      },
-      {
-        "name": "路由器"
-      },
-      {
         "name": "SIM/eSIM"
       },
       {
-        "name": "联系我们"
+        "name": "便携式WIFI"
       },
       {
-        "name": "关于我们"
+        "name": "优惠"
+      },
+      {
+        "name": "常见问题"
+      },
+      {
+        "name": "联系我们"
       }
     ],
     "corporate": [
@@ -155,15 +155,27 @@
       "menuItems": [
         {
           "title": "旅行数据",
-          "items": ["口袋WiFi详情", "SIM/eSIM详情"]
+          "items": [
+            "口袋WiFi详情",
+            "SIM/eSIM详情"
+          ]
         },
         {
           "title": "国家覆盖",
-          "items": ["亚洲", "欧洲", "美洲", "澳洲", "非洲"]
+          "items": [
+            "亚洲",
+            "欧洲",
+            "美洲",
+            "澳洲",
+            "非洲"
+          ]
         },
         {
           "title": "取货/投放地点",
-          "items": ["取货地点", "投放地点"]
+          "items": [
+            "取货地点",
+            "投放地点"
+          ]
         },
         {
           "title": "如何运作",
@@ -175,11 +187,17 @@
         },
         {
           "title": "合作伙伴",
-          "items": ["加入Yoowifi合作伙伴Yoo Wander计划", "立即联系我们！"]
+          "items": [
+            "加入Yoowifi合作伙伴Yoo Wander计划",
+            "立即联系我们！"
+          ]
         },
         {
           "title": "如何操作",
-          "items": ["设置eSIM", "如何连接Pocketwifi?"]
+          "items": [
+            "设置eSIM",
+            "如何连接Pocketwifi?"
+          ]
         }
       ]
     }
@@ -266,7 +284,13 @@
   "stayConnectedRegions": {
     "sectionHeading": "随时随地保持连接",
     "sectionSubHeading": "立即选择您的梦想目的地和完美套餐",
-    "regions": ["亚洲", "美洲", "非洲", "澳洲", "欧洲"]
+    "regions": [
+      "亚洲",
+      "美洲",
+      "非洲",
+      "澳洲",
+      "欧洲"
+    ]
   },
   "customerTestimonial": {
     "sectionHeading": "我们的客户怎么说",
@@ -832,7 +856,10 @@
     "whatsIncluded": {
       "heading": "包含内容",
       "subHeading": "一切您需要的无缝连接",
-      "includedList": ["x1 Wifi路由器", "x1 电源适配器"]
+      "includedList": [
+        "x1 Wifi路由器",
+        "x1 电源适配器"
+      ]
     },
     "howToConnectRouter": {
       "heading": "如何连接路由器？",
@@ -1045,7 +1072,10 @@
             },
             {
               "name": "Samsung Galaxy A系列",
-              "versions": ["Galaxy A54 (2023)", "Galaxy A53 (2022)"]
+              "versions": [
+                "Galaxy A54 (2023)",
+                "Galaxy A53 (2022)"
+              ]
             }
           ],
           "note": "eSIM功能可能因型号和地区而异。请联系您当地的运营商确认。"
@@ -1055,27 +1085,49 @@
           "devices": [
             {
               "name": "Google Pixel 8系列 (2023)",
-              "versions": ["Pixel 8", "Pixel 8 Pro"]
+              "versions": [
+                "Pixel 8",
+                "Pixel 8 Pro"
+              ]
             },
             {
               "name": "Google Pixel 7系列 (2022)",
-              "versions": ["Pixel 7", "Pixel 7 Pro"]
+              "versions": [
+                "Pixel 7",
+                "Pixel 7 Pro"
+              ]
             },
             {
               "name": "Google Pixel 6系列 (2021)",
-              "versions": ["Pixel 6", "Pixel 6 Pro", "Pixel 6a"]
+              "versions": [
+                "Pixel 6",
+                "Pixel 6 Pro",
+                "Pixel 6a"
+              ]
             },
             {
               "name": "Google Pixel 5系列 (2020)",
-              "versions": ["Pixel 5", "Pixel 5a 5G"]
+              "versions": [
+                "Pixel 5",
+                "Pixel 5a 5G"
+              ]
             },
             {
               "name": "Google Pixel 4系列 (2019)",
-              "versions": ["Pixel 4", "Pixel 4 XL", "Pixel 4a"]
+              "versions": [
+                "Pixel 4",
+                "Pixel 4 XL",
+                "Pixel 4a"
+              ]
             },
             {
               "name": "Google Pixel 3系列 (2018)",
-              "versions": ["Pixel 3", "Pixel 3 XL", "Pixel 3a", "Pixel 3a XL"]
+              "versions": [
+                "Pixel 3",
+                "Pixel 3 XL",
+                "Pixel 3a",
+                "Pixel 3a XL"
+              ]
             }
           ],
           "note": "eSIM功能可能因型号和地区而异。请联系您当地的运营商确认。"
@@ -1132,11 +1184,16 @@
             },
             {
               "name": "Oppo Reno系列",
-              "versions": ["Oppo Reno8 Pro (2022)", "Oppo Reno7 Pro 5G"]
+              "versions": [
+                "Oppo Reno8 Pro (2022)",
+                "Oppo Reno7 Pro 5G"
+              ]
             },
             {
               "name": "Oppo A系列",
-              "versions": ["Oppo A55s 5G (2022)"]
+              "versions": [
+                "Oppo A55s 5G (2022)"
+              ]
             }
           ],
           "note": "eSIM 功能可能因型号和地区而异。请联系您的本地运营商确认。"
@@ -1195,15 +1252,23 @@
             },
             {
               "name": "Honor 50系列",
-              "versions": ["Honor 50 (2021)", "Honor 50 Pro (2021)"]
+              "versions": [
+                "Honor 50 (2021)",
+                "Honor 50 Pro (2021)"
+              ]
             },
             {
               "name": "Honor V系列",
-              "versions": ["Honor V40 (2021)", "Honor V30 (2019)"]
+              "versions": [
+                "Honor V40 (2021)",
+                "Honor V30 (2019)"
+              ]
             },
             {
               "name": "Honor 20系列",
-              "versions": ["Honor 20 Pro (2019)"]
+              "versions": [
+                "Honor 20 Pro (2019)"
+              ]
             }
           ],
           "note": "eSIM 功能可能因型号和地区而异。请联系您的本地运营商确认。"
@@ -1222,11 +1287,16 @@
             },
             {
               "name": "Sony Xperia 1 III系列 (2021)",
-              "versions": ["Sony Xperia 1 III", "Sony Xperia 5 III"]
+              "versions": [
+                "Sony Xperia 1 III",
+                "Sony Xperia 5 III"
+              ]
             },
             {
               "name": "Sony Xperia 10系列",
-              "versions": ["Sony Xperia 10 III (2021)"]
+              "versions": [
+                "Sony Xperia 10 III (2021)"
+              ]
             }
           ],
           "note": "eSIM 功能可能因型号和地区而异。请联系您的本地运营商确认。"
@@ -1245,11 +1315,16 @@
             },
             {
               "name": "Motorola Razr (可折叠)",
-              "versions": ["Motorola Razr 40 (2023)", "Motorola Razr 2020"]
+              "versions": [
+                "Motorola Razr 40 (2023)",
+                "Motorola Razr 2020"
+              ]
             },
             {
               "name": "Motorola Moto G系列",
-              "versions": ["Moto G72 (2022)"]
+              "versions": [
+                "Moto G72 (2022)"
+              ]
             }
           ],
           "note": "eSIM 功能可能因型号和地区而异。请联系您的本地运营商确认。"
@@ -1582,49 +1657,48 @@
     "copyRightText": "版权所有。",
     "description": "WifiBB - 您的全球可靠连接解决方案，使用eSIM技术。",
     "legals": [
-  {
-    "title": "服务条款"
-  },
-  {
-    "title": "租赁协议"
-  },
-  {
-    "title": "退款政策"
-  },
-  {
-    "title": "下载应用程序"
-  }
-]
-,
+      {
+        "title": "服务条款"
+      },
+      {
+        "title": "租赁协议"
+      },
+      {
+        "title": "退款政策"
+      },
+      {
+        "title": "下载应用程序"
+      }
+    ],
     "menuData": [
-    {
-      "title": "服务与计划",
-      "links": [
-        {
-          "label": "定价与订购"
-        },
-        {
-          "label": "如何使用WiFiBB"
-        },
-        {
-          "label": "会员"
-        }
-      ]
-    },
-    {
-      "title": "支持与优惠",
-      "links": [
-        {
-          "label": "促销"
-        },
-        {
-          "label": "常见问题"
-        },
-        {
-          "label": "联系方式"
-        }
-      ]
-    },
+      {
+        "title": "服务与计划",
+        "links": [
+          {
+            "label": "定价与订购"
+          },
+          {
+            "label": "如何使用WiFiBB"
+          },
+          {
+            "label": "会员"
+          }
+        ]
+      },
+      {
+        "title": "支持与优惠",
+        "links": [
+          {
+            "label": "促销"
+          },
+          {
+            "label": "常见问题"
+          },
+          {
+            "label": "联系方式"
+          }
+        ]
+      },
       {
         "title": "企业",
         "links": [
@@ -1647,7 +1721,6 @@
       }
     ]
   },
-
   "corporateHero": {
     "heading": "企业",
     "subHeading": "UR Communications Pte Ltd，旗下著名品牌Yoowifi，推出了一种通过其直观的移动应用实现全球轻松连接的先进解决方案。Yoowifi应用致力于丰富旅行体验并促进全球通信，提供无与伦比的便利性、可靠性和成本效益。"
@@ -1693,11 +1766,19 @@
   "office": {
     "pageTitle": "办公室/路演活动",
     "description": "无论您身处何地，借助我们的WiFi解决方案，始终保持连接！无论是在办公室还是举办路演，都能享受无缝且快速的互联网访问。与Yoowifi一起，让任何干扰都不会影响您的工作日！",
-    "featureList": ["快速且可靠的连接", "专门的支持", "合理的成本或赞助"]
+    "featureList": [
+      "快速且可靠的连接",
+      "专门的支持",
+      "合理的成本或赞助"
+    ]
   },
   "corporateSharedHero": {
     "heading": "旅行连接",
-    "items": ["便携式热点", "eSim", "SIM卡"]
+    "items": [
+      "便携式热点",
+      "eSim",
+      "SIM卡"
+    ]
   },
   "commercial": {
     "pageTitle": "商业",
@@ -1723,7 +1804,11 @@
   },
   "pocketWifiDetails": {
     "pocketWifiDayPass": {
-      "headers": ["口袋WiFi-无限日通", "1GB/天", "5GB/天"],
+      "headers": [
+        "口袋WiFi-无限日通",
+        "1GB/天",
+        "5GB/天"
+      ],
       "plans": [
         "香港、印尼、日本、澳门、马来西亚、菲律宾、韩国、台湾、泰国、越南 1天",
         "澳大利亚、文莱、加拿大、柬埔寨、中国（含VPN）、欧洲、老挝、墨西哥、新西兰、土耳其、美国 1天",
@@ -1731,7 +1816,11 @@
       ]
     },
     "restOfTheWorldDayPass": {
-      "headers": ["全球其他地区-无限日通", "1GB/天", "5GB/天"],
+      "headers": [
+        "全球其他地区-无限日通",
+        "1GB/天",
+        "5GB/天"
+      ],
       "plan": "阿尔及利亚、安圭拉、安提瓜和巴布达、阿根廷、阿鲁巴、阿塞拜疆、玻利维亚、巴西、英属维京群岛、智利、哥伦比亚、哥斯达黎加、多米尼加共和国、厄瓜多尔、萨尔瓦多、斐济、法国安的列斯（马提尼克）、法属圣马丁、格林纳达、瓜德罗普、危地马拉、圭亚那、海地、牙买加、吉尔吉斯斯坦、马尔代夫、蒙古、缅甸、荷兰安的列斯（库拉索）、尼加拉瓜、巴拿马、巴拉圭、秘鲁、波多黎各、圣文森特和格林纳丁斯、苏里南、塔希提岛、塔吉克斯坦、开曼群岛、特立尼达和多巴哥、特克斯和凯科斯群岛、乌拉圭、委内瑞拉"
     },
     "sim": {
@@ -1743,7 +1832,12 @@
       }
     },
     "simDataPlan": {
-      "headers": ["SIM/eSIM-无限数据计划", "500MB/天", "1GB/天", "2GB/天"],
+      "headers": [
+        "SIM/eSIM-无限数据计划",
+        "500MB/天",
+        "1GB/天",
+        "2GB/天"
+      ],
       "plans": [
         "马来西亚/泰国 1天",
         "中国 1天",
@@ -1756,7 +1850,11 @@
     "regionalCountries": "*欧洲：阿尔巴尼亚、亚美尼亚、安道尔、奥地利、比利时、波斯尼亚和黑塞哥维那、保加利亚、克罗地亚、塞浦路斯、捷克共和国、丹麦、爱沙尼亚、芬兰、法国、德国、格鲁吉亚、直布罗陀、希腊、根西岛、匈牙利、冰岛、爱尔兰、马恩岛、意大利、泽西岛、拉脱维亚、列支敦士登、立陶宛、卢森堡、马其顿、马耳他、摩纳哥、黑山、荷兰、挪威、波兰、葡萄牙、罗马尼亚、圣马力诺、塞尔维亚、斯洛伐克、斯洛文尼亚、西班牙、瑞典、瑞士、乌克兰、英国、梵蒂冈"
   },
   "pocketWifiRegion": {
-    "tabs": ["便携WIFI", "SIM/eSIM", "路由器"],
+    "tabs": [
+      "便携WIFI",
+      "SIM/eSIM",
+      "路由器"
+    ],
     "header": {
       "text": "选择产品"
     },
@@ -1779,7 +1877,12 @@
   },
   "pocketWifiPlan": {
     "heading": "选择一个计划",
-    "tabs": ["全部", "日租", "月租", "多国"]
+    "tabs": [
+      "全部",
+      "日租",
+      "月租",
+      "多国"
+    ]
   },
   "discountDownloadApp": {
     "title": "在移动应用上",
@@ -1790,7 +1893,11 @@
     "heroTitle": "取货和还货地点"
   },
   "routerRegion": {
-    "tabs": ["便携WIFI", "SIM/eSIM", "路由器"],
+    "tabs": [
+      "便携WIFI",
+      "SIM/eSIM",
+      "路由器"
+    ],
     "header": {
       "text": "选择产品"
     },
@@ -1813,10 +1920,19 @@
   },
   "routerPlan": {
     "heading": "选择一个计划",
-    "tabs": ["全部", "日租", "月租", "多国"]
+    "tabs": [
+      "全部",
+      "日租",
+      "月租",
+      "多国"
+    ]
   },
   "simRegion": {
-    "tabs": ["便携WIFI", "SIM/eSIM", "路由器"],
+    "tabs": [
+      "便携WIFI",
+      "SIM/eSIM",
+      "路由器"
+    ],
     "header": {
       "text": "选择产品"
     },
@@ -1839,7 +1955,12 @@
   },
   "simPlan": {
     "heading": "选择一个计划",
-    "tabs": ["全部", "日租", "月租", "多国"]
+    "tabs": [
+      "全部",
+      "日租",
+      "月租",
+      "多国"
+    ]
   },
   "simInformation": {
     "accordionData": {
@@ -1913,7 +2034,6 @@
     "continue": "继续",
     "simType": "SIM卡类型"
   },
-
   "setupPocketWifi": {
     "heading": "如何连接Pocket WiFi？",
     "subHeading": "轻松连接您的Pocket WiFi，几步就能完成",
@@ -1935,7 +2055,6 @@
       }
     ]
   },
-
   "returnDevicePocketWifi": {
     "heading": "如何退还设备？",
     "subHeading": "按照我们的简单步骤确保顺利的退还体验。",
@@ -1952,7 +2071,6 @@
       }
     ]
   },
-
   "pocketWifiTopUp": {
     "heading": "如何进行套餐充值",
     "subHeading": "轻松管理您的数据需求，通过Yoowifi充值",
@@ -1974,7 +2092,6 @@
       }
     ]
   },
-
   "affiliate": {
     "affiliateServiceData": [
       {
@@ -2004,7 +2121,6 @@
       }
     }
   },
-
   "howItWorksPage": {
     "rentWifiSection": {
       "sectionHeader": {
@@ -2123,7 +2239,6 @@
       ]
     }
   },
-
   "countryCoverage": {
     "sectionHeader": {
       "heading": "国家覆盖范围",
@@ -2152,18 +2267,15 @@
       }
     ]
   },
-
   "stayConnectedCTA": {
     "heading": "随时随地保持连接",
     "subHeading": "140多个国家",
     "description": "将无忧WiFi掌控在手中。无论您的旅程带您到哪里，都能连接到优质互联网。"
   },
-
   "login": {
     "title": "需要登录！",
     "text": "请登录以继续。"
   },
-
   "authModal": {
     "authMessages": {
       "welcomeBack": {

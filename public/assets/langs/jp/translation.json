@@ -92,7 +92,6 @@
     "enterProvince": "県を入力してください",
     "postalCode": "郵便番号/ZIPコード",
     "enterPostalCode": "郵便番号を入力してください",
-
     "addCreditDebit": "クレジット/デビットを追加",
     "cardholderName": "カード名義人*",
     "cardholderNamePlaceholder": "フルネームを入力してください",
@@ -113,19 +112,19 @@
         "name": "ホーム"
       },
       {
-        "name": "ポケットWiFi"
-      },
-      {
-        "name": "ルーター"
-      },
-      {
         "name": "SIM/eSIM"
       },
       {
-        "name": "お問い合わせ"
+        "name": "ポケットWIFI"
       },
       {
-        "name": "私たちについて"
+        "name": "プロモーション"
+      },
+      {
+        "name": "よくある質問"
+      },
+      {
+        "name": "お問い合わせ"
       }
     ],
     "corporate": [
@@ -156,7 +155,10 @@
       "menuItems": [
         {
           "title": "トラベルデータ",
-          "items": ["ポケットWiFi詳細", "SIM/eSIM詳細"]
+          "items": [
+            "ポケットWiFi詳細",
+            "SIM/eSIM詳細"
+          ]
         },
         {
           "title": "国別カバレッジ",
@@ -170,7 +172,10 @@
         },
         {
           "title": "受け取り/返却場所",
-          "items": ["受け取り場所", "返却場所"]
+          "items": [
+            "受け取り場所",
+            "返却場所"
+          ]
         },
         {
           "title": "ご利用方法",
@@ -189,7 +194,10 @@
         },
         {
           "title": "使い方",
-          "items": ["eSIMを設定する", "ポケットWiFiに接続する方法？"]
+          "items": [
+            "eSIMを設定する",
+            "ポケットWiFiに接続する方法？"
+          ]
         }
       ]
     }
@@ -855,7 +863,10 @@
     "whatsIncluded": {
       "heading": "含まれるもの",
       "subHeading": "シームレスな接続のために必要なすべてが揃っています",
-      "includedList": ["x1 WiFiルーター", "x1 電源アダプター"]
+      "includedList": [
+        "x1 WiFiルーター",
+        "x1 電源アダプター"
+      ]
     },
     "howToConnectRouter": {
       "heading": "ルーターの接続方法",
@@ -1068,7 +1079,10 @@
             },
             {
               "name": "Samsung Galaxy Aシリーズ",
-              "versions": ["Galaxy A54（2023年）", "Galaxy A53（2022年）"]
+              "versions": [
+                "Galaxy A54（2023年）",
+                "Galaxy A53（2022年）"
+              ]
             }
           ],
           "note": "eSIM機能はモデルおよび地域によって異なる場合があります。最寄りのキャリアに確認してください。"
@@ -1078,27 +1092,49 @@
           "devices": [
             {
               "name": "Google Pixel 8シリーズ（2023年）",
-              "versions": ["Pixel 8", "Pixel 8 Pro"]
+              "versions": [
+                "Pixel 8",
+                "Pixel 8 Pro"
+              ]
             },
             {
               "name": "Google Pixel 7シリーズ（2022年）",
-              "versions": ["Pixel 7", "Pixel 7 Pro"]
+              "versions": [
+                "Pixel 7",
+                "Pixel 7 Pro"
+              ]
             },
             {
               "name": "Google Pixel 6シリーズ（2021年）",
-              "versions": ["Pixel 6", "Pixel 6 Pro", "Pixel 6a"]
+              "versions": [
+                "Pixel 6",
+                "Pixel 6 Pro",
+                "Pixel 6a"
+              ]
             },
             {
               "name": "Google Pixel 5シリーズ（2020年）",
-              "versions": ["Pixel 5", "Pixel 5a 5G"]
+              "versions": [
+                "Pixel 5",
+                "Pixel 5a 5G"
+              ]
             },
             {
               "name": "Google Pixel 4シリーズ（2019年）",
-              "versions": ["Pixel 4", "Pixel 4 XL", "Pixel 4a"]
+              "versions": [
+                "Pixel 4",
+                "Pixel 4 XL",
+                "Pixel 4a"
+              ]
             },
             {
               "name": "Google Pixel 3シリーズ（2018年）",
-              "versions": ["Pixel 3", "Pixel 3 XL", "Pixel 3a", "Pixel 3a XL"]
+              "versions": [
+                "Pixel 3",
+                "Pixel 3 XL",
+                "Pixel 3a",
+                "Pixel 3a XL"
+              ]
             }
           ],
           "note": "eSIM機能はモデルおよび地域によって異なる場合があります。最寄りのキャリアに確認してください。"
@@ -1155,11 +1191,16 @@
             },
             {
               "name": "Oppo Renoシリーズ",
-              "versions": ["Oppo Reno8 Pro（2022年）", "Oppo Reno7 Pro 5G"]
+              "versions": [
+                "Oppo Reno8 Pro（2022年）",
+                "Oppo Reno7 Pro 5G"
+              ]
             },
             {
               "name": "Oppo Aシリーズ",
-              "versions": ["Oppo A55s 5G（2022年）"]
+              "versions": [
+                "Oppo A55s 5G（2022年）"
+              ]
             }
           ],
           "note": "eSIM機能はモデルおよび地域によって異なる場合があります。最寄りのキャリアに確認してください。"
@@ -1218,15 +1259,23 @@
             },
             {
               "name": "Honor 50シリーズ",
-              "versions": ["Honor 50（2021年）", "Honor 50 Pro（2021年）"]
+              "versions": [
+                "Honor 50（2021年）",
+                "Honor 50 Pro（2021年）"
+              ]
             },
             {
               "name": "Honor Vシリーズ",
-              "versions": ["Honor V40（2021年）", "Honor V30（2019年）"]
+              "versions": [
+                "Honor V40（2021年）",
+                "Honor V30（2019年）"
+              ]
             },
             {
               "name": "Honor 20シリーズ",
-              "versions": ["Honor 20 Pro（2019年）"]
+              "versions": [
+                "Honor 20 Pro（2019年）"
+              ]
             }
           ],
           "note": "eSIM機能はモデルおよび地域によって異なる場合があります。最寄りのキャリアに確認してください。"
@@ -1245,11 +1294,16 @@
             },
             {
               "name": "Motorola Razr（折りたたみ式スマートフォン）",
-              "versions": ["Motorola Razr 40（2023年）", "Motorola Razr 2020"]
+              "versions": [
+                "Motorola Razr 40（2023年）",
+                "Motorola Razr 2020"
+              ]
             },
             {
               "name": "Motorola Moto Gシリーズ",
-              "versions": ["Moto G72（2022年）"]
+              "versions": [
+                "Moto G72（2022年）"
+              ]
             }
           ],
           "note": "eSIM機能はモデルおよび地域によって異なる場合があります。最寄りのキャリアに確認してください。"
@@ -1582,49 +1636,48 @@
     "copyRightText": "無断転載を禁じます。",
     "description": "WifiBB - eSIM技術を用いた信頼できるグローバル接続のソリューション。",
     "legals": [
-  {
-    "title": "利用規約"
-  },
-  {
-    "title": "レンタル契約"
-  },
-  {
-    "title": "返金ポリシー"
-  },
-  {
-    "title": "アプリをダウンロード"
-  }
-]
-,
+      {
+        "title": "利用規約"
+      },
+      {
+        "title": "レンタル契約"
+      },
+      {
+        "title": "返金ポリシー"
+      },
+      {
+        "title": "アプリをダウンロード"
+      }
+    ],
     "menuData": [
-    {
-      "title": "サービスとプラン",
-      "links": [
-        {
-          "label": "価格と注文"
-        },
-        {
-          "label": "WiFiBBの使い方"
-        },
-        {
-          "label": "メンバーシップ"
-        }
-      ]
-    },
-    {
-      "title": "サポートとお得情報",
-      "links": [
-        {
-          "label": "プロモ"
-        },
-        {
-          "label": "よくある質問"
-        },
-        {
-          "label": "お問い合わせ"
-        }
-      ]
-    },
+      {
+        "title": "サービスとプラン",
+        "links": [
+          {
+            "label": "価格と注文"
+          },
+          {
+            "label": "WiFiBBの使い方"
+          },
+          {
+            "label": "メンバーシップ"
+          }
+        ]
+      },
+      {
+        "title": "サポートとお得情報",
+        "links": [
+          {
+            "label": "プロモ"
+          },
+          {
+            "label": "よくある質問"
+          },
+          {
+            "label": "お問い合わせ"
+          }
+        ]
+      },
       {
         "title": "CORPORATE",
         "links": [
@@ -1647,7 +1700,6 @@
       }
     ]
   },
-
   "corporateHero": {
     "heading": "企業",
     "subHeading": "UR Communications Pte Ltd は、世界的に有名なブランド名 Yoowifi の下で、直感的なモバイルアプリケーションを通じて、簡単でグローバルな接続ソリューションを提供します。旅行の体験を豊かにし、世界規模のコミュニケーションを促進することにコミットし、Yoowifi アプリは比類のない便利さ、信頼性、コスト効率を提供します。"
@@ -1701,7 +1753,11 @@
   },
   "corporateSharedHero": {
     "heading": "旅をつなぐ",
-    "items": ["ポータブルホットスポット", "eSim", "SIMカード"]
+    "items": [
+      "ポータブルホットスポット",
+      "eSim",
+      "SIMカード"
+    ]
   },
   "commercial": {
     "pageTitle": "商業用",
@@ -1725,10 +1781,13 @@
       }
     ]
   },
-
   "pocketWifiDetails": {
     "pocketWifiDayPass": {
-      "headers": ["ポケットWiFi-無制限デイパス", "1GB/日", "5GB/日"],
+      "headers": [
+        "ポケットWiFi-無制限デイパス",
+        "1GB/日",
+        "5GB/日"
+      ],
       "plans": [
         "香港、インドネシア、日本、マカオ、マレーシア、フィリピン、韓国、台湾、タイ、ベトナム 1日",
         "オーストラリア、ブルネイ、カナダ、カンボジア、中国（VPN付き）、ヨーロッパ、ラオス、メキシコ、ニュージーランド、トルコ、アメリカ合衆国 1日",
@@ -1736,7 +1795,11 @@
       ]
     },
     "restOfTheWorldDayPass": {
-      "headers": ["その他の地域-無制限デイパス", "1GB/日", "5GB/日"],
+      "headers": [
+        "その他の地域-無制限デイパス",
+        "1GB/日",
+        "5GB/日"
+      ],
       "plan": "アルジェリア、アンギラ、アンティグア・バーブーダ、アルゼンチン、アルバ、アゼルバイジャン、ボリビア、ブラジル、英領ヴァージン諸島、チリ、コロンビア、コスタリカ、ドミニカ共和国、エクアドル、エルサルバドル、フィジー、フランス領アンティル（マルティニーク）、フランス領シント・マールテン、グレナダ、グアドループ、グアテマラ、ガイアナ、ハイチ、ジャマイカ、キルギス、モルディブ、モンゴル、ミャンマー、オランダ領アンティル（キュラソー）、ニカラグア、パナマ、パラグアイ、ペルー、プエルトリコ、セントビンセントおよびグレナディーン諸島、スリナム、タヒチ、タジキスタン、ケイマン諸島、トリニダード・トバゴ、タークス・カイコス諸島、ウルグアイ、ベネズエラ"
     },
     "sim": {
@@ -1765,9 +1828,12 @@
     },
     "regionalCountries": "*ヨーロッパ: アルバニア、アルメニア、アンドラ、オーストリア、ベルギー、ボスニア・ヘルツェゴビナ、ブルガリア、クロアチア、キプロス、チェコ共和国、デンマーク、エストニア、フィンランド、フランス、ドイツ、ジョージア、ジブラルタル、ギリシャ、ガーンジー、ハンガリー、アイスランド、アイルランド、マン島、イタリア、ジャージー、ラトビア、リヒテンシュタイン、リトアニア、ルクセンブルク、マケドニア、マルタ、モナコ、モンテネグロ、オランダ、ノルウェー、ポーランド、ポルトガル、ルーマニア、サンマリノ、セルビア、スロバキア、スロベニア、スペイン、スウェーデン、スイス、ウクライナ、イギリス、バチカン"
   },
-
   "pocketWifiRegion": {
-    "tabs": ["ポケットWiFi", "SIM/eSIM", "ルーター"],
+    "tabs": [
+      "ポケットWiFi",
+      "SIM/eSIM",
+      "ルーター"
+    ],
     "header": {
       "text": "製品を選択"
     },
@@ -1790,25 +1856,31 @@
   },
   "pocketWifiPlan": {
     "heading": "プランを選択",
-    "tabs": ["すべて", "日別", "月別", "複数国"],
+    "tabs": [
+      "すべて",
+      "日別",
+      "月別",
+      "複数国"
+    ],
     "countryCoverage": "カバレッジ地域",
     "countryCoverageInfo": "*パッケージを選択してください",
     "information": "情報",
     "informationInfo": "*パッケージを選択してください"
   },
-
   "discountDownloadApp": {
     "title": "モバイルアプリで",
     "percentage": "8%オフ",
     "description": "どこでも、いつでも、効果的なデジタル体験を提供する高度な機能！"
   },
-
   "pickDropLocation": {
     "heroTitle": "受取および返却場所"
   },
-
   "routerRegion": {
-    "tabs": ["ポケットWiFi", "SIM/eSIM", "ルーター"],
+    "tabs": [
+      "ポケットWiFi",
+      "SIM/eSIM",
+      "ルーター"
+    ],
     "header": {
       "text": "製品を選択"
     },
@@ -1831,15 +1903,23 @@
   },
   "routerPlan": {
     "heading": "プランを選択",
-    "tabs": ["すべて", "日別", "月別", "複数国"],
+    "tabs": [
+      "すべて",
+      "日別",
+      "月別",
+      "複数国"
+    ],
     "countryCoverage": "カバレッジ地域",
     "countryCoverageInfo": "*パッケージを選択してください",
     "information": "情報",
     "informationInfo": "*パッケージを選択してください"
   },
-
   "simRegion": {
-    "tabs": ["ポケットWiFi", "SIM/eSIM", "ルーター"],
+    "tabs": [
+      "ポケットWiFi",
+      "SIM/eSIM",
+      "ルーター"
+    ],
     "header": {
       "text": "製品を選択"
     },
@@ -1862,7 +1942,12 @@
   },
   "simPlan": {
     "heading": "プランを選択",
-    "tabs": ["すべて", "日別", "月別", "複数国"],
+    "tabs": [
+      "すべて",
+      "日別",
+      "月別",
+      "複数国"
+    ],
     "countryCoverage": "カバレッジ地域",
     "countryCoverageInfo": "*パッケージを選択してください",
     "information": "情報",
@@ -1917,7 +2002,6 @@
       "description": "午後2時までの注文で、同営業日中に返送用のバッグ付きで配送"
     }
   ],
-
   "orderSummary": {
     "orderSummary": "注文概要",
     "planName": "プラン名",
@@ -1941,7 +2025,6 @@
     "continue": "続行",
     "simType": "SIMタイプ"
   },
-
   "setupPocketWifi": {
     "heading": "ポケットWiFiの接続方法",
     "subHeading": "簡単な手順でポケットWiFiに簡単に接続できます",
@@ -1963,7 +2046,6 @@
       }
     ]
   },
-
   "returnDevicePocketWifi": {
     "heading": "デバイスの返却方法",
     "subHeading": "簡単な手順に従って、ストレスのない返却体験を確保しましょう。",
@@ -1980,7 +2062,6 @@
       }
     ]
   },
-
   "pocketWifiTopUp": {
     "heading": "プランのトップアップ方法",
     "subHeading": "Yoowifiトップアップでデータニーズを簡単に管理",
@@ -2002,7 +2083,6 @@
       }
     ]
   },
-
   "affiliate": {
     "affiliateServiceData": [
       {
@@ -2032,7 +2112,6 @@
       }
     }
   },
-
   "howItWorksPage": {
     "rentWifiSection": {
       "sectionHeader": {
@@ -2151,7 +2230,6 @@
       ]
     }
   },
-
   "countryCoverage": {
     "sectionHeader": {
       "heading": "国別カバレッジ",
@@ -2180,18 +2258,15 @@
       }
     ]
   },
-
   "stayConnectedCTA": {
     "heading": "どこでも接続可能",
     "subHeading": "140+カ国",
     "description": "手のひらで世界中の心配いらないWiFiを。どこに行っても、旅行中でも、質の高いインターネットに接続できます。"
   },
-
   "login": {
     "title": "ログインが必要です！",
     "text": "続行するにはログインしてください。"
   },
-
   "authModal": {
     "authMessages": {
       "welcomeBack": {

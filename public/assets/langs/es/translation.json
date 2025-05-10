@@ -109,23 +109,23 @@
     "forYoo": "Para Yoo",
     "commercial": [
       {
-        "name": "Inicio"
-      },
-      {
-        "name": "Pocket WIFI"
-      },
-      {
-        "name": "Router"
-      },
-      {
-        "name": "SIM/eSIM"
-      },
-      {
-        "name": "Contáctenos"
-      },
-      {
-        "name": "Sobre Nosotros"
-      }
+      "name": "Inicio"
+    },
+    {
+      "name": "SIM/eSIM"
+    },
+    {
+      "name": "WIFI de bolsillo"
+    },
+    {
+      "name": "Promoción"
+    },
+    {
+      "name": "Preguntas Frecuentes"
+    },
+    {
+      "name": "Contáctenos"
+    }
     ],
     "corporate": [
       {
